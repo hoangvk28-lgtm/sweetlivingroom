@@ -24,6 +24,8 @@ export const authors: Author[] = [
     slug: "elena-hart",
     name: "Elena Hart",
     role: "Lead Home Editor",
+    avatarUrl: "/authors/elena-hart.webp",
+    coverUrl: "/authors/elena-hart-room.webp",
     isPerson: true,
     bio: "Elena Hart leads SweetLivingRoom's buying guides, turning product dimensions, material specs and owner feedback into clear verdicts on sofas, rugs, lighting, storage and decor.",
     longBio: [
