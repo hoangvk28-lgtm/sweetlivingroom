@@ -7,6 +7,7 @@ import { MobileProductCTA } from "@/components/guide/MobileProductCTA";
 import { getRelatedGuides } from "@/lib/related-guides";
 import { SITE_URL } from "@/lib/seo";
 import { getDefaultAuthor } from "@/data/authors";
+import { AuthorAvatar } from "@/components/ui/AuthorAvatar";
 
 // ─── Shared shape of a data/guides/<slug>.ts module ────────────────────────────
 // Mirrors the template baked per-guide by scripts/generate-guide-page.mjs.
@@ -227,7 +228,7 @@ export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideM
     description: metaDescription,
     datePublished: lastUpdated,
     dateModified: lastUpdated,
-    author: { "@type": "Person", name: author.name, jobTitle: author.role, url: `${SITE_URL}/author/${author.slug}`, image: `${SITE_URL}${author.avatarUrl}` },
+    author: { "@type": "Person", name: author.name, jobTitle: author.role, url: `${SITE_URL}/author/${author.slug}` },
     publisher: { "@type": "Organization", name: "SweetLivingRoom", url: SITE_URL },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/${slug}` },
     image: heroImage,
@@ -271,9 +272,7 @@ export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideM
               <p className="text-lg text-white/70 max-w-2xl">{metaDescription}</p>
               <div className="flex flex-wrap items-center gap-x-6 gap-y-3 mt-6">
                 <Link prefetch={false} href={`/author/${author.slug}`} className="group flex items-center gap-3">
-                  <span className="relative w-11 h-11 rounded-full overflow-hidden ring-2 ring-cta shrink-0">
-                    <Image src={author.avatarUrl!} alt={author.name} fill sizes="44px" className="object-cover" />
-                  </span>
+                  <AuthorAvatar author={author} size={44} className="ring-2 ring-cta" />
                   <span className="leading-tight">
                     <span className="block text-sm font-semibold !text-white group-hover:!text-cta">By {author.name}</span>
                     <span className="block slr-label text-white/55">{author.role}</span>
@@ -484,8 +483,8 @@ export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideM
             </section>
 
             <section className="mb-14 rounded-card border border-border bg-surface p-6 flex flex-col sm:flex-row gap-5">
-              <Link prefetch={false} href={`/author/${author.slug}`} className="relative w-24 h-24 rounded-full overflow-hidden ring-4 ring-cta/30 shrink-0">
-                <Image src={author.avatarUrl!} alt={`${author.name}, ${author.role}`} fill sizes="96px" className="object-cover" />
+              <Link prefetch={false} href={`/author/${author.slug}`} className="shrink-0">
+                <AuthorAvatar author={author} size={96} className="ring-4 ring-cta/30" />
               </Link>
               <div>
                 <p className="slr-label uppercase text-cta mb-1">About the author</p>

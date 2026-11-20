@@ -67,7 +67,7 @@ const SCORE_ROWS: { key: keyof ProductScore; label: string }[] = [
   { key: "valueForMoney",  label: "Value for Money" },
   { key: "buildQuality",   label: "Build Quality" },
   { key: "easeOfUse",      label: "Ease of Use" },
-  { key: "smallSpaceFit",  label: "Small-Space Fit" },
+  { key: "smallSpaceFit",  label: "Room Fit" },
   { key: "buyerFeedback",  label: "Buyer Feedback" },
 ];
 

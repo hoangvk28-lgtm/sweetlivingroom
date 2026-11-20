@@ -14,7 +14,7 @@ const SCORE_COLS: { key: keyof ProductScore; label: string }[] = [
   { key: "valueForMoney", label: "Value" },
   { key: "buildQuality",  label: "Build" },
   { key: "easeOfUse",     label: "Ease of Use" },
-  { key: "smallSpaceFit", label: "Space Fit" },
+  { key: "smallSpaceFit", label: "Room Fit" },
 ];
 
 export function ComparisonTable({ products, showSpecs = false }: ComparisonTableProps) {

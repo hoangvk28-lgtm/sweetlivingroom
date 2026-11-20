@@ -179,7 +179,7 @@ export function ProductPick({ product, pickLabel, rank, lastUpdated }: ProductPi
             <ScoreBar label="Value"       score={product.scores.valueForMoney}  compact showLabel={false} />
             <ScoreBar label="Build"       score={product.scores.buildQuality}   compact showLabel={false} />
             <ScoreBar label="Ease of Use" score={product.scores.easeOfUse}      compact showLabel={false} />
-            <ScoreBar label="Small Space" score={product.scores.smallSpaceFit}  compact showLabel={false} />
+            <ScoreBar label="Room Fit" score={product.scores.smallSpaceFit}  compact showLabel={false} />
           </div>
         </div>
       </div>

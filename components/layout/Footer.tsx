@@ -29,7 +29,7 @@ export async function Footer() {
 
       {/* Main footer */}
       <Container className="py-12">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8">
           {/* Brand column */}
           <div className="lg:col-span-1">
             <Link prefetch={false} href="/" className="inline-block mb-3">
@@ -58,6 +58,19 @@ export async function Footer() {
             <h3 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">About</h3>
             <ul className="space-y-2.5">
               {footerNav.company.map((link) => (
+                <li key={link.href}>
+                  <Link prefetch={false} href={link.href} className="text-sm text-ink-inverse/80 hover:text-white transition-colors">{link.label}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Explainers: keeps the restored root-level articles linked from
+              every page instead of leaving them orphaned in the sitemap. */}
+          <div>
+            <h3 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">Explainers</h3>
+            <ul className="space-y-2.5">
+              {footerNav.explainers.map((link) => (
                 <li key={link.href}>
                   <Link prefetch={false} href={link.href} className="text-sm text-ink-inverse/80 hover:text-white transition-colors">{link.label}</Link>
                 </li>

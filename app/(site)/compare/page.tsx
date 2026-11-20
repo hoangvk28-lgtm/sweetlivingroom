@@ -1,3 +1,4 @@
+import Link from "next/link";
 ﻿import type { Metadata } from "next";
 import { Container } from "@/components/layout/Container";
 import { AffiliateDisclosureBar } from "@/components/affiliate/AffiliateDisclosureBar";
@@ -43,9 +44,9 @@ export default async function ComparePage() {
             ↓ Product cards
           </a>
           <span className="text-border">·</span>
-          <a href="/how-we-review" className="text-ink-muted hover:text-brand transition-colors">
+          <Link prefetch={false} href="/how-we-review" className="text-ink-muted hover:text-brand transition-colors">
             How we score →
-          </a>
+          </Link>
         </div>
       )}
 
@@ -58,14 +59,15 @@ export default async function ComparePage() {
       <div className="mt-12 p-6 bg-white rounded-card border border-border max-w-2xl">
         <h2 className="font-bold text-ink mb-2 text-base">About These Scores</h2>
         <p className="text-sm text-ink-secondary leading-relaxed mb-3">
-          All scores are on a 1-10 scale based on our evaluation methodology. Scores reflect how well each product performs for small-space use - not general use. A score of 9.0+ indicates best-in-class for this use case.
+          All scores are on a 1-10 scale based on our evaluation methodology. Scores reflect how well each product performs for fit in a real room, not for a showroom. A score of 9.0+ indicates best-in-class for this use case.
         </p>
-        <a
+        <Link
+          prefetch={false}
           href="/how-we-review"
           className="inline-flex items-center gap-1 text-sm font-semibold text-brand hover:text-brand-dark transition-colors"
         >
           Full methodology →
-        </a>
+        </Link>
       </div>
     </Container>
   );

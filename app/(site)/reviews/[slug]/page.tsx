@@ -16,6 +16,9 @@ import { products } from "@/data/products";
 import { getPublicProducts, getPublicProductBySlug, getPublicProductSlugs } from "@/lib/public-products";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
 import { formatDate, scoreToColor, scoreToLabel } from "@/lib/utils";
+import { getDefaultAuthor } from "@/data/authors";
+
+const defaultAuthor = getDefaultAuthor();
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -50,7 +53,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 const SCORE_DIMS = [
   {
     key: "smallSpaceFit" as const,
-    label: "Small-Space Fit",
+    label: "Room Fit",
     icon: "🏠",
     note: "How well it works in a small or awkwardly shaped room",
   },
@@ -130,8 +133,8 @@ export default async function ProductReviewPage({ params }: Props) {
     dateModified: featuredInGuides[0]?.lastUpdated ?? "2026-01-01",
     author: {
       "@type": "Person",
-      name: "Jamie Cole",
-      url: `${SITE_URL}/author/jamie-cole`,
+      name: defaultAuthor.name,
+      url: `${SITE_URL}/author/${defaultAuthor.slug}`,
     },
     publisher: { "@id": `${SITE_URL}/#organization` },
     ...(productImage && { image: productImage }),
@@ -154,8 +157,8 @@ export default async function ProductReviewPage({ params }: Props) {
       },
       author: {
         "@type": "Person",
-        name: "Jamie Cole",
-        url: `${SITE_URL}/author/jamie-cole`,
+        name: defaultAuthor.name,
+        url: `${SITE_URL}/author/${defaultAuthor.slug}`,
       },
       datePublished: featuredInGuides[0]?.lastUpdated ?? "2026-01-01",
     },
@@ -217,8 +220,8 @@ export default async function ProductReviewPage({ params }: Props) {
                 <svg className="w-3.5 h-3.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2} aria-hidden="true">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
                 </svg>
-                <Link prefetch={false} href="/author/jamie-cole" className="font-medium text-ink hover:text-brand transition-colors">
-                  Jamie Cole
+                <Link prefetch={false} href={`/author/${defaultAuthor.slug}`} className="font-medium text-ink hover:text-brand transition-colors">
+                  {defaultAuthor.name}
                 </Link>
               </span>
               <span aria-hidden="true">·</span>
@@ -274,7 +277,7 @@ export default async function ProductReviewPage({ params }: Props) {
                 </div>
                 <div>
                   <p className="font-bold text-ink text-sm">{scoreToLabel(product.scores.overall)}</p>
-                  <p className="text-xs text-ink-muted leading-snug mt-0.5">Overall score for<br />small-space use</p>
+                  <p className="text-xs text-ink-muted leading-snug mt-0.5">Overall score for<br />real room use</p>
                 </div>
               </div>
 
@@ -377,7 +380,7 @@ export default async function ProductReviewPage({ params }: Props) {
               ))}
             </div>
             <div className="px-5 py-3 bg-bg border-t border-border text-xs text-ink-muted">
-              Scores reflect small-space use specifically, not general product quality.{" "}
+              Scores reflect fit in a real room, not general product quality.{" "}
               <Link prefetch={false} href="/how-we-review" className="text-brand hover:underline">Full methodology →</Link>
             </div>
           </details>
@@ -515,7 +518,7 @@ export default async function ProductReviewPage({ params }: Props) {
         <section className="mb-12 max-w-3xl" aria-label="Detailed evaluation">
           <h2 className="text-xl font-bold text-ink mb-2 tracking-tight">Detailed Evaluation</h2>
           <p className="text-sm text-ink-secondary mb-6 leading-relaxed max-w-2xl">
-            Each dimension scored 1-10 for small-space use specifically. Scores are based on
+            Each dimension scored 1-10 for fit in a real room. Scores are based on
             product specifications and verified buyer feedback patterns, not hands-on lab testing.
           </p>
 

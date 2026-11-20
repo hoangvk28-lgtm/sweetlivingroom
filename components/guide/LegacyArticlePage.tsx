@@ -3,6 +3,7 @@ import Image from "next/image";
 import { Container } from "@/components/layout/Container";
 import { RichContent } from "@/components/ui/RichContent";
 import { getDefaultAuthor } from "@/data/authors";
+import { AuthorAvatar } from "@/components/ui/AuthorAvatar";
 import { SITE_URL } from "@/lib/seo";
 
 // Restored root-level articles (old sweetlivingroom.com URLs with backlinks).
@@ -101,9 +102,7 @@ export function LegacyArticlePage({ article }: { article: LegacyArticleModule })
               <h1 className="text-white text-3xl sm:text-5xl leading-[1.08] tracking-tight mb-4">{article.title}</h1>
               <p className="text-lg text-white/70 max-w-2xl">{article.metaDescription}</p>
               <Link prefetch={false} href={`/author/${author.slug}`} className="group inline-flex items-center gap-3 mt-6">
-                <span className="relative w-11 h-11 rounded-full overflow-hidden ring-2 ring-cta shrink-0">
-                  <Image src={author.avatarUrl!} alt={author.name} fill sizes="44px" className="object-cover" />
-                </span>
+                <AuthorAvatar author={author} size={44} className="ring-2 ring-cta" />
                 <span className="leading-tight">
                   <span className="block text-sm font-semibold !text-white group-hover:!text-cta">By {author.name}</span>
                   <span className="block slr-label text-white/55">{author.role}</span>
@@ -138,8 +137,8 @@ export function LegacyArticlePage({ article }: { article: LegacyArticleModule })
             </article>
 
             <section className="my-14 rounded-card border border-border bg-surface p-6 flex flex-col sm:flex-row gap-5">
-              <Link prefetch={false} href={`/author/${author.slug}`} className="relative w-24 h-24 rounded-full overflow-hidden ring-4 ring-cta/30 shrink-0">
-                <Image src={author.avatarUrl!} alt={`${author.name}, ${author.role}`} fill sizes="96px" className="object-cover" />
+              <Link prefetch={false} href={`/author/${author.slug}`} className="shrink-0">
+                <AuthorAvatar author={author} size={96} className="ring-4 ring-cta/30" />
               </Link>
               <div>
                 <p className="slr-label uppercase text-cta mb-1">About the author</p>

@@ -29,6 +29,13 @@ Create a Pages project pointing at this repo and set:
 | Node version | 20 or newer |
 | `NEXT_PUBLIC_SITE_URL` | `https://www.sweetlivingroom.com` |
 | `NEXT_PUBLIC_GA_ID` | GA4 id, optional |
+| `NEXT_PUBLIC_CLARITY_ID` | Clarity project id, optional |
+
+See `.env.example`. All three are build-time variables, so changing one needs a
+redeploy, not just a settings save.
+
+Set the non-www to www redirect as a Cloudflare **Redirect Rule** on the zone.
+`public/_redirects` cannot match on hostname, so it cannot do that one.
 
 `public/_headers` and `public/_redirects` carry the security headers and the
 301s, because `next.config.ts` `headers()`/`redirects()` do not run on a

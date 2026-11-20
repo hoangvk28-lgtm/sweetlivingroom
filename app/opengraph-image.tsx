@@ -17,7 +17,7 @@ export default function OgImage() {
             <span>Sweet</span><span style={{ color: "#C2714F" }}>LivingRoom</span>
           </div>
         </div>
-        <div style={{ marginTop: 40, fontSize: 40, color: "rgba(244,244,241,0.75)" }}>Living rooms, planned before they're furnished.</div>
+        <div style={{ marginTop: 40, fontSize: 40, color: "rgba(244,244,241,0.75)" }}>Living rooms, planned before they are furnished.</div>
         <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, height: 18, display: "flex", background: "repeating-linear-gradient(-45deg, #C2714F 0 22px, #2F4739 22px 44px)" }} />
       </div>
     ),

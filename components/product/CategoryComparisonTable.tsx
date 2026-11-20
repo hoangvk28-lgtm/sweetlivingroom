@@ -39,7 +39,7 @@ export function CategoryComparisonTable({ products }: CategoryComparisonTablePro
               Score
             </th>
             <th className="px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide text-center whitespace-nowrap hidden md:table-cell">
-              Space Fit
+              Room Fit
             </th>
             <th className="px-4 py-3 font-semibold text-ink-secondary text-xs uppercase tracking-wide text-center">
               Buy
@@ -84,7 +84,7 @@ export function CategoryComparisonTable({ products }: CategoryComparisonTablePro
                 <ScoreCell score={product.scores.overall} />
               </td>
 
-              {/* Small-space fit */}
+              {/* Room fit */}
               <td className="px-4 py-3.5 text-center hidden md:table-cell">
                 <ScoreCell score={product.scores.smallSpaceFit} />
               </td>

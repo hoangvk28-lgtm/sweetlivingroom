@@ -81,7 +81,7 @@ export default async function CategoryComparePage({
             Compare {category.name} Products
           </h1>
           <p className="text-ink-secondary leading-relaxed text-lg">
-            {categoryProducts.length} products evaluated for {category.shortDescription.toLowerCase()} Sort by score, value, or small-space fit to find your best match.
+            {categoryProducts.length} products evaluated for {category.shortDescription.toLowerCase()} Sort by score, value, or room fit to find your best match.
           </p>
         </div>
 
@@ -136,14 +136,15 @@ export default async function CategoryComparePage({
         <div className="mt-12 p-6 bg-white rounded-card border border-border max-w-2xl">
           <h2 className="font-bold text-ink mb-2 text-base">About These Scores</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-3">
-            All scores are on a 1-10 scale and reflect small-space use specifically. A score of 9.0+ indicates best-in-class for this use case.
+            All scores are on a 1-10 scale and reflect fit in a real room. A score of 9.0+ indicates best-in-class for this use case.
           </p>
-          <a
+          <Link
+            prefetch={false}
             href="/how-we-review"
             className="inline-flex items-center gap-1 text-sm font-semibold text-brand hover:text-brand-dark transition-colors"
           >
             Full methodology →
-          </a>
+          </Link>
         </div>
       </Container>
     </>

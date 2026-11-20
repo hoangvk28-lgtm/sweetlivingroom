@@ -103,7 +103,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 const scoringCriteria = [
   {
-    label: "Small-Space Fit",
+    label: "Room Fit",
     weight: "25%",
     description:
       "Physical footprint, mounting options, and whether the product works without consuming space you don't have.",
@@ -553,7 +553,7 @@ export default async function BuyingGuidePage({ params }: Props) {
         <section className="mb-12 max-w-3xl" aria-label="How we picked">
           <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">How We Picked</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-6 max-w-2xl">
-            Every product in this guide was evaluated across five criteria, weighted for real small-space use.
+            Every product in this guide was evaluated across five criteria, weighted for how a piece performs in a real living room.
             We do not claim hands-on lab testing, our evaluation is based on verified buyer feedback patterns,
             published product specifications, and structured comparison criteria.
           </p>
@@ -755,7 +755,7 @@ export default async function BuyingGuidePage({ params }: Props) {
         <div className="max-w-3xl p-5 bg-bg rounded-card border border-border mb-6">
           <p className="text-sm text-ink-secondary leading-relaxed">
             <strong className="text-ink">Evaluation note: </strong>
-            Products in this guide were assessed on overall score, small-space fit, build quality,
+            Products in this guide were assessed on overall score, room fit, build quality,
             ease of use, value for money, and buyer feedback from verified Amazon reviews. We do not
             claim hands-on product testing.
           </p>

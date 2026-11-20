@@ -4,6 +4,9 @@ import { Container } from "@/components/layout/Container";
 import { RichContent } from "@/components/ui/RichContent";
 import { AffiliateDisclosureBar } from "@/components/affiliate/AffiliateDisclosureBar";
 import { SITE_URL } from "@/lib/seo";
+import { getDefaultAuthor } from "@/data/authors";
+
+const defaultAuthor = getDefaultAuthor();
 
 // ─── Informational guide served via the dynamic registry ───
 // data/guides/<slug>.ts exports kind = "info" plus pre-sanitised article HTML.
@@ -85,7 +88,7 @@ export function InfoGuidePage({ slug, guide }: { slug: string; guide: InfoGuideM
     description: metaDescription,
     datePublished: lastUpdated,
     dateModified: lastUpdated,
-    author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
+    author: { "@type": "Person", name: defaultAuthor.name, url: `${SITE_URL}/author/${defaultAuthor.slug}` },
     publisher: { "@type": "Organization", name: "SweetLivingRoom", url: SITE_URL },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/${slug}` },
   };
@@ -123,7 +126,7 @@ export function InfoGuidePage({ slug, guide }: { slug: string; guide: InfoGuideM
           <p className="text-lg text-ink-secondary leading-relaxed">{metaDescription}</p>
           <p className="text-xs text-ink-muted mt-4">
             By{" "}
-            <Link prefetch={false} href="/author/jamie-cole" className="hover:text-brand">Jamie Cole</Link>
+            <Link prefetch={false} href={`/author/${defaultAuthor.slug}`} className="hover:text-brand">{defaultAuthor.name}</Link>
             {" "}&middot; Updated {lastUpdated}
           </p>
         </header>

@@ -14,14 +14,14 @@ type SortKey = "overall" | "valueForMoney" | "smallSpaceFit" | "buildQuality" | 
 const SORT_OPTIONS: { key: SortKey; label: string }[] = [
   { key: "overall", label: "Overall Score" },
   { key: "valueForMoney", label: "Value for Money" },
-  { key: "smallSpaceFit", label: "Small-Space Fit" },
+  { key: "smallSpaceFit", label: "Room Fit" },
   { key: "buildQuality", label: "Build Quality" },
   { key: "easeOfUse", label: "Ease of Use" },
 ];
 
 const SCORE_COLS: { key: SortKey; label: string; short: string }[] = [
   { key: "overall",       label: "Overall",          short: "Overall" },
-  { key: "smallSpaceFit", label: "Small-Space Fit",  short: "Space" },
+  { key: "smallSpaceFit", label: "Room Fit",  short: "Fit" },
   { key: "buildQuality",  label: "Build Quality",    short: "Build" },
   { key: "easeOfUse",     label: "Ease of Use",      short: "Ease" },
   { key: "valueForMoney", label: "Value for Money",  short: "Value" },
