@@ -121,7 +121,10 @@ if (!g.includes(`slug: "${meta.slug}"`)) {
     buyingCriteria: [],
   },
 `;
-  g = g.replace("export const guides: Guide[] = [\n", "export const guides: Guide[] = [\n" + entry);
+  // data/guides.ts may be CRLF on Windows checkouts; a plain "\n" match silently did nothing.
+  const anchor = /export const guides: Guide\[\] = \[\r?\n/;
+  if (!anchor.test(g)) { console.error("data/guides.ts: guides array anchor not found, entry NOT registered"); process.exit(1); }
+  g = g.replace(anchor, (m) => m + entry);
   writeFileSync(gPath, g);
   console.log("registered in data/guides.ts");
 }
