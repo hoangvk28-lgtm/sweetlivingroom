@@ -41,6 +41,8 @@ export interface InfoGuideModule {
   html: string;
   relatedGuides: { title: string; href: string }[];
   quickAnswer?: string;
+  /** Credited once at the end of the article, never under each photo. */
+  imageCredits?: { image: string; author: string; license: string; source: string; via?: string }[];
   products?: InfoGuideProduct[];
   shopGuides?: { title: string; href: string; blurb: string }[];
 }
@@ -182,6 +184,21 @@ export function InfoGuidePage({ slug, guide }: { slug: string; guide: InfoGuideM
                 </div>
               ))}
             </div>
+          </section>
+        )}
+
+        {(guide.imageCredits ?? []).length > 0 && (
+          <section className="mb-12 pt-6 border-t border-border">
+            <h2 className="text-sm font-bold uppercase tracking-widest text-ink-muted mb-3">Image credits</h2>
+            <ul className="space-y-1.5">
+              {(guide.imageCredits ?? []).map((c) => (
+                <li key={c.source} className="text-xs text-ink-muted leading-relaxed">
+                  {c.image}: {c.author}, {c.license},{" "}
+                  <a href={c.source} target="_blank" rel="noopener noreferrer" className="underline hover:text-brand">source</a>
+                  {c.via ? ` via ${c.via}` : ""}
+                </li>
+              ))}
+            </ul>
           </section>
         )}
 
