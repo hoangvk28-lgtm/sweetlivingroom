@@ -26,7 +26,7 @@ const guide: InfoGuideModule = {
 
 <p>Curtains are the cheapest way to change the apparent size of a window and a room. Hang the rod 4 to 6 inches above the window frame, or as close to the ceiling as you can, and extend it 8 to 12 inches beyond the frame on each side, so the curtains stack off the glass. The window then appears taller and wider than it is, and more light comes in. A rod that is mounted at the frame top makes the window look small, and curtains that cover the glass when open reduce the light and the view.</p>
 
-<p>Choose floor-length curtains in a light color and a light fabric, and let them hang to a half inch above the floor. The vertical line draws the eye up, and the single color from ceiling to floor makes the wall seem taller. Details are in the curtain length and width guide. If the curtains are the same color as the wall, they blend with it and do not cut the room into slices. Avoid heavy, dark, patterned curtains in a small room, which add visual weight and reduce light.</p>
+<p>Choose floor-length curtains in a light color and a light fabric, and let them hang to a half inch above the floor. The vertical line draws the eye up, and the single color from ceiling to floor makes the wall seem taller. Details are in the <a href="/guide/curtain-length-and-width-guide">curtain length and width guide</a>. If the curtains are the same color as the wall, they blend with it and do not cut the room into slices. Avoid heavy, dark, patterned curtains in a small room, which add visual weight and reduce light.</p>
 
 <p>Use sheers for daytime privacy, in a white or off-white, hung from a double rod behind the main curtains. They soften the light without blocking it. If the windows are small, a Roman shade or a roller blind in a light fabric, fixed inside the frame, with curtains hung high and wide outside, keeps the window area clean and open.</p>
 
@@ -47,7 +47,7 @@ const guide: InfoGuideModule = {
 
 <h2 id="mirrors">Mirrors that reflect what is worth doubling</h2>
 
-<p>A mirror makes a room feel bigger when it reflects something worth seeing. The best target is a window, which doubles the light and the view, and a lamp or a doorway also works. A mirror that reflects a blank wall or a pile of clutter adds nothing. Place a large mirror on the wall opposite or at a right angle to a window, so that it carries daylight into the dark half of the room. The sizes and heights are set out in mirror size for a living room.</p>
+<p>A mirror makes a room feel bigger when it reflects something worth seeing. The best target is a window, which doubles the light and the view, and a lamp or a doorway also works. A mirror that reflects a blank wall or a pile of clutter adds nothing. Place a large mirror on the wall opposite or at a right angle to a window, so that it carries daylight into the dark half of the room. The sizes and heights are set out in <a href="/guide/mirror-size-for-living-room">mirror size for a living room</a>.</p>
 
 <p>One large mirror usually beats several small ones. A big mirror, leaned against a wall or hung above a sofa or a console, creates the impression of another room. A set of small mirrors makes a busy pattern. Frame style matters: a thin frame or a frameless mirror keeps the effect clean, and a wide, ornate frame adds weight. Avoid placing a mirror where it reflects the TV, which doubles the dark rectangle, or where it faces another mirror.</p>
 
@@ -63,7 +63,7 @@ const guide: InfoGuideModule = {
 
 <p>The instinct to buy small furniture for a small room often leads to a crowd of little things, each with its own edges and shadows. The eye counts objects, and many small objects read as clutter and a smaller space. A few larger pieces, chosen with care, give a calmer view. A single sofa of 80 inches, a pair of armchairs and a coffee table can look more spacious than a <a href="/guide/best-loveseats-for-small-spaces">loveseat</a>, three small chairs, two stools and a nest of tables.</p>
 
-<p>Apply the same logic to decor. A single large piece of art on a wall looks more spacious than a group of small frames. A big plant in the corner is calmer than a dozen small pots. If you have many small things, group them on a tray or a shelf, so they read as one item. Remove anything that does not serve a purpose. The storage guidance in small living room storage ideas gives ways to hold the small items out of sight.</p>
+<p>Apply the same logic to decor. A single large piece of art on a wall looks more spacious than a group of small frames. A big plant in the corner is calmer than a dozen small pots. If you have many small things, group them on a tray or a shelf, so they read as one item. Remove anything that does not serve a purpose. The storage guidance in <a href="/guide/small-living-room-storage-ideas">small living room storage ideas</a> gives ways to hold the small items out of sight.</p>
 
 <h2 id="light-and-walkway">Light, layers and walkways</h2>
 
@@ -94,7 +94,7 @@ const guide: InfoGuideModule = {
 
 <p>The first mistake is pushing all the furniture against the walls, which leaves a hole in the center and makes the room look like a waiting room. It is better to pull the sofa a few inches from the wall and group the seating. The second is a rug that is too small, as discussed above. The third is dark, heavy curtains hung at the frame, which cover the glass and cut the light. The fourth is clutter on every surface, which adds visual noise. The fifth is too many different finishes and colors. A small room is calmer with three or four colors and a few materials.</p>
 
-<p>A last mistake is giving up on the room's character. A small room does not have to be white and empty. A confident accent, such as a bold piece of art or a strong colored chair, gives the room a focus, and the eye goes there instead of counting the square feet. The advice in the 60-30-10 color rule guide shows how to keep the accent in proportion.</p>
+<p>A last mistake is giving up on the room's character. A small room does not have to be white and empty. A confident accent, such as a bold piece of art or a strong colored chair, gives the room a focus, and the eye goes there instead of counting the square feet. The advice in the <a href="/guide/60-30-10-color-rule-explained">60-30-10 color rule guide</a> shows how to keep the accent in proportion.</p>
 
 <h2 id="faq">Frequently asked questions</h2>
 
@@ -122,6 +122,7 @@ const guide: InfoGuideModule = {
     {"image":"accent-chair-desk-corner.webp","author":"JohnLEE Brothers","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_deck_n_armchair_November_2024_R12S.jpg"},
     {"image":"accent-chair-green-velvet.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:A_plush_green_velvet_armchair_occupies_the_corner_of_a_bright_living_room.jpg"},
     {"image":"accent-chair-hero.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Colorful_floral_armchair_beside_vintage_wooden_cabinet_in_cozy_living_room.jpg"},
+    {"image":"anchor-built-in-bookcases-room.webp","author":"Carol M. Highsmith","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:Living_room_at_the_Biedenharn_Museum_%26_Gardens_in_Monroe_Louisiana.jpg"},
     {"image":"anchor-small-bookcase-hall.webp","author":"Steven Pavlov","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Wickers_Building_%E2%80%94_Living_Room_%E2%80%94_004.jpg"},
     {"image":"anchor-white-bookcase-wall.webp","author":"Egilus","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Bookshelf_for_free_exchange_in_Riga.jpg"},
     {"image":"arrange-living-room-hero.webp","author":"Kotivalo","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_with_1960s_objects.jpg"},
@@ -148,6 +149,7 @@ const guide: InfoGuideModule = {
     {"image":"color-temp-hero.webp","author":"LoMit","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg"},
     {"image":"color603010-paint-swatches-wall.webp","author":"Chris Rycroft","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Chicago_in_2022_Multi-colored_paint_swatches_(52060873322).jpg"},
     {"image":"color603010-rainbow-swatch-range.webp","author":"Joyful spherical creature","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Rainbow_paint_swatches.jpg"},
+    {"image":"color603010-swatch-cards-neutrals.webp","author":"Clean Wal-Mart","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Paint_swatches.jpg"},
     {"image":"cornertv-1960s-room-tv-window.webp","author":"Kotivalo","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_with_1960s_objects.jpg"},
     {"image":"cornertv-budapest-sofa-room.webp","author":"Justin Sch�ler","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Budapest_Apartment_(Unsplash).jpg"},
     {"image":"cornertv-white-room-console.webp","author":"Oliur Rahman","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Laptop_in_the_living_room_(Unsplash).jpg"},
@@ -162,6 +164,7 @@ const guide: InfoGuideModule = {
     {"image":"depth-grey-sofa-hero.webp","author":"Lear 21","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home24sofa.jpg"},
     {"image":"depth-sectional-living-room.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_with_a_gray_sofa.jpg"},
     {"image":"dimmer-rotary-wall.webp","author":"Paolomarco","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Dimmer_Light_Switch.jpg"},
+    {"image":"dimmer-slide-wall.webp","author":"BrokenSphere","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Electric_residential_lighting_dimmer_switch.JPG"},
     {"image":"dimmer-wiring-box.webp","author":"Kurtkaiser","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Light_switch_wiring.jpg"},
     {"image":"door-hotel-living-room.webp","author":"Adele Berenstein","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_area.jpg"},
     {"image":"door-orange-sofa-hero.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_setup_with_a_warm_sofa,_coffee_cup,_and_an_open_book_in_a_softly_lit_environment.jpg"},
@@ -183,6 +186,7 @@ const guide: InfoGuideModule = {
     {"image":"frame-black-leather-sofa.webp","author":"www.Pixel.la Free Stock Photos","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Couch-furniture-living-room-sofa_(24300293356).jpg"},
     {"image":"frame-green-velvet-sofa.webp","author":"Neoclassicism Enthusiast","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Neoclassic_sofa,_designed_by_ETRO_Home_Interiors_Design_Team,_circa_2024,_solid_fir_wood_and_multilayer_pine_wood,_polyurethane_foam,_upholstery,_44_x_235_x_97_cm,_sold_at_Etro_Boutique_(Via_Pontaccio_no._17),_Milan.jpg"},
     {"image":"frame-grey-sofa-hero.webp","author":"Dalton Scavassa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Sof%C3%A1.jpg"},
+    {"image":"gallerywall-frames-bookcase-lamp.webp","author":"Personal Creations","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Photograph_wall_gallery_in_home_with_photo_frames_on_wall_a_bookcase_and_an_end_table_with_lamp_(16333989232).jpg"},
     {"image":"gallerywall-frames-floor-tape.webp","author":"Personal Creations","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Mapping_out_a_photograph_wall_gallery_with_photo_frames_on_floor_and_tape_to_measure_dimensions_(16147482500).jpg"},
     {"image":"gallerywall-frames-on-wall-home.webp","author":"Personal Creations","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Photograph_wall_gallery_in_home_with_photo_frames_on_wall_(16333093181).jpg"},
     {"image":"hang-light-hero.webp","author":"Martin Falbisoner","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Ceiling_light_fixture_in_Hofstatt_Mall,_Munich,_February_2017.jpg"},
@@ -196,6 +200,7 @@ const guide: InfoGuideModule = {
     {"image":"knotted-rug-prayer-wool.webp","author":"Daderot","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Prayer_rug,_Turkey,_Bergama,_late_19th_century,_wool_-_Huntington_Museum_of_Art_-_DSC04879.JPG"},
     {"image":"lampshade-cream-base.webp","author":"LoMit","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg"},
     {"image":"lampshade-empire-lamp.webp","author":"J.Dncsn","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Lamp_2.JPG"},
+    {"image":"lampshade-paper-rect-lamp.webp","author":"Zeitlupe","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:ORGEL_table_lamp.jpg"},
     {"image":"layer-rugs-armchairs.webp","author":"PattayaPatrol","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:DSC_8576_Cozy_elegantly_furnished_sitting_area_with_tufted_armchairs_warm_golden_tones_and_artistic_decor.jpg"},
     {"image":"layer-rugs-conversation-pit.webp","author":"Marsh Davis; Indiana Landmarks","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:John_E._and_Catherine_E._Christian_House,_1301_Woodland_Avenue_(West_Lafayette,_Ind.)_-_DPLA_-_560ae4f2870614f79d3744e8718e7613.jpg"},
     {"image":"layer-rugs-hero.webp","author":"BusterD","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Duxtad_cabin_first_floor_living_area.jpg"},
@@ -220,6 +225,7 @@ const guide: InfoGuideModule = {
     {"image":"measure-room-depth.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Stylish_living_room_features_a_comfortable_gray_sofa_and_wooden_paneling_under_a_high_ceiling.jpg"},
     {"image":"measure-sofa-hero.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_setting_with_a_yellow_sofa_and_a_coffee_table_adorned_with_cups_and_a_flower_pot.jpg"},
     {"image":"mirror-above-mantel-living-room.webp","author":"Tudor Washington Collins","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Flowers_in_a_living_room_(AM_79398-1).jpg"},
+    {"image":"mirror-round-blue-wall-window.webp","author":"Ciara N� Riain","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Blue_walls_and_mirror_in_house_Den_Gamle_By_Old_Town_Museum_Aarhus_Denmark.jpg"},
     {"image":"mirror-round-over-wood-console.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Modern_wooden_vanity_with_round_mirror_in_minimalistic_interior_design.jpg"},
     {"image":"mixpatterns-armenian-patterned-pillows.webp","author":"Ararat Trvants","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_with_traditional_Armenian_patterns.jpg"},
     {"image":"mixpatterns-couch-pillows-set.webp","author":"Dawid Skalec","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_for_the_couch.JPG"},
@@ -235,6 +241,7 @@ const guide: InfoGuideModule = {
     {"image":"open-plan-rug-sunken-living.webp","author":"Marsh Davis; Indiana Landmarks","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:John_E._and_Catherine_E._Christian_House,_1301_Woodland_Avenue_(West_Lafayette,_Ind.)_-_DPLA_-_560ae4f2870614f79d3744e8718e7613.jpg"},
     {"image":"ottoman-coffee-table-pair.webp","author":"Sophia Baboolal","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Coffee_tables_in_front_of_a_comfy_sofa_(Unsplash).jpg"},
     {"image":"ottoman-leather-round-pair.webp","author":"Olugold","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Ottoman_stools.jpg"},
+    {"image":"ottoman-round-stool-top.webp","author":"Olugold","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Ottoman_stool.jpg"},
     {"image":"paintsheen-open-paint-cans.webp","author":"United Soybean Board","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Open_Soy_Paint_Cans_(10481728754).jpg"},
     {"image":"paintsheen-paint-can-brush.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:A_paint_can_and_brush_rest_on_the_concrete.jpg"},
     {"image":"paintsheen-swatch-cards-range.webp","author":"Chris Rycroft","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Chicago_in_2022_Multi-colored_paint_swatches_(52062151114).jpg"},
@@ -244,14 +251,17 @@ const guide: InfoGuideModule = {
     {"image":"pillows-leather-sofa-group.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_on_a_leather_sofa.jpg"},
     {"image":"pillows-wooden-sofa-red-cushions.webp","author":"Zohasheikh","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Wooden_Sofa_with_Red_Cushions.jpg"},
     {"image":"readinglamp-adjustable-torchiere.webp","author":"Agbarto","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:2026.11.15_Torchiere._Height-adjustable_vintage_floor_lamp_with_red_textile_lampshade.jpg"},
+    {"image":"readinglamp-armchair-corner-lamp.webp","author":"Kotivalo","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Reading_corner_with_armchair_and_lamp.jpg"},
     {"image":"readinglamp-cozy-sunlit-corner.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_reading_corner_with_vintage_decor_and_modern_lighting_in_a_sunlit_living_space.jpg"},
     {"image":"recessed-gimbal-trim.webp","author":"Stilfehler","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Light_fixtures_in_a_home_improvement_store_in_NY_12.jpg"},
     {"image":"recessed-housing-display.webp","author":"Stilfehler","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Light_fixtures_in_a_home_improvement_store_in_NY_14.jpg"},
     {"image":"recessed-led-can-trim.webp","author":"Stilfehler","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Light_fixtures_in_a_home_improvement_store_in_NY_16.jpg"},
     {"image":"recliner-buying-armchair-room.webp","author":"Virginia State Parks staff","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:WE_PRR_Living_Room_chairs_(8311324928).jpg"},
+    {"image":"recliner-buying-hero.webp","author":"Laura Stoinski","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Recliner.jpg"},
     {"image":"recliner-buying-leather-sofa.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_on_a_leather_sofa.jpg"},
     {"image":"rug-curl-fringe-rug.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Khachagorg.jpg"},
     {"image":"rug-curl-hero.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Tsakhkagorg.jpg"},
+    {"image":"rug-curl-runner-patterns.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Honeybee.jpg"},
     {"image":"rug-dents-hero.webp","author":"ProjectManhattan","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Black_carpet.jpg"},
     {"image":"rug-dents-wool-medallion.webp","author":"Daderot","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Rug,_Western_Iran,_Feregahn-Sarouk,_1885-1915,_wool_-_Huntington_Museum_of_Art_-_DSC04866.JPG"},
     {"image":"rug-on-carpet-armchairs.webp","author":"PattayaPatrol","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:DSC_8576_Cozy_elegantly_furnished_sitting_area_with_tufted_armchairs_warm_golden_tones_and_artistic_decor.jpg"},
@@ -266,9 +276,12 @@ const guide: InfoGuideModule = {
     {"image":"rug-size-armchairs-on-rug.webp","author":"PattayaPatrol","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:DSC_8576_Cozy_elegantly_furnished_sitting_area_with_tufted_armchairs_warm_golden_tones_and_artistic_decor.jpg"},
     {"image":"rug-size-conversation-area.webp","author":"Marsh Davis; Indiana Landmarks","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:John_E._and_Catherine_E._Christian_House,_1301_Woodland_Avenue_(West_Lafayette,_Ind.)_-_DPLA_-_560ae4f2870614f79d3744e8718e7613.jpg"},
     {"image":"rug-size-hero.webp","author":"NPS Photo","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:The_living_room_inside_the_birthplace_home_features_a_fireplace,_table_and_chairs,_family_photos,_area_rug_and_floor_console_(7f9f6e78-a966-4608-b9d0-d600db0b5f25).jpg"},
+    {"image":"runner-size-hero.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Starfall.jpg"},
+    {"image":"runner-size-red-runner.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Honeybee.jpg"},
     {"image":"runner-size-three-runners.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpets_from_Shushi_Carpet_Museum.jpg"},
     {"image":"sag-cushions-hero.webp","author":"Durova","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Filet_crochet_sofa_blanket.jpg"},
     {"image":"sag-cushions-slipcover.webp","author":"Enric","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:004_Sof%C3%A0_amb_funda.jpg"},
+    {"image":"sag-cushions-sofa-deck.webp","author":"Dalton Scavassa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Sof%C3%A1_2.jpg"},
     {"image":"sconce-above-tufted-chairs.webp","author":"Jedodo756","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Elegant_Interior_with_Stylish_Wall_Sconce_Lighting.jpg"},
     {"image":"sconce-brass-opal-shade.webp","author":"unknown (see Commons page)","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Applique_murale_-_20150802_11h32_(10668).jpg"},
     {"image":"sconce-wall-lamp-side-table.webp","author":"Atilla Taskiran","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Living_room_furniture_(Unsplash).jpg"},
@@ -281,6 +294,7 @@ const guide: InfoGuideModule = {
     {"image":"sidetable-cozy-sofa-room.webp","author":"Breather","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Cozy_interior_with_a_sofa_(Unsplash).jpg"},
     {"image":"sidetable-kentwood-sofa.webp","author":"Kari Shea","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Sofa_Side_Table_Kentwood_(Unsplash).jpg"},
     {"image":"sidetable-round-wall-lamp.webp","author":"Atilla Taskiran","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Living_room_furniture_(Unsplash).jpg"},
+    {"image":"sleeper-sofa-bed-made-up.webp","author":"Maniago","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:Slaapbank2.JPG"},
     {"image":"sleeper-sofa-open-hero.webp","author":"N509FZ","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Friheten_sofa_bed_at_IKEA_Beijing_Siyuanqiao_Store,_bed_status_(20210418125907).jpg"},
     {"image":"sleeper-sofa-sofa-mode.webp","author":"N509FZ","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Friheten_sofa_bed_at_IKEA_Beijing_Siyuanqiao_Store,_sofa_status_(20210418125747).jpg"},
     {"image":"small-room-slim-arm-sofa.webp","author":"Lear 21","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home24sofa.jpg"},
@@ -291,17 +305,22 @@ const guide: InfoGuideModule = {
     {"image":"smallbigger-white-room-console.webp","author":"Oliur Rahman","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Laptop_in_the_living_room_(Unsplash).jpg"},
     {"image":"smallstorage-finland-studio-room.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Studio_apartment_in_Finland.jpg"},
     {"image":"smallstorage-leather-sofa-shelving.webp","author":"Sabri Tuzcu","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Take_a_seat_(Unsplash).jpg"},
+    {"image":"smallstorage-wall-shelves-books.webp","author":"Roger W","license":"CC BY-SA 2.0","source":"https://commons.wikimedia.org/wiki/File:Brooklyn_Heights_-_Bookshelves_at_My_Apartment_(4605536002).jpg"},
     {"image":"smart-bulbs-bulb-in-hand.webp","author":"Xzantiyamoloy","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Jivah_9-Watt_LED_Bulb.jpg"},
+    {"image":"smart-bulbs-led-internals.webp","author":"Loadmaster, Bech","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:LED-E27-Light-Bulb-1134-cropped.jpg"},
     {"image":"soundbar-below-lg-tv.webp","author":"Dinkun Chen","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:LG_IPS_LCD_4K_TV_%26_SAMSUNG_SOUNDBAR_HW-J250.jpg"},
+    {"image":"soundbar-philips-front-grille.webp","author":"Philips Communications","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Philips_Soundbar_with_Ambisound_HTS9140_front.jpg"},
     {"image":"soundbar-samsung-single-bar.webp","author":"Dinkun Chen","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:SAMSUNG_SOUNDBAR_HW-J250.jpg"},
     {"image":"stylebooks-packed-shelf-wall.webp","author":"Csferrie","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:A_bookshelf_full_of_Chris_Ferrie%27s_books.jpg"},
     {"image":"stylebooks-philosophers-shelf.webp","author":"Roman Eisele","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Part_of_a_bookshelf_containing_books_by_ancient_philosophers_(1.1).jpg"},
+    {"image":"stylebooks-wall-shelves-bottles-books.webp","author":"Roger W","license":"CC BY-SA 2.0","source":"https://commons.wikimedia.org/wiki/File:Brooklyn_Heights_-_Bookshelves_at_My_Apartment_(4605536002).jpg"},
     {"image":"styletable-book-stack-candle.webp","author":"Gabbybratcher","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Coffee_Table_book_stack.jpg"},
     {"image":"styletable-two-tables-mugs.webp","author":"Sophia Baboolal","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Coffee_tables_in_front_of_a_comfy_sofa_(Unsplash).jpg"},
     {"image":"styletable-yellow-sofa-cups-flowerpot.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_setting_with_a_yellow_sofa_and_a_coffee_table_adorned_with_cups_and_a_flower_pot.jpg"},
     {"image":"surround-home-theater-tv-seating.webp","author":"NPat318","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home_theater_3.jpg"},
     {"image":"surround-rear-view-seats.webp","author":"NPat318","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home_theater_4_rear_view.jpg"},
     {"image":"surround-sectional-media-room.webp","author":"Derek Jensen (Tysto)","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:Home-theater-tysto2.jpg"},
+    {"image":"table-lamp-size-antique-shade.webp","author":"Amitbalani","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Wooden_Antique_Table_Lamp.jpg"},
     {"image":"table-lamp-size-hero.webp","author":"Tess Mattew","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:2026.06.05_USSR_Milk_Glass_Table_Lamp_01.jpg"},
     {"image":"table-lamp-size-measured.webp","author":"Tess Mattew","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:2026.06.05_USSR_Milk_Glass_Table_Lamp_04.jpg"},
     {"image":"throwblanket-blue-throw-kitten.webp","author":"TudorTulok","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Tabby_Kitten_on_Blue_Throw.jpg"},
@@ -313,7 +332,9 @@ const guide: InfoGuideModule = {
     {"image":"tvmount-articulating-arm.webp","author":"Ben Scholzen","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Monitor_arm_stand_(1).jpg"},
     {"image":"tvmount-vesa-adapter-plate.webp","author":"Tony Webster","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Apple_Pro_Display_XDR_VESA_Mount_Adapter.jpg"},
     {"image":"tvmount-wall-panel-room.webp","author":"Pkepneriv","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Plasma_Flat_Panel_Mounted_on_a_wall.jpg"},
+    {"image":"tvsize-dark-room-big-screen.webp","author":"Christian Collins","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Home_Theater_(6330635908).jpg"},
     {"image":"tvsize-media-room-screen.webp","author":"NPat318","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home_theater_1.jpg"},
+    {"image":"tvsize-tv-on-stand.webp","author":"PhotoPicker13","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:OnePlus_TV_U1S.jpg"},
     {"image":"tvstand-low-stand-devices.webp","author":"William Hook","license":"CC BY-SA 2.0","source":"https://commons.wikimedia.org/wiki/File:Home_cinema_01.jpg"},
     {"image":"tvstand-wall-unit-living-room.webp","author":"Casey Fleser","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:In_Context_(4522859217).jpg"},
     {"image":"tvwires-cable-box-wires.webp","author":"Tony Webster","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cable_TV_Box_(49045039997).jpg"},
@@ -328,7 +349,9 @@ const guide: InfoGuideModule = {
   ],
   shopGuides: [],
   relatedGuides: [
+    {"title":"Curtain length and width guide","href":"/guide/curtain-length-and-width-guide"},
     {"title":"What size rug for a living room","href":"/guide/what-size-rug-for-a-living-room"},
+    {"title":"Mirror size for living room","href":"/guide/mirror-size-for-living-room"},
   ],
 };
 
