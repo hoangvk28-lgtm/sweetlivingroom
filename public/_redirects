@@ -1,2 +1,8 @@
 /about /about-us 301
 /author /about-us 301
+
+# Restored legacy articles: old backlinks point at the trailing-slash form.
+/what-should-a-3-year-old-know-educationally/ /what-should-a-3-year-old-know-educationally 301
+/how-to-make-a-bath-pillow/ /how-to-make-a-bath-pillow 301
+/why-is-it-called-a-husband-pillow/ /why-is-it-called-a-husband-pillow 301
+/how-to-relieve-tailbone-pain-while-sleeping/ /how-to-relieve-tailbone-pain-while-sleeping 301
