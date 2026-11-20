@@ -1,0 +1,17 @@
+- Sleeper sofa types: pull-out mattress (bi-fold, metal frame, 4 to 5 in memory or gel foam, needs 80+ in clear floor), click-clack futon (frame folds flat), boneless floor sofa (foam blocks that fold to a bed, low to ground).
+- Sleep surface is what buyers underrate: check mattress thickness, bar-through-the-back risk on thin innerspring units, and whether the queen figure is a true 60x80 in mattress or an overall dimension.
+- Pull-out frame needs clearance equal to open length (about 80 to 85 in for queen) plus walking room; measure room and path through doors and stairs.
+- Boxed boneless sofas arrive compressed; foam expands over 24 to 72 hours.
+- Delivery fit: doorway 30 to 32 in; modular and boxed pieces solve tight stairs.
+- Loveseat sizes: 50 to 58 in compact, 58 to 65 in apartment, 65 to 72 in standard; seat depth 24 to 28 in deep; seat height 17 to 19 in.
+- Seat depth under 21 in suits shorter or older sitters; over 24 in needs back pillows for shorter people.
+- Foam density 1.8 lb/cu ft and up for seats; high-resilience foam holds longer; cheap foam softens in 1 to 2 years.
+- Corduroy, chenille, velvet, boucle: chenille and corduroy hide wear, velvet shows crush marks and pet hair; removable covers help.
+- Futons: mattress thickness 6 to 10 in; frame wood or metal; faux leather peels in 2 to 4 years.
+- Recliner mechanics: manual lever vs power (motor, cord, USB); wall hugger uses sliding rails needing 3 to 6 in clearance vs 12 to 18 in for standard.
+- Compare width, depth fully reclined, seat height, weight capacity (250 to 400 lb typical).
+- Massage and heat on budget chairs is vibration motors plus a heating pad, not kneading; heat usually lumbar only.
+- Power recliner needs an outlet nearby; cords cross walkways; battery packs sold separately.
+- Lift chair: 2-motor vs single motor; infinite position vs 3-position; check seat height 18 to 20 in, user height range and weight rating.
+- Lift chair fabric: microfiber and chenille clean easier than faux leather; a hand remote with few large buttons is easier than many-icon remotes.
+- Ownership: foam softening, rocker or swivel base squeaks, faux leather flaking, power supply failure; keep manual and brackets.

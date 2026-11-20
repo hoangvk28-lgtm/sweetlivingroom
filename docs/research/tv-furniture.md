@@ -1,0 +1,17 @@
+# tv-furniture cluster (tv stands, entertainment centers, wall mounts, anti-tip kits)
+- Listed "fits up to N inch TV" is usually the screen diagonal, but fit depends on the TV's feet spacing: measure foot to foot width and compare with the top surface.
+- A 65 in TV is about 57 in wide; a 75 in is about 65 in; a 55 in is about 48 in. Stand top should be a few inches wider than the TV, or feet must fit inside.
+- Weight capacity on the top is static; heavy older TVs and soundbars add up. Check combined load of TV, console and speakers.
+- Particleboard and MDF with laminate or melamine veneer dominate the budget tier. Edge chipping and swollen edges from moisture are common. Cam lock fasteners loosen after moves.
+- Assembly time for a 60 to 70 in console is often 1.5 to 3 hours, two people recommended.
+- Open shelves ventilate consoles; closed doors need ventilation or you risk heat and weak remote signal. IR remotes do not pass through solid doors; glass or mesh doors do.
+- Cable management: back cutouts and grommets; a big gap behind the console eases cords.
+- Anti-tip hardware: tip-over is a real hazard for children; straps anchor into studs. Most consoles include a strap for the furniture itself.
+- Fireplace consoles use an electric heater typically about 1,500 W on a 120 V circuit (about 5,000 BTU); do not share the circuit with other high draw devices.
+- LED strip lights add mood but add controller failures; check remote or app.
+- Wall mount types: fixed, tilt, full motion. VESA patterns (200x200, 400x400, 600x400) must match the TV. Weight rating must exceed TV weight with margin.
+- Mount to studs, typically 16 in on center; a 65 in TV on a drywall anchor is unsafe.
+- Soundbar placement: 2 in clearance below the TV; check remote sensor blockage. HDMI eARC supports Dolby Atmos from the TV.
+- Soundbar channel counts (2.1, 3.1.2, 5.1.2) describe speakers plus subwoofer; Atmos height needs ceiling reflection and a flat ceiling.
+- Anti-tip kits: furniture straps rated by lbs, need stud anchors; wall anchors differ for plaster, concrete.
+- Rolling stands with wheels are for flexibility, not heavy use; lock casters.

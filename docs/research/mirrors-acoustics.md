@@ -1,0 +1,18 @@
+# mirrors-acoustics cluster (floor mirrors, acoustic panels)
+- Full length floor mirrors lean against a wall at a slight angle; most include a rear stand or U bracket; leaning mirrors tip if bumped, so use the supplied wall strap or anti tip bracket.
+- Mirror height guidance: 56 to 64 in suits most adults head to toe; 70 in plus is oversized and needs a sturdy bracket and a tall wall.
+- Frame material: aluminum alloy frames are light and rust resistant; solid wood is heavier and warmer; thin frames show bending if the mirror is leaned at a steep angle.
+- Glass: tempered or shatter resistant glass reduces the risk of breakage but a large mirror still weighs 25 to 50 lb; HD float glass reduces distortion.
+- Thin, wide mirrors show less distortion than very large cheap ones; check that the glass is flat by viewing straight lines reflected.
+- Wall mount versus lean: mounting a heavy mirror needs studs or rated anchors; leaning is simpler but demands a stable base.
+- Placement: opposite or beside a window reflects daylight; avoid reflecting clutter or a harsh light source; keep out of direct sun that can fade finishes.
+- LED mirrors add a controller, touch sensor and cord; they run on a plug; check brightness steps and color modes (warm, neutral, cool).
+- Delivery: oversized mirrors arrive in heavy cartons; plan two people to move.
+- Acoustic panels absorb mid and high frequency sound and reduce echo; they do not block noise from passing through walls (that is soundproofing, which needs mass and sealing).
+- NRC (noise reduction coefficient) rates absorption from 0 to 1; foam 1 in thick has a lower NRC than 2 in; polyester fiber panels at 0.4 in are thin and best for light echo control.
+- Thickness matters: thicker panels absorb lower frequencies; thin panels mostly handle high frequencies and speech clarity.
+- Coverage: treating 15 to 25 percent of wall area is a common rule of thumb for echo control in a living room or home office.
+- Placement: first reflection points on side walls and ceiling, behind the speaker and listener, and corners for bass traps.
+- Foam is cheap but looks studio like, collects dust and can be flammable unless treated; fabric wrapped and wood slat panels look more like furniture.
+- Adhesive risk: peel and stick can pull paint when removed; use mounting tape strips or pins.
+- Wood slat panels typically use acoustic felt backing; the slats scatter sound and the felt absorbs.

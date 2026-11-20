@@ -1,0 +1,13 @@
+- Size rule: living room rug should reach at least the front legs of seating; 8x10 under a standard sofa group, 5x8 for small rooms; 12 to 18 in of bare floor around.
+- Pile height: low 0.25 in or less for doors and furniture, medium 0.5 in, shag over 1 in; high pile traps crumbs and needs suction-only vacuuming.
+- Washable rugs: thin polyester flat weave with non-slip backing; home washers fit roughly 5x7 and under; larger need a laundromat or hand wash and hang dry.
+- Non-slip backing on washable rugs cracks in dryers; air dry.
+- Rug pad: felt cushions, rubber grips; PVC can stain some finishes so pick natural rubber or felt plus rubber for hardwood; thickness 1/8 to 1/4 in; trim 1 in smaller on each side.
+- Rug pad door clearance: 1/4 in pad plus pile may jam doors; measure.
+- Jute: natural plant fiber, coarse underfoot, sheds early, absorbs moisture and stains, best in low-spill rooms; true jute cannot be washed; "washable jute look" rugs are polyester.
+- Wool: resilient, naturally stain and flame resistant, sheds at first; hand-tufted vs hand-knotted vs machine-made; crushes under heavy furniture; rotate; lasts 15+ years.
+- Runner rugs: 2x6 for 3 ft hallways, leave 4 to 6 in of floor each side; 2x8 or 2x10 standard hallway; non-slip needed.
+- Shag: pile 1 to 2 in; sheds early; hard to vacuum; avoid under rolling chairs; hot dryers shrink washable shag.
+- Flatweave good for pets; loop pile snags claws.
+- Curled corners need rug tape; boxed rugs need 24 to 72 hours to relax.
+- Listing mistakes: color shifts between photo and room; nominal sizes; check actual dimensions and pile height.

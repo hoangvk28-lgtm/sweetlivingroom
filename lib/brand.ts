@@ -12,7 +12,7 @@ export const CONTACT_EMAIL = "hello@sweetlivingroom.com";
 export const SOCIAL_LINKS: { platform: string; url: string }[] = [];
 
 // TODO: confirm the real Associates tag for sweetlivingroom.com before launch.
-export const AMAZON_ASSOCIATE_TAG = "sweetliving-20";
+export const AMAZON_ASSOCIATE_TAG = "sweetlivingroom-20";
 
 export const AUDIENCE_DESCRIPTION =
   "Homeowners, renters and first-time furnishers who want to know how a piece will fit, feel and wear before it arrives.";

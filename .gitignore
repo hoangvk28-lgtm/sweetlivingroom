@@ -8,3 +8,9 @@ next-env.d.ts
 
 # Source image folder, the cropped webp lives in public/authors/
 /Elena Hart avatar/
+
+# info article work files
+/scripts/info/work/
+commons.json
+/scripts/clone/work/*.input.json
+/scripts/clone/work/*.compact.json

@@ -1,0 +1,18 @@
+# tables cluster (coffee tables, lift top, nesting, side tables)
+- Coffee table height should sit within about 1 in above or below the sofa seat height; typical 16 to 18 in. Lower reads as a tripping hazard for older users, higher blocks sightlines.
+- Leave 14 to 18 in between sofa edge and table for knees and walkway; 18 in is comfortable, under 12 in is cramped.
+- Table length is roughly two thirds of the sofa length. A 38 to 48 in table suits an 80 in sofa.
+- Round or oval tables with rounded corners suit tight rooms and homes with small children; sharp corners bruise.
+- Lift top tables use a gas spring or lever scissor mechanism. Lift range is often 5 to 9 in. Cheap mechanisms squeak or sag; check the weight limit on the top and the lifted load.
+- Lift top surface rises toward you and creates a laptop or dining height; it is not a full dining table.
+- Hidden storage depth is often 6 to 10 in under the lid; it holds blankets and remotes, not bulky items.
+- Engineered wood with veneer or laminate is the norm at budget tier. Edges chip, and damp rings damage laminate.
+- Tempered glass tops are heat and impact resistant versus plain glass but show fingerprints and can shatter in rare cases.
+- Nesting tables: sizes graduate so the smaller slide under; both stack, giving flexible surface area. Check the clearance height under the larger one.
+- Side table height: match to arm height of sofa, usually 22 to 26 in for typical sofa arms; end tables should be within 2 in of the arm.
+- Weight capacity on small tables is usually 20 to 60 lb; heavy lamps and books matter.
+- Assembly: 20 to 60 minutes for a simple table, up to an hour or more for lift top with hardware. Tighten screws after a few weeks.
+- Wobble comes from uneven floors; felt pads and levelers fix many.
+- LED strip tables add a controller; remotes are the common failure.
+- Metal frames with powder coat resist scratches; wood tone laminates fade near windows.
+- Placement: keep tables off rug edges that tilt them; a coffee table should fit mostly on the rug.

@@ -1,0 +1,11 @@
+- Protocols: Wi-Fi 2.4 GHz bulbs need no hub but crowd a router with many bulbs; Zigbee needs a hub; Matter over Wi-Fi or Thread works across ecosystems; Bluetooth-only is short range.
+- Smart bulbs need the wall switch left on; off kills control.
+- Lumens: A19 800 lumens replaces 60 W; 1,100 lumens for 75 W; color-changing bulbs are dimmer in saturated colors.
+- Color: RGBWW vs RGBCW; tunable white 2700K to 6500K; CRI 80 vs 90.
+- "Works with Alexa" does not mean Google or Apple Home; check each ecosystem.
+- Cloud dependency: if the vendor server fails, local control may too; local control support matters.
+- Enclosed fixtures shorten LED life; check enclosed rating.
+- Dimmer switches cause flicker with smart bulbs; leave the dimmer at full.
+- TV backlight strips: sized to TV 55 to 65 in etc; camera-based sync vs music or mic sync; strip length 11 to 17 ft; adhesive on a clean back panel; USB power from the TV port may switch off with the TV; corners need cut marks or bend allowance.
+- Camera sync has slight lag; HDMI box sync is faster; bias lighting around 6500K behind TV reduces eye strain in dark rooms.
+- Strip brightness drops at long runs; check adapter amperage; keep the controller reachable.

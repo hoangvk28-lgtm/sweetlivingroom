@@ -92,7 +92,7 @@ These apply to every word that reaches the site.
 - Every outbound affiliate link carries `rel="noopener noreferrer sponsored"`
   and `target="_blank"`.
 - Amazon Associates tag comes from `lib/brand.ts` → `AMAZON_ASSOCIATE_TAG`.
-  **It is currently the placeholder `sweetliving-20`; confirm the real tag.**
+  The tag is `sweetlivingroom-20` (confirmed by the user 2026-11-20).
 
 ### Schema
 - Guides: `Article` + `BreadcrumbList` (+ `ItemList` with name and url only).
@@ -142,6 +142,85 @@ count, dashes, meta lengths, heading ids, FAQ depth, figure shape, banned
 testing claims, prices, rating numbers and dead internal links. Fix the article,
 not the checker.
 
+**Length (user instruction 2026-11-20): info articles are 2,300 to 2,500 body
+words** (checker fails below 2,250, warns above 2,700). This overrides the
+3,000 to 3,300 in `INFO-GUIDE-BRIEF.md`; `docs/INFO-ROUND-OVERRIDE.md` carries the
+round rules (length, cross-links, cheap research, image steps) for Claude writers.
+
+Claude-written rounds skip `split-delivery`: writers save
+`scripts/info/work/<slug>.html` directly, topics come from `docs/info-topics.tsv`
+(the checker accepts links to every slug in it), and images are picked with
+`python -I scripts/info/contact.py <sheet.jpg> "term" ...` (licence-filtered
+Commons search + one numbered contact sheet), then listed in
+`scripts/info/work/manifest-<A|B>.tsv` for the coordinator to fetch.
+
+---
+
+## 4b. The best-guide pipeline (ported from MachineFanatic 2026-11-21)
+
+Spec JSON -> `scripts/build-guide.mjs` -> `data/guides/<slug>.ts`, rendered by
+`RichGuidePage`. Writers read **only** `docs/BEST-GUIDE-BRIEF-LEAN.md` (keep it in
+sync if rules change) and `scripts/clone/work/<slug>.compact.json`, never the raw
+`.input.json`. Length 3,000 to 3,800 words, 3 to 7 products, enforced by
+`scripts/clone/selfcheck.mjs`; `scripts/clone/finish.mjs <slug>` fills product
+data, then runs selfcheck, build and audit in one go.
+
+**"Stage A" (the user's name) = the zero-AI-token data step:**
+```bash
+git pull
+node scripts/clone/next-batch.mjs <N>          # Amazon Creators API, from scripts/clone/source-index.json
+node scripts/clone/compact.mjs --all
+node scripts/clone/prefilter.mjs --inprogress
+```
+Credentials live in `.env.local` (gitignored): `AMAZON_CREATORS_CREDENTIAL_ID`,
+`AMAZON_CREATORS_SECRET`, `AMAZON_CREATORS_VERSION=3.1`, `AMAZON_PARTNER_TAG`.
+If `.compact.json` files already exist for the round, do not re-run Stage A.
+
+Then eyeball per-slug item counts and titles; skip any topic with fewer than 3
+distinct real on-topic products (never pad with off-topic items). `junk.mjs` is
+the single accessory filter shared by compact and prefilter: phrase-based only,
+test any new term against a real product title first.
+
+The coordinator (not writers) registers, links, runs tsc/build/lint and commits.
+
+---
+
+## 4c. Agents and token budget (user rules, inherited from sibling projects)
+
+- **Every subagent uses `model: "sonnet"`.** Never Opus unless the user asks.
+- **Default 1 or 2 Sonnet writers, each taking its whole list in one continuous
+  run** (prompt cache is reused; every new agent pays startup again). Never spawn
+  extra agents to "test" or "compare".
+- Writer prompts: say "cd to the repo root before any node script", give the
+  exact list file, forbid registering, committing and pushing.
+- Research once per product cluster into `docs/research/<cluster>.md`; later
+  guides in the cluster reuse it without web search.
+- **Near-duplicate check before every round:** compare candidate slugs against
+  `data/guides.ts` and `docs/info-topics.tsv` after normalizing (drop `best-`,
+  plurals, stop words, word order) and by same intent (small vs compact, for-X vs
+  X-for). Keep one slug per family. Repeat at Finish and compare lineups too: two
+  best guides sharing most products compete for one keyword.
+- Edit scripts with Edit, not inline `node -e`/`sed` with backslashes; after any
+  scripted edit run `grep -c $'\x08' <file>` (must be 0).
+
+---
+
+## 4d. Coordinator checklist (Windows machine)
+
+1. `git pull` before Stage A or any topic pick.
+2. Build from Git Bash: `NODE_OPTIONS=--max-old-space-size=6144 npx next build`
+   (the npm script's `NODE_OPTIONS=` prefix is POSIX only), then grep for
+   `Compiled successfully` and `Finished TypeScript`.
+3. Grep built guide files for `【`, `—`, `–`, `$` digits: zero hits.
+4. Report to the user before pushing; preview locally (`npm run dev`, localhost
+   links) instead of opening a PR.
+5. **Session handoff:** when the user asks (or the session nears its limit), write
+   a dated `## RESUME` note in `docs/rounds/NEXT-ROUNDS-BRIEF.md` (done items with
+   commit hashes, running agents and their lists, remaining steps, a command that
+   lists unfinished slugs), commit it locally, and give the user a paste-ready
+   prompt for the next session. Background agents die with the session; finished
+   files survive.
+
 ---
 
 ## 5. Pre-commit gate
@@ -164,6 +243,7 @@ not the checker.
 - Three "best" guides in `data/guides/` are **sample content**: Unsplash
   photography, Amazon search links, products that were not researched. They
   exist so the design renders. Replace or remove them before they get indexed.
+- Amazon tag `sweetlivingroom-20` confirmed 2026-11-20 and applied site-wide.
 - One seed product in `data/products.ts` keeps `/reviews/[slug]` buildable.
 - `/deals` renders empty; there is no deals data source on a static export.
 - `app/robots.ts` blocks `AhrefsBot`, inherited from a sibling project. The user

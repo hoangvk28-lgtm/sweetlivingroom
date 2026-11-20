@@ -1,0 +1,17 @@
+# curtains cluster (blackout curtains, sheer curtains, curtain rods)
+- "100% blackout" requires a coating or triple weave plus side gaps closed; light leaks around the edges and over the rod unless panels are wide and mounted close to the wall.
+- Dark colors block more light than light colors in non coated fabric; coated or lined panels block most light in any color.
+- Fullness: panel width should be 1.5 to 2.5 times the window width; flat panels look skimpy.
+- Mount the rod 4 to 6 in above the window frame and 3 to 6 in past each side to make the window look larger and to let the glass clear.
+- Standard lengths: 63, 84, 95, 96, 108 in. Floor length hems should just kiss or hover about 0.5 in above the floor; puddling needs 2 to 4 extra inches.
+- Header types: grommet, rod pocket, back tab, pinch pleat, tab top. Grommet panels glide easily; rod pocket gathers and drags; back tab hides the rod.
+- Thermal and blackout linings reduce drafts and noise a little; they are not true insulation or soundproofing.
+- Heavy blackout panels need a sturdy rod; a single 1 in rod can bow beyond about 48 in without a center support.
+- Rod diameter and finial: 1 in standard, 1.25 to 1.5 in for heavy drapes; wider rods hold more weight.
+- Rod weight capacity depends on brackets and wall anchoring: drywall anchors are fine for light panels, studs for heavy lined drapes.
+- Double rods layer sheers behind blackout panels; a traverse or double rod needs deeper brackets (projection 3 to 5 in).
+- Wash instructions: polyester blackouts are usually machine washable on gentle cycle; linen looks wrinkle prone; coating can crack when overheated or machine dried hot.
+- Sheer curtains diffuse light and protect privacy during the day only; at night they become see through with lights on.
+- Sheer fabrics: voile, linen blends, polyester; wrinkles drop out when hung; steam to finish.
+- Hardware: ceiling mounts make a room look taller; use a center support for rods over 48 in, and adjustable rods have a weaker joint than a single piece.
+- Finials and rings add weight; clip rings make panel changes easy.

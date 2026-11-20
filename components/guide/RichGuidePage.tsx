@@ -477,7 +477,7 @@ export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideM
                   </li>
                 ))}
               </ul>
-              <a href={`https://www.amazon.com/s?k=${amazonQuery}&tag=sweetliving-20`} target="_blank" rel="noopener noreferrer sponsored" className="inline-block mt-6 text-sm text-white/70 hover:text-white underline underline-offset-4">
+              <a href={`https://www.amazon.com/s?k=${amazonQuery}&tag=sweetlivingroom-20`} target="_blank" rel="noopener noreferrer sponsored" className="inline-block mt-6 text-sm text-white/70 hover:text-white underline underline-offset-4">
                 Browse more {productNounPlural.toLowerCase()} on Amazon &rarr;
               </a>
             </section>

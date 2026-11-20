@@ -50,7 +50,7 @@ export const products: Product[] = [
     categorySlug: "sofas-seating",
     subcategorySlug: "",
     image: "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
-    amazonUrl: "https://www.amazon.com/s?k=small+sectional+sofa+reversible+chaise&tag=sweetliving-20",
+    amazonUrl: "https://www.amazon.com/s?k=small+sectional+sofa+reversible+chaise&tag=sweetlivingroom-20",
     priceRange: "Mid-range",
     priceLabel: "Mid-range",
     badge: "Top Pick",

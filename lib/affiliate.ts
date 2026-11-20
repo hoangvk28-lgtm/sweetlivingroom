@@ -1,4 +1,4 @@
-﻿export const AMAZON_TAG = "sweetliving-20";
+﻿export const AMAZON_TAG = "sweetlivingroom-20";
 
 /**
  * Central URL builder - swap out AMAZON_TAG once your Associates account is approved.

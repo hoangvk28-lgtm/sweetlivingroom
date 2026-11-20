@@ -6,7 +6,7 @@ const dir = new URL("../data/guides/", import.meta.url);
 const slugs = process.argv.slice(2).length ? process.argv.slice(2) : readdirSync(dir).map((f) => f.replace(/\.ts$/, ""));
 let bad = 0;
 // First words of product names that are ordinary category words, not brands.
-const GENERIC = new Set(["snow", "mini", "smart", "electric", "cordless", "portable", "compact", "commercial", "professional", "heavy", "gas", "battery", "dual", "wet", "dry", "air", "ice", "rice", "coffee", "espresso", "food", "stand", "hand", "robot", "steam", "solar", "power", "inverter", "garden", "wood", "log", "leaf", "pressure", "space", "tower", "upright", "handheld", "countertop", "digital", "automatic", "manual", "the"]);
+const GENERIC = new Set(["snow", "mini", "smart", "electric", "cordless", "portable", "compact", "commercial", "professional", "heavy", "gas", "battery", "dual", "wet", "dry", "air", "ice", "rice", "coffee", "espresso", "food", "stand", "hand", "robot", "steam", "solar", "power", "inverter", "garden", "wood", "log", "leaf", "pressure", "space", "tower", "upright", "handheld", "countertop", "digital", "automatic", "manual", "the", "wall", "floor", "table", "arc", "led", "sheer", "wool", "modern", "round", "plug", "set", "large", "small"]);
 for (const slug of slugs) {
   const src = readFileSync(new URL(`${slug}.ts`, dir), "utf8");
   const errs = [];
@@ -26,7 +26,7 @@ for (const slug of slugs) {
   if (/we tested|hands-on|we tried|in our lab|we measured/i.test(src)) errs.push("testing claim");
   if (/【/.test(src)) errs.push("bracket ad copy");
   const mt = get("metaTitle"), md = get("metaDescription"), gt = get("guideTitle");
-  if (mt.length > 48) errs.push(`metaTitle ${mt.length} > 48`);
+  if (mt.length > 47) errs.push(`metaTitle ${mt.length} > 47`);
   if (md.length < 120 || md.length > 160) errs.push(`metaDescription ${md.length} not 120-160`);
   if (!/\(2026\)$/.test(gt)) errs.push("guideTitle missing (2026)");
   if (errs.length) { bad++; console.log(`FAIL ${slug}\n  - ${errs.join("\n  - ")}`); } else console.log(`ok   ${slug}`);

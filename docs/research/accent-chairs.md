@@ -1,0 +1,14 @@
+- Accent chair sizing: width 25 to 32 in standard, 32 to 40 in oversized; seat height 17 to 19 in; seat depth 18 to 22 in; leave 18 in to coffee table and 30 in walkway.
+- Seat height within 2 in of the sofa looks right in a conversation grouping.
+- Frames: kiln-dried hardwood legs and plywood body outlast particleboard; metal legs wobble if bolts loosen; retighten after 30 days.
+- Weight capacity 250 to 400 lb; thin metal-frame chairs often 250 lb.
+- Fabrics: chenille and boucle are cozy but snag with pets; performance polyester and corduroy hide wear; PU faux leather wipes clean but can peel; velvet shows crush marks.
+- Seat foam density 1.8 lb/cu ft or more; sinuous springs support better than webbing; high back needs a lumbar curve.
+- Swivel base: ball-bearing steel turns 360 degrees; thin bases wobble; barrel shapes suit low spaces; do not swivel on loose rugs.
+- Listing photos crop tight; check width and depth against a measured floor spot.
+- Assembly: legs and back screw on in 10 to 20 minutes; fully assembled swivel chairs ship in big boxes.
+- Storage ottoman: hinge type (soft-close vs bare hinge pinch risk), fold-flat collapsible vs rigid frame, sitting capacity 300 to 660 lb.
+- Collapsible ottomans use foam and MDF panels; fine for blankets, weak for heavy books; check seam stitching.
+- Ottoman height 16 to 18 in matches sofa seat; 30 in suits end of bed; 43 in suits a bench or coffee table.
+- Faux leather and sherpa ottomans: wipe vs shed; odor off-gasses a few days.
+- Mistake: matching chair to sofa exactly looks dull; choose a complementary texture and similar visual weight.

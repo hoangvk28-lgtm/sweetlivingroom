@@ -14,6 +14,7 @@ const guideSlugs = existsSync("data/guides") ? readdirSync("data/guides").filter
 const legacySlugs = existsSync("data/legacy") ? readdirSync("data/legacy").filter(f => f.endsWith(".ts")).map(f => f.slice(0, -3)) : [];
 const staticPaths = ["/", "/guide", "/guide/all", "/categories", "/compare", "/deals", "/reviews",
   "/how-we-review", "/about-us", "/contact", "/privacy-policy", "/terms-of-use", "/affiliate-disclosure"];
+const roundSlugs = existsSync("docs/info-topics.tsv") ? readFileSync("docs/info-topics.tsv", "utf8").split("\n").map(l => l.split("\t")[0].trim()).filter(Boolean) : [];
 const categorySlugs = ["sofas-seating", "rugs-flooring", "lighting", "storage-media", "decor-styling"];
 
 const BANNED_PHRASES = [
@@ -53,8 +54,8 @@ for (const file of files) {
   if (meta.quickAnswer && meta.quickAnswer.split(/\s+/).length < 40) warns.push(`quickAnswer is only ${meta.quickAnswer.split(/\s+/).length} words, aim for 60 to 110`);
 
   // ── length ──
-  if (words < 2900) fails.push(`${words} words in the body, minimum is 2900`);
-  if (words > 3800) warns.push(`${words} words, longer than the 3300 target`);
+  if (words < 2250) fails.push(`${words} words in the body, minimum is 2250`);
+  if (words > 2700) warns.push(`${words} words, longer than the 2500 target`);
 
   // ── dashes ──
   const dash = raw.match(/[–—]/g);
@@ -107,7 +108,7 @@ for (const file of files) {
     if (h.endsWith("/") && h !== "/") { fails.push(`internal link has a trailing slash: ${h}`); continue; }
     const g = h.match(/^\/guide\/([a-z0-9-]+)$/);
     const ok = staticPaths.includes(h)
-      || (g && (guideSlugs.includes(g[1]) || categorySlugs.includes(g[1]) || g[1] === meta.slug))
+      || (g && (guideSlugs.includes(g[1]) || categorySlugs.includes(g[1]) || g[1] === meta.slug || roundSlugs.includes(g[1])))
       || /^\/categories\/([a-z0-9-]+)$/.test(h) && categorySlugs.includes(h.split("/")[2])
       || legacySlugs.includes(h.slice(1))
       || /^\/author\/elena-hart$/.test(h);

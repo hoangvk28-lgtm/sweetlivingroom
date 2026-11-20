@@ -1,0 +1,17 @@
+# shelving cluster (bookshelves, floating shelves)
+- Listed shelf capacity is per shelf and static; books are dense: a 24 in span of hardcovers is roughly 25 to 40 lb. Plan for the heavy rows low.
+- Particleboard and MDF shelves bow over time under books; span over about 24 to 30 in without a center support sags. Rotate or reduce load.
+- Steel frames add rigidity and reduce racking; open back bookcases wobble without a back panel or cross bars.
+- Tall bookcases tip: anchor with a wall strap into a stud; most narrow, tall units include a strap or tether. Children climbing is the main hazard.
+- Shelf spacing: paperbacks need about 8 in, hardcovers 10 to 12 in, large art books 13 in or more. Adjustable shelves matter.
+- Depth: 9 to 12 in is standard; under 9 in cannot hold larger books flat; over 12 in uses floor space.
+- Cube units can be used horizontally or vertically and take bins; 13 in cubes fit standard fabric bins.
+- Rotating corner units use a turntable base; load must be balanced and moving parts wear.
+- Assembly 45 to 90 minutes for tall units; cam locks and dowels, two people for tall frames.
+- Floating shelves use hidden bracket systems; real load depends on the wall: wood stud versus drywall anchor. Capacity numbers assume studs or heavy anchors.
+- Floating shelf thickness (1.2 to 1.5 in is hollow or MDF; solid wood is thicker and heavier). Hollow shelves hold less than solid.
+- Install with a level and a stud finder; mark studs at 16 in centers. Drywall anchors rated for the load are the fallback.
+- A shelf 24 in long needs two studs only if spacing allows; otherwise use two brackets or two anchors per bracket.
+- Lip or ledge shelves hold frames and prevent sliding; flat shelves look cleaner.
+- Moisture: bathroom shelves need sealed finishes; MDF swells.
+- Keep heavy items close to the wall and brackets, and limit weight to about 60 percent of the stated maximum for margin.

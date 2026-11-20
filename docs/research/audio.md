@@ -1,0 +1,17 @@
+# audio cluster (soundbars)
+- Most flat TVs have thin downward firing speakers; a soundbar mainly fixes dialogue clarity and bass.
+- HDMI eARC carries uncompressed and Dolby Atmos audio from the TV; plain ARC carries compressed Dolby Digital. Use the TV port labeled eARC/ARC.
+- Channel notation 2.0, 3.1, 5.1.2: first digit is main speakers, second digit subwoofer, third is upward firing height speakers.
+- Dolby Atmos height effects need a flat ceiling of roughly 8 to 10 ft; vaulted or very high ceilings weaken them. Small bars can only simulate Atmos with virtualization.
+- Virtual surround (DTS Virtual:X, Dolby Audio) widens the soundstage but is not real rear speakers.
+- Wattage numbers (peak watts) are marketing; they do not predict loudness across brands.
+- Wireless subwoofers need power and a few feet of clearance; place near a wall for more bass, avoid cabinets that rattle.
+- Soundbar height matters: it must not cover the TV's IR sensor or screen bottom. Measure TV stand height and the bar height.
+- Dialogue or speech modes boost the center channel; night modes reduce dynamic range for low volume late viewing.
+- One remote: TV remote control via HDMI-CEC can run volume; check CEC support.
+- Wall mounting: many bars include a template and brackets; keep weight rating in mind.
+- Compact single-bar designs have limited bass; adding a subwoofer later works only on some systems (Sonos allows).
+- Sonos systems use Wi-Fi for streaming and multi-room; Bluetooth bars are simpler but lower fidelity.
+- Rear surround speakers add real surround but need power outlets and placement.
+- Room acoustics: hard floors and bare walls make echo; rugs and curtains help a soundbar more than a pricier bar.
+- Firmware updates can add features or break settings; keep the app current.

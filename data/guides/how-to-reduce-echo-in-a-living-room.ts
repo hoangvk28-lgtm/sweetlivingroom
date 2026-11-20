@@ -1,0 +1,352 @@
+import type { InfoGuideModule } from "@/components/guide/InfoGuidePage";
+
+const guide: InfoGuideModule = {
+  kind: "info",
+  guideSlug: "how-to-reduce-echo-in-a-living-room",
+  guideTitle: "How to Reduce Echo in a Living Room: Rugs, Curtains and Panels",
+  metaTitle: "How to Reduce Echo in a Living Room",
+  metaDescription: "Why a living room echoes, how hard surfaces and parallel walls cause it, and how rugs, curtains, bookshelves and acoustic panels each change the sound.",
+  heroImage: "/images/articles/echo-fabric-acoustic-panels-wall.webp",
+  lastUpdated: "2026-11-20",
+  readTime: "12 min",
+  quickAnswer: "A living room echoes because sound bounces between hard surfaces, especially parallel walls, bare floors and large windows, with nothing to absorb it. Cover the floor with a thick rug on a felt pad, hang lined curtains that reach the floor, add upholstered furniture and a bookshelf with uneven contents, and place acoustic panels at the first reflection points on the side walls. Test with a hand clap: a short ringing echo means more absorption is needed.",
+  html: `<p>You notice a room's echo the first time you move in, when the furniture has not arrived and every footstep rings. Most people think the echo goes away once the room is furnished, and it often does, partly. But a living room with a bare wood floor, big windows, a flat-screen TV and a leather sofa can still sound hard and harsh, with voices that blur and a television that must be turned up to understand the dialogue.</p>
+
+<p>This guide explains why rooms echo, what the two main acoustic problems are, how to test your own room with a hand clap, and how each solution works: rugs, curtains, furniture, <a href="/guide/best-bookshelves">bookshelves</a> and acoustic panels. The aim is a living room where people can talk across the room and the TV is clear at a normal volume, without making it look like a recording studio. The figures are rules of thumb, and every room differs.</p>
+
+<h2 id="why-echo">Why a room echoes</h2>
+
+<p>Sound travels as pressure waves that bounce off any hard, flat surface. In an empty room, the sound from a voice reaches your ears directly, then again a fraction of a second later after bouncing off the walls, the floor and the ceiling, and then again after a second bounce. These reflections blend into a lingering tail called reverberation. A short reverberation gives a lively, warm sound. A long one smears speech, making it hard to understand. The time it takes for the sound to fade by 60 decibels is called the reverberation time, and a living room is comfortable at about 0.4 to 0.6 seconds, while a bare, hard room can reach a second or more.</p>
+
+<p>Materials decide how much of the sound is absorbed and how much reflected. Soft, porous or fibrous materials, such as carpet, curtains, upholstery and acoustic foam, absorb sound by converting its energy to tiny amounts of heat in the fibers. Hard, dense, smooth materials, such as glass, tile, plaster, painted drywall and polished wood, reflect most of it. The living room often has a lot of the second kind, large windows, a TV screen and a bare floor, which explains the echo.</p>
+
+<p>The shape of the room matters too. Two parallel hard walls cause a flutter echo, a rapid ping-ping-ping heard when you clap between them, because the sound bounces back and forth. A square room reinforces certain bass notes, and a room with a high ceiling extends the reverberation time. Open plan spaces with a hard floor are the worst, since the sound has more surface to bounce from and nowhere to be absorbed.</p>
+
+<h2 id="clap-test">Test your room with a clap</h2>
+
+<p>Before buying anything, find out where the problem is. Stand in the middle of the room and clap your hands sharply once. Listen to what happens after the clap. If the sound dies at once, the room is well damped. If you hear a short fluttering ring, a rapid series of repeats, you have a flutter echo between parallel walls. If the sound lingers, with a long hollow tail, the room has too much reverberation overall.
+
+</p>
+
+<p>Repeat the test at several places, near each wall, near the windows and near the TV, and listen to which direction the ring comes from. A flutter echo is often strongest between two bare walls, and moving the clap to a corner can reveal where it is worst. A simple way to find the spots is to have someone clap while you walk along the wall with a mirror, in the old studio trick of finding the point where you can see the sound source reflected, which is where an absorber would catch the sound. For a casual home use, the clap test is enough.</p>
+
+<table>
+<thead><tr><th>What you hear</th><th>Likely cause</th><th>Where to start</th></tr></thead>
+<tbody>
+<tr><td>Rapid ping between two walls</td><td>Flutter echo, parallel hard walls</td><td>Break up one wall: bookshelf, art, panel</td></tr>
+<tr><td>Long hollow tail</td><td>Too many hard surfaces overall</td><td>Rug, curtains, upholstery</td></tr>
+<tr><td>Harsh speech, hard to follow</td><td>Strong early reflections</td><td>Panels at side wall reflection points</td></tr>
+<tr><td>Boomy low notes</td><td>Room modes, bass build-up</td><td>Thicker absorbers, speaker placement</td></tr>
+</tbody>
+</table>
+
+<h2 id="floors">Floors and rugs</h2>
+
+<p>A bare floor is one of the largest hard surfaces in a living room, and covering it is the first step. A rug absorbs the mid and high frequencies, which make speech sound harsh, and it also reduces the sound of footsteps and moved furniture. The thicker and denser the rug, the better the absorption, and a <a href="/guide/best-wool-area-rugs">wool rug</a> with a high pile absorbs more than a flat-woven cotton one. A rug that covers most of the seating area, as described in the <a href="/guide/what-size-rug-for-a-living-room">rug size guide</a>, helps more than a small one.</p>
+
+<p>The pad under the rug adds a lot. A thick felt or felt-and-rubber pad of 1/4 to 1/2 inch, as explained in <a href="/guide/do-you-need-a-rug-pad">do you need a rug pad</a>, doubles the sound absorption in the same space, and it deadens footstep noise for the room below. A thin rug on a hard floor reflects most of the sound, and does little for the echo. Do not expect a rug to fix the room by itself, since it deals with the floor, and the ceiling and walls remain hard.</p>
+
+<figure>
+  <img src="/images/articles/echo-1960s-room-soft-furnishings.webp" alt="A living room with a sofa, armchair, curtains and a carpeted floor" />
+  <figcaption>Carpet, upholstery and curtains are all soft surfaces, and together they keep a room from ringing.</figcaption>
+</figure>
+
+<h2 id="windows">Windows, curtains and hard glass</h2>
+
+<p>Glass is among the most reflective surfaces in a home, and a large window or a sliding door can be the main source of harshness. Heavy curtains absorb sound, particularly if they are lined and fully gathered, with 2 times fullness. The deeper the fold, the more the fabric is exposed to the air, and the better the absorption. A curtain that hangs a few inches from the glass works better than one pressed against it, since the air gap helps with low frequencies.</p>
+
+<p>Choose a heavy fabric such as velvet, a lined cotton or a thick blackout material. A thin sheer does almost nothing. Let the curtains reach the floor, and make them wide enough to cover the window with fullness, as explained in the curtain length and width guide. Closed curtains do more than open ones, and a double layer improves the effect. If the window wall is the problem, a Roman shade or a cellular shade adds some absorption when lowered. The fabric choices are covered in the <a href="/guide/curtain-fabric-guide">curtain fabric guide</a>.</p>
+
+<h2 id="furniture">Upholstery, bookshelves and the shape of the surfaces</h2>
+
+<p>Sofas, armchairs and cushions are good absorbers, since fabric and foam trap sound. A room with a large upholstered sofa, two chairs and a few pillows is much quieter than the same room with a leather sofa and a wood chair. Choose fabric over leather where echo is a problem, and add cushions to hard seats. A thick throw on the back of the sofa adds absorption, and so do pillows on a window seat.</p>
+
+<p>Bookshelves are useful for another reason. A bookcase with books of different sizes and a few objects scatters the sound that hits it in many directions, an effect called diffusion. This breaks up a flutter echo between parallel walls without making the room dead. A wall of books is a surprisingly effective diffuser, and it also absorbs some sound. Place a bookcase on one of the parallel walls, and the flutter echo is often reduced. Gaps and varied objects work better than a perfectly flat wall of books.</p>
+
+<p>Other surfaces help. A large wall hanging, a tapestry or a quilted textile absorbs sound. A big plant, with many leaves, diffuses a little. Art in thick frames adds some depth to a flat wall, and a gallery arrangement as in the gallery wall layout guide breaks up a smooth surface. A flat-screen TV is a large reflective plane, and placing it on a wall with a bookcase or a curtain nearby softens the reflection.</p>
+
+<h2 id="panels">Acoustic panels</h2>
+
+<p>If furnishings are not enough, acoustic panels give targeted absorption. A panel is a frame of rigid mineral wool or fiberglass, usually 1 to 4 inches thick, covered in fabric. Panels of 2 inches absorb the mid and high frequencies of speech and most of the harshness. Thicker panels, 4 inches or more, and those placed with an air gap behind, extend the absorption to lower frequencies. Check the product's noise reduction coefficient, or NRC, which ranges from 0 to 1. A value of 0.8 or above indicates a good absorber, though the number is an average over a range of frequencies.</p>
+
+<p>Placement matters more than the number of panels. The most useful spots are the first reflection points, where sound from the speakers or from a person's voice bounces off the side walls to the listener. Find them by sitting in the listening position and having someone slide a mirror along the wall: where you can see the TV speaker or the source in the mirror, a panel belongs. Two or three panels on each side wall, at ear height, and one or two on the wall behind the sofa, are enough for most rooms, as described for home theater in <a href="/guide/surround-sound-speaker-placement-living-room">surround sound speaker placement</a>.</p>
+
+<p>Panels need not look like a recording studio. Many are made in fabric colors and shapes that act as art, and some are printed with photographs. A fabric-wrapped panel above a sofa works as a large piece of art, and a hexagonal set creates a pattern. Foam panels are cheaper but absorb mostly higher frequencies and can be less attractive. Fire safety matters: check that any foam or fabric is rated for use in homes.</p>
+
+<h2 id="plan-and-budget">A step-by-step plan and where to spend</h2>
+
+<p>Work from the cheapest, biggest effect to the most targeted. Step one is the clap test and a note of where the room rings. Step two is the floor: a thick rug on a felt pad, as large as the room allows. Step three is the windows: heavy lined curtains, fully gathered, hung from a rod that is high and wide. Step four is soft furniture: add cushions, a throw and an upholstered chair if the room is mostly hard seating. Step five is a bookcase or a wall hanging on the worst parallel wall. After each step, clap again and listen. Many rooms are fixed by step three.</p>
+
+<p>Only then buy panels, and buy a few. Three well-placed 2 inch panels, each 2 by 4 feet, do more than a wall covered in thin foam. Check the specifications for thickness and NRC, since a decorative panel can be a thin piece of fabric stretched over a board and absorb almost nothing. Measure the wall and mark the panel positions with tape first, then live with them for a few days.</p>
+
+<p>Budget the money by effect. The rug and pad are usually the largest single improvement per dollar, curtains are second and panels are third. Do not spend on expensive panels before the rug and curtains are in place, because the basics change the room more than a few panels will. If you rent, all of the first four steps are removable, and panels can be hung on adhesive hooks or leaned against the wall on a shelf.</p>
+
+<h2 id="tv-and-conversation">Echo, the TV and talking across the room</h2>
+
+<p>The reason people notice echo is almost always speech. In an echoing room, each word is followed by a blur of reflections, and the brain has to work to separate them, so people raise their voices and turn up the TV. The effect is more tiring than it seems. After you reduce the echo, a TV at a lower volume is clear, conversations need less effort and a call on speakerphone sounds better. This is why a soundbar or a speaker setup often sounds better after the room is treated than after the equipment is upgraded.</p>
+
+<p>The TV wall deserves attention. A TV and the wall around it make a large flat reflecting surface, and sound from the screen speakers bounces off the walls and the window nearby. Put a rug in front of the TV, a curtain at the nearest window and a bookshelf or a panel on the side wall at the first reflection point, as described in the <a href="/guide/surround-sound-speaker-placement-living-room">surround sound placement guide</a>. For a room that is also used for calls and remote work, add a rug and curtains behind the camera as well, since the room sound on a call is a mix of your voice and its reflections.</p>
+
+<figure>
+  <img src="/images/articles/echo-panel-mineral-wool-core.webp" alt="An acoustic panel opened to show the fibrous insulation inside its frame" />
+  <figcaption>Inside, a panel is a frame of porous fibrous material, which is what converts the sound energy to heat.</figcaption>
+</figure>
+
+<h2 id="ceiling">The ceiling and the corners</h2>
+
+<p>The ceiling is often a bare, flat plane that is directly above the listener. A cloud of acoustic panels hung on the ceiling over the seating helps in rooms with a high ceiling and a lot of echo. In ordinary rooms, a rug and curtains are usually enough. If the ceiling is high and hard, a large fabric hanging or a pendant lamp with a large fabric shade adds a little diffusion.</p>
+
+<p>Corners collect bass, and the bass can build up and make speech boomy. A thick absorber in a corner, such as a bass trap of 4 inches or more, reduces this. A tall plant, a soft chair or a rolled blanket in a corner offers a small effect. For most living rooms, bass build-up is a problem only if you have a subwoofer, and moving the subwoofer a foot or two usually helps more than adding a trap.</p>
+
+<h2 id="faq">Frequently asked questions</h2>
+
+<h3>Why does my living room echo?</h3>
+<p>Sound bounces off hard surfaces such as bare floors, glass and plaster walls, especially between parallel walls, and there is not enough soft material to absorb it.</p>
+
+<h3>Does a rug reduce echo?</h3>
+<p>Yes, a thick rug on a felt pad reduces mid and high frequency echo from the floor. It helps most when it covers a large part of the room.</p>
+
+<h3>Do curtains help with echo?</h3>
+<p>Heavy, lined, fully gathered curtains absorb sound and reduce reflection from windows. Thin sheers do very little.</p>
+
+<h3>How many acoustic panels do I need?</h3>
+<p>Two or three on each side wall at the first reflection points, and one or two behind the seating, are enough for most living rooms.</p>
+
+<h3>Will a bookshelf help?</h3>
+<p>Yes. A bookcase with uneven contents scatters sound and breaks up a flutter echo between parallel walls.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+
+<p>Clap in the room and listen. Start with the floor, using a thick rug on a felt pad, then add heavy curtains and upholstered seating. Break up parallel walls with a bookcase or art.</p>
+
+<p>If the room is still harsh, add acoustic panels at the first reflection points. Small, well-chosen changes will make speech clearer and the TV easier to follow, without turning the living room into a studio.</p>`,
+  imageCredits: [
+    {"image":"accent-chair-desk-corner.webp","author":"JohnLEE Brothers","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_Cotai_%E4%B8%8A%E8%92%B2%E4%BA%AC_Grand_Lisboa_Palace_%E9%85%92%E5%BA%97_hotel_living_room_deck_n_armchair_November_2024_R12S.jpg"},
+    {"image":"accent-chair-green-velvet.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:A_plush_green_velvet_armchair_occupies_the_corner_of_a_bright_living_room.jpg"},
+    {"image":"accent-chair-hero.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Colorful_floral_armchair_beside_vintage_wooden_cabinet_in_cozy_living_room.jpg"},
+    {"image":"anchor-small-bookcase-hall.webp","author":"Steven Pavlov","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Wickers_Building_%E2%80%94_Living_Room_%E2%80%94_004.jpg"},
+    {"image":"anchor-white-bookcase-wall.webp","author":"Egilus","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Bookshelf_for_free_exchange_in_Riga.jpg"},
+    {"image":"arrange-living-room-hero.webp","author":"Kotivalo","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_with_1960s_objects.jpg"},
+    {"image":"arrange-living-room-seating-group.webp","author":"Neoclassicism Enthusiast","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Neoclassic_sofa,_designed_by_ETRO_Home_Interiors_Design_Team,_circa_2024,_solid_fir_wood_and_multilayer_pine_wood,_polyurethane_foam,_upholstery,_44_x_235_x_97_cm,_sold_at_Etro_Boutique_(Via_Pontaccio_no._17),_Milan.jpg"},
+    {"image":"arrange-living-room-sofa-wall.webp","author":"Adele Berenstein","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_area.jpg"},
+    {"image":"artsofa-pictures-on-wall-room.webp","author":"Tudor Washington Collins","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Flowers_in_a_living_room_(AM_79398-1).jpg"},
+    {"image":"artsofa-sofa-corner-mural.webp","author":"G�nter Seggeb�ing, Coesfeld","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:20170910_Haus_Stapel_-_Sofa_vor_historischer_Tapete,_Havixbeck_(01306).jpg"},
+    {"image":"artsofa-sofa-mural-wall.webp","author":"G�nter Seggeb�ing, Coesfeld","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:20170910_Haus_Stapel_-_Sofa_vor_historischer_Tapete,_Havixbeck_(01285).jpg"},
+    {"image":"blackoutcurtain-floor-length-pair.webp","author":"Ounfs Robmmy 238","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93_hotel_room_living_zone_n_window_curtain_March_2024_R12S_01.jpg"},
+    {"image":"blackoutcurtain-olive-heavy-fabric.webp","author":"Easysayg","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Curtain_hanging_from_ready-made_curtain_rod_(--wiki68).jpg"},
+    {"image":"blackoutcurtain-white-sheer-hotel.webp","author":"HuiDongXLW RMDa","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:HZ_%E6%83%A0%E5%B7%9E_Huizhou_%E6%83%A0%E6%9D%B1_Huidong_%E9%87%91%E6%B5%B7%E7%81%A3%E5%A4%A7%E9%81%93_Jinhaiwan_Blvd_%E8%8F%AF%E7%BE%8E%E9%81%94%E9%85%92%E5%AE%B6_Ramada_Hotel_room_window_white_curtain_living_room_November_2023_R12S.jpg"},
+    {"image":"ceilingfan-five-blade-light.webp","author":"CommandProMC","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Modern_ceiling_fan.jpg"},
+    {"image":"ceilingfan-pull-chain-light.webp","author":"Hans Olav Lien","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Ceiling_fan_with_lamp.jpg"},
+    {"image":"clean-fabric-sofa-blanket.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Woman_arranging_colorful_blanket_on_sofa_in_cozy_living_room_during_daytime.jpg"},
+    {"image":"clean-fabric-sofa-hero.webp","author":"Lear 21","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home24sofa.jpg"},
+    {"image":"clean-fabric-sofa-slipcover.webp","author":"Enric","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:004_Sof%C3%A0_amb_funda.jpg"},
+    {"image":"clean-rug-fringe-pattern.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Khachagorg.jpg"},
+    {"image":"clean-rug-runner-hall.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpets_from_Shushi_Carpet_Museum.jpg"},
+    {"image":"coffeetable-round-yellow-sofa.webp","author":"Vaibhavratnaparkhi","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Sofa_and_coffee_table_with_price_tags.jpg"},
+    {"image":"coffeetable-tan-sofa-dark-table.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_setting_with_a_yellow_sofa_and_a_coffee_table_adorned_with_cups_and_a_flower_pot.jpg"},
+    {"image":"coffeetable-two-wood-tables.webp","author":"Sophia Baboolal","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Coffee_tables_in_front_of_a_comfy_sofa_(Unsplash).jpg"},
+    {"image":"color-temp-bright-bulb.webp","author":"Xzantiyamoloy","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Jivah_9-Watt_LED_Bulb.jpg"},
+    {"image":"color-temp-gu10-spot.webp","author":"Dmitry G","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:7W_LED_light_bulb_(GU10).JPG"},
+    {"image":"color-temp-hero.webp","author":"LoMit","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg"},
+    {"image":"color603010-paint-swatches-wall.webp","author":"Chris Rycroft","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Chicago_in_2022_Multi-colored_paint_swatches_(52060873322).jpg"},
+    {"image":"color603010-rainbow-swatch-range.webp","author":"Joyful spherical creature","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Rainbow_paint_swatches.jpg"},
+    {"image":"cornertv-1960s-room-tv-window.webp","author":"Kotivalo","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_with_1960s_objects.jpg"},
+    {"image":"cornertv-budapest-sofa-room.webp","author":"Justin Sch�ler","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Budapest_Apartment_(Unsplash).jpg"},
+    {"image":"cornertv-white-room-console.webp","author":"Oliur Rahman","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Laptop_in_the_living_room_(Unsplash).jpg"},
+    {"image":"curtainfabric-heavy-olive-folds.webp","author":"Easysayg","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Curtain_hanging_from_ready-made_curtain_rod_(--wiki68).jpg"},
+    {"image":"curtainfabric-hotel-floor-length-pair.webp","author":"Ounfs Robmmy 238","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93_hotel_room_living_zone_n_window_curtain_March_2024_R12S_01.jpg"},
+    {"image":"curtainfabric-white-light-filtering.webp","author":"HuiDongXLW RMDa","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:HZ_%E6%83%A0%E5%B7%9E_Huizhou_%E6%83%A0%E6%9D%B1_Huidong_%E9%87%91%E6%B5%B7%E7%81%A3%E5%A4%A7%E9%81%93_Jinhaiwan_Blvd_%E8%8F%AF%E7%BE%8E%E9%81%94%E9%85%92%E5%AE%B6_Ramada_Hotel_room_window_white_curtain_living_room_November_2023_R12S.jpg"},
+    {"image":"curtains-hk-window-stacked-open.webp","author":"YSSKACH WFAMOACSH TUNGA","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:HK_ML_%E6%B8%AF%E5%B3%B6%E5%8D%8A%E5%B1%B1_Mid-levels_%E5%B9%B2%E5%BE%B7%E9%81%93_33_Conduct_Road_FV_SceneCliff_%E6%89%BF%E5%BE%B7%E5%B1%B1%E8%8E%8A_2-29D_%E5%AE%A2%E5%BB%B3_living_room_window_January_2016_DSC_08.jpg"},
+    {"image":"curtains-hotel-living-zone-floor-length.webp","author":"Ounfs Robmmy 238","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93_hotel_room_living_zone_n_window_curtain_March_2024_R12S_01.jpg"},
+    {"image":"cushion-fill-hero.webp","author":"Dalton Scavassa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Sof%C3%A1.jpg"},
+    {"image":"cushion-fill-pillows-leather.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_on_a_leather_sofa.jpg"},
+    {"image":"depth-grey-sofa-cushions.webp","author":"Dalton Scavassa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Sof%C3%A1.jpg"},
+    {"image":"depth-grey-sofa-hero.webp","author":"Lear 21","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home24sofa.jpg"},
+    {"image":"depth-sectional-living-room.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_with_a_gray_sofa.jpg"},
+    {"image":"dimmer-rotary-wall.webp","author":"Paolomarco","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Dimmer_Light_Switch.jpg"},
+    {"image":"dimmer-wiring-box.webp","author":"Kurtkaiser","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Light_switch_wiring.jpg"},
+    {"image":"door-hotel-living-room.webp","author":"Adele Berenstein","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_area.jpg"},
+    {"image":"door-orange-sofa-hero.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_setup_with_a_warm_sofa,_coffee_cup,_and_an_open_book_in_a_softly_lit_environment.jpg"},
+    {"image":"echo-1960s-room-soft-furnishings.webp","author":"Kotivalo","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_with_1960s_objects.jpg"},
+    {"image":"echo-fabric-acoustic-panels-wall.webp","author":"36N63","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Acoustic_Panels_Office_Ceiling.jpg"},
+    {"image":"echo-panel-mineral-wool-core.webp","author":"JoraK","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Acoustic_panels_from_the_former_Radio_Tirana_villa.jpg"},
+    {"image":"entcenter-low-stand-devices.webp","author":"William Hook","license":"CC BY-SA 2.0","source":"https://commons.wikimedia.org/wiki/File:Home_cinema_01.jpg"},
+    {"image":"entcenter-old-tv-setup.webp","author":"William Hook","license":"CC BY-SA 2.0","source":"https://commons.wikimedia.org/wiki/File:Sony_TV_setup_in_2008.jpg"},
+    {"image":"entcenter-wood-wall-unit-living-room.webp","author":"Casey Fleser","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:In_Context_(4522859217).jpg"},
+    {"image":"fabric-green-velvet-hero.webp","author":"Neoclassicism Enthusiast","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Neoclassic_sofa,_designed_by_ETRO_Home_Interiors_Design_Team,_circa_2024,_solid_fir_wood_and_multilayer_pine_wood,_polyurethane_foam,_upholstery,_44_x_235_x_97_cm,_sold_at_Etro_Boutique_(Via_Pontaccio_no._17),_Milan.jpg"},
+    {"image":"fabric-grey-sofa-cushions.webp","author":"Lear 21","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home24sofa.jpg"},
+    {"image":"fabric-sofa-blanket.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Woman_arranging_colorful_blanket_on_sofa_in_cozy_living_room_during_daytime.jpg"},
+    {"image":"floatshelf-mixed-books-rows.webp","author":"Roman Eisele","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Part_of_a_bookshelf_with_mixed_books,_mostly_in_German_(1).jpg"},
+    {"image":"floatshelf-steel-support.webp","author":"Fructibus","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Stainless_steel_shelf_support_2017_-_A.jpg"},
+    {"image":"floatshelf-white-bookcase-wall.webp","author":"Egilus","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Bookshelf_for_free_exchange_in_Riga.jpg"},
+    {"image":"floor-lamp-height-hero.webp","author":"Agbarto","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:2026.11.15_Torchiere._Height-adjustable_vintage_floor_lamp_with_red_textile_lampshade.jpg"},
+    {"image":"floor-lamp-height-stained-glass.webp","author":"Louis Comfort Tiffany / Tiffany Studios","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Floor_Lamp_MET_DT8293.jpg"},
+    {"image":"floor-lamp-height-white-reading-lamp.webp","author":"FASTILY","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Floor_lamp_1_2016-07-06.jpg"},
+    {"image":"frame-black-leather-sofa.webp","author":"www.Pixel.la Free Stock Photos","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Couch-furniture-living-room-sofa_(24300293356).jpg"},
+    {"image":"frame-green-velvet-sofa.webp","author":"Neoclassicism Enthusiast","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Neoclassic_sofa,_designed_by_ETRO_Home_Interiors_Design_Team,_circa_2024,_solid_fir_wood_and_multilayer_pine_wood,_polyurethane_foam,_upholstery,_44_x_235_x_97_cm,_sold_at_Etro_Boutique_(Via_Pontaccio_no._17),_Milan.jpg"},
+    {"image":"frame-grey-sofa-hero.webp","author":"Dalton Scavassa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Sof%C3%A1.jpg"},
+    {"image":"gallerywall-frames-floor-tape.webp","author":"Personal Creations","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Mapping_out_a_photograph_wall_gallery_with_photo_frames_on_floor_and_tape_to_measure_dimensions_(16147482500).jpg"},
+    {"image":"gallerywall-frames-on-wall-home.webp","author":"Personal Creations","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Photograph_wall_gallery_in_home_with_photo_frames_on_wall_(16333093181).jpg"},
+    {"image":"hang-light-hero.webp","author":"Martin Falbisoner","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Ceiling_light_fixture_in_Hofstatt_Mall,_Munich,_February_2017.jpg"},
+    {"image":"hang-light-lamp-with-shade.webp","author":"LoMit","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg"},
+    {"image":"hang-light-red-drum-lamp.webp","author":"Agbarto","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:2026.11.15_Mid-century_modern_red_floor_lamp.jpg"},
+    {"image":"jute-sisal-combing-fibre.webp","author":"Uncredited for Keystone View Company","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:Combing_sisal_fibre,_Tekik_Plantation,_Acanceh,_Yucatan,_Mexico_1909_crop_showing_right_photo.jpg"},
+    {"image":"jute-sisal-hero.webp","author":"B.navez","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:EuropaIsland_Sisal_02.JPG"},
+    {"image":"jute-sisal-plantation.webp","author":"Forest &amp; Kim Starr","license":"CC BY 3.0","source":"https://commons.wikimedia.org/wiki/File:Starr_041223-1969_Agave_sisalana.jpg"},
+    {"image":"knotted-rug-cut-pile-carpet.webp","author":"Daderot","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Prayer_rug,_Caucasus,_Karabagh,_or_Dagestan,_c._1700,_wool_-_Huntington_Museum_of_Art_-_DSC04822.JPG"},
+    {"image":"knotted-rug-hero.webp","author":"Daderot","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Rug,_Western_Iran,_Feregahn-Sarouk,_1885-1915,_wool_-_Huntington_Museum_of_Art_-_DSC04866.JPG"},
+    {"image":"knotted-rug-prayer-wool.webp","author":"Daderot","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Prayer_rug,_Turkey,_Bergama,_late_19th_century,_wool_-_Huntington_Museum_of_Art_-_DSC04879.JPG"},
+    {"image":"lampshade-cream-base.webp","author":"LoMit","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg"},
+    {"image":"lampshade-empire-lamp.webp","author":"J.Dncsn","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Lamp_2.JPG"},
+    {"image":"layer-rugs-armchairs.webp","author":"PattayaPatrol","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:DSC_8576_Cozy_elegantly_furnished_sitting_area_with_tufted_armchairs_warm_golden_tones_and_artistic_decor.jpg"},
+    {"image":"layer-rugs-conversation-pit.webp","author":"Marsh Davis; Indiana Landmarks","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:John_E._and_Catherine_E._Christian_House,_1301_Woodland_Avenue_(West_Lafayette,_Ind.)_-_DPLA_-_560ae4f2870614f79d3744e8718e7613.jpg"},
+    {"image":"layer-rugs-hero.webp","author":"BusterD","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Duxtad_cabin_first_floor_living_area.jpg"},
+    {"image":"layered-light-hero.webp","author":"FASTILY","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Floor_lamp_1_2016-07-06.jpg"},
+    {"image":"layered-light-red-shade-lamp.webp","author":"Agbarto","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:2026.11.15_Red_drum_shade_floor_lamp.jpg"},
+    {"image":"layered-light-table-lamp.webp","author":"LoMit","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg"},
+    {"image":"leather-care-black-sofa.webp","author":"www.Pixel.la Free Stock Photos","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Couch-furniture-living-room-sofa_(24300293356).jpg"},
+    {"image":"leather-care-burgundy-set.webp","author":"Dominic's pics","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Burgundy_Leather_Sofa_Set,_Lower_Clapton_01.jpg"},
+    {"image":"leather-care-hero.webp","author":"Thomas Quine","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Antique_leather_sofa_(38642034240).jpg"},
+    {"image":"ledstrip-cove-fireplace.webp","author":"Andrey Gvrv","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Led_room_example_3.jpg"},
+    {"image":"ledstrip-spool-driver.webp","author":"Dmitry G","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:How_to_wire_LED-strip.JPG"},
+    {"image":"ledstrip-tv-back.webp","author":"Stilfehler","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:LED_strip_light_on_the_backside_of_a_TV.jpg"},
+    {"image":"loveseat-sofa-armchair-room.webp","author":"Adele Berenstein","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_area.jpg"},
+    {"image":"loveseat-sofa-hero.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_on_a_leather_sofa.jpg"},
+    {"image":"loveseat-sofa-leather-pair.webp","author":"Dominic's pics","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Burgundy_Leather_Sofa_Set,_Lower_Clapton_01.jpg"},
+    {"image":"lowlight-snake-plant-corner-pot.webp","author":"Enzo Rippa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Sansevieria_Trifasciata_.jpg"},
+    {"image":"lowlight-snake-plant-window-table.webp","author":"Martin Olsson","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Snake_plant.jpg"},
+    {"image":"lowlight-zz-plant-potted.webp","author":"Jamshid Nurkulov","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Zamioculcas_zamiifolia._Tashkent._01.jpg"},
+    {"image":"lumens-bulb-hero.webp","author":"R. Henrik Nilsson","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:2010s_IKEA_3_5W_E14_2700K_LED_light_bulb_made_in_China.jpg"},
+    {"image":"lumens-led-bulbs-group.webp","author":"Geoffrey.landis at English Wikipedia","license":"CC BY 3.0","source":"https://commons.wikimedia.org/wiki/File:LED_bulbs.jpg"},
+    {"image":"measure-cabin-sofa.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_cabin_living_room_with_wooden_interior.jpg"},
+    {"image":"measure-room-depth.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Stylish_living_room_features_a_comfortable_gray_sofa_and_wooden_paneling_under_a_high_ceiling.jpg"},
+    {"image":"measure-sofa-hero.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_setting_with_a_yellow_sofa_and_a_coffee_table_adorned_with_cups_and_a_flower_pot.jpg"},
+    {"image":"mirror-above-mantel-living-room.webp","author":"Tudor Washington Collins","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Flowers_in_a_living_room_(AM_79398-1).jpg"},
+    {"image":"mirror-round-over-wood-console.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Modern_wooden_vanity_with_round_mirror_in_minimalistic_interior_design.jpg"},
+    {"image":"mixpatterns-armenian-patterned-pillows.webp","author":"Ararat Trvants","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_with_traditional_Armenian_patterns.jpg"},
+    {"image":"mixpatterns-couch-pillows-set.webp","author":"Dawid Skalec","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_for_the_couch.JPG"},
+    {"image":"mixpatterns-leather-sofa-pillows.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_on_a_leather_sofa.jpg"},
+    {"image":"no-overhead-hero.webp","author":"Gotogo","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Table_lamp_Gladiolus.jpg"},
+    {"image":"no-overhead-red-shade-lamp.webp","author":"Agbarto","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:2026.11.15_Mid-century_modern_red_floor_lamp.jpg"},
+    {"image":"no-overhead-white-floor-lamp.webp","author":"FASTILY","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Floor_lamp_1_2016-07-06.jpg"},
+    {"image":"nodrillcurtain-hk-window-open.webp","author":"YSSKACH WFAMOACSH TUNGA","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:HK_ML_%E6%B8%AF%E5%B3%B6%E5%8D%8A%E5%B1%B1_Mid-levels_%E5%B9%B2%E5%BE%B7%E9%81%93_33_Conduct_Road_FV_SceneCliff_%E6%89%BF%E5%BE%B7%E5%B1%B1%E8%8E%8A_2-29D_%E5%AE%A2%E5%BB%B3_living_room_window_January_2016_DSC_08.jpg"},
+    {"image":"nodrillcurtain-olive-rail-folds.webp","author":"Easysayg","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Curtain_hanging_from_ready-made_curtain_rod_(--wiki68).jpg"},
+    {"image":"nodrillcurtain-white-light-panel.webp","author":"HuiDongXLW RMDa","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:HZ_%E6%83%A0%E5%B7%9E_Huizhou_%E6%83%A0%E6%9D%B1_Huidong_%E9%87%91%E6%B5%B7%E7%81%A3%E5%A4%A7%E9%81%93_Jinhaiwan_Blvd_%E8%8F%AF%E7%BE%8E%E9%81%94%E9%85%92%E5%AE%B6_Ramada_Hotel_room_window_white_curtain_living_room_November_2023_R12S.jpg"},
+    {"image":"open-plan-rug-armchairs.webp","author":"PattayaPatrol","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:DSC_8576_Cozy_elegantly_furnished_sitting_area_with_tufted_armchairs_warm_golden_tones_and_artistic_decor.jpg"},
+    {"image":"open-plan-rug-hero.webp","author":"NPS Photo","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:The_living_room_inside_the_birthplace_home_features_a_fireplace,_table_and_chairs,_family_photos,_area_rug_and_floor_console_(7f9f6e78-a966-4608-b9d0-d600db0b5f25).jpg"},
+    {"image":"open-plan-rug-sunken-living.webp","author":"Marsh Davis; Indiana Landmarks","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:John_E._and_Catherine_E._Christian_House,_1301_Woodland_Avenue_(West_Lafayette,_Ind.)_-_DPLA_-_560ae4f2870614f79d3744e8718e7613.jpg"},
+    {"image":"ottoman-coffee-table-pair.webp","author":"Sophia Baboolal","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Coffee_tables_in_front_of_a_comfy_sofa_(Unsplash).jpg"},
+    {"image":"ottoman-leather-round-pair.webp","author":"Olugold","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Ottoman_stools.jpg"},
+    {"image":"paintsheen-open-paint-cans.webp","author":"United Soybean Board","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Open_Soy_Paint_Cans_(10481728754).jpg"},
+    {"image":"paintsheen-paint-can-brush.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:A_paint_can_and_brush_rest_on_the_concrete.jpg"},
+    {"image":"paintsheen-swatch-cards-range.webp","author":"Chris Rycroft","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Chicago_in_2022_Multi-colored_paint_swatches_(52062151114).jpg"},
+    {"image":"pets-sofa-kitten-cushions.webp","author":"Feliciano Guimar�es from Guimar�es, Portugal","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Kitten_among_sofa_cushions_(2010).jpg"},
+    {"image":"pets-sofa-slipcover.webp","author":"Enric","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:004_Sof%C3%A0_amb_funda.jpg"},
+    {"image":"pillows-decorative-couch-set.webp","author":"Dawid Skalec","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_for_the_couch.JPG"},
+    {"image":"pillows-leather-sofa-group.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_on_a_leather_sofa.jpg"},
+    {"image":"pillows-wooden-sofa-red-cushions.webp","author":"Zohasheikh","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Wooden_Sofa_with_Red_Cushions.jpg"},
+    {"image":"readinglamp-adjustable-torchiere.webp","author":"Agbarto","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:2026.11.15_Torchiere._Height-adjustable_vintage_floor_lamp_with_red_textile_lampshade.jpg"},
+    {"image":"readinglamp-cozy-sunlit-corner.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_reading_corner_with_vintage_decor_and_modern_lighting_in_a_sunlit_living_space.jpg"},
+    {"image":"recessed-gimbal-trim.webp","author":"Stilfehler","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Light_fixtures_in_a_home_improvement_store_in_NY_12.jpg"},
+    {"image":"recessed-housing-display.webp","author":"Stilfehler","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Light_fixtures_in_a_home_improvement_store_in_NY_14.jpg"},
+    {"image":"recessed-led-can-trim.webp","author":"Stilfehler","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Light_fixtures_in_a_home_improvement_store_in_NY_16.jpg"},
+    {"image":"recliner-buying-armchair-room.webp","author":"Virginia State Parks staff","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:WE_PRR_Living_Room_chairs_(8311324928).jpg"},
+    {"image":"recliner-buying-leather-sofa.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Decorative_pillows_on_a_leather_sofa.jpg"},
+    {"image":"rug-curl-fringe-rug.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Khachagorg.jpg"},
+    {"image":"rug-curl-hero.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Tsakhkagorg.jpg"},
+    {"image":"rug-dents-hero.webp","author":"ProjectManhattan","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Black_carpet.jpg"},
+    {"image":"rug-dents-wool-medallion.webp","author":"Daderot","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Rug,_Western_Iran,_Feregahn-Sarouk,_1885-1915,_wool_-_Huntington_Museum_of_Art_-_DSC04866.JPG"},
+    {"image":"rug-on-carpet-armchairs.webp","author":"PattayaPatrol","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:DSC_8576_Cozy_elegantly_furnished_sitting_area_with_tufted_armchairs_warm_golden_tones_and_artistic_decor.jpg"},
+    {"image":"rug-on-carpet-flat-weave.webp","author":"Mervat","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Hand_Loomed_Wool_Rugs_in_Jordan_2.jpg"},
+    {"image":"rug-on-carpet-hero.webp","author":"NPS Photo","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:The_living_room_inside_the_birthplace_home_features_a_fireplace,_table_and_chairs,_family_photos,_area_rug_and_floor_console_(7f9f6e78-a966-4608-b9d0-d600db0b5f25).jpg"},
+    {"image":"rug-pad-dense-carpet.webp","author":"ProjectManhattan","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Black_carpet.jpg"},
+    {"image":"rug-pad-hero.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpet_Khachagorg.jpg"},
+    {"image":"rug-pile-flatweave-stack.webp","author":"Mervat","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Hand_Loomed_Wool_Rugs_in_Jordan.jpg"},
+    {"image":"rug-pile-sarouk-wool.webp","author":"Daderot","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Rug,_Western_Iran,_Feregahn-Sarouk,_1885-1915,_wool_-_Huntington_Museum_of_Art_-_DSC04866.JPG"},
+    {"image":"rug-shedding-pile-closeup.webp","author":"ProjectManhattan","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Black_carpet.jpg"},
+    {"image":"rug-shedding-wool-rugs.webp","author":"Mervat","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Hand_Loomed_Wool_Rugs_in_Jordan.jpg"},
+    {"image":"rug-size-armchairs-on-rug.webp","author":"PattayaPatrol","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:DSC_8576_Cozy_elegantly_furnished_sitting_area_with_tufted_armchairs_warm_golden_tones_and_artistic_decor.jpg"},
+    {"image":"rug-size-conversation-area.webp","author":"Marsh Davis; Indiana Landmarks","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:John_E._and_Catherine_E._Christian_House,_1301_Woodland_Avenue_(West_Lafayette,_Ind.)_-_DPLA_-_560ae4f2870614f79d3744e8718e7613.jpg"},
+    {"image":"rug-size-hero.webp","author":"NPS Photo","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:The_living_room_inside_the_birthplace_home_features_a_fireplace,_table_and_chairs,_family_photos,_area_rug_and_floor_console_(7f9f6e78-a966-4608-b9d0-d600db0b5f25).jpg"},
+    {"image":"runner-size-three-runners.webp","author":"Sununa","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carpets_from_Shushi_Carpet_Museum.jpg"},
+    {"image":"sag-cushions-hero.webp","author":"Durova","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Filet_crochet_sofa_blanket.jpg"},
+    {"image":"sag-cushions-slipcover.webp","author":"Enric","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:004_Sof%C3%A0_amb_funda.jpg"},
+    {"image":"sconce-above-tufted-chairs.webp","author":"Jedodo756","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Elegant_Interior_with_Stylish_Wall_Sconce_Lighting.jpg"},
+    {"image":"sconce-brass-opal-shade.webp","author":"unknown (see Commons page)","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Applique_murale_-_20150802_11h32_(10668).jpg"},
+    {"image":"sconce-wall-lamp-side-table.webp","author":"Atilla Taskiran","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Living_room_furniture_(Unsplash).jpg"},
+    {"image":"sectional-dark-hero.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_with_a_gray_sofa.jpg"},
+    {"image":"sectional-room-arrangement.webp","author":"Kotivalo","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_with_1960s_objects.jpg"},
+    {"image":"sectional-white-corner.webp","author":"GardenKings","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:HK_Ka_Wah_Centre_showflat_%E6%B7%B1%E7%81%A39_Marinella_T6-A_living_room_Sofa_Oct-2011.jpg"},
+    {"image":"shelfsag-mixed-books-shelf.webp","author":"Roman Eisele","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Part_of_a_bookshelf_with_mixed_books,_mostly_in_German_(1).jpg"},
+    {"image":"shelfsag-packed-bookshelf.webp","author":"Csferrie","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:A_bookshelf_full_of_Chris_Ferrie%27s_books.jpg"},
+    {"image":"shelfsag-wood-shelf-rows.webp","author":"PeaceSeekers","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Islamic_books_shelf.jpg"},
+    {"image":"sidetable-cozy-sofa-room.webp","author":"Breather","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Cozy_interior_with_a_sofa_(Unsplash).jpg"},
+    {"image":"sidetable-kentwood-sofa.webp","author":"Kari Shea","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Sofa_Side_Table_Kentwood_(Unsplash).jpg"},
+    {"image":"sidetable-round-wall-lamp.webp","author":"Atilla Taskiran","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Living_room_furniture_(Unsplash).jpg"},
+    {"image":"sleeper-sofa-open-hero.webp","author":"N509FZ","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Friheten_sofa_bed_at_IKEA_Beijing_Siyuanqiao_Store,_bed_status_(20210418125907).jpg"},
+    {"image":"sleeper-sofa-sofa-mode.webp","author":"N509FZ","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Friheten_sofa_bed_at_IKEA_Beijing_Siyuanqiao_Store,_sofa_status_(20210418125747).jpg"},
+    {"image":"small-room-slim-arm-sofa.webp","author":"Lear 21","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home24sofa.jpg"},
+    {"image":"small-room-sofa-hero.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_setup_with_a_warm_sofa,_coffee_cup,_and_an_open_book_in_a_softly_lit_environment.jpg"},
+    {"image":"small-room-two-seat-layout.webp","author":"Adele Berenstein","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Living_room_area.jpg"},
+    {"image":"smallbigger-finland-studio-bright.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Studio_apartment_in_Finland.jpg"},
+    {"image":"smallbigger-hk-curtains-open-window.webp","author":"YSSKACH WFAMOACSH TUNGA","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:HK_ML_%E6%B8%AF%E5%B3%B6%E5%8D%8A%E5%B1%B1_Mid-levels_%E5%B9%B2%E5%BE%B7%E9%81%93_33_Conduct_Road_FV_SceneCliff_%E6%89%BF%E5%BE%B7%E5%B1%B1%E8%8E%8A_2-29D_%E5%AE%A2%E5%BB%B3_living_room_window_January_2016_DSC_08.jpg"},
+    {"image":"smallbigger-white-room-console.webp","author":"Oliur Rahman","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Laptop_in_the_living_room_(Unsplash).jpg"},
+    {"image":"smallstorage-finland-studio-room.webp","author":"Aaaatu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Studio_apartment_in_Finland.jpg"},
+    {"image":"smallstorage-leather-sofa-shelving.webp","author":"Sabri Tuzcu","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Take_a_seat_(Unsplash).jpg"},
+    {"image":"smart-bulbs-bulb-in-hand.webp","author":"Xzantiyamoloy","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Jivah_9-Watt_LED_Bulb.jpg"},
+    {"image":"soundbar-below-lg-tv.webp","author":"Dinkun Chen","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:LG_IPS_LCD_4K_TV_%26_SAMSUNG_SOUNDBAR_HW-J250.jpg"},
+    {"image":"soundbar-samsung-single-bar.webp","author":"Dinkun Chen","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:SAMSUNG_SOUNDBAR_HW-J250.jpg"},
+    {"image":"stylebooks-packed-shelf-wall.webp","author":"Csferrie","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:A_bookshelf_full_of_Chris_Ferrie%27s_books.jpg"},
+    {"image":"stylebooks-philosophers-shelf.webp","author":"Roman Eisele","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Part_of_a_bookshelf_containing_books_by_ancient_philosophers_(1.1).jpg"},
+    {"image":"styletable-book-stack-candle.webp","author":"Gabbybratcher","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Coffee_Table_book_stack.jpg"},
+    {"image":"styletable-two-tables-mugs.webp","author":"Sophia Baboolal","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Coffee_tables_in_front_of_a_comfy_sofa_(Unsplash).jpg"},
+    {"image":"styletable-yellow-sofa-cups-flowerpot.webp","author":"Shixart1985","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cozy_living_room_setting_with_a_yellow_sofa_and_a_coffee_table_adorned_with_cups_and_a_flower_pot.jpg"},
+    {"image":"surround-home-theater-tv-seating.webp","author":"NPat318","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home_theater_3.jpg"},
+    {"image":"surround-rear-view-seats.webp","author":"NPat318","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home_theater_4_rear_view.jpg"},
+    {"image":"surround-sectional-media-room.webp","author":"Derek Jensen (Tysto)","license":"Public domain","source":"https://commons.wikimedia.org/wiki/File:Home-theater-tysto2.jpg"},
+    {"image":"table-lamp-size-hero.webp","author":"Tess Mattew","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:2026.06.05_USSR_Milk_Glass_Table_Lamp_01.jpg"},
+    {"image":"table-lamp-size-measured.webp","author":"Tess Mattew","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:2026.06.05_USSR_Milk_Glass_Table_Lamp_04.jpg"},
+    {"image":"throwblanket-blue-throw-kitten.webp","author":"TudorTulok","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Tabby_Kitten_on_Blue_Throw.jpg"},
+    {"image":"throwblanket-striped-couch-cat.webp","author":"Roman Eisele","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Europ%C3%A4isch-Kurzhaar-Kater_Mika_2024-08-30_auf_Couch.jpg"},
+    {"image":"throwblanket-yellow-blue-couch.webp","author":"Roman Eisele","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Europ%C3%A4isch-Kurzhaar-Kater_Mika_2022-05-13_auf_Couch.jpg"},
+    {"image":"tvheight-flat-panel-wall.webp","author":"BrokenSphere","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Wall-mounted_36_inch_flat_panel_Panasonic_TV.JPG"},
+    {"image":"tvheight-plasma-wall-room.webp","author":"Pkepneriv","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Plasma_Flat_Panel_Mounted_on_a_wall.jpg"},
+    {"image":"tvheight-white-living-room.webp","author":"Oliur Rahman","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Laptop_in_the_living_room_(Unsplash).jpg"},
+    {"image":"tvmount-articulating-arm.webp","author":"Ben Scholzen","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Monitor_arm_stand_(1).jpg"},
+    {"image":"tvmount-vesa-adapter-plate.webp","author":"Tony Webster","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Apple_Pro_Display_XDR_VESA_Mount_Adapter.jpg"},
+    {"image":"tvmount-wall-panel-room.webp","author":"Pkepneriv","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Plasma_Flat_Panel_Mounted_on_a_wall.jpg"},
+    {"image":"tvsize-media-room-screen.webp","author":"NPat318","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Home_theater_1.jpg"},
+    {"image":"tvstand-low-stand-devices.webp","author":"William Hook","license":"CC BY-SA 2.0","source":"https://commons.wikimedia.org/wiki/File:Home_cinema_01.jpg"},
+    {"image":"tvstand-wall-unit-living-room.webp","author":"Casey Fleser","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:In_Context_(4522859217).jpg"},
+    {"image":"tvwires-cable-box-wires.webp","author":"Tony Webster","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Cable_TV_Box_(49045039997).jpg"},
+    {"image":"tvwires-hdmi-connectors.webp","author":"Kreuzschnabel","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Connectors_LAN_RCA_HDMI_SCART.jpg"},
+    {"image":"tvwires-wall-mounted-panel.webp","author":"BrokenSphere","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Wall-mounted_36_inch_flat_panel_Panasonic_TV.JPG"},
+    {"image":"washable-rugs-flatweave-stack.webp","author":"Mervat","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Hand_Loomed_Wool_Rugs_in_Jordan_2.jpg"},
+    {"image":"washable-rugs-hero.webp","author":"Mervat","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Hand_Loomed_Wool_Rugs_in_Jordan.jpg"},
+    {"image":"washable-rugs-loomed-stripes.webp","author":"Gcarrillog","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Aurora_Baz%C3%A1n_Oaxacan_Wool_Rugs.jpg"},
+    {"image":"wool-poly-hero.webp","author":"Mervat","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Hand_Loomed_Wool_Rugs_in_Jordan_2.jpg"},
+    {"image":"wool-poly-oaxacan-wool.webp","author":"Gcarrillog","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Aurora_Baz%C3%A1n_Oaxacan_Wool_Rugs.jpg"},
+    {"image":"wool-poly-prayer-rug.webp","author":"Daderot","license":"CC0","source":"https://commons.wikimedia.org/wiki/File:Prayer_rug,_Caucasus,_Karabagh,_or_Dagestan,_c._1700,_wool_-_Huntington_Museum_of_Art_-_DSC04822.JPG"},
+  ],
+  shopGuides: [],
+  relatedGuides: [
+    {"title":"Surround sound speaker placement in a living room","href":"/guide/surround-sound-speaker-placement-living-room"},
+    {"title":"Curtain fabric guide","href":"/guide/curtain-fabric-guide"},
+    {"title":"Do you need a rug pad","href":"/guide/do-you-need-a-rug-pad"},
+  ],
+};
+
+export default guide;
+export const kind = guide.kind;
+export const guideSlug = guide.guideSlug;
+export const guideTitle = guide.guideTitle;
+export const metaTitle = guide.metaTitle;
+export const metaDescription = guide.metaDescription;
+export const heroImage = guide.heroImage;
+export const lastUpdated = guide.lastUpdated;
+export const readTime = guide.readTime;
+export const quickAnswer = guide.quickAnswer;
+export const html = guide.html;
+export const imageCredits = guide.imageCredits;
+export const shopGuides = guide.shopGuides;
+export const relatedGuides = guide.relatedGuides;

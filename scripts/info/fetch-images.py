@@ -55,7 +55,7 @@ def main(path):
             continue
         meta_url = API + urllib.parse.urlencode({
             "action": "query", "format": "json", "titles": "File:" + title,
-            "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1400,
+            "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
         })
         raw = fetch(meta_url, timeout=30)
         if not raw:

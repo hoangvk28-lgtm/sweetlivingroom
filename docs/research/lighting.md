@@ -1,0 +1,21 @@
+# lighting cluster (sconces, floor lamps, ceiling fans)
+- Lumens measure output; watts only measure draw. A reading lamp wants roughly 800 to 1,500 lumens at the page; ambient accent light 200 to 400.
+- Kelvin: 2700K warm for living rooms, 3000K soft white, 4000K neutral for tasks, 5000K+ reads clinical in evening.
+- CRI 90+ renders fabric and skin tones accurately; budget LEDs often sit near 80.
+- Dimmers fail with non-dimmable bulbs: flicker, buzz, early burnout. Match the bulb to the dimmer type.
+- Plug-in sconces leave a visible cord; cord covers or raceways in wall color hide it. Cord length typically 6 to 15 ft.
+- Mount height for reading sconces: bottom of shade about 55 to 60 in above floor, or 20 in above a sitting shoulder.
+- Plug-in sconces are renter friendly: screws or hooks, no electrician; hardwire kits are separate.
+- Bulb socket size E26 (standard US) lets you swap bulbs; integrated LEDs cannot be replaced.
+- Check max bulb wattage on the socket tag; fabric shades trap heat with hot bulbs.
+- Floor lamp base weight matters for tip resistance; narrow bases near kids or pets are a risk.
+- Gooseneck heads drift or droop with age; look for tension at the joints.
+- Touch and remote controls use small controllers; the remote is lost within a year in many homes, so keep a physical switch.
+- Integrated LED lamps are sealed: when the driver dies, the lamp is done. Warranty length is a practical durability signal.
+- Ceiling fan sizing by room: 29 to 36 in blade span for up to 75 sq ft, 44 in for up to 144, 50 to 54 in for up to 225, 60 in for larger rooms.
+- Ceiling height: standard downrod fits 8 ft; 9 to 10 ft ceilings need 6 to 12 in extra downrod. Blades should be at least 7 ft above floor.
+- Low-ceiling (flush mount, hugger) fans clear 8 ft rooms but move less air.
+- DC motors run quieter and use less power than AC motors; more speeds and reverse.
+- Airflow rated in CFM; blade pitch near 12 to 15 degrees is typical.
+- Wobble comes from unbalanced blades or loose canopy screws; balancing kits and tight hardware cure most of it.
+- Fan-rated electrical box required: a standard light box cannot carry a fan.

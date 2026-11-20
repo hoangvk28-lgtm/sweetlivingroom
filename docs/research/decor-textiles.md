@@ -1,0 +1,16 @@
+# decor-textiles cluster (throw blankets)
+- Standard throw sizes: 50x60 in is a lap throw; 50x70 in covers a seated adult plus feet; 60x80 in is oversized for two people or a sofa drape.
+- Fabric families: microfiber fleece (polyester, light, cheap, pills over time), sherpa (fleece one side, fuzzy pile other side, warm and shedding), faux fur (heavy pile, sheds and mats), chenille and chunky knit (textured, snags), cotton and wool (breathable, heavier, costlier).
+- GSM (grams per square meter) shows fabric weight; 200 to 300 GSM is light fleece, 400 plus GSM is heavy; a blend of 240 and 230 GSM sherpa layers is mid weight.
+- Pilling happens on polyester fleece after repeated washes; wash inside out on cold with similar fabrics, avoid fabric softener and high heat.
+- Faux fur and sherpa shed fibers in the first washes; tumble dry on low with a dryer ball; matting from heat is permanent.
+- Static builds up in dry winter air on polyester; dryer sheets help but coat fibers and reduce softness.
+- Oeko-Tek Standard 100 certification means textiles tested for harmful substances; it is not a performance guarantee.
+- Knit throws snag on jewelry and pet claws; lay flat to dry to avoid stretching.
+- Throw on a sofa: draping over the back or arm looks styled; fold in thirds over the arm for a clean look.
+- Color: neutral beige, gray, cream suit most sofas; patterned or striped add texture; dark colors hide pet hair poorly.
+- Pet owners prefer tight weaves that shed less hair; sherpa and faux fur collect fur.
+- Machine washability: most polyester throws are machine washable; chenille and chunky knits often need gentle or hand wash; check the label.
+- Weight and warmth do not always match: thick faux fur is warm but traps heat, thin fleece with low GSM is cooler for year round use.
+- Edges: bound or blanket stitched edges resist fraying; raw cut edges unravel.
+- Packaging smells: new polyester blankets often need airing or a first wash.
