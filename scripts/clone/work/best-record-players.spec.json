@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-record-players",
+ "categorySlug": "storage-media",
+ "mainKeyword": "record player turntable",
+ "guideTitle": "Best Record Players (2026)",
+ "metaTitle": "Best Record Players (2026): 6 Turntables",
+ "metaDescription": "Six record players and turntables compared on drive type, automatic versus manual operation, Bluetooth, built-in preamp and speakers for living room listening.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/414zRaZaoEL._SL500_.jpg",
+ "expertTake": "The Audio-Technica AT-LP60X is the best overall pick for a fully automatic belt-drive deck with a simple setup, while the Sony PS-LX3BT is the pick for wireless listening through Bluetooth speakers. The Victrola Quincy suits buyers who want one box that plays vinyl, CDs and cassettes with no extra gear. Anyone who wants to learn about record care and tuning should look at a direct-drive deck like the AT-LP120XUSB.",
+ "introParagraphs": [
+  "A record player turns a shelf of vinyl into a ritual in the living room, and the choice at the start decides how much of a ritual it becomes. A simple automatic deck lowers the needle for you, while a manual deck asks you to place it yourself and rewards care.",
+  "The main splits are belt drive against direct drive, automatic against manual, and whether the deck needs a separate amplifier or has speakers and Bluetooth built in. This guide compares six players on those points so you can match one to your space and your patience."
+ ],
+ "products": [
+  {
+   "id": "B07N3XJ66N",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Audio-Technica AT-LP60X Fully Automatic Belt-Drive Stereo Turntable, Black",
+   "amazonUrl": "https://www.amazon.com/dp/B07N3XJ66N?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414zRaZaoEL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Fully automatic",
+    "Belt drive",
+    "33 and 45 RPM",
+    "Hi-fi"
+   ],
+   "specList": [
+    {
+     "label": "Drive",
+     "value": "Belt drive"
+    },
+    {
+     "label": "Operation",
+     "value": "Fully automatic"
+    },
+    {
+     "label": "Speeds",
+     "value": "33 1/3 and 45 RPM"
+    },
+    {
+     "label": "Output",
+     "value": "Stereo, with built-in phono preamp"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper middle of the group"
+    }
+   ],
+   "description": "Audio-Technica builds the AT-LP60X as a fully automatic belt-drive turntable with two speeds, 33 1/3 and 45 RPM. At the press of a button, the tonearm lifts, moves to the record and cues, then returns when the side ends. The built-in preamp lets it plug into powered speakers or a standard receiver without a separate phono stage.\n\nThe tradeoff is that the tonearm and cartridge are fixed and the plastic build is light, so the deck suits starting out rather than long-term upgrades. Compared with the AT-LP120XUSB, it is simpler and quieter in operation but has no pitch control or USB output. Against the Sony PS-LX3BT, it needs wired speakers instead of Bluetooth.\n\nSet it on a level, solid surface away from the speakers so vibration does not feed back into the needle. Clean records with a carbon brush before each play. In year three, expect to replace the stylus, which wears with play time, and check the belt for stretching if speed drifts. Keep the dust cover closed during play to reduce dust.",
+   "bestFor": "First turntable buyers who want automatic cueing and simple wired setup.",
+   "pros": [
+    "Fully automatic cueing lifts, places and returns the tonearm for you",
+    "Belt drive isolates the platter from motor vibration",
+    "A built-in preamp connects directly to powered speakers",
+    "Two speeds cover standard albums and 45 RPM singles"
+   ],
+   "cons": [
+    "A fixed tonearm and cartridge limit upgrades",
+    "Light plastic body is more sensitive to vibration"
+   ]
+  },
+  {
+   "id": "B0G96H73JD",
+   "rank": 2,
+   "badge": "Best Wireless",
+   "name": "Sony PS-LX3BT Wireless Bluetooth Turntable with Full Auto Playback",
+   "amazonUrl": "https://www.amazon.com/dp/B0G96H73JD?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31xUj9SLTcL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Bluetooth",
+    "Fully automatic",
+    "Wireless output",
+    "One-step operation"
+   ],
+   "specList": [
+    {
+     "label": "Operation",
+     "value": "Fully automatic, one step"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth to speakers, headphones, soundbars"
+    },
+    {
+     "label": "Type",
+     "value": "Belt-drive turntable"
+    },
+    {
+     "label": "Connection",
+     "value": "Wireless and wired"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper end of the group"
+    }
+   ],
+   "description": "Sony's PS-LX3BT is a fully automatic turntable that streams over Bluetooth to wireless speakers, headphones or a soundbar. One-step operation means you press one button and the tonearm handles the rest. For a living room where the sound system is already wireless, it avoids running cables across the room.\n\nThe tradeoff is audio quality: Bluetooth compresses the signal, so a wired connection will sound better when the deck is paired with good speakers. Compared with the AT-LP60X, it adds wireless output but costs more. Against the AT-LPGO, it offers similar automatic operation with a different brand and a more premium finish.\n\nPlace it on a stable table or sideboard and pair it with a Bluetooth speaker or soundbar. Keep the dust cover closed during play. Clean records before each play and replace the stylus after the recommended hours of use. In year three, check the Bluetooth pairing and the platter mat for wear.",
+   "bestFor": "Living rooms with wireless speakers or a soundbar that want no cables.",
+   "pros": [
+    "Bluetooth sends the signal to wireless speakers and headphones",
+    "Fully automatic operation needs only one press",
+    "A wired option remains for better sound quality",
+    "Clean modern styling suits living room shelves"
+   ],
+   "cons": [
+    "Bluetooth compresses sound compared with a wired connection",
+    "Upper cost tier for an entry-level deck"
+   ]
+  },
+  {
+   "id": "B0HFY53LP4",
+   "rank": 3,
+   "badge": "Best Compact Automatic",
+   "name": "Audio-Technica AT-LPGO Fully Automatic Belt-Drive Turntable, aptX Bluetooth",
+   "amazonUrl": "https://www.amazon.com/dp/B0HFY53LP4?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41f6l3PHR4L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Fully automatic",
+    "Belt drive",
+    "aptX Bluetooth",
+    "33 and 45 RPM"
+   ],
+   "specList": [
+    {
+     "label": "Drive",
+     "value": "Belt drive"
+    },
+    {
+     "label": "Operation",
+     "value": "Fully automatic"
+    },
+    {
+     "label": "Wireless",
+     "value": "Compatible with aptX codec"
+    },
+    {
+     "label": "Connection",
+     "value": "Dual RCA for wired speakers"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Middle of the group"
+    }
+   ],
+   "description": "Audio-Technica's AT-LPGO is a fully automatic belt-drive turntable that plays 33 1/3 and 45 RPM records, connects to wired audio systems and powered speakers through dual RCA outputs and supports the aptX codec for wireless use. It is a compact, lightweight deck with a cleaner shape than most entry models.\n\nThe tradeoff is that it is an entry-level plastic deck, so it will not match a heavier belt-drive turntable on stability. Compared with the AT-LP60X, it adds aptX Bluetooth but costs more. Against the Sony PS-LX3BT, it matches the automatic operation but with a different wireless codec.\n\nPlace it on a stable shelf away from speakers, and use the included dust cover. Clean records before play and replace the stylus when it wears. In year three, check the belt and platter bearing for noise, and keep the feet level to avoid skipping.",
+   "bestFor": "Small spaces that want compact automatic operation and flexible wired or wireless output.",
+   "pros": [
+    "Fully automatic operation suits beginners",
+    "aptX-compatible wireless gives better quality than basic Bluetooth",
+    "Dual RCA outputs connect to wired speakers",
+    "A compact body fits small shelves and sideboards"
+   ],
+   "cons": [
+    "Entry-level plastic build is light and sensitive to vibration",
+    "Middle cost tier is above the simplest automatic decks"
+   ]
+  },
+  {
+   "id": "B07N3S4X3P",
+   "rank": 4,
+   "badge": "Best Direct-Drive Starter",
+   "name": "Audio-Technica AT-LP120XUSB Direct-Drive Turntable with USB, Fully Manual",
+   "amazonUrl": "https://www.amazon.com/dp/B07N3S4X3P?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41e0XE0dCwL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Direct drive",
+    "Fully manual",
+    "33, 45, 78 RPM",
+    "USB output"
+   ],
+   "specList": [
+    {
+     "label": "Drive",
+     "value": "Direct-drive DC servo motor"
+    },
+    {
+     "label": "Operation",
+     "value": "Fully manual"
+    },
+    {
+     "label": "Speeds",
+     "value": "33, 45 and 78 RPM"
+    },
+    {
+     "label": "Output",
+     "value": "Analog and USB"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Top of the group"
+    }
+   ],
+   "description": "The AT-LP120XUSB is a fully manual direct-drive turntable with a DC servo motor and selectable 33, 45 and 78 RPM speeds, with analog and USB outputs. Direct drive spins the platter with a motor underneath, so it reaches speed quickly and holds it steadily, and the USB output lets you digitise records to a computer.\n\nThe tradeoff is that fully manual means you place the needle yourself, which takes a learning period and a steady hand. Compared with the AT-LP60X, it is heavier, more adjustable and more upgradable but costs much more. Against the Pioneer PLX-500, it has a more traditional hi-fi look, while the Pioneer leans toward DJ-style use.\n\nSet it on a heavy, level surface and balance the tonearm with the counterweight before first use. Clean the stylus regularly and replace it on schedule. In year three, check the anti-skate and tracking force, and dust the platter. A manual deck rewards care, and a well-set one can last for decades.",
+   "bestFor": "Buyers who want a direct-drive deck with upgrade potential and USB recording.",
+   "pros": [
+    "Direct-drive motor reaches speed fast and holds it steadily",
+    "Selectable 33, 45 and 78 RPM speeds cover most records",
+    "A USB output allows digitising records to a computer",
+    "A heavier build and adjustable tonearm allow future upgrades"
+   ],
+   "cons": [
+    "Fully manual operation has a learning curve",
+    "Top cost tier is the highest in the group"
+   ]
+  },
+  {
+   "id": "B01K1WUS9O",
+   "rank": 5,
+   "badge": "Best for Digitising",
+   "name": "Pioneer DJ PLX-500 Direct-Drive Turntable with USB Recording",
+   "amazonUrl": "https://www.amazon.com/dp/B01K1WUS9O?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51NQXCZ4ROL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Direct drive",
+    "USB output",
+    "DJ-style layout",
+    "Digitise vinyl"
+   ],
+   "specList": [
+    {
+     "label": "Drive",
+     "value": "Direct drive"
+    },
+    {
+     "label": "Output",
+     "value": "USB for recording"
+    },
+    {
+     "label": "Layout",
+     "value": "DJ-style controls"
+    },
+    {
+     "label": "Use",
+     "value": "Play and digitise vinyl"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Top of the group"
+    }
+   ],
+   "description": "Pioneer DJ's PLX-500 is a direct-drive turntable with a DJ-style layout and a USB output that records vinyl straight to a computer. It brings club-style controls to a home deck and suits owners who want to digitise a collection or experiment with mixing.\n\nThe tradeoff is that the DJ-style layout is more than most living room listeners need, and it sits at the top tier of the group. Compared with the AT-LP120XUSB, it has a similar approach but a more DJ-focused look. Against the AT-LP60X, it is heavier, more capable and far less simple.\n\nSet it on a sturdy, level surface and balance the tonearm before play. Use the USB output with recording software to digitise records. Keep the stylus clean and replace it on schedule. In year three, check the pitch control and platter for wear, and keep the dust cover closed during storage.",
+   "bestFor": "Collectors who want to digitise vinyl and enjoy DJ-style controls.",
+   "pros": [
+    "Direct-drive motor suits steady playback and quick starts",
+    "USB output records vinyl straight to a computer",
+    "DJ-style layout adds pitch control for mixing",
+    "A heavier build resists vibration better than light entry decks"
+   ],
+   "cons": [
+    "DJ-style layout is more than most listeners need",
+    "Top cost tier for a deck without an automatic mode"
+   ]
+  },
+  {
+   "id": "B0GL98DMW4",
+   "rank": 6,
+   "badge": "Best All-in-One",
+   "name": "Victrola Quincy 6-in-1 Bluetooth Record Player, Walnut, Vinyl CD Cassette and FM Radio",
+   "amazonUrl": "https://www.amazon.com/dp/B0GL98DMW4?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wE4cnEGaL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6-in-1",
+    "Vinyl and CD",
+    "Cassette and FM",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Formats",
+     "value": "Vinyl, CD, cassette and FM radio"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Finish",
+     "value": "Walnut"
+    },
+    {
+     "label": "Setup",
+     "value": "No stereo or extra equipment required"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Middle of the group"
+    }
+   ],
+   "description": "The Victrola Quincy is a vintage-looking walnut cabinet that plays vinyl, CDs and cassettes, tunes FM radio and streams over Bluetooth, with speakers built in. It runs without any extra equipment, which makes it the easiest way to listen to old formats from one box in a living room.\n\nThe tradeoff is audio quality and serviceability: all-in-one players use small speakers and lighter tonearms, so they do not match a separate deck and speakers, and a heavy tonearm can wear records faster. Compared with the AT-LP60X, it offers more formats but less fidelity. Against the Sony PS-LX3BT, it needs no pairing but is bulkier.\n\nPlace it on a stable sideboard or table and keep the lid closed during play. Clean records before play and avoid leaving heavy loads on the lid. In year three, check the cassette heads and the CD lens, which collect dust, and replace the stylus on schedule.",
+   "bestFor": "Households with mixed old media who want one simple box.",
+   "pros": [
+    "Plays vinyl, CDs and cassettes and tunes FM radio in one unit",
+    "Built-in speakers need no extra equipment",
+    "Bluetooth streams music from a phone",
+    "Walnut cabinet suits a traditional living room"
+   ],
+   "cons": [
+    "Built-in speakers and lighter tonearm limit sound quality",
+    "A bulky cabinet takes more shelf space than a single deck"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Belt drive or direct drive",
+   "explanation": "Belt drive, as on the AT-LP60X, isolates the platter from motor vibration and gives a quieter background. Direct drive, as on the AT-LP120XUSB and PLX-500, reaches speed quickly and holds it steadily. Belt drive suits quiet listening and direct drive suits tweaking and mixing."
+  },
+  {
+   "criterion": "Automatic or manual",
+   "explanation": "Automatic decks like the AT-LP60X and Sony lift and place the needle for you, which protects records from slips. Manual decks like the AT-LP120XUSB reward care but can scratch a record if you drop the needle. Choose by how comfortable you are with a delicate action."
+  },
+  {
+   "criterion": "Preamp and speakers",
+   "explanation": "Turntables output a weak signal that needs a phono preamp. Some decks have one built in, and all-in-one players like the Victrola Quincy include speakers too. If you own a receiver with a phono input, you may not need either."
+  },
+  {
+   "criterion": "Cartridge and stylus",
+   "explanation": "The stylus is the part that wears, and it matters for record life. Entry decks have fixed cartridges, while heavier decks allow upgrades. Plan to replace the stylus after about a thousand hours of play."
+  },
+  {
+   "criterion": "Wireless and USB",
+   "explanation": "Bluetooth, as on the Sony and AT-LPGO, removes cables but compresses sound. USB, as on the AT-LP120XUSB and PLX-500, lets you record vinyl to a computer. Decide which matters to you, because both add cost."
+  },
+  {
+   "criterion": "Build and placement",
+   "explanation": "A light plastic deck picks up footfalls and speaker vibration, so it needs a solid, level shelf. A heavier deck resists it better. Keep the turntable away from speakers and out of direct sun."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Fully automatic",
+   "meaning": "The tonearm lifts, places and returns itself at a button press. It protects records from slips.",
+   "watchFor": "The AT-LP60X, AT-LPGO and Sony are automatic; the AT-LP120XUSB is manual."
+  },
+  {
+   "spec": "Built-in phono preamp",
+   "meaning": "A preamp boosts the turntable's weak signal to line level. It lets you plug into powered speakers.",
+   "watchFor": "Check whether the preamp is switchable if you own a receiver with a phono input."
+  },
+  {
+   "spec": "Direct-drive DC servo",
+   "meaning": "A motor under the platter spins it directly. It reaches speed fast and holds it.",
+   "watchFor": "The AT-LP120XUSB lists a direct-drive DC servo motor."
+  },
+  {
+   "spec": "aptX codec",
+   "meaning": "aptX is a Bluetooth codec that gives better quality than basic Bluetooth when both ends support it.",
+   "watchFor": "The AT-LPGO lists aptX compatibility; your speaker must support it too."
+  },
+  {
+   "spec": "78 RPM support",
+   "meaning": "78 RPM plays old shellac records, which need a different stylus.",
+   "watchFor": "The AT-LP120XUSB lists 78 RPM; most belt decks list only 33 and 45."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Drive and operation",
+   "description": "We compared belt and direct drive, and automatic and manual operation across the six decks. Each suits a different owner. We favoured designs that protect records."
+  },
+  {
+   "title": "Connectivity",
+   "description": "We looked at built-in preamps, Bluetooth, aptX and USB. The Sony and AT-LPGO focus on wireless, the AT-LP120XUSB and PLX-500 on USB. We matched connections to living room setups."
+  },
+  {
+   "title": "Build and stability",
+   "description": "We read weight, plinth and platter details and considered vibration. Light decks need solid shelves. We did not measure any decks."
+  },
+  {
+   "title": "Upgrade path",
+   "description": "We noted whether the cartridge and tonearm can be changed. The AT-LP120XUSB has the most scope, the AT-LP60X the least. We favoured decks with room to grow."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We researched common themes: skipping on light decks, stylus wear and Bluetooth lag. These shape our cons. We did not use ratings or review counts."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Operation",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "First deck, no fuss",
+      "AT-LP60X",
+      "Automatic and wired"
+     ],
+     [
+      "Wireless speakers",
+      "Sony PS-LX3BT",
+      "Bluetooth and automatic"
+     ],
+     [
+      "Compact and flexible",
+      "AT-LPGO",
+      "Automatic with aptX"
+     ],
+     [
+      "Learn and upgrade",
+      "AT-LP120XUSB",
+      "Manual direct drive"
+     ],
+     [
+      "Mixed media",
+      "Victrola Quincy",
+      "Plays several formats"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Middle",
+      "Victrola Quincy or AT-LPGO",
+      "All-in-one or compact automatic"
+     ],
+     [
+      "Upper middle",
+      "AT-LP60X",
+      "Reliable automatic deck"
+     ],
+     [
+      "Upper end",
+      "Sony PS-LX3BT",
+      "Wireless automatic"
+     ],
+     [
+      "Top of the group",
+      "AT-LP120XUSB or PLX-500",
+      "Direct drive and USB"
+     ],
+     [
+      "Best value overall",
+      "AT-LP60X",
+      "Automatic and simple"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Belt Drive vs Direct Drive",
+   "cards": [
+    {
+     "label": "Belt drive",
+     "text": "The AT-LP60X, AT-LPGO and Sony isolate the motor from the platter. They suit quiet listening and simple setup."
+    },
+    {
+     "label": "Direct drive",
+     "text": "The AT-LP120XUSB and PLX-500 spin the platter directly. They suit tweaking, mixing and digitising."
+    }
+   ],
+   "note": "Pick belt drive for relaxed listening and direct drive if you want control and USB."
+  },
+  {
+   "subheading": "By Sound System",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No speakers yet",
+      "Victrola Quincy",
+      "Built-in speakers"
+     ],
+     [
+      "Powered speakers",
+      "AT-LP60X",
+      "Built-in preamp"
+     ],
+     [
+      "Bluetooth speakers",
+      "Sony PS-LX3BT",
+      "Wireless output"
+     ],
+     [
+      "Receiver with phono input",
+      "AT-LP120XUSB",
+      "Manual deck with analog output"
+     ],
+     [
+      "Computer recording",
+      "PLX-500",
+      "USB output"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Living Room Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A deck on a solid shelf, a style that suits the room, an operation you will enjoy and a sound system that matches."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The AT-LP60X and Sony suit relaxed living room listening, while the Victrola suits a household with mixed old media."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want upgrades, USB recording or a heavy deck that resists vibration, such as the AT-LP120XUSB."
+    },
+    {
+     "label": "Save if",
+     "text": "You just want to play a few albums, where the AT-LP60X or AT-LPGO is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Brush records before play",
+   "interval": "Every play",
+   "why": "Dust grinds into grooves. A carbon brush keeps them clean."
+  },
+  {
+   "task": "Replace the stylus",
+   "interval": "About every thousand hours",
+   "why": "A worn stylus damages records. Replace it on schedule."
+  },
+  {
+   "task": "Check belt and speed",
+   "interval": "Yearly",
+   "why": "Belts stretch and speed drifts. A new belt restores timing."
+  },
+  {
+   "task": "Level the deck",
+   "interval": "When moved",
+   "why": "An unlevel deck skips. A small bubble level helps."
+  },
+  {
+   "task": "Keep the dust cover closed",
+   "interval": "During play and storage",
+   "why": "Dust on the platter ends up on the stylus. Closing the cover cuts it."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a separate amplifier for a record player?",
+   "a": "Only if the deck lacks a built-in preamp or speakers. Many entry decks plug into powered speakers directly. If your receiver has a phono input, switch the deck's internal preamp off so the signal is not boosted twice, which causes distortion and is a very common setup mistake."
+  },
+  {
+   "q": "How much does a record player cost?",
+   "a": "Prices move, so check the current listing. The Victrola and AT-LPGO sit lower and the direct-drive decks at the top. Features and build drive cost, and it is worth keeping a little budget aside for a record brush, a spare stylus and a decent shelf, since those matter as much as the deck itself."
+  },
+  {
+   "q": "Can a record player damage my records?",
+   "a": "A light tonearm with a worn stylus can. Keep the stylus fresh and avoid very light decks with heavy tracking force. Dirty records are the other common culprit, so brush them before every play and store them upright in their inner sleeves rather than leaning in a pile."
+  },
+  {
+   "q": "Is Bluetooth as good as wired?",
+   "a": "Wired gives better quality because Bluetooth compresses the signal. aptX narrows the gap if both ends support it. In a living room with background listening, many owners cannot tell the difference, but critical listening with good speakers rewards a cable, and a wired path also avoids the small delay Bluetooth adds."
+  },
+  {
+   "q": "Why does my record skip?",
+   "a": "Common causes are a dusty stylus, an unlevel deck, vibration from speakers or a warped record. Check these in order. Moving the deck to a different shelf, away from the speakers and the floor that bounces when people walk, solves more skipping than any adjustment to the tonearm."
+  },
+  {
+   "q": "Can I play 78 RPM records?",
+   "a": "Only on decks with a 78 RPM speed, like the AT-LP120XUSB, and with the right stylus. Most belt decks do not support it. Playing 78s with the wrong stylus can damage them, so if you own only a few old shellac records, a separate stylus or a specialist service may be a better choice than changing your deck."
+  }
+ ],
+ "relatedGuides": []
+}

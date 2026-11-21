@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-tv-antennas",
+ "categorySlug": "storage-media",
+ "mainKeyword": "indoor tv antenna",
+ "guideTitle": "Best TV Antennas (2026)",
+ "metaTitle": "Best TV Antennas (2026): 6 Indoor Picks",
+ "metaDescription": "Six indoor TV antennas compared on honest range, amplifier design, cable length, placement and reception reality, with a warning about inflated mile claims.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31BGHcL-hKL._SL500_.jpg",
+ "expertTake": "The Channel Master FLATenna is the best overall pick because it states a realistic 35 mile range and comes from a company that makes antennas, while the DAANT 16 foot model is the value pick for flexible cable length. The dual-booster Yaslahut suits a window far from the TV. Anyone living far from broadcast towers should skip indoor antennas and look at an outdoor or attic model.",
+ "introParagraphs": [
+  "An indoor TV antenna pulls free over-the-air channels from broadcast towers, which means local news, network shows and sports without a monthly fee. For many households it is the cheapest way to keep local channels after cutting cable.",
+  "Antennas are also the most exaggerated product category on the shelf. Claims of thousands of miles are not physically meaningful, and what actually matters is your distance to the towers, where you place the antenna and whether any amplifier helps or hurts. This guide compares six models with that reality in mind."
+ ],
+ "products": [
+  {
+   "id": "B074TWSQFM",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Channel Master FLATenna Indoor Digital HDTV Antenna, 35 Mile Range, 12 Foot Coax",
+   "amazonUrl": "https://www.amazon.com/dp/B074TWSQFM?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31BGHcL-hKL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "35 mile range",
+    "12 ft coax",
+    "Ultra thin",
+    "Reversible"
+   ],
+   "specList": [
+    {
+     "label": "Stated range",
+     "value": "35 miles"
+    },
+    {
+     "label": "Cable",
+     "value": "12 ft coaxial"
+    },
+    {
+     "label": "Design",
+     "value": "Ultra-thin, lightweight, reversible black and white"
+    },
+    {
+     "label": "Channels",
+     "value": "ABC, CBS, FOX, NBC, PBS, Univision and more"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper end of the group"
+    }
+   ],
+   "description": "Channel Master's FLATenna is a thin, flat antenna with a stated 35 mile range, a 12 foot coaxial cable and a reversible black and white face so it can blend with a wall or window. It receives the main networks and digital sub-channels, including ABC, CBS, FOX, NBC, PBS and Univision where they broadcast in your area.\n\nThe tradeoff is that a 35 mile range is honest and short: if the nearest tower is farther away, it will struggle without a rooftop antenna. Compared with the amplified models in this guide, the FLATenna has no booster, which avoids overload near towers but gives less help far away. Against the DAANT, it has a shorter cable but a more believable range claim.\n\nStick it to a window facing the towers with the supplied adhesive or tape, then run a channel scan on the TV. Move it a few inches and rescan if channels drop, since placement matters more than any feature. In year three, check the coax connector for looseness and rescan every few months, because stations change frequencies.",
+   "bestFor": "Households within about 35 miles of the towers that want a thin window antenna.",
+   "pros": [
+    "States a realistic 35 mile range instead of an inflated claim",
+    "Ultra-thin and reversible, so it blends with a wall or window",
+    "A 12 foot coax cable reaches most living room windows",
+    "Made by a company that specialises in antennas"
+   ],
+   "cons": [
+    "No amplifier, so it will not help in weak signal areas",
+    "Upper end cost tier for an unamplified flat antenna"
+   ]
+  },
+  {
+   "id": "B0D5YH3R5C",
+   "rank": 2,
+   "badge": "Best Value Cable Length",
+   "name": "DAANT Indoor Long Range TV Antenna with Smart IC Chip and 16 Foot Coax Cable",
+   "amazonUrl": "https://www.amazon.com/dp/B0D5YH3R5C?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41rQdjO9lfL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "16 ft coax",
+    "Smart IC chip",
+    "4K and 1080p",
+    "Local channels"
+   ],
+   "specList": [
+    {
+     "label": "Cable",
+     "value": "16 ft coaxial with shielding"
+    },
+    {
+     "label": "Chip",
+     "value": "Smart IC chip"
+    },
+    {
+     "label": "Video",
+     "value": "Supports 4K and 1080p broadcasts"
+    },
+    {
+     "label": "Channels",
+     "value": "Local broadcasts"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Lowest of the group"
+    }
+   ],
+   "description": "DAANT's indoor antenna uses a smart IC chip to filter and amplify signals, with a 16 foot coaxial cable that has multiple layers of shielding. At the lowest cost tier in the group, it is the cheapest way to try over-the-air TV and the extra cable length gives more freedom to place it at a window.\n\nThe tradeoff is that the listing says long range without a mile figure that you can check, so treat the claim carefully. Compared with the FLATenna, it adds four feet of cable and a booster chip at a much lower cost, but gives less certainty on range. Against the HIDB, it has a longer cable but no magnetic base.\n\nPlace it by a window or high on a wall facing the towers, then scan channels. If reception is patchy, try a different spot before you blame the antenna. In year three, check the cable for kinks, rescan channels and consider turning off the booster if you live close to the towers and see pixelation.",
+   "bestFor": "Buyers who want to test over-the-air TV at the lowest cost tier.",
+   "pros": [
+    "A 16 foot shielded cable gives flexible placement",
+    "A smart IC chip filters out some interference",
+    "Lowest cost tier makes it an easy trial purchase",
+    "Supports 4K and 1080p broadcasts where stations offer them"
+   ],
+   "cons": [
+    "Long range claim has no checkable mile figure",
+    "An amplifier can overload near a tower and cause pixelation"
+   ]
+  },
+  {
+   "id": "B07YJ4TKFM",
+   "rank": 3,
+   "badge": "Best Magnetic Mount",
+   "name": "HIDB Indoor Digital HD TV Antenna with Magnetic Base and Omnidirectional Reception",
+   "amazonUrl": "https://www.amazon.com/dp/B07YJ4TKFM?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31N4OxkQv5L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Omnidirectional",
+    "Magnetic base",
+    "OTA HD",
+    "Indoor"
+   ],
+   "specList": [
+    {
+     "label": "Reception",
+     "value": "Omnidirectional"
+    },
+    {
+     "label": "Mount",
+     "value": "Magnetic base"
+    },
+    {
+     "label": "Use",
+     "value": "Local OTA channels, no monthly bill"
+    },
+    {
+     "label": "Video",
+     "value": "HD digital"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Lower middle of the group"
+    }
+   ],
+   "description": "HIDB's indoor antenna uses an omnidirectional design and a magnetic base so it can sit on a metal surface such as a fridge or a steel shelf. The pitch is that you never pay a monthly bill for local channels, and omnidirectional reception means you do not have to aim it at one tower.\n\nThe tradeoff is that an omnidirectional design picks up noise from every direction, so a household with lots of electronics may see interference. Compared with a directional model, it is easier to place but may reach fewer distant stations. Against the DAANT, it adds a magnetic base but has no stated cable length in the highlights.\n\nPlace it on a window frame or metal surface and run a scan. Keep it away from routers, microwaves and LED lamps that add noise. In year three, check the base magnet and the cable for wear, and rescan channels each season. It suits a quick, low-effort setup.",
+   "bestFor": "Quick setups where aiming is a nuisance and a metal surface is handy.",
+   "pros": [
+    "Omnidirectional reception removes the need to aim",
+    "A magnetic base mounts on steel surfaces without tape",
+    "Free local channels remove a monthly bill",
+    "Lower middle cost tier for a simple antenna"
+   ],
+   "cons": [
+    "Omnidirectional designs pick up noise from all sides",
+    "May reach fewer distant stations than a directional antenna"
+   ]
+  },
+  {
+   "id": "B0HNJKSLFF",
+   "rank": 4,
+   "badge": "Best Plug and Play",
+   "name": "URIIU Indoor TV Antenna with Magnetic Base, Smart IC Chip and Signal Amplifier",
+   "amazonUrl": "https://www.amazon.com/dp/B0HNJKSLFF?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UeEkWwrBL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Smart IC chip",
+    "Signal amplifier",
+    "Magnetic base",
+    "ANT IN plug"
+   ],
+   "specList": [
+    {
+     "label": "Electronics",
+     "value": "Smart IC chip and amplifier"
+    },
+    {
+     "label": "Mount",
+     "value": "Magnetic base"
+    },
+    {
+     "label": "Connection",
+     "value": "TV ANT IN port"
+    },
+    {
+     "label": "Channels",
+     "value": "ABC, CBS, NBC, FOX and PBS"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Middle of the group"
+    }
+   ],
+   "description": "URIIU's indoor antenna combines a smart IC chip and amplifier with a magnetic base, and plugs into the TV's ANT IN port before a quick channel scan. It is aimed at the five main networks, ABC, CBS, NBC, FOX and PBS, which cover most of what people want from over-the-air TV.\n\nThe tradeoff is the marketing: the listing promotes a 5000 mile figure, which is not something a real antenna can deliver, since reception depends on line of sight and tower power. Compared with the FLATenna, it adds a booster and a magnet, but is less transparent about range. Against the HIDB, it adds an amplifier.\n\nConnect the cable, scan, and fine-tune the position by a window. If pictures break up, try turning off or reducing the amplifier if the model allows it, because a booster can overload near the tower. In year three, rescan for channel changes and check the cable ends.",
+   "bestFor": "Buyers who want a simple plug and scan antenna for the main networks.",
+   "pros": [
+    "A smart chip and amplifier help in marginal reception",
+    "A magnetic base mounts on steel surfaces",
+    "Plugs into the ANT IN port with a quick scan",
+    "Covers the main networks of ABC, CBS, NBC, FOX and PBS"
+   ],
+   "cons": [
+    "The 5000 mile claim is not physically meaningful",
+    "A booster can overload near the towers"
+   ]
+  },
+  {
+   "id": "B0HPMVMD4D",
+   "rank": 5,
+   "badge": "Best Dual-Booster",
+   "name": "Yaslahut Indoor TV Antenna with Dual Signal Boosters and 32 Foot Coax Cable",
+   "amazonUrl": "https://www.amazon.com/dp/B0HPMVMD4D?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41SujPdK1TL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Dual boosters",
+    "32 ft coax",
+    "4K and 1080p",
+    "Smart TV ready"
+   ],
+   "specList": [
+    {
+     "label": "Boosters",
+     "value": "Two signal boosters"
+    },
+    {
+     "label": "Cable",
+     "value": "32 ft coaxial"
+    },
+    {
+     "label": "Video",
+     "value": "Supports 4K and 1080p broadcasts"
+    },
+    {
+     "label": "Use",
+     "value": "Smart TVs and standard TVs"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper middle of the group"
+    }
+   ],
+   "description": "Yaslahut's antenna uses two signal boosters and a 32 foot coaxial cable, which lets you place the antenna at a window far from the TV. The long cable is the practical advantage, since the best reception spot is often a window or high wall that is far from the media console.\n\nThe tradeoff is that a long cable loses a little signal over its length, and two boosters can overload the tuner if you live close to the towers. Compared with the DAANT, the Yaslahut offers twice the cable length and a second booster, at a higher cost tier. Against the FLATenna, it trades a believable range figure for more boosting.\n\nRun the cable neatly along a baseboard or behind furniture, and place the antenna at the best window. Scan, then rescan after small movements. If pictures pixelate near the towers, try a shorter run or disable a booster if possible. In year three, check the cable and connectors, and rescan seasonally.",
+   "bestFor": "Rooms where the best reception window is far from the TV.",
+   "pros": [
+    "A 32 foot coax cable reaches distant windows from the TV",
+    "Dual boosters can help in weaker signal areas",
+    "Supports 4K and 1080p broadcasts where available",
+    "Works with smart TVs and standard TVs alike"
+   ],
+   "cons": [
+    "Two boosters can overload the tuner near the towers",
+    "A long cable adds clutter and a little signal loss"
+   ]
+  },
+  {
+   "id": "B0HKFD8JRN",
+   "rank": 6,
+   "badge": "Best Weather-Resistant Shell",
+   "name": "A8cyc8R Indoor TV Antenna, 33 Foot Cable, Weather-Resistant Shell, High-Gain Chip",
+   "amazonUrl": "https://www.amazon.com/dp/B0HKFD8JRN?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41joBGgXOWL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "33 ft cable",
+    "Weather resistant",
+    "High-gain chip",
+    "8K and 4K"
+   ],
+   "specList": [
+    {
+     "label": "Cable",
+     "value": "33 ft thickened coax"
+    },
+    {
+     "label": "Shell",
+     "value": "Weather-resistant with lightning, wind and rain shielding"
+    },
+    {
+     "label": "Chip",
+     "value": "High-gain signal chip"
+    },
+    {
+     "label": "Video",
+     "value": "8K, 4K and 1080p"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper end of the group"
+    }
+   ],
+   "description": "This antenna pairs a high-gain chip with a reinforced weather-resistant shell and a thickened 33 foot cable, which suggests it can be placed outdoors or in an attic as well as inside. The long cable gives the most reach in the group, and the sealed shell is a rare feature among indoor models.\n\nThe tradeoff is that the listing quotes a range figure in thousands of miles, which is not physically achievable, and the upper end cost tier is high for an unbranded product. Compared with the Yaslahut, it has a similar cable and a sturdier shell. Against the FLATenna, it trades believable claims for more cable and weatherproofing.\n\nIf you try it outdoors or in an attic, seal the connector with weatherproof tape and keep the cable out of puddles. Aim it toward the towers, scan and adjust. In year three, check the connector for corrosion and the shell for cracks, and rescan channels each season.",
+   "bestFor": "Attic or balcony trials where a sealed shell and long cable help.",
+   "pros": [
+    "A weather-resistant shell allows attic or balcony placement",
+    "A 33 foot thickened cable is the longest in the group",
+    "A high-gain chip helps in marginal reception",
+    "Supports 4K and 1080p broadcasts where stations offer them"
+   ],
+   "cons": [
+    "A range claim in thousands of miles is not credible",
+    "Upper end cost tier for an unbranded antenna"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Distance to the towers",
+   "explanation": "Your distance to broadcast towers decides almost everything. A flat antenna like the FLATenna suits within about 35 miles with a clear line of sight. Beyond about 40 or 50 miles, hills, buildings and trees matter and an outdoor antenna usually wins. Look up your local tower locations before you buy."
+  },
+  {
+   "criterion": "Honest range claims",
+   "explanation": "Claims of 2,500 or 5,000 miles on boxes like the URIIU and A8cyc8R are not meaningful, since TV signals travel in straight lines and fade with distance. Prefer a stated range of 35 to 60 miles. A believable number is a mark of a seller who knows the product."
+  },
+  {
+   "criterion": "Amplified or not",
+   "explanation": "A booster can help when the signal is weak, but it also amplifies noise and can overload the tuner near the towers. The FLATenna has none, while the Yaslahut has two. If you live close, an unamplified antenna may give a cleaner picture."
+  },
+  {
+   "criterion": "Cable length and loss",
+   "explanation": "Longer cables like the 32 and 33 foot models let you reach a window far from the TV, but every foot loses a little signal. Keep the run as short as practical. Quality shielding, as the DAANT lists, reduces interference."
+  },
+  {
+   "criterion": "Placement and mounting",
+   "explanation": "Height and a clear line to the towers beat any feature. A window facing the towers is best, and metal bases like the HIDB need a steel surface. Avoid placing the antenna beside routers or microwaves."
+  },
+  {
+   "criterion": "Channel scanning and upkeep",
+   "explanation": "Stations change frequencies and channels move. Rescan every few months, and rescan after moving the antenna. A TV that remembers stale channels is the most common reason people think an antenna has stopped working."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Stated range in miles",
+   "meaning": "This is the maker's guess at how far the antenna can pick up signals in ideal conditions. Real range depends on terrain.",
+   "watchFor": "The FLATenna lists 35 miles; others list thousands of miles, which is not meaningful."
+  },
+  {
+   "spec": "Omnidirectional",
+   "meaning": "An omnidirectional antenna accepts signals from all directions. It avoids aiming but also picks up noise.",
+   "watchFor": "The HIDB is omnidirectional; flat window antennas are more directional."
+  },
+  {
+   "spec": "Amplifier or booster",
+   "meaning": "A booster raises signal strength after the antenna. It cannot create signal that is not there.",
+   "watchFor": "The Yaslahut lists two boosters, which can overload near the towers."
+  },
+  {
+   "spec": "Coax cable length",
+   "meaning": "The cable runs from the antenna to the TV. Longer cables offer placement freedom and lose some signal.",
+   "watchFor": "The A8cyc8R lists 33 feet, the DAANT 16 feet and the FLATenna 12 feet."
+  },
+  {
+   "spec": "VHF and UHF coverage",
+   "meaning": "Broadcasts use VHF and UHF bands. Antennas need to cover the bands your stations use.",
+   "watchFor": "Some listings mention both bands; check yours with a signal map."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Range honesty",
+   "description": "We compared stated ranges, from 35 miles on the FLATenna to claims of thousands of miles on others. We scored believable claims higher. We did not measure any reception."
+  },
+  {
+   "title": "Amplifier design",
+   "description": "We read booster descriptions, from no amplifier on the FLATenna to two boosters on the Yaslahut. We weighed how each helps and where it can hurt. We noted overload risk near towers."
+  },
+  {
+   "title": "Cable and placement",
+   "description": "We compared cable lengths from 12 to 33 feet and mounting options such as magnetic bases. We favoured models that let you reach a good window."
+  },
+  {
+   "title": "Build and shell",
+   "description": "We looked at the thin FLATenna, the magnetic models and the weather-resistant A8cyc8R. Each suits a different spot. We favoured durable connectors."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We researched common themes: inflated range claims, pixelation near towers and missing channels after a move. These shape our cons. We did not use ratings or review counts."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Distance to Towers",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Under 20 miles",
+      "Channel Master FLATenna",
+      "Unamplified avoids overload"
+     ],
+     [
+      "20 to 35 miles",
+      "FLATenna or DAANT",
+      "Believable range or booster chip"
+     ],
+     [
+      "35 to 50 miles",
+      "Yaslahut dual-booster",
+      "Boosters and a long cable"
+     ],
+     [
+      "Weak signal",
+      "A8cyc8R with weather shell",
+      "Outdoor or attic trial"
+     ],
+     [
+      "Over 50 miles",
+      "Outdoor antenna instead",
+      "Indoor antennas struggle"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "DAANT",
+      "Cheapest way to try OTA"
+     ],
+     [
+      "Lower middle",
+      "HIDB",
+      "Simple magnetic antenna"
+     ],
+     [
+      "Middle",
+      "URIIU",
+      "Booster and magnet"
+     ],
+     [
+      "Upper middle",
+      "Yaslahut",
+      "Dual booster and long cable"
+     ],
+     [
+      "Upper end",
+      "FLATenna or A8cyc8R",
+      "Brand or weather shell"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Amplified vs Unamplified",
+   "cards": [
+    {
+     "label": "Unamplified",
+     "text": "The FLATenna avoids overload near the towers and gives a clean picture when the signal is strong."
+    },
+    {
+     "label": "Amplified",
+     "text": "The Yaslahut, URIIU and DAANT help when the signal is weak, but a booster can hurt near towers."
+    }
+   ],
+   "note": "Pick unamplified if you live close to the towers and amplified if you are far or the window is poor."
+  },
+  {
+   "subheading": "By Placement",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Window facing towers",
+      "FLATenna",
+      "Thin and sticks to glass"
+     ],
+     [
+      "Metal shelf or fridge",
+      "HIDB or URIIU",
+      "Magnetic bases"
+     ],
+     [
+      "Far from the TV",
+      "Yaslahut",
+      "32 foot cable"
+     ],
+     [
+      "Attic or balcony",
+      "A8cyc8R",
+      "Weather-resistant shell"
+     ],
+     [
+      "Moderate run",
+      "DAANT",
+      "16 foot cable"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Living Room Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A believable range, a cable that reaches the best window, a mount that suits your wall and an amplifier only if your signal is weak."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The FLATenna suits a clean window install near towers, while the Yaslahut and A8cyc8R suit awkward layouts."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a clear range figure and a known brand like the FLATenna, or a sealed shell for an attic trial."
+    },
+    {
+     "label": "Save if",
+     "text": "You live close to the towers and only want local news, where the DAANT is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Rescan channels",
+   "interval": "Every few months",
+   "why": "Stations change frequencies. A rescan restores missing channels."
+  },
+  {
+   "task": "Check the coax connector",
+   "interval": "Twice a year",
+   "why": "Loose connectors cause dropouts. Hand-tighten the nut."
+  },
+  {
+   "task": "Reposition after changes",
+   "interval": "When furniture or windows change",
+   "why": "New obstacles block signals. Small moves help."
+  },
+  {
+   "task": "Keep away from noise sources",
+   "interval": "Always",
+   "why": "Routers, microwaves and LEDs add interference."
+  },
+  {
+   "task": "Inspect the cable",
+   "interval": "Yearly",
+   "why": "Kinks and cuts cause loss. Replace damaged cable."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do indoor antennas really work?",
+   "a": "Yes, if you are within range and have a decent line to the towers. In cities near towers, a flat antenna can deliver clear HD channels for free. In rural areas, indoor models often struggle."
+  },
+  {
+   "q": "How much does a TV antenna cost?",
+   "a": "Prices move, so check the current listing. The DAANT sits at the low end and the FLATenna and A8cyc8R at the upper end. Brand and cable length drive cost."
+  },
+  {
+   "q": "Is a 5000 mile antenna real?",
+   "a": "No. TV signals travel in straight lines and fade with distance, so claims of thousands of miles are marketing. Look for a stated range of 35 to 60 miles."
+  },
+  {
+   "q": "Do I need an amplifier?",
+   "a": "Only if your signal is weak. Near towers, an amplifier can overload the tuner and cause pixelation, so try without one first."
+  },
+  {
+   "q": "Why am I missing channels?",
+   "a": "Common causes are poor placement, a stale channel list, interference or distance. Rescan, move the antenna and check a signal map."
+  },
+  {
+   "q": "Can I use one antenna for several TVs?",
+   "a": "A splitter can share one antenna but loses signal with each split. A distribution amplifier helps, though you may do better with one antenna per room."
+  }
+ ],
+ "relatedGuides": []
+}

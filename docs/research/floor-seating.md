@@ -1,0 +1,15 @@
+# floor-seating cluster (floor cushions, pouffes, poufs)
+- Floor cushions are usually 16 to 32 in wide; 22 in squares and rounds suit one adult; 32 in oversized ones suit lounging.
+- Thickness is the comfort variable: 4 in compresses fast under an adult; 5 to 6 in holds a seated adult longer.
+- Fill: shredded memory foam moulds and recovers slowly; polyfill is cheaper and flattens sooner; solid foam blocks stay firm.
+- Vacuum-compressed cushions need 24 to 72 hours to expand; judge them after that.
+- Cover fabric: corduroy and canvas hide wear; fleece and velvet collect hair; look for a zipper that opens fully for washing.
+- Foam inserts do not go in washers; wash only covers, air dry foam.
+- Floor seating suits short sessions: no back support, hips and knees fatigue; a wall or sofa as a backrest helps.
+- Kids floor cushions are small and light for classroom use; thin ones are not adult seating.
+- Hard floors let cushions slide; a rug underneath keeps them put; cushions on cold floors feel cold from below.
+- Sun fades dark covers; storage near radiators can warp foam.
+- Set-of-two buys suit a pair at a coffee table; round shapes sit more comfortably crossed legged.
+- Bean bag fill compresses over a year and needs topping up.
+- Handles help carry and stack; stacking two gives a firmer seat.
+- Check for a fire-safety or chemical certification claim on the listing only if the maker gives a real standard.

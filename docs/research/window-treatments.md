@@ -1,0 +1,16 @@
+# window treatments cluster (cellular shades, motorized blinds, faux wood blinds, privacy window film)
+- Measure window width at top, middle and bottom and use the narrowest; inside mount needs depth (about 1.5 to 2.5 in for many shades); makers deduct about 1/2 in so the blind clears the frame.
+- Inside mount vs outside mount: inside looks neat and needs a square frame; outside hides uneven frames and blocks more light at the edges.
+- Cellular (honeycomb) shades trap air in cells for some insulation; light filtering gives soft daylight, blackout blocks light and needs side gaps covered to be dark.
+- Blackout cellular fabrics often have a foil or silver layer; light still leaks at the sides and top of an inside mount.
+- Cordless is safer for children and pets; window cord strangulation is a real hazard; cordless lift and no-drill tension mounts help renters.
+- No-drill tension and adhesive brackets suit light shades; heavy faux wood needs screws into the frame.
+- Faux wood blinds are PVC or vinyl composite; they resist moisture and warp less than real wood; they are heavier, can sag on wide windows and yellow with sun in cheap grades.
+- 2 in slats suit most windows; 1 in slats stack tighter; a valance hides the headrail.
+- Cleaning: dust faux wood slats with a microfibre cloth or a slat duster; wipe with a damp cloth; avoid abrasive cleaners.
+- Motorized blinds: motor type (battery or rechargeable or hardwired), remote, app, voice assistant compatibility via a hub or bridge; battery life and charge cycles are real maintenance.
+- Retrofit motors (clip on to existing shades or chains) vs new motorized shades; check the shade's weight and chain type.
+- Solar panels add charging for battery shades but need sun on the window; no-drill motorized shades suit inside mount only.
+- Automation: schedules and sunrise or sunset triggers need a hub or app; Wi-Fi and Zigbee/Matter support varies.
+- Privacy window film: frosted, one-way mirror (privacy only when lit outside brighter), static cling vs adhesive; measure the glass and cut a bit small; wet application.
+- Window film that adds heat control can stress double-glazed glass; check the film maker's glass guidance.

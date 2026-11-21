@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-av-receivers",
+ "categorySlug": "storage-media",
+ "mainKeyword": "av receiver",
+ "guideTitle": "Best AV Receivers (2026)",
+ "metaTitle": "Best AV Receivers (2026): 6 Compared",
+ "metaDescription": "Six AV receivers compared on channel count, power per channel, 8K HDMI, Dolby Atmos, room correction and streaming for living room home theaters.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41YrgmDh80L._SL500_.jpg",
+ "expertTake": "The Denon AVR-X1800H is the best overall pick for 7.2 channels, 8K HDMI inputs and built-in streaming, while the Denon AVR-S570BT is the value pick for a 5.2 channel living room. The Onkyo TX-NR6100 suits buyers who want 210 watts per channel and THX certification. Anyone using only a TV and a soundbar can skip a receiver entirely.",
+ "introParagraphs": [
+  "An AV receiver is the control centre of a home theater: it takes video from every source, sends it to the TV and sends the sound to your speakers with its own amplifiers. It lets you add a subwoofer, surround speakers and a streamer, and use one remote for it all.",
+  "Choosing one is mostly about how many speakers you plan to drive, the HDMI features you need and how the room will be corrected. This guide compares six receivers on channel count, power and connectivity so you can match one to your room and speaker plan."
+ ],
+ "products": [
+  {
+   "id": "B0CFWQP9MC",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Denon AVR-X1800H 7.2 Channel AV Receiver, 80W x 7, 8K HDMI, Wi-Fi and Bluetooth",
+   "amazonUrl": "https://www.amazon.com/dp/B0CFWQP9MC?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YrgmDh80L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "7.2 channels",
+    "80W x 7",
+    "8K HDMI",
+    "Wi-Fi and Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "7.2"
+    },
+    {
+     "label": "Power",
+     "value": "80W per channel, 7 channels"
+    },
+    {
+     "label": "HDMI",
+     "value": "3 dedicated 8K inputs and 1 output"
+    },
+    {
+     "label": "Streaming",
+     "value": "Wi-Fi, Bluetooth, wireless streaming"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper end of the group"
+    }
+   ],
+   "description": "Denon's AVR-X1800H is a 7.2 channel receiver rated at 80 watts across seven channels, with three dedicated 8K HDMI inputs and one output, Wi-Fi and Bluetooth. That channel count covers a 5.1.2 Atmos system or a 7.1 layout, and 8K support future-proofs the video path for new consoles and TVs.\n\nThe tradeoff is that 80 watts per channel is modest, so large rooms with inefficient speakers may want more power. Compared with the Denon AVR-S570BT, it adds two channels and more inputs but costs more. Against the Onkyo TX-NR6100, it has less raw power but an easier setup and well-known streaming.\n\nPlan a clear shelf with several inches above for ventilation, and run the room correction routine with its microphone at the main seat. Label every HDMI cable before closing the cabinet. In year three, expect to update the firmware, dust the vents and re-run room correction after moving furniture.",
+   "bestFor": "Living rooms with 5 to 7 speakers that want 8K HDMI and streaming.",
+   "pros": [
+    "7.2 channels cover a 5.1.2 Atmos layout or a 7.1 setup",
+    "Three dedicated 8K inputs suit new consoles and TVs",
+    "Wi-Fi and Bluetooth stream music without extra gear",
+    "A well-known brand with a large user community for help"
+   ],
+   "cons": [
+    "80W per channel is modest for large rooms or hungry speakers",
+    "Upper end cost tier for a mid-level receiver"
+   ]
+  },
+  {
+   "id": "B0B9QF1L4K",
+   "rank": 2,
+   "badge": "Best Value 5.2",
+   "name": "Denon AVR-S570BT 5.2 Channel AV Receiver, 70W x 5, 8K, Bluetooth",
+   "amazonUrl": "https://www.amazon.com/dp/B0B9QF1L4K?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31ICOIxBRVL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "5.2 channels",
+    "70W x 5",
+    "8K support",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "5.2"
+    },
+    {
+     "label": "Power",
+     "value": "70W per channel, 5 channels"
+    },
+    {
+     "label": "Video",
+     "value": "8K Ultra HD and HDR support"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Lower middle of the group"
+    }
+   ],
+   "description": "Denon's AVR-S570BT is a 5.2 channel receiver with 70 watts across five channels, 8K video support, HDR and HLG, plus Bluetooth. It handles a standard 5.1 living room system with two front speakers, a centre, two surrounds and a subwoofer.\n\nThe tradeoff is expansion: five channels means no height speakers for Atmos beyond a virtual approach, and 70 watts suits small and medium rooms. Compared with the AVR-X1800H, it has fewer channels and less power but costs much less. Against the Yamaha RX300A, it matches the channel count but offers a different feature set.\n\nPlace it in a ventilated cabinet and label the speaker wires as you connect them. Run the supplied room calibration and keep the microphone at ear height. In year three, check HDMI port firmness and dust the vents. It suits a first receiver for a small room.",
+   "bestFor": "Small and medium rooms with a 5.1 system and a modest budget.",
+   "pros": [
+    "5.2 channels cover the standard 5.1 living room layout",
+    "8K and HDR support keeps the video path current",
+    "Bluetooth streams music from a phone",
+    "Lower middle cost tier for a name brand receiver"
+   ],
+   "cons": [
+    "No channels for height speakers or Atmos layouts",
+    "70W per channel limits large rooms"
+   ]
+  },
+  {
+   "id": "B0H17HMPYZ",
+   "rank": 3,
+   "badge": "Best Atmos Starter",
+   "name": "Yamaha RX300A 5.2 Channel AV Receiver, Dolby Atmos, 4K120 and 8K HDMI, Bluetooth",
+   "amazonUrl": "https://www.amazon.com/dp/B0H17HMPYZ?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31VUYhTO26L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "5.2 channels",
+    "Dolby Atmos",
+    "4K120 and 8K",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "5.2"
+    },
+    {
+     "label": "Audio formats",
+     "value": "Dolby Atmos and DTS Virtual:X"
+    },
+    {
+     "label": "HDMI",
+     "value": "4K120 and 8K"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Lower middle of the group"
+    }
+   ],
+   "description": "Yamaha's RX300A is a 5.2 channel receiver with Dolby Atmos and DTS Virtual:X processing, 4K120 and 8K HDMI and Bluetooth. With only five channels, Atmos works through virtualisation rather than true height speakers, but it does widen the sound and gives a taste of the format.\n\nThe tradeoff is that real Atmos with overhead speakers needs more channels than five. Compared with the Denon AVR-S570BT, it adds Atmos processing and 4K120 gaming support for similar money. Against the RX500A in the same Yamaha family, it has fewer channels.\n\nPlace it with several inches clear above, and run its room calibration with the supplied microphone. Use eARC from the TV for lossless audio. In year three, keep the firmware current and dust the vents. It suits console gamers who want 4K120 and a simple living room speaker set.",
+   "bestFor": "Gamers and small rooms that want 4K120 and Atmos processing from five channels.",
+   "pros": [
+    "Dolby Atmos and DTS Virtual:X processing add width from five channels",
+    "4K120 HDMI suits modern consoles and PC gaming",
+    "Bluetooth streams from a phone with no extra gear",
+    "Lower middle cost tier is easy on a first system"
+   ],
+   "cons": [
+    "Only five channels, so Atmos height is virtual rather than true",
+    "Fewer streaming features than the Denon X series"
+   ]
+  },
+  {
+   "id": "B095PXJP7R",
+   "rank": 4,
+   "badge": "Best Mid-Power Network",
+   "name": "Pioneer VSX-935 7.2 Channel Network AV Receiver, 80W per Channel",
+   "amazonUrl": "https://www.amazon.com/dp/B095PXJP7R?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31in4WuTDrL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "7.2 channels",
+    "80W at 8 ohm",
+    "170W at 6 ohm 10% THD",
+    "Network"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "7.2"
+    },
+    {
+     "label": "Power at 8 ohm",
+     "value": "80W per channel, 20 Hz to 20 kHz, 0.08 percent THD, 2 channels driven"
+    },
+    {
+     "label": "Power at 6 ohm",
+     "value": "170W per channel at 10 percent THD, 1 channel driven"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Network streaming"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper middle of the group"
+    }
+   ],
+   "description": "Pioneer's VSX-935 is a 7.2 channel network receiver whose listing quotes two power figures: 80 watts per channel at 8 ohms with 0.08 percent distortion across 20 Hz to 20 kHz, and 170 watts per channel at 6 ohms with 10 percent distortion and one channel driven. That pairing shows how marketing power numbers can differ from continuous power.\n\nThe tradeoff is that the 170 watt figure is a best-case burst number, and the 80 watt figure is the honest continuous rating. Compared with the Denon AVR-X1800H, it has a similar 7.2 layout but an older platform. Against the Onkyo TX-NR6100, it has less power and a less modern feature set.\n\nPlace it in a ventilated cabinet and run room calibration. Compare any receiver by its 8 ohm continuous rating and not by its burst numbers. In year three, check the fans or vents for dust and firmware updates for network features.",
+   "bestFor": "Buyers who want a 7.2 channel network receiver at a middle cost tier.",
+   "pros": [
+    "7.2 channels give room for a 5.1.2 or 7.1 layout",
+    "A clear 80W per channel figure at 8 ohms allows honest comparison",
+    "Network streaming expands music options",
+    "Upper middle cost tier for a 7.2 channel unit"
+   ],
+   "cons": [
+    "An older platform than the latest Denon and Yamaha models",
+    "The 170W headline is a burst figure, not continuous power"
+   ]
+  },
+  {
+   "id": "B09LH9XZJ5",
+   "rank": 5,
+   "badge": "Best High-Power THX",
+   "name": "Onkyo TX-NR6100 7.2 Channel THX Certified Network AV Receiver, 210W per Channel",
+   "amazonUrl": "https://www.amazon.com/dp/B09LH9XZJ5?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31aHQG8L0HL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "7.2 channels",
+    "210W per channel",
+    "THX Certified",
+    "Atmos and DTS:X"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "7.2, 5.2.2 Atmos playback"
+    },
+    {
+     "label": "Power",
+     "value": "210W per channel, THX Certified Select"
+    },
+    {
+     "label": "Formats",
+     "value": "Dolby Atmos and DTS:X"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Network"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper end of the group"
+    }
+   ],
+   "description": "Onkyo's TX-NR6100 is a THX Certified Select receiver rated at 210 watts per channel, with 5.2.2 channel Dolby Atmos and DTS:X playback and network streaming. THX Select certification means the unit has met a set of performance requirements for rooms of a particular size, and 210 watts is a headline that suits demanding speakers.\n\nThe tradeoff is cost and bulk: it sits at the upper end of the group and is a heavy unit that needs a roomy cabinet and good ventilation. Compared with the Denon AVR-X1800H, it has more power but costs more. Against the Pioneer VSX-935, it adds THX certification and Atmos layouts.\n\nPlace it with at least a hand's width above and around it, since powerful receivers run warm. Run room calibration and set speaker distances carefully. In year three, dust the vents and check the firmware. It suits a larger room with speakers that need power.",
+   "bestFor": "Larger rooms with demanding speakers that want 210W per channel and Atmos.",
+   "pros": [
+    "210 watts per channel suits large rooms and demanding speakers",
+    "THX Certified Select signals meeting performance requirements",
+    "5.2.2 Dolby Atmos and DTS:X support true height speakers",
+    "Network streaming adds music services"
+   ],
+   "cons": [
+    "Upper end cost tier and heavy to place",
+    "Runs warm and needs a ventilated cabinet"
+   ]
+  },
+  {
+   "id": "B08CKJKKBY",
+   "rank": 6,
+   "badge": "Best Multi-Room",
+   "name": "Yamaha RX-V6A 7.2 Channel AV Receiver with MusicCast, 8K HDMI and eARC",
+   "amazonUrl": "https://www.amazon.com/dp/B08CKJKKBY?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3131Id0K8PL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "7.2 channels",
+    "MusicCast",
+    "8K HDMI",
+    "eARC"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "7.2"
+    },
+    {
+     "label": "Multi-room",
+     "value": "MusicCast"
+    },
+    {
+     "label": "HDMI",
+     "value": "HDCP 2.3, eARC, 7 in 1 out, three 8K"
+    },
+    {
+     "label": "Video",
+     "value": "4K60, 4K120 and 8K60"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Middle of the group"
+    }
+   ],
+   "description": "Yamaha's RX-V6A is a 7.2 channel receiver with MusicCast multi-room audio, HDMI 2.1 with HDCP 2.3 and eARC, seven inputs and one output, with three inputs that handle 8K. MusicCast links the receiver to other Yamaha speakers around the home, so the living room system can feed the kitchen or the patio.\n\nThe tradeoff is that the interface has a lot of options, and the setup takes time. Compared with the Denon AVR-X1800H, it offers MusicCast instead of HEOS and a similar channel count. Against the RX300A, it has two more channels and more inputs.\n\nPlace it in a ventilated cabinet and run its YPAO room calibration. Use eARC for lossless TV audio. In year three, keep the firmware current and dust the vents. It suits a household with a Yamaha multi-room setup.",
+   "bestFor": "Households that want multi-room audio with Yamaha MusicCast.",
+   "pros": [
+    "MusicCast multi-room links other Yamaha speakers in the home",
+    "Seven HDMI inputs and eARC suit a busy media cabinet",
+    "7.2 channels give room for height speakers",
+    "HDMI 2.1 supports 4K120 and 8K60 on selected inputs"
+   ],
+   "cons": [
+    "Menus and setup have many options and take time",
+    "Multi-room benefits only if you buy more MusicCast gear"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Channel count",
+   "explanation": "Channel numbers describe speakers and subs. A 5.2 receiver like the Denon AVR-S570BT drives five speakers and two subs, while a 7.2 like the AVR-X1800H adds two more channels for surrounds or height speakers. Plan the speaker count first, then buy the channels."
+  },
+  {
+   "criterion": "Real power per channel",
+   "explanation": "Compare continuous watts at 8 ohms, not burst numbers. The Pioneer lists 80W at 8 ohms but 170W at 6 ohms with high distortion, which shows how numbers differ. A room under about 300 square feet rarely needs more than 80 to 100 watts with efficient speakers."
+  },
+  {
+   "criterion": "HDMI and video features",
+   "explanation": "Look for HDMI 2.1 with eARC, 4K120 for gaming and enough inputs. The Yamaha RX300A lists 4K120 and the Denon X1800H lists three 8K inputs. Make sure the receiver has enough HDMI inputs for your consoles, streamer and player."
+  },
+  {
+   "criterion": "Atmos and room correction",
+   "explanation": "Atmos needs height speakers or upfiring modules and at least 5.2.2 channels. Room correction uses a microphone to tune levels and distances, and it is one of the best reasons to own a receiver. Run it after any furniture change."
+  },
+  {
+   "criterion": "Streaming and multi-room",
+   "explanation": "Built-in Wi-Fi and Bluetooth reduce the need for extra boxes. Denon uses HEOS, Yamaha uses MusicCast, and each links to its own speakers. Pick the ecosystem you will actually grow into."
+  },
+  {
+   "criterion": "Cabinet and ventilation",
+   "explanation": "Receivers run warm. They need open space above and at the sides, and a closed cabinet shortens their life. Measure your cabinet before you buy, and check the depth for cables behind."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Channels such as 7.2",
+   "meaning": "The first number is the speakers the amplifier drives and the second is the subwoofer outputs.",
+   "watchFor": "The Onkyo lists 5.2.2 Atmos playback from 7 amplifier channels, so some channels are shared."
+  },
+  {
+   "spec": "Watts per channel",
+   "meaning": "The power each amplifier channel can deliver, with a distortion figure and an impedance. Lower impedance needs more current.",
+   "watchFor": "The Pioneer lists both 80W at 8 ohm and 170W at 6 ohm with 10 percent distortion."
+  },
+  {
+   "spec": "HDMI 2.1 and eARC",
+   "meaning": "HDMI 2.1 adds 4K120 and 8K. eARC carries lossless audio from the TV.",
+   "watchFor": "Only some inputs support 8K; the Yamaha RX-V6A lists three."
+  },
+  {
+   "spec": "THX certification",
+   "meaning": "THX certification means the receiver passed a set of performance tests for a given room size.",
+   "watchFor": "The Onkyo is THX Certified Select, which suits mid-size rooms."
+  },
+  {
+   "spec": "Room calibration",
+   "meaning": "A microphone-based setup tunes distances, levels and equalisation to the room.",
+   "watchFor": "Denon and Yamaha use their own systems, while some Onkyo models offer Dirac."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Channels and power",
+   "description": "We compared channel counts from 5.2 to 7.2 and power ratings from 70W to 210W per channel. We noted when numbers are burst figures. We did not measure any amplifier output."
+  },
+  {
+   "title": "HDMI and gaming",
+   "description": "We read HDMI input counts, 8K, 4K120 and eARC support. The Denon X1800H and Yamaha RX300A lead on gaming features. We favoured current HDMI."
+  },
+  {
+   "title": "Audio formats",
+   "description": "We checked Dolby Atmos and DTS support and what channel count each needs. The Onkyo supports true height layouts, the Yamaha RX300A virtualises. We matched formats to rooms."
+  },
+  {
+   "title": "Streaming and control",
+   "description": "We compared Wi-Fi, Bluetooth, HEOS and MusicCast. Each suits a different ecosystem. We favoured simple setup."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We researched common themes: heat in closed cabinets, confusing setup menus and HDMI handshake problems. These shape our cons. We did not use ratings or review counts."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Speaker Count",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "5.1 system",
+      "Denon AVR-S570BT",
+      "5.2 channels at a modest tier"
+     ],
+     [
+      "5.1 with gaming",
+      "Yamaha RX300A",
+      "4K120 and Atmos processing"
+     ],
+     [
+      "5.1.2 Atmos",
+      "Denon AVR-X1800H",
+      "7.2 channels"
+     ],
+     [
+      "7.1 or large room",
+      "Onkyo TX-NR6100",
+      "210W per channel"
+     ],
+     [
+      "Multi-room home",
+      "Yamaha RX-V6A",
+      "MusicCast"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower middle",
+      "Denon AVR-S570BT or Yamaha RX300A",
+      "5.2 channel entry"
+     ],
+     [
+      "Middle",
+      "Yamaha RX-V6A",
+      "7.2 channels and MusicCast"
+     ],
+     [
+      "Upper middle",
+      "Pioneer VSX-935",
+      "7.2 channel network receiver"
+     ],
+     [
+      "Upper end",
+      "Denon AVR-X1800H or Onkyo TX-NR6100",
+      "Streaming or power"
+     ],
+     [
+      "Best value overall",
+      "Denon AVR-S570BT",
+      "Name brand at a modest tier"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "5.2 vs 7.2 Channels",
+   "cards": [
+    {
+     "label": "5.2 channels",
+     "text": "The Denon S570BT and Yamaha RX300A fit a standard living room layout. They cost less but cannot add height speakers."
+    },
+    {
+     "label": "7.2 channels",
+     "text": "The Denon X1800H, Pioneer, Onkyo and Yamaha RX-V6A leave room for height speakers or rear surrounds. They cost more."
+    }
+   ],
+   "note": "Pick 5.2 for a first system and 7.2 if you want Atmos or plan to grow."
+  },
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Console gaming",
+      "Yamaha RX300A",
+      "4K120 HDMI"
+     ],
+     [
+      "Movies with Atmos",
+      "Onkyo TX-NR6100",
+      "5.2.2 playback"
+     ],
+     [
+      "Music streaming",
+      "Denon AVR-X1800H",
+      "Wi-Fi and Bluetooth"
+     ],
+     [
+      "Multi-room",
+      "Yamaha RX-V6A",
+      "MusicCast"
+     ],
+     [
+      "Small room",
+      "Denon AVR-S570BT",
+      "70W is enough"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Living Room Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Enough channels for your speakers, a cabinet with ventilation, the HDMI features your devices need and room correction you will run."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Denon X1800H and Yamaha RX-V6A suit most living rooms, while the Onkyo suits large spaces."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want height speakers, a large room with power-hungry speakers or a future-proof HDMI setup."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a small room and a 5.1 system, where the Denon S570BT or Yamaha RX300A is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dust the vents",
+   "interval": "Quarterly",
+   "why": "Dust traps heat. A dry brush or air puff keeps airflow clear."
+  },
+  {
+   "task": "Re-run room calibration",
+   "interval": "When furniture or speakers move",
+   "why": "Room changes shift bass and levels. A rerun resets distances."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "As prompted",
+   "why": "Updates fix HDMI and streaming issues."
+  },
+  {
+   "task": "Check speaker wire connections",
+   "interval": "Twice a year",
+   "why": "Loose wire causes crackle or a dead channel."
+  },
+  {
+   "task": "Keep space around the unit",
+   "interval": "Always",
+   "why": "Ventilation protects the amplifier. Never stack items on top."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need an AV receiver if I have a soundbar?",
+   "a": "No. A receiver drives separate speakers. A soundbar is a self-contained alternative that suits smaller rooms. A receiver makes sense once you want real surround speakers, a bigger sub or several sources switched through one box, and it rewards patience with a better, more upgradeable sound than a bar can give."
+  },
+  {
+   "q": "How much does an AV receiver cost?",
+   "a": "Prices move, so check the current listing. The Denon S570BT and Yamaha RX300A sit lower and the Denon X1800H and Onkyo at the top. Channels and power drive cost, and the receiver is only part of the bill, since speakers, cables and a subwoofer usually cost as much again and decide most of how the system sounds."
+  },
+  {
+   "q": "How many watts do I need?",
+   "a": "For most living rooms, 80 to 100 watts per channel with efficient speakers is enough. Larger rooms and demanding speakers benefit from more. Remember that doubling the power adds only a small step in loudness, so speaker efficiency and room size matter more than the headline watt number on the box."
+  },
+  {
+   "q": "Do I need 8K support?",
+   "a": "Not for now, since 8K content is rare. It does future-proof your setup, and 4K120 matters more for gaming. If you do not own a console or PC that outputs 4K120, you can safely buy on audio features first and treat 8K as a bonus rather than a requirement."
+  },
+  {
+   "q": "What is Dolby Atmos?",
+   "a": "Atmos adds height sound from ceiling or upfiring speakers. It needs enough channels, and small receivers use virtualisation instead. A flat ceiling of roughly 8 to 10 feet works best for upfiring modules, while vaulted ceilings weaken the effect, so ceiling shape is worth checking before you commit to more channels."
+  },
+  {
+   "q": "Can I connect a record player to a receiver?",
+   "a": "Only if the receiver has a phono input. Many AV receivers do not, so check the specs or use a separate preamp. A turntable with a built-in preamp can instead plug into any line input, which avoids the problem and works with every receiver listed here."
+  }
+ ],
+ "relatedGuides": []
+}

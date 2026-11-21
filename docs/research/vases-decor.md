@@ -1,0 +1,17 @@
+# vases and tabletop decor cluster (vases, floor vases, trays, bookends, books, candle holders)
+- Cut stems to about 1.5 times vase height; keep a table vase under about 10 in so sightlines stay clear.
+- Opening width decides how stems sit: wide mouth for bouquets, narrow for single stems and branches.
+- Unglazed ceramic seeps; check for a glazed interior or use a glass liner. Many decor vases are dry-stem only.
+- Glass shows water, stem debris and lime marks; vinegar rinse removes lime. Change water every 2 days.
+- Heavy base resists tipping; light tall vases need pebbles or sand for stability, especially with pampas.
+- Odd groupings (3 or 5) look styled; vary height and finish; use a tray or book to anchor a group.
+- Matte glazes mark with abrasive cleaners; textured surfaces trap dust and need a soft brush.
+- Floor vases: 20 to 30 in height suits a corner; filled with dried stems about 1.5 to 2 times vase height.
+- Metal and wood floor vases survive pets and children better than ceramic or glass.
+- Wood vases like paulownia are light and are usually for dry and faux stems only.
+- Pampas and dried grass shed; faux stems do not, but can look flat in strong light.
+- Felt pads protect furniture; cork or rubber pads stop sliding.
+- Trays: rim height 1 to 2 in keeps items from sliding; match tray to table size, about 2/3 of the surface.
+- Candle holders: use the right candle diameter; unattended flames are a fire risk; never leave a burning candle near fabric.
+- Bookends need weight and a non-slip base; heavy books lean on thin ones.
+- Coffee table books: stack large over small, 3 stacked looks balanced; spines face outward.

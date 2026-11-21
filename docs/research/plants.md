@@ -1,0 +1,16 @@
+# plants cluster (hanging planters, indoor planters, grow lights)
+- Pots without drainage rot roots; use a pot with holes, a liner or a pebble layer; clay is porous and suits dry-soil plants, ceramic holds water longer.
+- Wet soil weighs several pounds; hanging fixings must be rated for the wet weight with margin; screw hooks into a joist, not plastic anchors.
+- Self-watering reservoirs store water and wick it up; they suit forgetful owners but can keep roots too wet if overfilled; clean reservoirs to stop algae and gnats.
+- Hanging plants dry out faster because warm air rises near the ceiling; check the top inch of soil by touch.
+- Trailing plants such as pothos, philodendron, ivy and spider plants suit hanging pots; match light to the window.
+- Pot size: leave about an inch or two of room around the root ball; too big a pot stays wet, too small dries fast.
+- Water at a sink, let a pot drain, then return it to its saucer or hanger to avoid drips on furniture.
+- Saucers and trays protect floors; ceramic and concrete are heavy and can scratch surfaces; add felt pads.
+- Concrete planters are heavy and alkaline; large pots need two people to move once filled.
+- Grow lights: full spectrum white LEDs suit most houseplants; start about 12 to 24 in from the plant and adjust.
+- Light duration: about 12 to 16 hours a day for most houseplants; use a timer; plants need a dark period.
+- Lumens and watts on bulbs do not equal plant light; look for spectrum, coverage and distance guidance; PPFD is rarely listed on consumer lights.
+- Red and blue LEDs look purple; white full-spectrum LEDs look better in a living room; warm white shows plants naturally.
+- Clip-on lights need a stable rim; stand lights need a base heavy enough for the head; keep cords tidy.
+- Light intensity falls quickly with distance; a bulb too far away does little; a light too close can scorch leaves.

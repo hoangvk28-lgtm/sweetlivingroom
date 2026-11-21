@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-universal-remotes",
+ "categorySlug": "storage-media",
+ "mainKeyword": "universal remote",
+ "guideTitle": "Best Universal Remotes (2026)",
+ "metaTitle": "Best Universal Remotes (2026): 6 Compared",
+ "metaDescription": "Six universal remotes compared on device limits, code libraries, hub and app control, backlighting and activities, with honest tradeoffs for living rooms.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31YaNsHIhuL._SL500_.jpg",
+ "expertTake": "The SofaBaton X1S with hub is the best overall pick for one-press activities and a cloud code database, while the GE backlit remote is the value pick for a simple four-device clicker. The SofaBaton X2 suits tinkerers who want a touchscreen and smart home hooks. Anyone who only needs to replace a lost TV remote should buy a brand-matched one instead.",
+ "introParagraphs": [
+  "One all-in-one remote can replace the drawer of clickers beside the sofa. It turns on the TV, switches the soundbar input and adjusts volume, and the better ones run whole routines from a single press, which matters when guests or children use the room and do not know which button does what.",
+  "There are two very different kinds. Simple code-based remotes work in minutes but only control the basics, while hub-based smart remotes handle Bluetooth, Wi-Fi and activities but take an evening to set up. Which type suits you depends on how many boxes sit under the TV and who else uses them. This guide compares six models so you can match one to your equipment."
+ ],
+ "products": [
+  {
+   "id": "B0HF3S2R35",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "SofaBaton X1S Universal Remote with Hub, App-Built Activities",
+   "amazonUrl": "https://www.amazon.com/dp/B0HF3S2R35?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31YaNsHIhuL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Hub and app",
+    "Cloud code database",
+    "One-press activities",
+    "Smart remote"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Hub-based smart remote"
+    },
+    {
+     "label": "Setup",
+     "value": "SofaBaton app with cloud database"
+    },
+    {
+     "label": "Activities",
+     "value": "One press for Watch TV style routines"
+    },
+    {
+     "label": "Connection",
+     "value": "IR and Bluetooth through the hub"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper middle of the group"
+    }
+   ],
+   "description": "SofaBaton's X1S uses a small hub plus a handheld remote, and the app builds activities such as Watch TV that power on the TV, soundbar and streamer and set the right inputs in one press. A cloud database configures codes automatically when you add a device, which saves the code-hunting that older remotes needed.\n\nThe tradeoff is setup effort and dependence on an app: you plan the activities in the SofaBaton app, and the hub must sit within sight of your gear. Compared with the GE remotes, it handles Bluetooth devices and macros, but costs much more. Against the X2, it lacks the touchscreen and lists fewer smart-home hooks, but is simpler to live with.\n\nPlan about an hour for first setup. Place the hub near the equipment with a clear line of sight, add each device by brand and model, and test the activities. Charge the remote regularly, label the hub cable, and update the firmware when the app prompts.",
+   "bestFor": "Living rooms with a TV, soundbar and streamer that want one-press activities.",
+   "pros": [
+    "One-press activities turn on and set up several devices at once",
+    "A cloud database adds devices without hunting for codes",
+    "A hub improves reliability for Bluetooth and IR gear",
+    "App-based setup allows repair and remapping without a new remote"
+   ],
+   "cons": [
+    "First-time setup takes real time and planning",
+    "Depends on an app and a hub that needs a clear line of sight"
+   ]
+  },
+  {
+   "id": "B07C2MGWTD",
+   "rank": 2,
+   "badge": "Best Simple Backlit",
+   "name": "GE Backlit Universal Remote Control, 4 Devices, Auto Code Search",
+   "amazonUrl": "https://www.amazon.com/dp/B07C2MGWTD?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/410jivp-uSL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "4 devices",
+    "Backlit keys",
+    "Code library",
+    "2 AAA batteries"
+   ],
+   "specList": [
+    {
+     "label": "Devices",
+     "value": "Up to 4 audio and video devices"
+    },
+    {
+     "label": "Backlight",
+     "value": "Backlit keys"
+    },
+    {
+     "label": "Setup",
+     "value": "Automatic code search"
+    },
+    {
+     "label": "Power",
+     "value": "2 AAA batteries, not included"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper middle of the group"
+    }
+   ],
+   "description": "GE's backlit universal remote controls up to four audio and video devices, such as a TV, soundbar, streaming player and Blu-ray player. It uses a code library with automatic code entry, and the backlit buttons help in a dark movie room, which is a common frustration with plain remotes.\n\nThe tradeoff is that this is an infrared remote with no activities, so it cannot run a one-press routine, and each device needs its own button press. Compared with the plain GE model in this list, it adds the backlight and works with more brands, but costs more. Against the SofaBaton X1S, it has no hub, no app and no macros, but it works in minutes and runs on two AAA batteries.\n\nInstall batteries and use the automatic code search, then test volume, input and power on each device. Keep the remote pointed at the equipment from the sofa, and replace the batteries yearly. Clean the buttons with a dry cloth, and write down your working codes in case memory is lost.",
+   "bestFor": "Dark rooms and simple setups that need up to four devices on one remote.",
+   "pros": [
+    "Backlit keys make it usable in a dark movie room",
+    "Controls up to four audio and video devices",
+    "Automatic code entry avoids typing long code lists",
+    "Runs on AAA batteries with no hub or app to manage"
+   ],
+   "cons": [
+    "Infrared only, so it needs a line of sight to the gear",
+    "No activities or macros for one-press routines"
+   ]
+  },
+  {
+   "id": "B0HD72W95C",
+   "rank": 3,
+   "badge": "Best Compact Smart Remote",
+   "name": "SofaBaton U3 All-in-One Smart Universal Remote with Global Macros",
+   "amazonUrl": "https://www.amazon.com/dp/B0HD72W95C?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3108ZkEJVhL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Global macros",
+    "Voice button",
+    "Programmable",
+    "Bluetooth control"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Programmable smart remote"
+    },
+    {
+     "label": "Macros",
+     "value": "Custom macros for complex operations"
+    },
+    {
+     "label": "Voice",
+     "value": "Built-in voice button"
+    },
+    {
+     "label": "Database",
+     "value": "500,000+ devices, 6,000+ brands"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Middle of the group"
+    }
+   ],
+   "description": "The SofaBaton U3 is a programmable remote that supports custom macros, a built-in voice button and a cloud database of more than 500,000 devices across 6,000 brands. You can remap buttons in the app and pair up to three Bluetooth devices, which helps with streaming boxes that need Bluetooth rather than infrared.\n\nThe tradeoff is that the U3 has no separate hub in this listing, so its range depends on direct line of sight for infrared gear, whereas the X1S hub covers a wider angle. Compared with the GE remote, it does far more but needs app setup. Against the X2, it is smaller and cheaper but lacks the touchscreen display.\n\nPlan an evening for setup. Add devices in the app, build macros for Watch TV and Movie night, and map the buttons you use most. Charge it regularly, keep it pointed at equipment and update through the app. If a device is not found, check the cloud database for similar models.",
+   "bestFor": "Buyers who want macros and Bluetooth control in a single handheld remote.",
+   "pros": [
+    "Custom macros handle multi-device routines in one press",
+    "A cloud database of 500,000+ devices simplifies setup",
+    "A voice button speeds up searching on compatible devices",
+    "Buttons can be remapped in the app to fit your routine"
+   ],
+   "cons": [
+    "Requires app setup before it feels useful",
+    "Infrared control still needs a clear line to the equipment"
+   ]
+  },
+  {
+   "id": "B0H4QCMYVT",
+   "rank": 4,
+   "badge": "Best Touchscreen Smart Remote",
+   "name": "SofaBaton X2 Universal Remote with Touchscreen and R1 IR Repeater",
+   "amazonUrl": "https://www.amazon.com/dp/B0H4QCMYVT?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419P357mpfL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2.4 in touchscreen",
+    "IR, RF, BT, Wi-Fi",
+    "R1 IR repeater",
+    "Home Assistant"
+   ],
+   "specList": [
+    {
+     "label": "Display",
+     "value": "2.4 in HD touchscreen"
+    },
+    {
+     "label": "Connections",
+     "value": "2.4 GHz Wi-Fi, Bluetooth, IR and RF"
+    },
+    {
+     "label": "Extender",
+     "value": "R1 IR repeater"
+    },
+    {
+     "label": "Smart home",
+     "value": "Home Assistant through MQTT"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Top of the group"
+    }
+   ],
+   "description": "The SofaBaton X2 adds a bright 2.4 inch touchscreen to the smart remote formula, alongside an R1 IR repeater that sends infrared signals to gear hidden in cabinets. It connects over 2.4 GHz Wi-Fi, Bluetooth, IR and RF, and can talk to Home Assistant through MQTT for smart home automation.\n\nThe tradeoff is cost and complexity: it sits at the top tier of the group and rewards owners who enjoy configuring things. Compared with the X1S, you gain the touchscreen and wider connectivity, but you also gain more settings to manage. Against the GE remote, it is a different category, with a battery that needs charging instead of AAAs.\n\nSet aside a long evening, plan where the R1 repeater sits so it sees the equipment, and organise your activities on the touchscreen. Keep the firmware updated, and keep a dock where the remote can charge nightly. Use the app to back up your setup.",
+   "bestFor": "Smart home owners who want a touchscreen and automation hooks.",
+   "pros": [
+    "A 2.4 inch touchscreen shows labels and quick actions",
+    "An R1 IR repeater reaches equipment hidden in cabinets",
+    "Supports IR, RF, Bluetooth and Wi-Fi in one remote",
+    "Connects to Home Assistant through MQTT for automations"
+   ],
+   "cons": [
+    "Top cost tier is the highest in the group",
+    "Complex setup that only suits patient owners"
+   ]
+  },
+  {
+   "id": "B01HSSAZX8",
+   "rank": 5,
+   "badge": "Best Preprogrammed Basic",
+   "name": "GE Universal Remote Control for Samsung, LG, Vizio, Sony, 4 Devices",
+   "amazonUrl": "https://www.amazon.com/dp/B01HSSAZX8?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418gG0BRkKL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "4 devices",
+    "Preprogrammed Samsung",
+    "Code library",
+    "Simple setup"
+   ],
+   "specList": [
+    {
+     "label": "Devices",
+     "value": "Up to 4 audio and video devices"
+    },
+    {
+     "label": "Preset",
+     "value": "TV button preprogrammed for Samsung"
+    },
+    {
+     "label": "Library",
+     "value": "Major TV brands and Roku TV"
+    },
+    {
+     "label": "Backlight",
+     "value": "None"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Low end of the group"
+    }
+   ],
+   "description": "This GE remote controls up to four devices, uses a library of codes for major brands and arrives with the TV button preprogrammed for Samsung. If you own a Samsung set, it can work straight out of the box without any code entry.\n\nThe tradeoff against the backlit GE is the lack of a backlight and a lower cost tier, which means it is the simplest and cheapest choice here. It is infrared only, so there are no activities, and every device needs its own step. Compared with the SofaBaton remotes, it offers none of the automation but needs no app or hub.\n\nPut in batteries, press the TV button and test power and volume. If your brand is not Samsung, use the code list or auto search to program it. Keep a note of the working codes. Replace the batteries yearly, and wipe the buttons with a dry cloth.",
+   "bestFor": "Simple living rooms with a Samsung or similar TV and one or two other devices.",
+   "pros": [
+    "Preprogrammed for Samsung TVs so it can work out of the box",
+    "Controls up to four audio and video devices",
+    "Lower cost tier than the backlit and smart options",
+    "No app, hub or charging needed"
+   ],
+   "cons": [
+    "No backlight, so dark rooms are harder to use",
+    "No activities or macros for combined actions"
+   ]
+  },
+  {
+   "id": "B0FNCGHCFB",
+   "rank": 6,
+   "badge": "Best Replacement Style",
+   "name": "Universal TV Remote Control for Samsung, LG, Hisense, TCL, Sony and Vizio TVs",
+   "amazonUrl": "https://www.amazon.com/dp/B0FNCGHCFB?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Xa1nnOAYL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Replacement style",
+    "Code list setup",
+    "DVD and Blu-ray",
+    "Major TV brands"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Replacement universal TV remote"
+    },
+    {
+     "label": "Brands",
+     "value": "Samsung, LG, Hisense, TCL, Sony, Vizio"
+    },
+    {
+     "label": "Other devices",
+     "value": "DVD and Blu-ray players"
+    },
+    {
+     "label": "Setup",
+     "value": "Code list with the SETUP button"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Lower middle of the group"
+    }
+   ],
+   "description": "This replacement-style universal remote covers major TV brands including Samsung, LG, Hisense, TCL, Sony and Vizio, and can also control DVD and Blu-ray players. You find your brand in the code list, hold the setup button and enter the code, which pairs the remote with the device.\n\nThe tradeoff is that it mimics a standard TV remote, so it handles the basics but not activities, hubs or Bluetooth. Compared with the GE four-device remote, it lacks the multi-device coverage in the same way, so check device support in the listing. Against the SofaBaton options, it costs much less and takes minutes to set up, but nothing else.\n\nLook up the code for your TV brand, enter it with the setup button and test every key. If the first code fails, try the next one in the list. Keep a copy of the code list, replace batteries yearly, and check the remote works from across the room.",
+   "bestFor": "Replacing a lost TV remote with a basic code-based unit.",
+   "pros": [
+    "Covers many major TV brands from one remote",
+    "Can also control DVD and Blu-ray players",
+    "Code list setup takes only a few minutes",
+    "Lower middle cost tier is easy to replace if lost"
+   ],
+   "cons": [
+    "Basic remote with no activities or smart features",
+    "Some brand features may not map to every key"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Simple vs smart type",
+   "explanation": "Simple IR remotes like the GE units work from a code list in minutes. Smart remotes like the SofaBaton X1S add hubs, apps and activities but take an evening to set up. The mistake is buying a smart remote for a TV-only setup or a simple one for a five-device cabinet."
+  },
+  {
+   "criterion": "Device count",
+   "explanation": "The GE remotes list up to four devices, which covers TV, soundbar, streamer and player. If you have more, or want one-press routines, look at a hub model. Count every box under the TV before buying."
+  },
+  {
+   "criterion": "Connectivity",
+   "explanation": "Infrared needs a line of sight, so gear in a closed cabinet will not respond. The SofaBaton X2 adds an R1 IR repeater, RF, Bluetooth and Wi-Fi. If a streaming box is Bluetooth only, a plain IR remote cannot control it."
+  },
+  {
+   "criterion": "Activities and macros",
+   "explanation": "An activity like Watch TV powers on several devices and sets inputs in one press. The SofaBaton X1S and U3 build these, while the GE models do not. This is the feature that makes a living room feel simple for the rest of the household."
+  },
+  {
+   "criterion": "Backlight and layout",
+   "explanation": "A backlit remote like the GE backlit model helps in a dark movie room. A touchscreen like the X2 shows labels instead of tiny printed text. Look for large volume and channel keys, since those are used most."
+  },
+  {
+   "criterion": "Power and upkeep",
+   "explanation": "AAA remotes are simple but need new batteries, while rechargeable smart remotes need a dock or cable. A hub needs a power outlet near the gear. Choose the style you will keep up with."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Device limit",
+   "meaning": "This is how many separate devices the remote can be programmed to control. Four is common on simple remotes.",
+   "watchFor": "The GE listings state four devices; smart remotes list far more through the cloud database."
+  },
+  {
+   "spec": "Code library",
+   "meaning": "A library stores the infrared codes for many brands. Older remotes need you to enter codes by hand.",
+   "watchFor": "SofaBaton lists 500,000+ devices and 6,000+ brands in the cloud; GE uses an onboard library."
+  },
+  {
+   "spec": "IR repeater",
+   "meaning": "A repeater receives the signal and re-sends infrared to hidden equipment. It solves cabinets that block line of sight.",
+   "watchFor": "The SofaBaton X2 includes the R1 repeater."
+  },
+  {
+   "spec": "Macro or activity",
+   "meaning": "A macro is a saved sequence of commands. An activity sets all devices to a viewing mode.",
+   "watchFor": "The GE remotes have no macros listed."
+  },
+  {
+   "spec": "Connection types",
+   "meaning": "IR, RF, Bluetooth and Wi-Fi each control different gear. More types mean broader control.",
+   "watchFor": "The X2 lists all four; the GE remotes are IR only."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Setup effort",
+   "description": "We compared code-list setups, such as the GE and replacement-style remotes, with app-based setups like the SofaBaton line. Setup time matters. We favoured models that explain themselves."
+  },
+  {
+   "title": "Device and connection coverage",
+   "description": "We looked at device limits, IR, RF, Bluetooth and Wi-Fi support. The X2 covers most types, while the GE remotes cover IR only. We asked which gear each remote can reach."
+  },
+  {
+   "title": "Activities and automation",
+   "description": "We read macro and activity features, from the X1S activities to the U3 global macros. One-press routines change daily life. We scored them highly."
+  },
+  {
+   "title": "Usability in a living room",
+   "description": "We noted backlighting, touchscreens and button layout. The GE backlit model and the X2 touchscreen help in dark rooms. We favoured clear labels."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We researched common themes: lost codes, hub placement and battery life. These shape our cons. We did not use ratings or review counts."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Equipment",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "TV only",
+      "Universal TV remote",
+      "A code list is all you need"
+     ],
+     [
+      "TV and soundbar",
+      "GE 4-device remote",
+      "Covers up to four devices"
+     ],
+     [
+      "TV, soundbar and streamer",
+      "SofaBaton X1S",
+      "Activities and hub"
+     ],
+     [
+      "Bluetooth streaming box",
+      "SofaBaton U3",
+      "Pairs with Bluetooth devices"
+     ],
+     [
+      "Gear in a closed cabinet",
+      "SofaBaton X2",
+      "R1 repeater reaches hidden equipment"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "GE 4-device remote",
+      "Low end of the group"
+     ],
+     [
+      "Lower middle",
+      "Universal TV remote",
+      "Basic replacement"
+     ],
+     [
+      "Middle",
+      "SofaBaton U3",
+      "Macros at a middle tier"
+     ],
+     [
+      "Upper middle",
+      "GE backlit or SofaBaton X1S",
+      "Backlight or activities"
+     ],
+     [
+      "Top of the group",
+      "SofaBaton X2",
+      "Touchscreen and automation"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Simple IR vs Smart Hub",
+   "cards": [
+    {
+     "label": "Simple IR",
+     "text": "The GE remotes work in minutes with batteries and a code list. They cannot run activities and need a line of sight."
+    },
+    {
+     "label": "Smart hub",
+     "text": "The SofaBaton X1S and X2 run activities and reach hidden gear. They take real setup time and rely on an app."
+    }
+   ],
+   "note": "Pick simple IR for a TV and one device; pick a smart hub when several boxes and family members share the room."
+  },
+  {
+   "subheading": "By Room Lighting",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Dark movie room",
+      "GE backlit remote",
+      "Backlit keys"
+     ],
+     [
+      "Dark room, smart setup",
+      "SofaBaton X2",
+      "Touchscreen shows labels"
+     ],
+     [
+      "Bright room",
+      "GE 4-device remote",
+      "Backlight not needed"
+     ],
+     [
+      "Mixed light",
+      "SofaBaton U3",
+      "Remappable buttons"
+     ],
+     [
+      "Guests use it",
+      "Universal TV remote",
+      "Familiar layout"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Living Room Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A remote that handles every box under the TV, a layout the whole family understands and a setup you can finish in one sitting."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The X1S and U3 simplify multi-device living rooms, while the GE models suit simple setups and guests."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have four or more devices, a closed cabinet, Bluetooth gear or smart home plans that suit the X1S or X2."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a TV and a soundbar, where a GE code-based remote is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace or charge batteries",
+   "interval": "Yearly for AAA, weekly for smart",
+   "why": "Low power causes missed presses. Charge smart remotes on a dock."
+  },
+  {
+   "task": "Back up the configuration",
+   "interval": "After each change",
+   "why": "Smart remotes can lose setups after resets. App backups save an evening."
+  },
+  {
+   "task": "Check hub and repeater placement",
+   "interval": "When gear moves",
+   "why": "IR needs a clear line. Rearranged shelves can block it."
+  },
+  {
+   "task": "Clean buttons",
+   "interval": "Quarterly",
+   "why": "Oils and crumbs stick keys. A dry cloth keeps them responsive."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "As prompted",
+   "why": "Updates fix bugs and add devices. Skipping them leaves gaps."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Will a universal remote work with my soundbar?",
+   "a": "Usually, if the brand is in the code library. Smart remotes add cloud databases that cover most soundbars."
+  },
+  {
+   "q": "How much does a universal remote cost?",
+   "a": "Prices move, so check the current listing. The GE remotes sit at the low end and the SofaBaton X2 at the top."
+  },
+  {
+   "q": "Are universal remotes durable?",
+   "a": "Buttons and shells hold up for years. Rechargeable batteries and software are the usual wear points, so keep backups."
+  },
+  {
+   "q": "Do I need a hub?",
+   "a": "Only for activities, Bluetooth control and hidden gear. A TV and soundbar rarely need one."
+  },
+  {
+   "q": "Can a universal remote control a streaming stick?",
+   "a": "Many streaming sticks use Bluetooth or Wi-Fi rather than infrared. Check the compatibility list on the remote."
+  },
+  {
+   "q": "Why does my remote sometimes fail to respond?",
+   "a": "Infrared needs a clear line to the device. Cabinets, glass doors and low batteries are the usual causes, and a nearby bright lamp or a covered sensor on the TV can also interfere, so test from the sofa before blaming the remote."
+  }
+ ],
+ "relatedGuides": []
+}

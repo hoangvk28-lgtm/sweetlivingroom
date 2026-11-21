@@ -1,0 +1,19 @@
+# air comfort cluster (air purifiers, humidifiers, dehumidifiers, space heaters, tower fans)
+- CADR (clean air delivery rate) is the comparable purifier figure; rule of thumb: CADR at least two thirds of room square footage.
+- Stated coverage in square feet is often one air change per hour or less; AHAM Verifide ratings come from a standard test.
+- Four to five air changes per hour is a common target for allergy-minded households; do not make medical claims.
+- True HEPA and H13 filters trap fine particles; carbon layers help odours; filters last about 6 to 12 months and cost money.
+- Avoid ozone-producing ionisers; ozone irritates lungs.
+- Purifiers need clear space around intakes and a few inches from walls; they clean the room they are in.
+- Humidifiers: aim for 30 to 50 percent indoor humidity; above 50 percent can promote mould and dust mites; use a hygrometer.
+- Ultrasonic humidifiers can leave white mineral dust from hard water; distilled water or demineralisation cartridges reduce it.
+- Evaporative humidifiers self-limit and use wicks; wicks need replacing; they are a bit noisier.
+- Clean humidifier tanks every few days and descale with vinegar weekly; stale water grows film.
+- Warm mist can burn; cool mist is safer near children and pets; never place on carpet.
+- Dehumidifiers: pint ratings changed in 2019 DOE test conditions; capacity should match room dampness; empty bucket or use continuous drain hose.
+- A basement or damp living room needs a drain hose option and a minimum operating temperature (compressor units struggle below about 65F).
+- Space heaters: 1,500 W is the maximum for a 15 A household circuit; never use an extension cord or power strip; tip-over and overheat shutoff are essential.
+- Keep heaters at least 3 feet from combustibles; never leave a heater running unattended or while asleep.
+- Heater types: ceramic fan heaters warm fast; oil-filled radiators stay warm quietly; infrared heats people, not air.
+- Tower fans: CFM and speed settings; oscillation; noise in dB; remote and timer; tower fans move less air than box fans at the same size.
+- A fan cools people by moving air; it does not lower room temperature; turn off when you leave the room.

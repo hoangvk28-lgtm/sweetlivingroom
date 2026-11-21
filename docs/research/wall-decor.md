@@ -1,0 +1,16 @@
+# wall decor cluster (canvas, metal wall art, tapestries, macrame, photo frames, window film)
+- Art above a sofa should be about two thirds of the sofa width; centre of art about 57 in from floor; hang 6 to 8 in above sofa back.
+- Canvas art is a printed reproduction (giclee or inkjet), not hand-painted; texture claims are often a flat 2D print.
+- Gallery wrapped canvas hides staples; a solid pine or wood stretcher keeps large canvases flat; thin stretchers bow.
+- Sets of 3 look best with equal 2 in gaps; lay out on the floor first and mark with painter's tape.
+- Printed canvas fades in direct sun; keep out of damp areas that warp stretchers.
+- Heavy art needs anchors rated for the weight and two hanging points; use studs for large pieces.
+- Metal wall art: thin iron and aluminium pieces bend; powder coat and paint scratch; check weight and hanging points.
+- Metal art with sharp edges should be hung out of reach of children; avoid hanging heavy pieces over seating.
+- Tapestries: size to the wall; polyester prints are light and can show wall colour through; wash gently; avoid heat near fireplaces.
+- Hang tapestries with command hooks or a rod; use a backing if the wall is textured; fire safety near heaters.
+- Macrame hangings: cotton cord collects dust; vacuum with a brush; keep away from damp walls and candles.
+- Digital photo frames: resolution, aspect ratio (16:10 or 4:3), Wi-Fi photo sharing, app storage and subscription tradeoffs.
+- Digital frames show glare in bright rooms; matte screens help; auto-brightness and motion sensors save power.
+- Privacy window film: frosted, one-way mirror (daytime privacy only) and static cling vs adhesive; measure the glass precisely.
+- Window film that blocks heat can crack double-glazed units if not suited; check the maker's glass guidance.

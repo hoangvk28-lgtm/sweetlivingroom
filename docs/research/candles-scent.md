@@ -1,0 +1,16 @@
+# candles and scent cluster (scented candles, reed diffusers, essential oil diffusers)
+- Candle size in ounces sets life; claimed burn hours are upper limits under ideal habits, not promises.
+- First burn should melt wax to the edge to avoid tunnelling; trim wick to about 1/4 in before each burn.
+- Burn no more than about 4 hours at a time; never leave a flame unattended; keep away from curtains, children, pets.
+- Single wick throws locally; multi-wick fills larger rooms faster but burns quicker.
+- Wax blends (soy, plant, coconut-soy, paraffin mixes): wax name alone does not guarantee clean burn; wick and fragrance load matter.
+- Scent families: pine and woods suit cool months; light fruit and florals suit warm; strong scents overwhelm small rooms.
+- Keep lid on after burning to hold scent and keep dust off; store candles cool and dark.
+- Reed diffusers: scent oil quantity and reed count set strength; more reeds give stronger scent and shorter life.
+- Flip reeds weekly to refresh scent; reeds clog and fade first; replace reeds before refilling oil.
+- Reed diffusers: keep out of sun and off wood furniture (oil stains); ventilate; keep away from pets that could knock them.
+- Reed diffuser life claims of 8 to 12 weeks depend on room temperature and airflow.
+- Ultrasonic oil diffusers add water mist; clean the tank weekly to prevent mold; use distilled water if hard water scale builds up.
+- Essential oils can bother pets and children; keep diffusers out of reach; ventilate; avoid prolonged use in small closed rooms.
+- Diffuser tank size and run time: 100 to 300 ml tanks run roughly 4 to 12 hours; auto shutoff matters for safety.
+- Never add oils to a humidifier unless the maker says it is safe.
