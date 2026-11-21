@@ -93,7 +93,10 @@ console.log(`wrote data/guides/${meta.slug}.ts  (${body.split(/\s+/).length} wor
 const regPath = "data/dynamic-guides-registry.ts";
 let reg = readFileSync(regPath, "utf8");
 if (!reg.includes(`"${meta.slug}"`)) {
-  reg = reg.replace("unknown>>> = {\n", `unknown>>> = {\n  "${meta.slug}": () => import("./guides/${meta.slug}"),\n`);
+  const anchor = reg.match(/unknown>>> = \{\r?\n/);
+  if (!anchor) { console.error("registry anchor not found in " + regPath); process.exit(1); }
+  const nl = anchor[0].endsWith("\r\n") ? "\r\n" : "\n";
+  reg = reg.replace(anchor[0], `${anchor[0]}  "${meta.slug}": () => import("./guides/${meta.slug}"),${nl}`);
   writeFileSync(regPath, reg);
   console.log("registered in dynamic-guides-registry.ts");
 }

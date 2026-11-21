@@ -70,7 +70,10 @@ def main(path):
         info = page["imageinfo"][0]
         real_license = (info["extmetadata"].get("LicenseShortName", {}) or {}).get("value", "")
         time.sleep(2)
-        img = fetch(info.get("thumburl") or info["url"])
+        img = fetch(info.get("thumburl") or info["url"], tries=2)
+        if not img and info.get("thumburl"):
+            # Commons answers 429 for some thumb sizes; try another standard width, then the original
+            img = fetch(info["thumburl"].replace("/960px-", "/1280px-"), tries=2) or fetch(info["url"], tries=2)
         if not img:
             print(f"FAIL {name}: download failed", file=sys.stderr)
             failed += 1
