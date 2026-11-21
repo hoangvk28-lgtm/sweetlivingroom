@@ -22,3 +22,21 @@
 - Picks sorted by interest: travel, architecture and design, art, photography, pop culture; designers often stack three; rotate books every few months.
 - Display tips: stack similar tones, remove dust jackets for a calmer look.
 - We add stack size, weight on the table, spine-out styling and the honesty that a decor book is bought for the cover.
+## best-mantel-clocks
+- Recurring names: Seiko wooden chime, Howard Miller Kootenai, Bulova Annette I, Jones Clocks Saloon, Chelsea Clock for luxury.
+- Guides weigh chime type (silent, Westminster, overnight silence), case size against the mantel, movement quality and accuracy.
+- Gap: night-silence switches, battery versus quartz drift, case width rules and honest note on chime volume; we cover these.
+## best-decorative-bowls
+- Guides stress size: about 10.5 in suits tables under 36 in; leave room for books and candles.
+- Neutral, matte or textured finishes are versatile; wood, ceramic and metal bowls split by style.
+- Retailers suggest groups of small bowls or one oversized statement bowl, and trays for stable surfaces.
+- Gap: food safety of decor bowls, glaze crazing, weight and sliding, and dust-trapping textures; we cover these.
+## best-decorative-sculptures
+- Retail and decor-blog pages dominate; types are animal, abstract, glass, metal globes, bronze and stone.
+- Advice: raise small abstract pieces on a pedestal or shelf; statement piece on a coffee table, bookshelf or mantel.
+- Material pairings: brass or iron with glass or dark wood.
+- Gap: resin versus real stone or metal, weight and felt pads, scale rules and honest finish wear; we cover these.
+## best-tabletop-fountains
+- Homedics, Alpine and tiered polyresin fountains recur; pump noise and algae are recurring complaints.
+- Buying notes: check indoor or outdoor rating, size of the footprint (a 19 in wide model is large), adjustable pump and LED that stays on.
+- Gap: water top-ups, distilled water to limit scale, cord drip loops and surface protection; we cover these.

@@ -24,3 +24,12 @@
 - Picks are split by size, symmetrical vs abstract styling, and gift-style photo display pieces; hanging loops are flagged when missing.
 - Care notes: do not machine wash, dust monthly, spot clean with mild soap.
 - We add dowel and cord quality, shedding of fringe, dust trapping, and a sizing rule against wall and furniture width.
+## best-picture-frames
+- BestReviews lists Americanflat 11x14 black frames; gallery sets of five 11x14 and multi-photo collage frames recur.
+- Guides split by gallery wall, custom framing and digital frames; Frameology covers custom framing in 2026.
+- Gap: glass versus acrylic glazing, mat opening versus photo size, hanging hardware weight rating and sizing mistakes; we cover these.
+## best-room-dividers
+- Guides split curtain or hanging, freestanding folding screens, bookcases and light-permeable partitions.
+- Curtain dividers are cheap but give little sound insulation; freestanding types take floor space; mid-range is the quality band.
+- Recurring names: RoomDividersNow muslin kit, Coaster four-panel screen, Roundhill shoji 4-panel.
+- Gap: stability and tipping, privacy versus light, panel height and honest note on sound; we cover these.

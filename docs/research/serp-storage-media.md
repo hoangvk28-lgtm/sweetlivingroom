@@ -70,3 +70,38 @@
 - Roundups name comfort and storage picks, compact travel desks, cooling fans, adjustable tilt and budget cushioned desks.
 - Advice: size the desk to the laptop; storage and wrist rests add bulk.
 - We add 15.6 vs 17 inch fit, cushion heat, microbead sag and tilt stability.
+
+## best-upholstered-benches
+- Guides split by room: bedroom, dining and entryway, plus storage benches and value picks.
+- Weight limits, hinges and review depth are used as criteria; fabrics (velvet, boucle, leather) listed.
+- We add bench-to-bed width ratio, foam thickness, hinge safety and entryway wipeability.
+
+## best-bar-cabinets
+- Guides split full bar cabinets from dedicated wine cabinets, with lockable models for homes with children; styles: mid-century, farmhouse, rattan.
+- Value picks for small spaces and corner models; bottle counts (12 to 18) cited.
+- We add power strip and fridge fit honesty, MDF weight limits for glass bottles and anti-tip anchoring.
+
+## best-accent-cabinets
+- Guides split by style (farmhouse, vintage carved, fluted), budget and large rooms; open and door hybrids noted.
+- Capacity and review counts used as criteria in affiliate roundups.
+- We add MDF vs solid wood honesty, shelf load limits, anti-tip anchoring and robot vacuum clearance.
+
+## best-corner-cabinets
+- Results are design guides: floating, glass-front and slim tall cabinets; materials solid wood, veneer MDF, tempered glass; measure first.
+- Warnings: oversizing, blocking vents and outlets, tip-over prevention for tall units.
+- We add footprint-vs-height tip risk, open vs closed shelves and corner baseboard gap.
+
+## best-storage-trunks
+- Roundups feature wood chests, canvas suitcase sets, wicker and weight capacity, stay-open lids and latches.
+- Splits: vintage, farmhouse, space-saving beside a bed, colour.
+- We add real size warning (many are keepsake boxes), no seating unless rated and liner advice.
+
+## best-media-storage-towers
+- Guides name narrow shelving towers, 7-tier wire and revolving towers; capacity figures cited.
+- Cautions: Blu-ray cases fit tighter; assembly and weight distribution on spinning towers.
+- We add case-thickness capacity honesty, tip safety and metal vs particleboard.
+
+## best-tv-wall-shelves
+- Guides feature Mount-It glass shelves (single, double, triple), Sanus cable box shelf, budget no-drill shelves.
+- Check weight rating, depth clearance and cable management.
+- We add VESA fit, heat from cable boxes and stud anchoring honesty.

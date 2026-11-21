@@ -1,0 +1,17 @@
+# speakers cluster (tower, center channel, bookshelf, stands)
+- Passive speakers need an AV receiver or amplifier; check impedance (4 to 8 ohms) and the amp's rated power; powered speakers have built-in amps.
+- Peak watts are marketing; RMS/continuous watts and sensitivity (dB at 1 W/1 m) tell more; 88 to 92 dB is typical; higher sensitivity plays louder per watt.
+- Frequency response lists such as 40 Hz to 20 kHz with a tolerance (plus or minus 3 dB); a response without tolerance is a vague claim.
+- Tower speakers are often sold singly or as pairs; check "each" or "pair" in the listing; a stereo pair needs two.
+- Tower speakers are tall (35 to 45 in), 40 to 60 lb; need 2 to 3 ft from the front wall (ported rear) and toe-in toward the listener; floor spikes and carpet; tip risk with children.
+- Ported (bass reflex) vs sealed: ported goes lower but needs space; rear ports near a wall boom.
+- Driver counts: 2-way (tweeter plus woofers) vs 3-way; more woofers do not guarantee deeper bass.
+- Center channel carries most dialogue; match it to the left/right speakers (same brand and tweeter) for timbre; place it directly above or below the screen, aim at ear height.
+- Center channel size: width 14 to 28 in; a slim center fits under a TV; a tall center will not fit in a shallow shelf; height and depth; check against the shelf and TV stand.
+- Horn-loaded tweeters (Klipsch Tractrix) are efficient and detailed but can sound bright in a small room.
+- Speaker wire: 16 gauge for runs under 50 ft, 14 gauge longer; banana plugs; polarity (red to red).
+- Room: hard floors and bare walls reflect; rugs and curtains tame it; furniture blocking speakers muffles.
+- Speaker stands: weight rating should be 1.5x the speaker weight; top plate must cover the speaker's base; height puts the tweeter at ear level when seated, usually 24 to 36 in for a bookshelf speaker.
+- Stands: sand or shot-filled columns add mass; open metal columns can ring; spikes or carpet pads for carpet; rubber feet on hardwood; cable channels for tidy runs.
+- Surround speaker stands: lighter 22 lb limits suit small satellites; heavy bookshelf speakers need rated stands.
+- Dolby Atmos modules and height speakers are separate from towers.

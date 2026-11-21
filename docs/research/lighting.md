@@ -19,3 +19,10 @@
 - Airflow rated in CFM; blade pitch near 12 to 15 degrees is typical.
 - Wobble comes from unbalanced blades or loose canopy screws; balancing kits and tight hardware cure most of it.
 - Fan-rated electrical box required: a standard light box cannot carry a fan.
+- Lava lamps: classic types heat wax with a 25 to 40 W incandescent bulb; allow 2 to 3 hours to start flowing, run no more than about 10 hours at a stretch; never shake or move while hot; cloudy liquid is usually permanent if the lamp was shaken or overheated.
+- Lava lamp placement: stable level surface, out of direct sun and drafts; bulb is replaceable but wattage must match; LED "motion" lamps use a ceramic heater or LED and are not true wax-and-liquid designs in every case.
+- Moon lamps: usually 3D-printed spheres with RGB LEDs, USB rechargeable, touch or remote; sizes 3 to 8 in; print texture and stand quality vary.
+- Puck lights: battery or plug-in LED discs for under shelves; check lumens, remote range, adhesive on the surface, CCT options and runtime; wire hiding is the main finishing issue.
+- Plug-in pendants: hang on a hook with a cord up to about 15 ft and an inline switch; renter friendly but the cord shows; check socket wattage and shade weight.
+- Wooden lamps: solid wood versus veneer or MDF; stain and finish matter; wood base needs a heat-safe shade; fabric shade size 1.5x base height rule.
+- Brass finish: solid brass is heavy and patinas; most floor lamps are brass-plated steel; lacquered finish resists tarnish but scratches.

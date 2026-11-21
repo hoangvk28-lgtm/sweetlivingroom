@@ -53,3 +53,52 @@
 - Authenticity test is flipping the rug (no glued backing); wool is the usual fibre; Persian and Turkish styles dominate.
 - Brands named include Loloi, Nourison and Safavieh.
 - Gap: honest notes on early shedding, specialist cleaning and thin documentation on unbranded listings; we cover these.
+## best-hand-tufted-rugs
+- Results were mostly retailer pages plus affiliate roundups; picks are usually Safavieh collections (Trace, Abstract, Fifth Avenue) split by size and entry price.
+- Guides lead with fibre (100% wool, New Zealand wool as the premium tier) and pile height in inches.
+- A recurring construction tip: flip the rug, hand-tufted has a glued or stitched fabric backing, hand-knotted does not.
+- Hand-tufted is framed as the cheaper alternative to hand-knotted.
+- Gap: early shedding, crushing under furniture, wool blends versus pure wool and a rug pad rule; we cover these.
+## best-solid-color-rugs
+- Retailer guides; advice is darker tones hide dirt, neutrals are safe, bold colour is the statement.
+- Size by room (8x10 for large rooms, runners for kitchens and bedrooms).
+- Material by traffic: jute for wear but not moisture, performance rugs for busy spots.
+- Gap: washable thin rugs and memory foam backings, shading in a flat solid, and backing cracks in dryers; we cover these.
+
+## best-abstract-rugs
+- Guides split budget washable synthetics from designer wool pieces; sizing advice: rug extends at least 6 in beyond sofa sides and leaves floor visible.
+- Practicality: washable, non-slip and low pile highlighted; wool praised for durability.
+- We add washable-rug limits (thin backing, 5x7 machine size), colour shift between photo and room and pattern scale vs room size.
+
+## best-striped-rugs
+- Guides sort by colourful, washable, outdoor and black and white; stripe scale: small stripes add detail, wide stripes make a room feel bigger.
+- Indoor/outdoor polypropylene and recycled options appear; care advice: no beater bar.
+- We add stripe direction rule (lengthwise), cotton flatweave shrink and fray notes and backing honesty.
+
+## best-animal-print-rugs
+- Guides split cowhide, faux fur and washable prints, zebra and leopard; outdoor polypropylene options.
+- Styling: start subtle in beige, tan, grey; limit to one or two pieces per room.
+- We add real hide vs printed polyester honesty, no machine wash for hide, and print scale.
+
+## best-oval-rugs
+- Ranking sites score ovals by price and review; natural fiber jute ovals and traditional machine woven ovals appear.
+- We add oval sizing rule (width of dining table plus 24 in), furniture fit under oval and pad trimming.
+
+## best-polypropylene-rugs
+- Guides praise durability, stain resistance and colour retention; note it is stain-resistant but not soil-resistant (oil marks); price low.
+- Indoor-only rugs may have a jute backing, unsuitable outdoors.
+- We add oil-based dirt honesty, heat melting and flattening of loop pile.
+
+## best-viscose-rugs
+- Retail pages position viscose for low-traffic bedrooms; guides warn on wear, water and pets and kids; professional cleaning only.
+- We add why viscose "silk" shimmer crushes, shed and water stain risk and the wool comparison.
+
+## best-flatweave-rugs
+- Guides pick Moroccan style, indoor/outdoor polypropylene, washable small rugs for entryways; non-shedding and pet claw friendly.
+- Flatweaves are lower cost and trap less dust; viscose flatweave suited to low traffic.
+- We add backing and pad, curling edges, fringe care and thin-weave sound honesty.
+
+## best-bamboo-rugs
+- Guides cover bamboo slat rugs, bamboo silk and natural fiber runners; non-slip and UV/water resistance for floors.
+- Bamboo silk is delicate; slat rugs are easiest to clean.
+- We add bamboo silk is actually viscose, slat rug sound and sweep care and no pad on slats.

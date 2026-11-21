@@ -1,0 +1,17 @@
+- Faux trees: matte leaves with visible veining look more real than glossy ones; real-touch or rubberised leaves feel realistic but can still look shiny under strong light.
+- Fullness: boxed trees arrive compressed; 10 to 15 minutes of fluffing from the bottom up decides how real it looks; wire-stemmed branches allow shaping.
+- Base: a light plastic pot tips easily; a weighted or cement base is far more stable; the nursery pot is for stability, not display, so plan for a decorative planter or cover.
+- Height: check ceiling; a 5 ft tree can look short in a 9 to 10 ft room; listing height often includes the pot, so confirm whether the tree or the total is quoted.
+- Trunks: real wood or wrapped natural trunks look better than moulded plastic; check where branch covers hide joins.
+- UV and sun: untreated plastic and fabric fade within weeks to months in direct sun; keep faux trees out of strong sun or use UV-rated products.
+- Dust: faux plants collect dust; clean with a soft brush, a cool hairdryer or a damp cloth for plastic leaves; avoid harsh cleaners.
+- Pets and kids: no sap and no pollen, but plastic leaves can be chewed; weighted base matters.
+- Silk-style polyester petals look most realistic close up; PE plastic is more durable and weather-resistant; foam flowers look soft but absorb moisture and bruise.
+- UV-resistant outdoor flowers fade slower but still fade over seasons; strongly smelling new PE stems need airing out.
+- Stem wire: wired stems let you bend and shape; thin wire kinks and sags with heavy heads; bundle stems in odd numbers.
+- Faux flowers last 3 to 5 years with care indoors; flatten and re-fluff heads after unboxing; steam gently to remove creases.
+- Vase with faux water suits arrangements; tall arrangements need a weighted vase.
+- Dried pampas: sheds fluff at first, shake outdoors; sun and humidity fade and mould; never near candles (dry plumes burn fast).
+- Dried pampas colours (bleached, dyed) fade in light and can transfer dye on damp surfaces; hairspray is sometimes used to limit shedding but can yellow.
+- Listing pieces: counts of 100 to 600 pieces mix short grass, bunny tails and filler, not equally full-size plumes.
+- Floor vase stems: tall stems need a heavy vase or pebbles; 30 to 40 in is a common tall length.

@@ -1,0 +1,15 @@
+# daybeds cluster
+- Daybed standard size is twin: mattress about 38 x 75 in; frame outer about 78 to 80 in long and 40 to 42 in wide.
+- Most daybeds do not include a mattress; the listing note should be checked; mattress thickness limit usually 6 to 8 in (or up to 12 for some); too thick looks wrong against the back and sides.
+- Slat support: metal or wood slats; slats about 3 in apart is good; bunkie boards not needed; no box spring.
+- Frame: metal tube daybeds are cheaper and bolt together; wood and upholstered frames look sofa-like; plywood vs solid wood.
+- Trundle: pull-out (lower mattress rolls out at bed height lower than the main bed) vs pop-up (raises to the main bed height, makes a king when joined); check casters and floor clearance; a trundle needs 40 in of floor beyond the bed to pull out.
+- Under-bed storage: drawers or open space; drawer capacity in lb is low (e.g., 40 lb).
+- Weight capacity 250 to 660 lb for bed; fine print for trundle is lower.
+- Sofa use: back about 12 to 30 in high; seating depth about 38 to 40 in is deep for upright sitting; add bolsters or pillows to make it comfortable.
+- Upholstered daybeds: faux leather peels; linen stains; velvet crushes; foam in the back softens.
+- Assembly: 1 to 2 hours; two people; metal frames bolt with allen keys; retighten after a month.
+- Metal daybeds squeak if bolts loosen; felt on joints helps.
+- Charging stations and LED lights are cosmetic add-ons that fail before the frame does.
+- Kids vs adult: side rails and gap sizes; adults 250 lb plus should check the rating.
+- Mistake: forgetting a mattress cost; forgetting that a daybed doubles as a sofa only if you add cushions.

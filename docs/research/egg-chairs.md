@@ -1,0 +1,15 @@
+# egg-chairs cluster (hanging and static egg chairs)
+- Two types: hanging (on a freestanding C-stand, or ceiling hook) and static (floor-standing legs or base).
+- Freestanding stands need roughly 6.5 to 7.5 ft of ceiling and a 40 to 50 in clear radius for swing; stand footprint is large.
+- Capacity ratings run 265 to 450 lb; a stand rated lower than the chair is a trap; check the stand rating.
+- Ceiling-hung installs need a joist or beam, never drywall anchors; renters should prefer stands.
+- PE (polyethylene) rattan resists UV and moisture; it is plastic, not natural rattan; cheap strands fray at stress points.
+- Steel frames are powder-coated; scratches expose rust on outdoor use; indoor use extends life.
+- Cushions: 4 to 6 in; polyester fill flattens; removable covers matter; outdoor cushions are not always washable.
+- Hanging chairs sway and lean back; some owners find the seat angle awkward for rising; a footrest changes that.
+- Egg chairs are bulky: 35 to 45 in wide; basket depth 30 in or more; shipping boxes large and heavy.
+- Assembly: stand pieces bolt together 30 to 60 minutes; two people for hanging the basket; retighten bolts monthly.
+- Static (stationary) egg chairs do not tip as easily; better for children or those wary of swinging.
+- Papasan and rocker chairs are not egg chairs; they use a different base.
+- Indoor use: protect floors with pads; rugs under the stand foot; mind low ceiling fans.
+- Mistake: placing near glass, shelves or walls so the swing arc hits them.

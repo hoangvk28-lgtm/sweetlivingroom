@@ -1,0 +1,19 @@
+# audio-video cluster (Blu-ray players, HDMI switches, TV headphones, media storage)
+- 4K UHD Blu-ray players play UHD discs (HDR10, Dolby Vision on some); full HD players play 1080p Blu-ray and DVD only; cheaper "4K" players may only upscale; check "Ultra HD Blu-ray" disc playback.
+- HDR formats: HDR10 universal; HDR10+ (Samsung/Panasonic); Dolby Vision; support differs by player and TV; display must support the format.
+- Region coding: Blu-ray regions A, B, C; DVD regions 1 to 6; region free players exist; US discs are Region A.
+- Disc players need HDMI 2.0 for 4K60; connect to the TV or through an AV receiver; some have a second HDMI for audio-only to a receiver (older receivers).
+- Audio: Dolby Atmos, DTS:X pass-through via HDMI; bitstream output vs decode; analog and coax outputs on some; Hi-res audio from DSD/FLAC files.
+- Streaming apps and Wi-Fi vary; many players lost app support; the physical disc is the point.
+- Players are small; ventilate; avoid stacking; remote IR needs line of sight; HDMI-CEC lets the TV remote control.
+- HDMI switches: ports are inputs; one output; no signal conversion; 4K@60 needs 18 Gbps (HDMI 2.0); 4K@120 and 8K@60 need 48 Gbps (HDMI 2.1); a switch only passes what its chipset supports.
+- HDCP 2.2/2.3 is needed for protected 4K content; EDID handling can cause blank screens; auto-switch picks the latest powered source; manual button/remote.
+- Switch vs splitter: a splitter sends one source to many displays; a switch sends many sources to one display; many listings mislabel.
+- HDMI cable quality limits 4K120; use certified Ultra High Speed cables for 48 Gbps; long runs need active cables.
+- Gaming features: VRR, ALLM, 4K120 pass-through needs a 2.1 switch; most TVs have only one or two 4K120 ports; a TV with enough ports does not need a switch.
+- TV headphone systems: a transmitter dock with optical/RCA/AUX connects to the TV and charges the headset; RF or 2.4 GHz low latency; Bluetooth headphones paired directly to the TV can lag unless the TV and headphones share aptX Low Latency or similar.
+- Latency: under about 40 ms is generally unnoticeable; lip sync issues come from higher.
+- Battery life claims are typically hours per charge; some bundles list 20 to 65 hours; docks recharge.
+- Hearing support: volume boost and dialogue enhancement help; headphones do not replace hearing evaluation.
+- Media storage towers: capacity numbers are for slim cases; Blu-ray and thick cases hold fewer; weight load limits; tipping when loaded on one side; revolving towers need a clear 360 swing; metal towers vs particleboard.
+- Wall shelves under a TV: check VESA compatibility; weight rating (6.6 to 22 lb); depth must clear the TV; vents; stud anchoring for wall-mounted shelves; cable box heat.

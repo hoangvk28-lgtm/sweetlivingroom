@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-wireless-tv-headphones",
+ "categorySlug": "storage-media",
+ "mainKeyword": "wireless headphones for tv",
+ "guideTitle": "Best Wireless Headphones for TV (2026)",
+ "metaTitle": "Best Wireless Headphones for TV (2026)",
+ "metaDescription": "Six wireless headphones for TV compared by transmitter dock, latency, battery life and connection type, for quiet late night viewing without lip sync lag.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "11 min",
+ "expertTake": "The Earbay transmitter dock set is our top pick because it lists latency under 40 milliseconds, a 100 foot range and optical, AUX and RCA inputs. The ANTOANE TTA is the value pick, at the lowest price tier with the same low latency claim and a Bluetooth 5.4 listing. Skip the Bose Bluetooth headphones if your TV has no Bluetooth transmitter, because they will not connect to an older set without an adapter. Whatever you choose, check your TV's audio outputs first.",
+ "introParagraphs": [
+  "Wireless TV headphones let one person listen at their own volume while the rest of the room stays quiet. The best ones come with a transmitter dock that plugs into the TV and a headset that charges on it, so you pick the headphones up and the sound follows.",
+  "The key problem is delay. Plain Bluetooth can lag behind the picture, which makes dialogue drift out of sync. A dedicated transmitter with low latency, a long battery life and the right inputs for your TV matters far more than any sound quality claim. We compare published specifications here, so check your TV's audio outputs before ordering."
+ ],
+ "products": [
+  {
+   "id": "B0HMQLBGS4",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Earbay Wireless Headphones for TV with Transmitter Dock",
+   "price": "",
+   "specs": [
+    "Under 40 ms latency",
+    "100 ft range",
+    "45 hour battery",
+    "Optical, AUX, RCA"
+   ],
+   "specList": [
+    {
+     "label": "Latency",
+     "value": "Under 40 ms"
+    },
+    {
+     "label": "Range",
+     "value": "Up to 30 m (100 ft)"
+    },
+    {
+     "label": "Battery",
+     "value": "45 hours listed"
+    },
+    {
+     "label": "Inputs",
+     "value": "Optical, AUX and RCA"
+    },
+    {
+     "label": "Dock",
+     "value": "Auto-recharge transmitter dock"
+    }
+   ],
+   "description": "The Earbay set pairs a headset with a transmitter dock that connects to the TV by optical, AUX or RCA, and recharges the headphones when you set them back on it. The listing gives latency under 40 milliseconds, a wireless range of 30 metres or 100 feet and a 45 hour battery.\n\nThe three input types cover most TVs, from a modern smart set to an older model with red and white RCA outputs. A 40 millisecond latency is generally below the point where most viewers notice a lip sync problem, which is the single most important number for this product. Against the Mutbam and YOVOTVERS, the Earbay lists a shorter battery life of 45 hours rather than 65, and a clearer latency figure.\n\nSet the TV's audio output to optical or the chosen port, turn off the TV speakers if you want only the headphones and keep the dock where the TV's output cable reaches. Charge on the dock overnight. If the TV has only HDMI ARC and no optical port, you may need a small HDMI audio extractor, and it is worth checking the TV's rear panel before ordering. A quick test with a dialogue scene after setup tells you immediately whether the sync is acceptable.",
+   "bestFor": "Viewers who want clear latency specs and a range that reaches the kitchen.",
+   "pros": [
+    "Latency under 40 ms keeps dialogue in sync",
+    "Optical, AUX and RCA inputs fit most TVs",
+    "Dock recharges the headset automatically",
+    "100 foot range lets you move around the house"
+   ],
+   "cons": [
+    "45 hour battery is shorter than the 65 hour sets",
+    "Needs a TV with a compatible audio output",
+    "Headset comfort differs from premium headphones"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0HMQLBGS4?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LEP0GNzgL._SL500_.jpg"
+  },
+  {
+   "id": "B0HJNCF5YF",
+   "rank": 2,
+   "badge": "Best Budget",
+   "name": "ANTOANE TTA Wireless TV Headphones Bluetooth 5.4",
+   "price": "",
+   "specs": [
+    "Bluetooth 5.4",
+    "Under 40 ms",
+    "Optical, AUX, RCA",
+    "3-step setup"
+   ],
+   "specList": [
+    {
+     "label": "Bluetooth",
+     "value": "5.4"
+    },
+    {
+     "label": "Latency",
+     "value": "Under 40 ms"
+    },
+    {
+     "label": "TV inputs",
+     "value": "Optical, AUX or RCA"
+    },
+    {
+     "label": "Setup",
+     "value": "3 steps"
+    },
+    {
+     "label": "Tier",
+     "value": "Lowest in the lineup"
+    }
+   ],
+   "description": "The ANTOANE TTA is the cheapest set in the lineup, using a transmitter and a Bluetooth 5.4 headset with a latency under 40 milliseconds. The listing describes a three step setup for TVs with optical, AUX or RCA outputs, and a focus on clear dialogue.\n\nBluetooth 5.4 is a recent version, and the low latency claim is the same as the Earbay's. The tradeoff is that a low price brand has a shorter track record, and the information we reviewed does not state a battery life as clearly as the Mutbam. Compared with the second ANTOANE set, this one is a little cheaper and has a simpler transmitter.\n\nConnect the transmitter to the TV, pair it with the headset and test with a dialogue heavy scene. Check the optical port is set to PCM if the sound drops out. If you hear a faint hiss when the screen is quiet, move the transmitter a little away from the router and other wireless devices, which often clears it. Keep the box and a note of the date, since a brand with a short history may take time to answer questions.",
+   "bestFor": "Budget buyers who want a low latency TV headset.",
+   "pros": [
+    "Lowest price tier among the TV sets",
+    "Under 40 ms latency listed",
+    "Bluetooth 5.4 is a recent standard",
+    "Three step setup suits non technical users"
+   ],
+   "cons": [
+    "Shorter track record for the brand",
+    "Battery life less clearly listed",
+    "Basic comfort and sound"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0HJNCF5YF?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31xlqU6XLcL._SL500_.jpg"
+  },
+  {
+   "id": "B0HMC8DZ6S",
+   "rank": 3,
+   "badge": "Best Versatile Transmitter",
+   "name": "ANTOANE TTA Headphones for TV with Versatile Transmitter Dock",
+   "price": "",
+   "specs": [
+    "Versatile transmitter",
+    "Charging dock",
+    "Under 40 ms",
+    "Plug and play"
+   ],
+   "specList": [
+    {
+     "label": "Latency",
+     "value": "Under 40 ms"
+    },
+    {
+     "label": "Transmitter",
+     "value": "Versatile, with charging dock"
+    },
+    {
+     "label": "Compatibility",
+     "value": "Most Smart TVs and older models"
+    },
+    {
+     "label": "Setup",
+     "value": "Plug and play"
+    },
+    {
+     "label": "Tier",
+     "value": "Second lowest"
+    }
+   ],
+   "description": "This ANTOANE set adds a charging dock to the transmitter, so the headset recharges when you put it down. It lists the same under 40 millisecond latency and a plug and play setup for most smart TVs and older sets.\n\nA charging dock removes the daily chore of finding a charging cable, which suits family members who forget. The information we reviewed does not state battery hours as clearly as other sets. Compared with the basic ANTOANE, this one costs a little more and is easier to live with.\n\nPlace the dock close to the TV and drop the headset on it after viewing. Update the transmitter if the maker offers a firmware update. Because the dock holds the headset, it also stops it from being lost down the sofa, which for many households is the biggest practical benefit of the dock design. If two people share the TV, a second headset needs a second transmitter pairing, so check how many headsets the dock supports.",
+   "bestFor": "Households that want a charging dock at a low price.",
+   "pros": [
+    "Charging dock keeps the headset ready",
+    "Under 40 ms latency listed",
+    "Plug and play setup",
+    "Works with many older and newer TVs"
+   ],
+   "cons": [
+    "Battery hours not clearly listed",
+    "Brand has limited history",
+    "Dock footprint needs space near the TV"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0HMC8DZ6S?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41sU5EPKBZL._SL500_.jpg"
+  },
+  {
+   "id": "B0HKHNGD42",
+   "rank": 4,
+   "badge": "Best 65-Hour Battery",
+   "name": "YOVOTVERS Wireless Headphones for TV with Charging Dock 65H",
+   "price": "",
+   "specs": [
+    "65 hour battery",
+    "Charging dock",
+    "Over-ear comfort",
+    "Set once"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "65 hours listed"
+    },
+    {
+     "label": "Dock",
+     "value": "Charging dock"
+    },
+    {
+     "label": "Fit",
+     "value": "Soft over ear cushions"
+    },
+    {
+     "label": "Setup",
+     "value": "Connect once, then lift and listen"
+    },
+    {
+     "label": "Target",
+     "value": "Daily TV watching"
+    }
+   ],
+   "description": "The YOVOTVERS pitches itself at a daily routine: connect the dock once and then lift the headset to listen. The listing gives a 65 hour battery and soft over ear cushions designed for long sessions.\n\nA 65 hour battery means a week or more of heavy use between charges, and the dock makes recharging automatic. The information we reviewed does not specify latency in the way the Earbay does, so confirm the figure before buying if lip sync matters. Compared with the Mutbam, it is almost the same product at a slightly lower tier.\n\nPlace the dock beside the TV, connect it by the output your TV offers and test with a dialogue scene. Keep the cushions clean. If you wear glasses, check that the cushions do not press the arms of the frames, because long sessions can be uncomfortable if they do. A thin cloth over the cushions on warm evenings helps with heat.",
+   "bestFor": "Long viewing sessions where battery life matters.",
+   "pros": [
+    "65 hour battery listed",
+    "Soft over ear cushions for long sessions",
+    "Dock recharges the headset",
+    "Set once, then lift and listen"
+   ],
+   "cons": [
+    "Latency figure less clearly stated",
+    "Few input details in the listing we saw",
+    "Over ear fit can warm the ears"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0HKHNGD42?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LXkMCbYEL._SL500_.jpg"
+  },
+  {
+   "id": "B0HP16RZBG",
+   "rank": 5,
+   "badge": "Best Multi-Input",
+   "name": "Mutbam Wireless Headphones for TV with Charging Dock 65-Hour",
+   "price": "",
+   "specs": [
+    "65 hour battery",
+    "Optical, RCA, AUX",
+    "Charging dock",
+    "No TV Bluetooth needed"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "65 hours listed"
+    },
+    {
+     "label": "Inputs",
+     "value": "Optical, RCA and AUX"
+    },
+    {
+     "label": "Dock",
+     "value": "Charging dock"
+    },
+    {
+     "label": "Fit",
+     "value": "Soft over ear cushions"
+    },
+    {
+     "label": "Need",
+     "value": "No TV Bluetooth required"
+    }
+   ],
+   "description": "The Mutbam set lists a 65 hour battery, a charging dock and optical, RCA and AUX connections. The listing stresses that it works even if the TV has no Bluetooth, since the dock does the transmitting.\n\nIt is the same idea as the YOVOTVERS with clearer connection details. The over ear cushions are soft and suit long viewing, and the dock removes the need for a charging cable. The information we reviewed does not state a latency number, so check before buying if sync is critical. Against the Earbay, the Mutbam trades a clearer latency claim for a longer battery.\n\nConnect the dock, pair the headset and test the sound against the picture. Set the TV output to optical PCM if the dock drops out. If the dock drops out when the TV changes source, set the TV's digital audio output to PCM and keep it there, which solves most dropouts on optical connections.",
+   "bestFor": "Households that want a long battery and multiple inputs.",
+   "pros": [
+    "65 hour battery listed",
+    "Optical, RCA and AUX inputs",
+    "Charging dock included",
+    "Works on TVs with no Bluetooth"
+   ],
+   "cons": [
+    "Latency number not shown in the information we reviewed",
+    "Over ear cups can feel warm",
+    "Highest price tier among the dock sets"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0HP16RZBG?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Kw+HIxkNL._SL500_.jpg"
+  },
+  {
+   "id": "B0DZHR44J9",
+   "rank": 6,
+   "badge": "Best Bluetooth Option",
+   "name": "Bose QuietComfort Wireless Bluetooth Noise Cancelling Headphones",
+   "price": "",
+   "specs": [
+    "Bluetooth",
+    "Noise cancelling",
+    "Over ear",
+    "Needs TV Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Connection",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Noise control",
+     "value": "Active noise cancelling"
+    },
+    {
+     "label": "Fit",
+     "value": "Over ear"
+    },
+    {
+     "label": "Transmitter",
+     "value": "None included"
+    },
+    {
+     "label": "Use",
+     "value": "General listening and TV via Bluetooth"
+    }
+   ],
+   "description": "The Bose QuietComfort headphones are general purpose over ear Bluetooth headphones with active noise cancelling. They are not a TV system, because no transmitter dock is included.\n\nThey are a good choice if your TV has Bluetooth and a low latency codec, and a poor choice if it does not, since the sound will lag. For a household that also wants headphones for travel and music, they combine both uses. The price tier is high compared with the dock sets, and charging is by cable. Compared with the dock sets, you pay for sound quality and noise control, not for TV convenience.\n\nPair them with the TV's Bluetooth, check for lip sync and consider a separate low latency transmitter if there is a delay. If your TV supports a low latency Bluetooth codec, these can be used directly, and if not, a small low latency transmitter plugged into the TV makes them usable at the cost of another gadget on the shelf.",
+   "bestFor": "People who also want headphones for music and travel and have a Bluetooth TV.",
+   "pros": [
+    "Active noise cancelling shuts out room noise",
+    "Over ear comfort suits long listening",
+    "Works for music and calls as well",
+    "Bose is a familiar brand"
+   ],
+   "cons": [
+    "No transmitter dock included",
+    "May lag on a TV without low latency Bluetooth",
+    "High price tier for TV only use"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DZHR44J9?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319BtflWTuL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Latency",
+   "explanation": "Latency is the delay between the picture and the sound. Under about 40 milliseconds is generally unnoticeable, and above that dialogue can drift. The Earbay and ANTOANE list under 40 milliseconds. Plain Bluetooth to a TV can be higher unless both support a low latency codec. A simple test is to watch someone speaking in close up, since lip movement and sound mismatch is easiest to spot there. Games and fast action scenes also reveal lag, so test a few different types of content."
+  },
+  {
+   "criterion": "Transmitter and TV inputs",
+   "explanation": "A dock that connects to the TV by optical, AUX or RCA works even if the TV has no Bluetooth. Check the outputs on your TV: optical is most common, and RCA is found on older sets. The Mutbam and Earbay list all three. If your TV only has HDMI, an adapter that splits audio is the usual solution, but check for compatibility. If you use a soundbar as well, check that the TV can send audio to both at once."
+  },
+  {
+   "criterion": "Battery life",
+   "explanation": "Listings quote 45 to 65 hours, which refers to listening time on one charge. A dock that recharges the headset each time makes this less important. Real world life can be shorter at high volume. A listing that quotes a long battery life at low volume may not reach it at the louder levels many viewers use."
+  },
+  {
+   "criterion": "Range",
+   "explanation": "The Earbay lists 100 feet, which is the best case with no walls. Walls and floors cut range. For a living room, 30 feet is enough. Thick walls and floors cut range sharply, so a 100 foot figure is a best case in open air."
+  },
+  {
+   "criterion": "Comfort and weight",
+   "explanation": "Over ear cushions spread pressure but can warm the ears. A headset worn for a two hour movie should be light and the band should not squeeze. Try them for an hour. If you are sensitive to heat, look for a headset with breathable ear pads."
+  },
+  {
+   "criterion": "Hearing and volume",
+   "explanation": "Headphones can let one person listen louder without disturbing others, but they do not replace a hearing evaluation. Keep the volume at a comfortable level and take breaks. Many people turn volume up high with headphones, so set a limit that is comfortable and not tiring."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Latency under 40 ms",
+   "meaning": "The delay between video and sound. Under 40 milliseconds is usually unnoticeable. It also affects games, where delay is even easier to notice.",
+   "watchFor": "The Earbay and ANTOANE list it, and others do not."
+  },
+  {
+   "spec": "Optical, AUX, RCA",
+   "meaning": "The three common TV audio outputs. Optical is digital, AUX and RCA are analogue. If your TV has several, optical is usually the best choice.",
+   "watchFor": "The Mutbam and Earbay list all three."
+  },
+  {
+   "spec": "Bluetooth 5.4",
+   "meaning": "A recent version of Bluetooth with better efficiency and range. A newer version helps efficiency but does not by itself fix latency.",
+   "watchFor": "The ANTOANE lists it."
+  },
+  {
+   "spec": "Charging dock",
+   "meaning": "A cradle that charges the headset and holds the transmitter. A dock also makes the headset easier to find.",
+   "watchFor": "The Earbay, Mutbam and YOVOTVERS list docks."
+  },
+  {
+   "spec": "Battery hours",
+   "meaning": "The listening time on one charge, quoted at moderate volume. Treat the figure as a best case, since volume and temperature change it.",
+   "watchFor": "The Mutbam and YOVOTVERS list 65 hours."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Latency first",
+   "description": "We compared stated latency, giving credit to the Earbay and ANTOANE for listing under 40 milliseconds. We also noted any listing that does not state a latency figure."
+  },
+  {
+   "title": "Inputs and transmitters",
+   "description": "We compared TV connection types. We do not test products, so we rely on published specifications."
+  },
+  {
+   "title": "Battery and dock",
+   "description": "We noted stated battery hours and docks, using the 65 hour listings as the benchmark. We also noted which sets list a dock that recharges the headset."
+  },
+  {
+   "title": "Comfort and range",
+   "description": "We noted cushions and range, giving credit to the Earbay's 100 feet."
+  },
+  {
+   "title": "Room fit",
+   "description": "We matched each set to a living room TV with the right outputs. We also considered how easy each dock is to place near a TV stand."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By TV Output",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Optical output",
+      "Earbay",
+      "Optical, AUX, RCA"
+     ],
+     [
+      "Older TV with RCA",
+      "Mutbam",
+      "RCA input listed"
+     ],
+     [
+      "Any TV, low cost",
+      "ANTOANE TTA",
+      "Optical, AUX or RCA"
+     ],
+     [
+      "Bluetooth TV",
+      "Bose QuietComfort",
+      "Direct pairing"
+     ],
+     [
+      "Long sessions",
+      "YOVOTVERS",
+      "65 hour battery"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "ANTOANE TTA",
+      "Cheapest in the lineup"
+     ],
+     [
+      "Low tier",
+      "ANTOANE Dock",
+      "Charging dock"
+     ],
+     [
+      "Low to middle",
+      "Earbay",
+      "Latency under 40 ms"
+     ],
+     [
+      "Middle tier",
+      "YOVOTVERS and Mutbam",
+      "65 hour battery"
+     ],
+     [
+      "Higher tier",
+      "Bose QuietComfort",
+      "Noise cancelling"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Dock vs Bluetooth",
+   "cards": [
+    {
+     "label": "Transmitter dock",
+     "text": "The Earbay, ANTOANE, Mutbam and YOVOTVERS include a dock. They connect to any TV with an audio output and recharge automatically."
+    },
+    {
+     "label": "Direct Bluetooth",
+     "text": "The Bose pairs with a TV that has Bluetooth. It is great for music but may lag on TV."
+    }
+   ],
+   "note": "Choose a dock for TV use, Bluetooth for versatility. If your TV has no optical port, check its other outputs before buying."
+  },
+  {
+   "subheading": "By Priority",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lip sync",
+      "Earbay",
+      "Under 40 ms"
+     ],
+     [
+      "Battery",
+      "Mutbam",
+      "65 hours"
+     ],
+     [
+      "Cheapest",
+      "ANTOANE TTA",
+      "Lowest tier"
+     ],
+     [
+      "Ready charging",
+      "ANTOANE Dock",
+      "Dock charges headset"
+     ],
+     [
+      "Noise cancelling",
+      "Bose",
+      "Active noise control"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Living Rooms Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Low latency, an input that matches your TV and a dock that stays near the TV."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Earbay and Mutbam suit living rooms best."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want noise cancelling or use the headphones outside TV time."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need TV listening at night."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean ear cushions",
+   "interval": "Monthly",
+   "why": "Oils and dust build up. A damp cloth keeps them fresh. Wipe them after long sessions to keep them fresh."
+  },
+  {
+   "task": "Dock the headset",
+   "interval": "Daily",
+   "why": "A full battery is ready for the next session. A habit of docking after each session means you never start with a flat battery."
+  },
+  {
+   "task": "Check TV output",
+   "interval": "After TV updates",
+   "why": "Updates can change audio settings. Reset to optical PCM if needed. If the sound drops, check the optical setting before blaming the headset."
+  },
+  {
+   "task": "Check cable",
+   "interval": "Every six months",
+   "why": "Loose cables cause dropouts. Replace any worn cable, since a frayed optical or RCA lead is a common cause of dropouts."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "Yearly",
+   "why": "Updates fix connection bugs."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a TV with Bluetooth?",
+   "a": "Not with a transmitter dock. The dock connects to the TV's optical, AUX or RCA output. If your TV lacks an optical or analogue output, an HDMI audio extractor can solve it."
+  },
+  {
+   "q": "Will there be lip sync lag?",
+   "a": "Under about 40 milliseconds is usually unnoticeable. Plain Bluetooth can be higher. If you do notice lag, try moving the transmitter closer or changing the audio setting."
+  },
+  {
+   "q": "How long does the battery last?",
+   "a": "Listings say 45 to 65 hours. Real life depends on volume. If you want to avoid frequent charging, favour a dock that recharges every time you set the headset down."
+  },
+  {
+   "q": "Can I use regular headphones instead?",
+   "a": "Yes if the TV has low latency Bluetooth, but a dock set is more reliable. A dock set is also easier for family members who do not want to pair devices."
+  },
+  {
+   "q": "Are TV headphones safe for hearing?",
+   "a": "Keep the volume comfortable and take breaks. They do not replace a hearing evaluation. If anyone in the home has a hearing concern, they should talk to a clinician before relying on headphones alone."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "A low tier set suits night viewing. Spend more for noise cancelling or battery. Remember that a headset is used daily, so comfort matters more than a feature list."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41LEP0GNzgL._SL500_.jpg"
+}

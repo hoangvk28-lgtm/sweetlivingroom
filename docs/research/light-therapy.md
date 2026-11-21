@@ -1,0 +1,15 @@
+- Light boxes for seasonal low mood are used at about 10,000 lux at a stated distance; lamps below about 5,000 lux may be too weak; lower lux needs longer sessions (2,500 lux needs about 4x the time of 10,000).
+- The distance matters more than the headline: some small boxes reach 10,000 lux only a few inches away, which is impractical; check the distance the maker states.
+- Typical sessions: about 20 to 30 minutes in the morning, light slightly above eye level and to the side, do not stare into it.
+- UV filtering: SAD lamps should filter out most or all UV; "UV-free" on a listing is a maker claim, not independent testing.
+- Larger surface area is easier to use and gives more even light at a given distance; small panels need to be closer.
+- Daily consistency matters more than a perfect lamp; set a fixed time and place.
+- People with eye conditions, photosensitising medication or bipolar disorder should ask a clinician first; this site gives no medical advice.
+- A phone light-meter app gives a rough reading but is not a calibrated instrument.
+- Colour temperature: 5000K to 6500K is cool daylight; some lamps offer warm modes that are not therapeutic output.
+- Timers and memory functions save setup; touch controls are easy but can misfire.
+- Floor lamp formats suit desk-free rooms and give wider coverage than a desk panel; panels fit a desk or a counter.
+- Evening use can delay sleep; use in the morning unless advised otherwise.
+- These lamps are not a cure; low mood that persists needs professional care.
+- Light therapy lamps are not tanning lamps and are not for skin conditions.
+- Flicker: cheap drivers can flicker; a steady glass-like output is better for eyes.

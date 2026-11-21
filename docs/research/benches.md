@@ -1,0 +1,13 @@
+# benches cluster (upholstered, storage and end-of-bed benches)
+- End-of-bed benches run 40 to 55 in wide, 16 to 20 in deep, 17 to 19 in tall; match bed width: about 2/3 of a queen's 60 in.
+- Seat height 17 to 19 in suits a bed foot or entryway; lower looks like a footstool.
+- Seat padding 2 to 4 in foam; 2 in feels firm and bottoms out; 4 in is plush but softens.
+- Weight capacity 250 to 660 lb; storage benches usually 300 to 500 lb; fine print: padding not rated for standing.
+- Flip-top storage: soft-close or safety hinges prevent finger pinch; MDF/plywood box; interior is usually unlined.
+- Legs: solid wood or rubberwood legs hold; metal legs can wobble; screw-in legs loosen yearly.
+- Upholstery: linen look stains; chenille snags; faux leather peels; velvet crushes; Scotchgard-type spray helps.
+- Entryway use: shoes and wet coats ruin pale fabric; wipeable faux leather wins; floor protector pads.
+- Dining benches: need 12 to 14 in per person; 63 in seats three; backless pushes under the table.
+- Assembly: legs screw in 10 minutes; storage benches 30 to 60 min.
+- Mistake: a bench wider than the bed foot looks heavy; narrower looks lost.
+- Tufting traps dust; buttons loosen over years.

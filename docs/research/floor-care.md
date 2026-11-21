@@ -1,0 +1,18 @@
+- Hardwood cleaners: choose pH-neutral, made for sealed finished floors; soap-based or oil-soap formulas can leave a film that dulls the finish and attracts dirt.
+- Over-wetting is the most cited hardwood mistake; a pad or mop should be damp, never wet; water at seams cups boards.
+- Avoid vinegar, ammonia and all-purpose cleaners on finished wood; spot-test a hidden area first.
+- Finish matters: polyurethane (surface finish) takes standard neutral cleaners; oil or hard-wax finishes need oil-based or wax-compatible products; unfinished floors take almost nothing wet.
+- Spray vs concentrate: ready-to-use spray is simple; concentrates dilute (a fraction of a cup per gallon) and cost less per use but are easy to over-dose.
+- Polish restorers add a coat; they can build up and make a later recoat harder; never mix with a cleaner you already use.
+- Refill sizes (32 oz bottle, 128 oz jug) cut plastic and cost; fragrance is a taste and allergy issue, unscented exists.
+- Steam mops: NWFA guidance says do not use on hardwood even if the label allows; heat and moisture can damage finish and seams. Fine on sealed tile, vinyl, stone; check manufacturer.
+- Steam mop specs: tank capacity (about 12 to 20 oz), heat-up time (20 to 40 seconds), cord length (18 to 25 ft), pad count, steam levels.
+- Steam mops sanitise surfaces by heat only; they do not replace a vacuum, grout needs a brush tool.
+- Never use descaling vinegar unless the maker says; use distilled or filtered water if the manual says so; empty the tank after use.
+- Pet hair vacuums: look for bin volume, anti-tangle or hair-cutting brush roll, suction mode for hard floors, HEPA or sealed filtration, tool set for upholstery.
+- Corded uprights give unlimited runtime; cordless run roughly 20 to 60 minutes depending on mode; battery drops in max mode.
+- Brush roll wraps: even anti-tangle designs need a snip every few weeks; washable filters rinse monthly and dry 24 hours.
+- Dog and cat hair: cats shed fine hair that embeds in fabric; dog hair is coarser; bare floors need soft roller or suction-only mode to avoid scatter.
+- Weight matters on stairs: cordless sticks around 5 to 7 lb, uprights 12 to 18 lb.
+- Replace filters on the maker schedule; a full bin cuts suction sharply.
+- Robot vacuums handle daily shed but not deep carpet or stairs.

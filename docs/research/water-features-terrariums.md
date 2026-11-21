@@ -1,0 +1,16 @@
+- Tabletop fountains: distilled water best limits algae and white scale; heavily chlorinated tap water can harm the pump; some makers say distilled is optional.
+- Never let the water level drop below the pump; most manuals say cover the pump before plugging in; top up every few days in a warm room.
+- Clean the basin monthly (or sooner if cloudy) with mild soap or diluted vinegar and rinse well; clean the pump every two to three months.
+- Pump noise causes: trapped air, low water, the pump touching the walls; air bubbles on first run are normal and clear in minutes.
+- Algae grows fastest in warm, still water and direct sun; partial shade and fresh water help.
+- Place on a level, water-resistant surface; use a tray or mat to protect wood; keep the cord with a drip loop; lift the pump by its body, not its cord.
+- Fountains add humidity and a steady sound; fine for a desk or sideboard, but louder in a quiet bedroom; pump hum is a common complaint.
+- Resin fountains are light and need a stable base; slate or stone-effect pieces are heavier but still moulded.
+- LED lights run on the pump supply; some stay on whenever plugged in; check for an on and off switch.
+- Terrariums: closed suits humidity-loving plants (ferns, moss), open suits succulents and cacti; never mix wet and dry plants.
+- Closed jars fog and can grow mould; open the lid for a few hours if glass stays heavily fogged all day; remove diseased plants.
+- Drainage layer of 1/2 to 2 in of gravel or LECA is a buffer, not a cure for overwatering; use a barrier layer between gravel and soil.
+- Charcoal is optional and mainly useful in closed builds for odour.
+- Do not put closed glass in full sun; curved glass can focus light into hot spots and scorch leaves.
+- Clear glass transmits light; tinted or cloudy glass reduces it; hinged lids need gentle handling; tin-soldered panels are not waterproof, so avoid standing water.
+- Choose petite plants that will not touch the glass; mist sparingly.

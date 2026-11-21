@@ -1,0 +1,15 @@
+# boneless-sofas cluster (cloud couches, boneless chaises and curved modular sofas)
+- Boneless means no wood or metal frame: foam only, often vacuum compressed; needs 24 to 72 hours to expand after unboxing.
+- Foam types: high-density foam holds shape; memory foam and shredded foam feel plush but flatten faster; pocket springs add support in some.
+- Foam density is rated in D (30D, 40D, 45D) or lb/cu ft; higher is firmer; listing numbers aren't standardized.
+- Seat depth 25 to 28 in is lounging depth; shorter people cannot sit upright with feet down; add back pillow.
+- Low seat height (about 14 to 17 in) is harder to stand from for older adults or bad knees.
+- Fabrics: boucle, chenille, corduroy, velvet; boucle and chenille snag with pets; corduroy hides wear; removable covers rare.
+- No frame means no legs; sits on floor; check for hardwood scratches and humidity; rugs help; dust underneath.
+- Modular curved sofas: sections can be rearranged; gap and shifting is common; connectors help; floor grip pads.
+- Fully curved sofas need floor in all directions: 112 to 128 in long ones need a 12 ft wall; allow 3 ft for walkways.
+- Delivery: compressed boxes are heavy (100 to 200 lb) but pass doors easily; can be easier than framed sofas.
+- Ownership: foam softens over 1 to 3 years; spot clean with fabric safe cleaner; vacuum; fluff weekly.
+- Boneless is not a daily family sofa for most; better for lounge nooks, bedrooms and lofts.
+- Mistake: matching rug and wall curvature; curved sofa against a straight wall leaves wedge gaps; floating works better.
+- Structured curved sofas with frames: tight back, higher seat, rigid; more conventional comfort; cost more.

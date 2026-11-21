@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-moon-lamps",
+ "categorySlug": "lighting",
+ "mainKeyword": "moon lamp",
+ "guideTitle": "Best Moon Lamps (2026)",
+ "metaTitle": "Best Moon Lamps (2026 Guide)",
+ "metaDescription": "Six 3D-printed moon lamps compared on diameter, colour modes, batteries, timers and warm-white dimming, with honest notes on brightness and printed texture.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "expertTake": "The BRIGHTWORLD 5.9 in moon lamp is the best overall pick because its larger sphere shows more surface detail and it combines touch ring, remote and a rechargeable battery. The 3.9 in Touch moon lamp is the value pick for a shelf or a child's desk. Skip the category if you need real reading light, because every lamp here is a decorative night light.",
+ "introParagraphs": [
+  "A moon lamp is a small sphere printed with lunar craters and lit from inside by LEDs. It sits on a stand and gives a soft glow that is more about mood than illumination, and it is a popular gift for bedrooms and desks.",
+  "Almost all of them share the same basic build, so the useful differences are size, how many colours and brightness levels they offer, how long the battery lasts and whether the light can be a warm white. This guide compares six lamps on those points, with realistic expectations of brightness."
+ ],
+ "products": [
+  {
+   "id": "B07PY7GLKV",
+   "badge": "Best Overall",
+   "name": "BRIGHTWORLD 5.9 in 16-colour 3D moon lamp with remote, touch ring and rechargeable battery",
+   "specs": [
+    "5.9 in",
+    "16 colours",
+    "500mAh battery",
+    "Remote and touch"
+   ],
+   "specList": [
+    {
+     "label": "Diameter",
+     "value": "5.9 in"
+    },
+    {
+     "label": "Colours",
+     "value": "16 by remote, 7 by touch ring"
+    },
+    {
+     "label": "Battery",
+     "value": "500mAh USB rechargeable"
+    },
+    {
+     "label": "Control",
+     "value": "Remote and touch ring"
+    },
+    {
+     "label": "Build",
+     "value": "3D printed sphere on stand"
+    }
+   ],
+   "description": "The BRIGHTWORLD is a 5.9 in moon lamp with a textured 3D-printed sphere on a stand. A touch ring on the base cycles through seven colours, and a remote switches among 16 colours. A 500mAh battery recharges by USB, so it works without a cord for a while.\n\nThe tradeoff is that a larger sphere takes more shelf space and a 500mAh battery does not last long at full brightness. Compared with the 4.8 in lamps, it shows crater detail more clearly but costs more. Colour-changing modes are fun but add little useful light, and a warm white is the setting you will use most.\n\nIn ownership terms, charge it with a USB cable before it runs flat, keep the sphere away from heat and avoid dropping it, since printed spheres can crack. Wipe it with a dry cloth. It suits a bedroom shelf or a desk where the surface detail will be seen. Place it where it can be viewed from a few feet away, with the stand on a flat, non-slip surface, because the sphere is light and a nudge can tip it. Switching the room light off shows the texture best, as the inner light throws the crater ridges into relief.",
+   "bestFor": "Bedroom shelves and desks that want a larger moon with remote and touch control.",
+   "pros": [
+    "5.9 in sphere shows crater detail more clearly than smaller lamps",
+    "Touch ring and remote give two ways to change colour",
+    "Rechargeable 500mAh battery means no cord needed for a while",
+    "Wide stock and the most common name in roundups"
+   ],
+   "cons": [
+    "Battery capacity is modest at higher brightness",
+    "Larger sphere needs more shelf space"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B07PY7GLKV?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51eQECmDw9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HHHJ4HS2",
+   "badge": "Best Value",
+   "name": "Touch moon lamp 3.9 in, 16 colour 3D moon light with remote",
+   "specs": [
+    "3.9 in",
+    "16 colours",
+    "Touch and remote",
+    "USB charge"
+   ],
+   "specList": [
+    {
+     "label": "Diameter",
+     "value": "3.9 in"
+    },
+    {
+     "label": "Colours",
+     "value": "16 RGB"
+    },
+    {
+     "label": "Control",
+     "value": "Touch or remote"
+    },
+    {
+     "label": "Brightness",
+     "value": "Dimmable"
+    },
+    {
+     "label": "Use",
+     "value": "Shelf and small desk"
+    }
+   ],
+   "description": "This is a compact 3.9 in moon lamp with 16 RGB colours that you choose by touch or by remote. It can be dimmed, and the listing mentions it can work as a party light. It is the smallest sphere in this lineup and the lowest cost tier.\n\nThe tradeoff is size: a 3.9 in sphere shows less crater detail and gives less glow. Compared with the BRIGHTWORLD, it is much smaller but fits a bookshelf or bedside table without crowding. The colour changing modes add novelty, but cheap RGB LEDs can look harsh in a dark room.\n\nIn ownership terms, charge it as the maker directs, and keep it away from bathrooms and heat. The sphere is printed and not meant for rough handling. It suits a child's shelf or a small desk as a decorative piece. Because it is the smallest lamp here, it also works in a crowded display next to books and plants, where a larger sphere would look out of scale. Expect a gentle glow that is more visible in a dim room than in daylight, and set the brightness low for a bedside.",
+   "bestFor": "Small shelves and desks where a compact, low-cost moon lamp is enough.",
+   "pros": [
+    "Smallest sphere fits crowded shelves and bedside tables",
+    "Touch and remote both change colour and brightness",
+    "Lowest cost tier in the lineup",
+    "16 RGB colours for variety"
+   ],
+   "cons": [
+    "Smaller sphere shows less surface detail and gives less glow",
+    "Cheap RGB LEDs can look harsh in a dark room"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0HHHJ4HS2?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/411rrX-yYLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07H3Q79M9",
+   "badge": "Best Timer",
+   "name": "GDPETS 4.8 in moon lamp with stand, remote, touch and 15 to 60 minute timer",
+   "specs": [
+    "4.8 in",
+    "PLA build",
+    "Timer",
+    "USB rechargeable"
+   ],
+   "specList": [
+    {
+     "label": "Diameter",
+     "value": "4.8 in"
+    },
+    {
+     "label": "Material",
+     "value": "PLA printed"
+    },
+    {
+     "label": "Colours",
+     "value": "16, dimmable"
+    },
+    {
+     "label": "Timer",
+     "value": "15, 30, 45 or 60 minutes"
+    },
+    {
+     "label": "Power",
+     "value": "USB rechargeable"
+    }
+   ],
+   "description": "The GDPETS is a 4.8 in moon lamp printed in PLA, with 16 colours that can each be dimmed. A timer offers 15, 30, 45 and 60 minute settings, which suits bedtime use. It comes with a stand and works by touch or remote and charges by USB.\n\nThe tradeoff is the maximum timer of one hour, which may be short for some users, and the PLA surface can scratch. Compared with the BRIGHTWORLD, it is smaller but adds a timer. PLA is a plant-based plastic that softens with heat, so keep the lamp away from sunny windows and radiators.\n\nIn ownership terms, use the timer for falling asleep and the touch control for colour. Charge it regularly, and store it with the stand. It suits a child's bedside or a teen's desk where a short bedtime light is wanted. A sensible routine is to pick a dim warm colour, set the 30 minute timer and let the lamp switch itself off, so it is dark when the child is asleep. If the child wakes in the night, a quick tap restarts it without needing the remote.",
+   "bestFor": "Bedtime use where a 15 to 60 minute timer helps the light switch off on its own.",
+   "pros": [
+    "Timer offers 15, 30, 45 and 60 minute settings",
+    "Each of the 16 colours can be dimmed",
+    "Comes with a stand and a remote",
+    "PLA build is light and easy to place"
+   ],
+   "cons": [
+    "PLA can soften and warp near heat or in sun",
+    "Longest timer is one hour"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07H3Q79M9?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51aHc+V7k9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B086LFS3VQ",
+   "badge": "Best for Kids",
+   "name": "Mind-Glowing galaxy moon lamp 4.7 in, 16 colours, touch and remote, auto off",
+   "specs": [
+    "4.7 in",
+    "16 colours",
+    "4 modes",
+    "Auto off"
+   ],
+   "specList": [
+    {
+     "label": "Diameter",
+     "value": "4.7 in"
+    },
+    {
+     "label": "Colours",
+     "value": "16 shades"
+    },
+    {
+     "label": "Modes",
+     "value": "Strobe, flash, fade and smooth"
+    },
+    {
+     "label": "Control",
+     "value": "Touch or remote"
+    },
+    {
+     "label": "Power",
+     "value": "Rechargeable, auto off"
+    }
+   ],
+   "description": "The Mind-Glowing lamp is a 4.7 in galaxy-themed moon lamp with 16 colours, four modes and an auto-off function. It is rechargeable and can be controlled by touch or remote. The galaxy design aims at children and teens who want a bedside novelty.\n\nThe tradeoff is that strobe and flash modes are not suitable for everyone, and flashing lights can bother light-sensitive people. Compared with the GDPETS, it adds modes but gives less detailed timing. The sphere is small enough for a bedside table.\n\nIn ownership terms, keep to the steady and fade modes for sleep, and avoid the strobe mode in a dark room. Charge it when the light dims. It suits a child's bedroom where the novelty of colour modes is wanted. Treat the strobe and flash modes as party features and agree house rules about not using them at bedtime. The galaxy theme works best against a dark wall, where the coloured glow reads clearly instead of washing out on a pale surface.",
+   "bestFor": "Children's bedrooms that want colour modes and an auto-off function.",
+   "pros": [
+    "Four modes including fade and smooth for calm use",
+    "Auto-off prevents the lamp running all night",
+    "Touch and remote controls suit children",
+    "Rechargeable and cord-free"
+   ],
+   "cons": [
+    "Strobe and flash modes may bother light-sensitive people",
+    "Less detailed timer than the GDPETS"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B086LFS3VQ?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51ojRviyQAL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H49CG8TW",
+   "badge": "Best Warm White",
+   "name": "Warm-white bedside lamp with 5 colour temperatures and 6 brightness levels",
+   "specs": [
+    "2700K to 6500K",
+    "6 levels",
+    "30 modes",
+    "Bedside"
+   ],
+   "specList": [
+    {
+     "label": "Colour temperatures",
+     "value": "5, from 2700K warm to 6500K cool"
+    },
+    {
+     "label": "Brightness",
+     "value": "6 levels"
+    },
+    {
+     "label": "Modes",
+     "value": "30 combined"
+    },
+    {
+     "label": "Use",
+     "value": "Bedside table lamp"
+    },
+    {
+     "label": "Surface",
+     "value": "Moon-like texture"
+    }
+   ],
+   "description": "This moon lamp focuses on white light: five colour temperatures from 2700K warm yellow to 6500K cool white, and six brightness levels. That gives 30 combined modes that you can use as a real bedside lamp rather than a colour show. The surface imitates the moon and adds a calm, textured look.\n\nThe tradeoff is that it lacks the 16 RGB colour wheel found on the others, so it is less of a party light. Compared with the BRIGHTWORLD, it is more practical for sleep and reading. A small moon sphere still gives a modest amount of light.\n\nIn ownership terms, use the warm 2700K setting in the evening and avoid the cool 6500K setting before bed. Keep the lamp on a stable table. It suits an adult bedside where a soft warm glow matters more than colour changes. At 2700K the lamp looks closer to a candle or an old incandescent bulb, which is easier on tired eyes late in the day, while the cooler settings are better for a quick glance during the day. Because the brightness levels are fixed steps, pick the one that lights your hand but not the whole room.",
+   "bestFor": "Adult bedsides that want a soft warm moon glow instead of a colour show.",
+   "pros": [
+    "Warm 2700K to cool 6500K range gives usable white light",
+    "Six brightness levels from dim to bright",
+    "Moon-like surface looks calm in daylight",
+    "No harsh RGB modes to avoid"
+   ],
+   "cons": [
+    "No RGB colour wheel for novelty or parties",
+    "Still a small sphere, so light is modest"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H49CG8TW?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41spOqb2EmL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D3M8PPWP",
+   "badge": "Best Stepless Dimming",
+   "name": "Yinhamnl moon lamp with 3 colours and stepless dimming, touch control, USB rechargeable",
+   "specs": [
+    "3 colours",
+    "Stepless dimming",
+    "Touch",
+    "USB rechargeable"
+   ],
+   "specList": [
+    {
+     "label": "Colours",
+     "value": "3 colour options"
+    },
+    {
+     "label": "Dimming",
+     "value": "Stepless"
+    },
+    {
+     "label": "Control",
+     "value": "Touch"
+    },
+    {
+     "label": "Power",
+     "value": "USB rechargeable"
+    },
+    {
+     "label": "Style",
+     "value": "Cute bedside moon"
+    }
+   ],
+   "description": "The Yinhamnl is a moon lamp with three colour settings and stepless dimming, controlled by touch. It is USB rechargeable, with no cord to trail across the table. Stepless dimming lets you pick a very low glow for a night light.\n\nThe tradeoff is that three colours is fewer than the RGB lamps, and the touch control can misfire if you brush it in the dark. Compared with the warm-white lamp, it has fewer temperature options but dims smoothly. It suits a bedside where a low glow is preferred.\n\nIn ownership terms, charge it with a USB cable and keep the touch area clean. It is a simple, quiet lamp. It suits a child's room or a bedside where gentle dimming matters more than colours. Stepless dimming is most useful at the bottom of the range, where fixed steps are often too bright for a dark nursery, so you can find a glow that lights the way without waking anyone. Keep the touch area dry and wipe it with a dry cloth.",
+   "bestFor": "Bedsides and nurseries that want a very low glow with smooth dimming.",
+   "pros": [
+    "Stepless dimming reaches a very low night-light level",
+    "Three colour options keep the controls simple",
+    "USB rechargeable, with no cord on the table",
+    "Touch control is quiet"
+   ],
+   "cons": [
+    "Only three colour options",
+    "Touch area can be brushed accidentally in the dark"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0D3M8PPWP?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51xY02TedJL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Sphere diameter",
+   "explanation": "Common sizes run from about 3.9 to 6 in. A larger sphere shows more crater detail and gives more glow, but needs more shelf space. A 4.7 to 4.8 in sphere is a good balance for a bedside. The BRIGHTWORLD at 5.9 in is the largest here; the Touch lamp at 3.9 in is the smallest."
+  },
+  {
+   "criterion": "Colour modes versus warm white",
+   "explanation": "RGB lamps change colour for fun, but a bedside lamp is mostly used in a warm white. A lamp with true colour temperatures, such as the five-temperature lamp from 2700K to 6500K, is more useful at night. Cool 6500K light is a poor choice before sleep. If you want the lamp for a teenager's desk or a gaming shelf, the colour wheel is part of the appeal, so you may be happy with RGB and a warm preset together. For a bedroom shared with a sleeping partner, test brightness at the lowest step before you put the lamp on the bedside."
+  },
+  {
+   "criterion": "Battery and charging",
+   "explanation": "Most are USB rechargeable, with small batteries such as the 500mAh cell in the BRIGHTWORLD. Runtime drops at higher brightness. If you want a permanent bedside lamp, plan to charge it often or leave it plugged in."
+  },
+  {
+   "criterion": "Timer and auto-off",
+   "explanation": "A timer turns the lamp off after 15 to 60 minutes, which suits falling asleep. The GDPETS offers four settings, and the Mind-Glowing has auto-off. A lamp that stays on all night may disturb sleep."
+  },
+  {
+   "criterion": "Print quality and durability",
+   "explanation": "Moon lamps are 3D printed in PLA or similar plastic, which is light but can scratch, warp near heat and crack if dropped. A sphere with a visible layer line is normal. Keep it away from windows, radiators and rough handling. Pick the lamp up by the stand and not the sphere, and do not leave it in a hot car, where plastic can soften within an hour. Hairline cracks usually start at the stand seat, so check that area if the lamp has been dropped."
+  },
+  {
+   "criterion": "Controls",
+   "explanation": "Touch rings, taps and remotes each have a role, and sliding controls can be sensitive. A remote is handy for a high shelf but is easily lost. Pick the control that you will actually use in the dark. A touch ring that you can find by feel is easier than a tap zone on a smooth sphere, and a remote with large buttons beats one with a tiny cluster. If you share the lamp with a child, a lamp with a lock or a simple one-button mode avoids accidental flashing modes."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Diameter",
+   "meaning": "The width of the sphere in inches, which sets presence and detail.",
+   "watchFor": "BRIGHTWORLD is 5.9 in, GDPETS 4.8 in and Touch 3.9 in."
+  },
+  {
+   "spec": "RGB colours",
+   "meaning": "A red, green and blue LED mix that creates many colour options.",
+   "watchFor": "Most lamps offer 16; warm white is a separate setting."
+  },
+  {
+   "spec": "Colour temperature",
+   "meaning": "The warmth of white light in Kelvin, from 2700K warm to 6500K cool.",
+   "watchFor": "Only one lamp here lists five temperatures."
+  },
+  {
+   "spec": "mAh battery",
+   "meaning": "The charge capacity of the battery. Larger means longer runtime.",
+   "watchFor": "BRIGHTWORLD lists 500mAh."
+  },
+  {
+   "spec": "PLA",
+   "meaning": "A plant-based printing plastic that is light but softens with heat.",
+   "watchFor": "The GDPETS lists PLA; keep it out of sun."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Size and detail",
+   "description": "We evaluated the listed diameters and how much surface detail each size can show. Larger spheres scored higher for display. This is based on published specifications."
+  },
+  {
+   "title": "Light options",
+   "description": "We compared RGB colours with true colour temperatures and dimming levels. Useful warm white scored higher than extra colours."
+  },
+  {
+   "title": "Power and timers",
+   "description": "We weighed battery capacity, charging and timers such as the GDPETS 15 to 60 minute options."
+  },
+  {
+   "title": "Controls",
+   "description": "We looked at touch, remote and sliding controls, favouring simple and reliable use in the dark."
+  },
+  {
+   "title": "Ownership signals",
+   "description": "We researched owner feedback patterns on print quality and battery life. Scores are editorial assessments."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Display on a shelf",
+      "BRIGHTWORLD 5.9 in",
+      "Larger detail"
+     ],
+     [
+      "Child's bedside",
+      "Mind-Glowing 4.7 in",
+      "Auto-off and modes"
+     ],
+     [
+      "Adult bedside",
+      "Warm-white moon lamp",
+      "2700K to 6500K"
+     ],
+     [
+      "Falling asleep",
+      "GDPETS 4.8 in",
+      "15 to 60 minute timer"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost tier",
+      "Touch moon lamp 3.9 in",
+      "Small and simple"
+     ],
+     [
+      "Lower mid tier",
+      "Yinhamnl",
+      "Stepless dimming"
+     ],
+     [
+      "Mid tier",
+      "GDPETS 4.8 in",
+      "Timer"
+     ],
+     [
+      "Upper tier",
+      "BRIGHTWORLD 5.9 in",
+      "Largest sphere"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Colour vs Warm White",
+   "cards": [
+    {
+     "label": "RGB colour lamp",
+     "text": "BRIGHTWORLD, GDPETS and Touch offer 16 colours for fun and parties."
+    },
+    {
+     "label": "Warm white lamp",
+     "text": "The five-temperature lamp and the Yinhamnl suit bedsides and sleep."
+    }
+   ],
+   "note": "Choose colours for play and warm white for sleep."
+  },
+  {
+   "subheading": "By Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Tight shelf",
+      "Touch moon lamp 3.9 in",
+      "Smallest"
+     ],
+     [
+      "Bedside table",
+      "GDPETS 4.8 in",
+      "Balanced size"
+     ],
+     [
+      "Desk display",
+      "BRIGHTWORLD 5.9 in",
+      "Most detail"
+     ],
+     [
+      "Nursery",
+      "Yinhamnl",
+      "Low glow"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Bedrooms Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A warm white mode, stepless or six-level dimming and an auto-off timer."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The warm-white lamp and the GDPETS meet that brief best."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a larger sphere with remote and a longer battery."
+    },
+    {
+     "label": "Save if",
+     "text": "You want a small decorative lamp for a shelf."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Charge before it runs flat",
+   "interval": "Every 1 to 2 weeks",
+   "why": "Small batteries last longer with regular charging. Avoid leaving them fully drained."
+  },
+  {
+   "task": "Dust the sphere",
+   "interval": "Monthly",
+   "why": "Dust dulls the surface detail. A dry soft cloth is enough."
+  },
+  {
+   "task": "Keep away from heat",
+   "interval": "Always",
+   "why": "PLA can warp near radiators or sun. A shaded shelf is best."
+  },
+  {
+   "task": "Check the stand",
+   "interval": "Every few months",
+   "why": "A stand that wobbles can let the sphere fall. Re-seat it on a flat surface."
+  },
+  {
+   "task": "Test the remote batteries",
+   "interval": "Twice a year",
+   "why": "Weak remote batteries cause missed commands. Replace them with the right type."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are moon lamps bright enough to read by?",
+   "a": "No. They are decorative night lights, and a small sphere gives only a soft glow. Use a proper lamp for reading."
+  },
+  {
+   "q": "How long does the battery last?",
+   "a": "It depends on size and brightness. Small batteries such as 500mAh last hours at higher brightness, longer at low settings."
+  },
+  {
+   "q": "Is 3D-printed plastic safe?",
+   "a": "The sphere is usually printed in PLA or similar. Follow the maker's guidance, keep it away from heat and avoid chewing or heavy handling."
+  },
+  {
+   "q": "Can a moon lamp be left on all night?",
+   "a": "Many have timers or auto-off. A very low warm setting is gentler on sleep than bright colours."
+  },
+  {
+   "q": "Which colour is best for sleep?",
+   "a": "Warm white or a very dim amber is gentler than blue or cool white. Avoid strobing or flashing modes at night."
+  },
+  {
+   "q": "Why does my remote not work?",
+   "a": "Check the batteries and point it at the front of the lamp. Some lamps use touch only if the remote is lost."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51eQECmDw9L._SL500_.jpg"
+}

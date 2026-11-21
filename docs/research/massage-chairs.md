@@ -1,0 +1,16 @@
+# massage-chairs cluster
+- Roller track types: fixed rollers (flat, back only) vs S-track (follows spine curve) vs SL-track (S curve extended to glutes/thighs); longer track covers more body.
+- "4D" claims mean rollers also vary protrusion/intensity and speed; 3D variable depth; 2D is fixed depth. Marketing uses 4D loosely.
+- Airbag count (10 to 40) is compression coverage; more airbags help arms, legs, hips; count says nothing about quality.
+- Zero gravity recline raises knees above heart; many chairs offer 1 or 2 angles; max recline around 160 to 165 degrees on some.
+- Heat pads usually lumbar and calf only; heat is mild, not hot-stone level.
+- Foot rollers and calf airbags: foot size and calf fit vary; short users (under about 5 ft) may not reach foot rollers; tall users (over 6 ft) may overhang.
+- Footprint: full-body chairs are about 4 to 5 ft long when upright and much more reclined; leave 4 to 8 in behind for recline unless wall-hugging.
+- Weight: 150 to 250 lb typical; plan for a two-person delivery; stair climbing is a problem.
+- Power draw similar to a space heater at peak; 120 V outlet; cycle is auto-timed at 15 to 20 minutes.
+- Upholstery PU leather: wipes clean; wears at arm rests; sun and friction crack.
+- Warranty and parts: 1 year common; some lists 3 year; roller motors and airbag units are the wear parts.
+- Sound: roller motors hum; air pump cycles; Bluetooth speakers are minor.
+- Controls: remote vs touchscreen; manual intensity settings matter more than auto program count.
+- Medical caution: pregnancy, pacemakers, recent surgery, bone conditions: ask a clinician; do not make health claims.
+- Mistake: judging by auto-mode counts; the useful features are track length, adjustable intensity and fit.

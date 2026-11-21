@@ -81,3 +81,52 @@
 - Top guides: Lutron Diva LED+ best overall paddle (trim lever, single pole or 3-way, no neutral); Lutron Toggler LED+ for toggle homes (250+ levels); a budget in-wall dimmer; smart picks (Lutron Caseta with hub, a Meross Wi-Fi dimmer).
 - Buying checks: bulb compatibility (Lutron and Leviton offer matching tools), wattage vs total load, reviews mentioning flicker or buzz.
 - Gap: electrical safety (breaker off, test for voltage), 3-way limits and load counting; we cover all three.
+## best-floor-lamps-with-shelves
+- Retailer pages dominate; named picks include column and etagere styles (Breault, Catalina, Mainstays, Brightech).
+- Guides note a recurring drawback: shelves are small and lamps can be shorter than expected.
+- Buyers are steered by number of tiers, height (about 58 to 72 in), 3-colour-temperature bulbs and built-in USB or charging.
+- Gap: shelf load and heat from the bulb, tip risk of a narrow base, and fiberboard versus metal construction; we cover these.
+## best-glass-table-lamps
+- Roundups are thin; BestReviews names a Tiffany-style lamp; most results are retailer or vintage marketplace pages.
+- Advice: clear shades reflect more light; check bulb wattage limit and height against the surface.
+- Styles split by bell, cylinder or conical shades and clear, white or coloured glass.
+- Gap: glass breakage and weight, cordless glass options, shade-to-base proportion and USB-on-base placement; we cover these.
+## best-crystal-table-lamps
+- Roundups favour glam touch-control sets with USB ports (Hong-in often named best value) and traditional Regency Hill style.
+- Guides tell buyers to check height, width and weight against the surface, and note bulbs included and dimming.
+- Crystal lamps are described as suiting most rooms because they add no strong colour.
+- Gap: most budget crystal lamps use acrylic or K9 glass beads rather than lead crystal, cordless versions, and touch-sensor quirks; we cover these.
+## best-brass-floor-lamps
+- Roundups (BestReviews, Apartment Therapy, Livingetc) name arc, torchiere, tree and pharmacy styles in brass finish.
+- Retailers split brass into modern polished and aged or antique brass for traditional rooms.
+- Guides note some lamps with built-in dimming or colour-temperature features do not pair well with smart devices.
+- Gap: brass-plated steel versus solid brass, lacquer wear, base weight on arc lamps and bulb replaceability; we cover these.
+## best-light-therapy-lamps
+- Verilux HappyLight (Luxe, VT10) is the frequent top pick; Carex Day-Light and Circadian Optics Lumos follow.
+- Guides lead with lux, UV-free, size of panel, daily use and looking indirectly.
+- Safety notes: ask a clinician if you have eye conditions or take photosensitising medication.
+- Clinical sites stress the distance at which 10,000 lux is delivered.
+- Gap: honest distance caveat, session length versus lux and non-medical framing; we cover these.
+## best-lava-lamps
+- Lava brand original 14.5 in and 20 oz lamps top roundups; JAMBO 16 in and glitter lamps recur.
+- Guides stress stable placement away from sun and drafts and the 2 to 3 hour warm-up.
+- Segments: classic wax, glitter, LED colour-changing and large lamps.
+- Gap: bulb wattage and replacement, cloudy liquid causes, and LED lamps that are not true lava; we cover these.
+## best-moon-lamps
+- Brightworld is the most common best-overall pick; VGAzer for levitating; Mydethun and Mind-Glowing for budget and kids.
+- Guides weigh brightness, colour, durability and size; many mention remote and touch control.
+- Gap: PLA softens with heat, warm-white and dimming for sleep, battery size and flashing modes; we cover these.
+## best-puck-lights
+- Cadrim and Brilliant Evolution battery pucks lead; Armacost PureVue for hardwired or plug-in.
+- Guides advise one light per 8 to 12 in of cabinet, dimmable warm white, and note adhesive and longevity complaints.
+- Hardwired versions need a transformer and an electrician.
+- Gap: honest lumen ceiling (about 40 to 55), battery cost for six pucks, and remote line of sight; we cover these.
+## best-plug-in-pendant-lights
+- Roundups (CherryPicks, Hometosight, Journeyman HQ) judge shade material, cord length and dimming control.
+- Retail lists favour boho rattan, woven wicker, industrial cage and glass shades with 13 to 19 ft cords.
+- Advice: confirm the listing is truly plug-in and check cord length and whether a bulb is included.
+- Gap: swag hook load and ceiling anchors, visible cord routing, bulb wattage caps and shade weight; we cover these.
+## best-wooden-table-lamps
+- Results were retailer pages (Lamps Plus, Visual Comfort, Target) and vintage marketplaces; no clear expert ranking.
+- Retail advice: oak, walnut and teak with metal or glass accents; never see the neck of the lamp or the bulb from seated or standing.
+- Gap: solid wood versus resin or paint-over wood grain, tripod stability, shade proportion and bulb heat; we cover these.

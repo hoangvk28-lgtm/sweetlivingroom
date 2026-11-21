@@ -1,1522 +1,2002 @@
 [
- {
-  "slug": "best-sleeper-sofas",
-  "category": "sofas-seating",
-  "mainKeyword": "sleeper sofa",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-loveseats-for-small-spaces",
-  "category": "sofas-seating",
-  "mainKeyword": "loveseat for small spaces",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-futons",
-  "category": "sofas-seating",
-  "mainKeyword": "futon sofa bed",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-recliners",
-  "category": "sofas-seating",
-  "mainKeyword": "recliner chair",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-wall-hugger-recliners",
-  "category": "sofas-seating",
-  "mainKeyword": "wall hugger recliner",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-accent-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "accent chair living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-swivel-accent-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "swivel accent chair",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-lift-chairs-for-seniors",
-  "category": "sofas-seating",
-  "mainKeyword": "power lift recliner chair for elderly",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-storage-ottomans",
-  "category": "storage-media",
-  "mainKeyword": "storage ottoman",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-washable-area-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "washable area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-rug-pads",
-  "category": "rugs-flooring",
-  "mainKeyword": "rug pad for hardwood floors",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-jute-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "jute area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-runner-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "hallway runner rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-shag-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "shag area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-wool-area-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "wool area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-arc-floor-lamps",
-  "category": "lighting",
-  "mainKeyword": "arc floor lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-torchiere-floor-lamps",
-  "category": "lighting",
-  "mainKeyword": "torchiere floor lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-table-lamps-for-living-rooms",
-  "category": "lighting",
-  "mainKeyword": "table lamp living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-smart-light-bulbs",
-  "category": "lighting",
-  "mainKeyword": "smart light bulb",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-led-strip-lights-for-tv",
-  "category": "lighting",
-  "mainKeyword": "tv backlight led strip",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-plug-in-wall-sconces",
-  "category": "lighting",
-  "mainKeyword": "plug in wall sconce",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-reading-floor-lamps",
-  "category": "lighting",
-  "mainKeyword": "reading floor lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-ceiling-fans-for-living-rooms",
-  "category": "lighting",
-  "mainKeyword": "ceiling fan with light living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tv-stands",
-  "category": "storage-media",
-  "mainKeyword": "tv stand",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tv-wall-mounts",
-  "category": "storage-media",
-  "mainKeyword": "tv wall mount",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-coffee-tables",
-  "category": "storage-media",
-  "mainKeyword": "coffee table living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-lift-top-coffee-tables",
-  "category": "storage-media",
-  "mainKeyword": "lift top coffee table",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-nesting-coffee-tables",
-  "category": "storage-media",
-  "mainKeyword": "nesting coffee table",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-side-tables",
-  "category": "storage-media",
-  "mainKeyword": "side table living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-bookshelves",
-  "category": "storage-media",
-  "mainKeyword": "bookshelf",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-floating-shelves",
-  "category": "storage-media",
-  "mainKeyword": "floating shelves",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-soundbars-for-tv",
-  "category": "storage-media",
-  "mainKeyword": "soundbar for tv",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-entertainment-centers",
-  "category": "storage-media",
-  "mainKeyword": "entertainment center",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-furniture-anti-tip-kits",
-  "category": "storage-media",
-  "mainKeyword": "furniture anti tip kit",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-blackout-curtains",
-  "category": "decor-styling",
-  "mainKeyword": "blackout curtains",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-throw-blankets",
-  "category": "decor-styling",
-  "mainKeyword": "throw blanket for couch",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-floor-mirrors",
-  "category": "decor-styling",
-  "mainKeyword": "full length floor mirror",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-curtain-rods",
-  "category": "decor-styling",
-  "mainKeyword": "curtain rod",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-sheer-curtains",
-  "category": "decor-styling",
-  "mainKeyword": "sheer curtains",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-acoustic-panels",
-  "category": "decor-styling",
-  "mainKeyword": "acoustic panels",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-modular-sofas",
-  "category": "sofas-seating",
-  "mainKeyword": "modular sectional sofa",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-reclining-sofas",
-  "category": "sofas-seating",
-  "mainKeyword": "reclining sofa",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-chaise-lounges",
-  "category": "sofas-seating",
-  "mainKeyword": "chaise lounge chair indoor",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-sofa-covers",
-  "category": "sofas-seating",
-  "mainKeyword": "sofa slipcover",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-leather-sofas",
-  "category": "sofas-seating",
-  "mainKeyword": "leather sofa",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-poufs",
-  "category": "sofas-seating",
-  "mainKeyword": "pouf ottoman",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-bean-bag-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "bean bag chair adult",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-couch-cushion-supports",
-  "category": "sofas-seating",
-  "mainKeyword": "couch cushion support for sagging seats",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-oversized-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "oversized chair and a half",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-round-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "round area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-cowhide-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "cowhide rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-indoor-outdoor-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "indoor outdoor rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-rug-grippers",
-  "category": "rugs-flooring",
-  "mainKeyword": "rug corner grippers",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-persian-style-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "vintage persian area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-kilim-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "kilim flat weave rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-portable-carpet-cleaners",
-  "category": "rugs-flooring",
-  "mainKeyword": "portable carpet spot cleaner",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-chandeliers-for-living-rooms",
-  "category": "lighting",
-  "mainKeyword": "chandelier living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-flush-mount-ceiling-lights",
-  "category": "lighting",
-  "mainKeyword": "flush mount ceiling light",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-track-lighting-kits",
-  "category": "lighting",
-  "mainKeyword": "track lighting kit",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-picture-lights",
-  "category": "lighting",
-  "mainKeyword": "picture light for wall art",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-smart-light-switches",
-  "category": "lighting",
-  "mainKeyword": "smart light switch",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-smart-plugs",
-  "category": "lighting",
-  "mainKeyword": "smart plug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-dimmable-led-bulbs",
-  "category": "lighting",
-  "mainKeyword": "dimmable led light bulbs warm white",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tripod-floor-lamps",
-  "category": "lighting",
-  "mainKeyword": "tripod floor lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-cordless-table-lamps",
-  "category": "lighting",
-  "mainKeyword": "cordless rechargeable table lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-console-tables",
-  "category": "storage-media",
-  "mainKeyword": "console table behind couch",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-floating-tv-stands",
-  "category": "storage-media",
-  "mainKeyword": "floating tv stand wall mounted",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-corner-tv-stands",
-  "category": "storage-media",
-  "mainKeyword": "corner tv stand",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-home-theater-systems",
-  "category": "storage-media",
-  "mainKeyword": "home theater system surround sound",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-cube-storage-organizers",
-  "category": "storage-media",
-  "mainKeyword": "cube storage organizer",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-ladder-shelves",
-  "category": "storage-media",
-  "mainKeyword": "ladder shelf",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-cord-cover-kits",
-  "category": "storage-media",
-  "mainKeyword": "cord cover for wall mounted tv",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-sofa-arm-tables",
-  "category": "storage-media",
-  "mainKeyword": "sofa arm tray table",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-throw-pillow-covers",
-  "category": "decor-styling",
-  "mainKeyword": "throw pillow covers",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-throw-pillow-inserts",
-  "category": "decor-styling",
-  "mainKeyword": "throw pillow inserts",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-artificial-plants",
-  "category": "decor-styling",
-  "mainKeyword": "artificial plants for living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-wall-mirrors",
-  "category": "decor-styling",
-  "mainKeyword": "decorative wall mirror",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-peel-and-stick-wallpaper",
-  "category": "decor-styling",
-  "mainKeyword": "peel and stick wallpaper",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-roller-shades",
-  "category": "decor-styling",
-  "mainKeyword": "light filtering roller shades",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-gallery-wall-frame-sets",
-  "category": "decor-styling",
-  "mainKeyword": "gallery wall frame set",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-plant-stands",
-  "category": "decor-styling",
-  "mainKeyword": "plant stand indoor",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-wall-clocks",
-  "category": "decor-styling",
-  "mainKeyword": "large wall clock living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-fireplace-screens",
-  "category": "decor-styling",
-  "mainKeyword": "fireplace screen",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-electric-fireplace-inserts",
-  "category": "storage-media",
-  "mainKeyword": "electric fireplace insert",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-blanket-ladders",
-  "category": "decor-styling",
-  "mainKeyword": "blanket ladder",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-velvet-sofas",
-  "category": "sofas-seating",
-  "mainKeyword": "velvet sofa",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-power-recliners",
-  "category": "sofas-seating",
-  "mainKeyword": "power recliner chair",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-floor-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "floor chair with back support",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-chesterfield-sofas",
-  "category": "sofas-seating",
-  "mainKeyword": "chesterfield sofa",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-mid-century-modern-sofas",
-  "category": "sofas-seating",
-  "mainKeyword": "mid century modern sofa",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-recliner-covers",
-  "category": "sofas-seating",
-  "mainKeyword": "recliner chair cover",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-barrel-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "barrel accent chair",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-wingback-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "wingback chair",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-rocking-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "indoor rocking chair",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-papasan-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "papasan chair",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-sofa-legs",
-  "category": "sofas-seating",
-  "mainKeyword": "replacement sofa legs",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-furniture-sliders",
-  "category": "sofas-seating",
-  "mainKeyword": "furniture sliders",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-felt-furniture-pads",
-  "category": "sofas-seating",
-  "mainKeyword": "felt furniture pads",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-footstools",
-  "category": "sofas-seating",
-  "mainKeyword": "footstool",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-sleeper-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "sleeper chair bed",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-boucle-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "boucle accent chair",
-  "title": "",
-  "asins": [],
-  "status": "skip"
- },
- {
-  "slug": "best-moroccan-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "moroccan area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-sisal-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "sisal rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-faux-sheepskin-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "faux sheepskin rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-low-pile-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "low pile area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-cotton-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "cotton area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-braided-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "braided rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-geometric-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "geometric area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-bohemian-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "boho area rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-carpet-tiles",
-  "category": "rugs-flooring",
-  "mainKeyword": "carpet tiles",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-carpet-cleaners",
-  "category": "rugs-flooring",
-  "mainKeyword": "upright carpet cleaner machine",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-carpet-cleaning-solutions",
-  "category": "rugs-flooring",
-  "mainKeyword": "carpet cleaner solution",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-robot-vacuums-for-carpet",
-  "category": "rugs-flooring",
-  "mainKeyword": "robot vacuum for carpet",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-checkered-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "checkered rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-hand-knotted-rugs",
-  "category": "rugs-flooring",
-  "mainKeyword": "hand knotted rug",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-pendant-lights",
-  "category": "lighting",
-  "mainKeyword": "pendant light",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-recessed-lighting",
-  "category": "lighting",
-  "mainKeyword": "canless recessed lighting",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-corner-floor-lamps",
-  "category": "lighting",
-  "mainKeyword": "corner floor lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tree-floor-lamps",
-  "category": "lighting",
-  "mainKeyword": "tree floor lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-ceramic-table-lamps",
-  "category": "lighting",
-  "mainKeyword": "ceramic table lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-touch-table-lamps",
-  "category": "lighting",
-  "mainKeyword": "touch control table lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-buffet-lamps",
-  "category": "lighting",
-  "mainKeyword": "buffet lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-himalayan-salt-lamps",
-  "category": "lighting",
-  "mainKeyword": "himalayan salt lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-battery-wall-sconces",
-  "category": "lighting",
-  "mainKeyword": "battery operated wall sconce",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-candle-warmer-lamps",
-  "category": "lighting",
-  "mainKeyword": "candle warmer lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-flameless-candles",
-  "category": "lighting",
-  "mainKeyword": "flameless candles",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-string-lights",
-  "category": "lighting",
-  "mainKeyword": "indoor string lights",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-lamp-shades",
-  "category": "lighting",
-  "mainKeyword": "lamp shade",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-mushroom-lamps",
-  "category": "lighting",
-  "mainKeyword": "mushroom lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-sunset-lamps",
-  "category": "lighting",
-  "mainKeyword": "sunset lamp projector",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-paper-lantern-floor-lamps",
-  "category": "lighting",
-  "mainKeyword": "paper lantern floor lamp",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-edison-bulbs",
-  "category": "lighting",
-  "mainKeyword": "edison bulbs",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-dimmer-switches",
-  "category": "lighting",
-  "mainKeyword": "dimmer switch",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-table-lamp-sets",
-  "category": "lighting",
-  "mainKeyword": "table lamp set of 2",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-sideboards",
-  "category": "storage-media",
-  "mainKeyword": "sideboard buffet cabinet",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tv-carts",
-  "category": "storage-media",
-  "mainKeyword": "rolling tv stand cart",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-projectors-for-living-rooms",
-  "category": "storage-media",
-  "mainKeyword": "home projector",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-projector-screens",
-  "category": "storage-media",
-  "mainKeyword": "projector screen",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-streaming-devices",
-  "category": "storage-media",
-  "mainKeyword": "streaming device",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-universal-remotes",
-  "category": "storage-media",
-  "mainKeyword": "universal remote",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-surge-protectors",
-  "category": "storage-media",
-  "mainKeyword": "surge protector power strip",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-corner-shelves",
-  "category": "storage-media",
-  "mainKeyword": "corner shelf",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-curio-cabinets",
-  "category": "storage-media",
-  "mainKeyword": "curio display cabinet",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-storage-baskets",
-  "category": "storage-media",
-  "mainKeyword": "storage baskets for shelves",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-magazine-racks",
-  "category": "storage-media",
-  "mainKeyword": "magazine rack",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-vinyl-record-storage",
-  "category": "storage-media",
-  "mainKeyword": "vinyl record storage",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-record-players",
-  "category": "storage-media",
-  "mainKeyword": "record player turntable",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-bookshelf-speakers",
-  "category": "storage-media",
-  "mainKeyword": "bookshelf speakers",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-subwoofers",
-  "category": "storage-media",
-  "mainKeyword": "home subwoofer",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-av-receivers",
-  "category": "storage-media",
-  "mainKeyword": "av receiver",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tv-antennas",
-  "category": "storage-media",
-  "mainKeyword": "indoor tv antenna",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tvs-for-living-rooms",
-  "category": "storage-media",
-  "mainKeyword": "smart tv 65 inch",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-remote-control-caddies",
-  "category": "storage-media",
-  "mainKeyword": "remote control holder",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-toy-storage-for-living-rooms",
-  "category": "storage-media",
-  "mainKeyword": "toy storage organizer",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-storage-benches",
-  "category": "storage-media",
-  "mainKeyword": "storage bench",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tv-tray-tables",
-  "category": "storage-media",
-  "mainKeyword": "tv tray table",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-bar-carts",
-  "category": "storage-media",
-  "mainKeyword": "bar cart",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-lap-desks",
-  "category": "storage-media",
-  "mainKeyword": "lap desk",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-vases",
-  "category": "decor-styling",
-  "mainKeyword": "decorative vase",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-floor-vases",
-  "category": "decor-styling",
-  "mainKeyword": "tall floor vase",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-candle-holders",
-  "category": "decor-styling",
-  "mainKeyword": "candle holders",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-scented-candles",
-  "category": "decor-styling",
-  "mainKeyword": "scented candles",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-reed-diffusers",
-  "category": "decor-styling",
-  "mainKeyword": "reed diffuser",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-essential-oil-diffusers",
-  "category": "decor-styling",
-  "mainKeyword": "essential oil diffuser",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-air-purifiers-for-living-rooms",
-  "category": "decor-styling",
-  "mainKeyword": "air purifier large room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-humidifiers-for-living-rooms",
-  "category": "decor-styling",
-  "mainKeyword": "large room humidifier",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-space-heaters-for-living-rooms",
-  "category": "decor-styling",
-  "mainKeyword": "space heater",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tower-fans",
-  "category": "decor-styling",
-  "mainKeyword": "tower fan",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-canvas-wall-art",
-  "category": "decor-styling",
-  "mainKeyword": "canvas wall art living room",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-metal-wall-art",
-  "category": "decor-styling",
-  "mainKeyword": "metal wall art",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-decorative-trays",
-  "category": "decor-styling",
-  "mainKeyword": "decorative tray",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-bookends",
-  "category": "decor-styling",
-  "mainKeyword": "bookends",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-coffee-table-books",
-  "category": "decor-styling",
-  "mainKeyword": "coffee table book",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-hanging-planters",
-  "category": "decor-styling",
-  "mainKeyword": "hanging planter",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-indoor-planters",
-  "category": "decor-styling",
-  "mainKeyword": "indoor planter pot",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-grow-lights-for-houseplants",
-  "category": "decor-styling",
-  "mainKeyword": "grow light for indoor plants",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-cellular-shades",
-  "category": "decor-styling",
-  "mainKeyword": "cellular shades",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-motorized-blinds",
-  "category": "decor-styling",
-  "mainKeyword": "motorized blinds",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-faux-wood-blinds",
-  "category": "decor-styling",
-  "mainKeyword": "faux wood blinds",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-privacy-window-film",
-  "category": "decor-styling",
-  "mainKeyword": "privacy window film",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-digital-photo-frames",
-  "category": "decor-styling",
-  "mainKeyword": "digital photo frame",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-rattan-chairs",
-  "category": "sofas-seating",
-  "mainKeyword": "rattan accent chair",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-tapestries",
-  "category": "decor-styling",
-  "mainKeyword": "wall tapestry",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-cordless-vacuums",
-  "category": "rugs-flooring",
-  "mainKeyword": "cordless stick vacuum",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-smart-speakers",
-  "category": "storage-media",
-  "mainKeyword": "smart speaker",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-kids-sofas",
-  "category": "sofas-seating",
-  "mainKeyword": "kids sofa couch",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-floor-cushions",
-  "category": "sofas-seating",
-  "mainKeyword": "floor cushion seating",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-dehumidifiers-for-living-rooms",
-  "category": "decor-styling",
-  "mainKeyword": "dehumidifier for home",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-macrame-wall-hangings",
-  "category": "decor-styling",
-  "mainKeyword": "macrame wall hanging",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- },
- {
-  "slug": "best-wall-mounted-electric-fireplaces",
-  "category": "decor-styling",
-  "mainKeyword": "wall mounted electric fireplace",
-  "title": "",
-  "asins": [],
-  "status": "inprogress"
- }
+  {
+    "slug": "best-sleeper-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "sleeper sofa",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-loveseats-for-small-spaces",
+    "category": "sofas-seating",
+    "mainKeyword": "loveseat for small spaces",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-futons",
+    "category": "sofas-seating",
+    "mainKeyword": "futon sofa bed",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-recliners",
+    "category": "sofas-seating",
+    "mainKeyword": "recliner chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-wall-hugger-recliners",
+    "category": "sofas-seating",
+    "mainKeyword": "wall hugger recliner",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-accent-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "accent chair living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-swivel-accent-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "swivel accent chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-lift-chairs-for-seniors",
+    "category": "sofas-seating",
+    "mainKeyword": "power lift recliner chair for elderly",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-storage-ottomans",
+    "category": "storage-media",
+    "mainKeyword": "storage ottoman",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-washable-area-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "washable area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-rug-pads",
+    "category": "rugs-flooring",
+    "mainKeyword": "rug pad for hardwood floors",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-jute-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "jute area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-runner-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "hallway runner rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-shag-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "shag area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-wool-area-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "wool area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-arc-floor-lamps",
+    "category": "lighting",
+    "mainKeyword": "arc floor lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-torchiere-floor-lamps",
+    "category": "lighting",
+    "mainKeyword": "torchiere floor lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-table-lamps-for-living-rooms",
+    "category": "lighting",
+    "mainKeyword": "table lamp living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-smart-light-bulbs",
+    "category": "lighting",
+    "mainKeyword": "smart light bulb",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-led-strip-lights-for-tv",
+    "category": "lighting",
+    "mainKeyword": "tv backlight led strip",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-plug-in-wall-sconces",
+    "category": "lighting",
+    "mainKeyword": "plug in wall sconce",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-reading-floor-lamps",
+    "category": "lighting",
+    "mainKeyword": "reading floor lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-ceiling-fans-for-living-rooms",
+    "category": "lighting",
+    "mainKeyword": "ceiling fan with light living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tv-stands",
+    "category": "storage-media",
+    "mainKeyword": "tv stand",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tv-wall-mounts",
+    "category": "storage-media",
+    "mainKeyword": "tv wall mount",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-coffee-tables",
+    "category": "storage-media",
+    "mainKeyword": "coffee table living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-lift-top-coffee-tables",
+    "category": "storage-media",
+    "mainKeyword": "lift top coffee table",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-nesting-coffee-tables",
+    "category": "storage-media",
+    "mainKeyword": "nesting coffee table",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-side-tables",
+    "category": "storage-media",
+    "mainKeyword": "side table living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bookshelves",
+    "category": "storage-media",
+    "mainKeyword": "bookshelf",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-floating-shelves",
+    "category": "storage-media",
+    "mainKeyword": "floating shelves",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-soundbars-for-tv",
+    "category": "storage-media",
+    "mainKeyword": "soundbar for tv",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-entertainment-centers",
+    "category": "storage-media",
+    "mainKeyword": "entertainment center",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-furniture-anti-tip-kits",
+    "category": "storage-media",
+    "mainKeyword": "furniture anti tip kit",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-blackout-curtains",
+    "category": "decor-styling",
+    "mainKeyword": "blackout curtains",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-throw-blankets",
+    "category": "decor-styling",
+    "mainKeyword": "throw blanket for couch",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-floor-mirrors",
+    "category": "decor-styling",
+    "mainKeyword": "full length floor mirror",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-curtain-rods",
+    "category": "decor-styling",
+    "mainKeyword": "curtain rod",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-sheer-curtains",
+    "category": "decor-styling",
+    "mainKeyword": "sheer curtains",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-acoustic-panels",
+    "category": "decor-styling",
+    "mainKeyword": "acoustic panels",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-modular-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "modular sectional sofa",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-reclining-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "reclining sofa",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-chaise-lounges",
+    "category": "sofas-seating",
+    "mainKeyword": "chaise lounge chair indoor",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-sofa-covers",
+    "category": "sofas-seating",
+    "mainKeyword": "sofa slipcover",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-leather-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "leather sofa",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-poufs",
+    "category": "sofas-seating",
+    "mainKeyword": "pouf ottoman",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bean-bag-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "bean bag chair adult",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-couch-cushion-supports",
+    "category": "sofas-seating",
+    "mainKeyword": "couch cushion support for sagging seats",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-oversized-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "oversized chair and a half",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-round-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "round area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-cowhide-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "cowhide rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-indoor-outdoor-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "indoor outdoor rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-rug-grippers",
+    "category": "rugs-flooring",
+    "mainKeyword": "rug corner grippers",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-persian-style-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "vintage persian area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-kilim-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "kilim flat weave rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-portable-carpet-cleaners",
+    "category": "rugs-flooring",
+    "mainKeyword": "portable carpet spot cleaner",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-chandeliers-for-living-rooms",
+    "category": "lighting",
+    "mainKeyword": "chandelier living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-flush-mount-ceiling-lights",
+    "category": "lighting",
+    "mainKeyword": "flush mount ceiling light",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-track-lighting-kits",
+    "category": "lighting",
+    "mainKeyword": "track lighting kit",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-picture-lights",
+    "category": "lighting",
+    "mainKeyword": "picture light for wall art",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-smart-light-switches",
+    "category": "lighting",
+    "mainKeyword": "smart light switch",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-smart-plugs",
+    "category": "lighting",
+    "mainKeyword": "smart plug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-dimmable-led-bulbs",
+    "category": "lighting",
+    "mainKeyword": "dimmable led light bulbs warm white",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tripod-floor-lamps",
+    "category": "lighting",
+    "mainKeyword": "tripod floor lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-cordless-table-lamps",
+    "category": "lighting",
+    "mainKeyword": "cordless rechargeable table lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-console-tables",
+    "category": "storage-media",
+    "mainKeyword": "console table behind couch",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-floating-tv-stands",
+    "category": "storage-media",
+    "mainKeyword": "floating tv stand wall mounted",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-corner-tv-stands",
+    "category": "storage-media",
+    "mainKeyword": "corner tv stand",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-home-theater-systems",
+    "category": "storage-media",
+    "mainKeyword": "home theater system surround sound",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-cube-storage-organizers",
+    "category": "storage-media",
+    "mainKeyword": "cube storage organizer",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-ladder-shelves",
+    "category": "storage-media",
+    "mainKeyword": "ladder shelf",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-cord-cover-kits",
+    "category": "storage-media",
+    "mainKeyword": "cord cover for wall mounted tv",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-sofa-arm-tables",
+    "category": "storage-media",
+    "mainKeyword": "sofa arm tray table",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-throw-pillow-covers",
+    "category": "decor-styling",
+    "mainKeyword": "throw pillow covers",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-throw-pillow-inserts",
+    "category": "decor-styling",
+    "mainKeyword": "throw pillow inserts",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-artificial-plants",
+    "category": "decor-styling",
+    "mainKeyword": "artificial plants for living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-wall-mirrors",
+    "category": "decor-styling",
+    "mainKeyword": "decorative wall mirror",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-peel-and-stick-wallpaper",
+    "category": "decor-styling",
+    "mainKeyword": "peel and stick wallpaper",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-roller-shades",
+    "category": "decor-styling",
+    "mainKeyword": "light filtering roller shades",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-gallery-wall-frame-sets",
+    "category": "decor-styling",
+    "mainKeyword": "gallery wall frame set",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-plant-stands",
+    "category": "decor-styling",
+    "mainKeyword": "plant stand indoor",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-wall-clocks",
+    "category": "decor-styling",
+    "mainKeyword": "large wall clock living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-fireplace-screens",
+    "category": "decor-styling",
+    "mainKeyword": "fireplace screen",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-electric-fireplace-inserts",
+    "category": "storage-media",
+    "mainKeyword": "electric fireplace insert",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-blanket-ladders",
+    "category": "decor-styling",
+    "mainKeyword": "blanket ladder",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-velvet-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "velvet sofa",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-power-recliners",
+    "category": "sofas-seating",
+    "mainKeyword": "power recliner chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-floor-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "floor chair with back support",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-chesterfield-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "chesterfield sofa",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-mid-century-modern-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "mid century modern sofa",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-recliner-covers",
+    "category": "sofas-seating",
+    "mainKeyword": "recliner chair cover",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-barrel-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "barrel accent chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-wingback-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "wingback chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-rocking-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "indoor rocking chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-papasan-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "papasan chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-sofa-legs",
+    "category": "sofas-seating",
+    "mainKeyword": "replacement sofa legs",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-furniture-sliders",
+    "category": "sofas-seating",
+    "mainKeyword": "furniture sliders",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-felt-furniture-pads",
+    "category": "sofas-seating",
+    "mainKeyword": "felt furniture pads",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-footstools",
+    "category": "sofas-seating",
+    "mainKeyword": "footstool",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-sleeper-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "sleeper chair bed",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-boucle-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "boucle accent chair",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-moroccan-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "moroccan area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-sisal-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "sisal rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-faux-sheepskin-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "faux sheepskin rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-low-pile-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "low pile area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-cotton-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "cotton area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-braided-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "braided rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-geometric-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "geometric area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bohemian-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "boho area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-carpet-tiles",
+    "category": "rugs-flooring",
+    "mainKeyword": "carpet tiles",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-carpet-cleaners",
+    "category": "rugs-flooring",
+    "mainKeyword": "upright carpet cleaner machine",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-carpet-cleaning-solutions",
+    "category": "rugs-flooring",
+    "mainKeyword": "carpet cleaner solution",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-robot-vacuums-for-carpet",
+    "category": "rugs-flooring",
+    "mainKeyword": "robot vacuum for carpet",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-checkered-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "checkered rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-hand-knotted-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "hand knotted rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-pendant-lights",
+    "category": "lighting",
+    "mainKeyword": "pendant light",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-recessed-lighting",
+    "category": "lighting",
+    "mainKeyword": "canless recessed lighting",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-corner-floor-lamps",
+    "category": "lighting",
+    "mainKeyword": "corner floor lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tree-floor-lamps",
+    "category": "lighting",
+    "mainKeyword": "tree floor lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-ceramic-table-lamps",
+    "category": "lighting",
+    "mainKeyword": "ceramic table lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-touch-table-lamps",
+    "category": "lighting",
+    "mainKeyword": "touch control table lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-buffet-lamps",
+    "category": "lighting",
+    "mainKeyword": "buffet lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-himalayan-salt-lamps",
+    "category": "lighting",
+    "mainKeyword": "himalayan salt lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-battery-wall-sconces",
+    "category": "lighting",
+    "mainKeyword": "battery operated wall sconce",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-candle-warmer-lamps",
+    "category": "lighting",
+    "mainKeyword": "candle warmer lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-flameless-candles",
+    "category": "lighting",
+    "mainKeyword": "flameless candles",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-string-lights",
+    "category": "lighting",
+    "mainKeyword": "indoor string lights",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-lamp-shades",
+    "category": "lighting",
+    "mainKeyword": "lamp shade",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-mushroom-lamps",
+    "category": "lighting",
+    "mainKeyword": "mushroom lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-sunset-lamps",
+    "category": "lighting",
+    "mainKeyword": "sunset lamp projector",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-paper-lantern-floor-lamps",
+    "category": "lighting",
+    "mainKeyword": "paper lantern floor lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-edison-bulbs",
+    "category": "lighting",
+    "mainKeyword": "edison bulbs",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-dimmer-switches",
+    "category": "lighting",
+    "mainKeyword": "dimmer switch",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-table-lamp-sets",
+    "category": "lighting",
+    "mainKeyword": "table lamp set of 2",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-sideboards",
+    "category": "storage-media",
+    "mainKeyword": "sideboard buffet cabinet",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tv-carts",
+    "category": "storage-media",
+    "mainKeyword": "rolling tv stand cart",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-projectors-for-living-rooms",
+    "category": "storage-media",
+    "mainKeyword": "home projector",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-projector-screens",
+    "category": "storage-media",
+    "mainKeyword": "projector screen",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-streaming-devices",
+    "category": "storage-media",
+    "mainKeyword": "streaming device",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-universal-remotes",
+    "category": "storage-media",
+    "mainKeyword": "universal remote",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-surge-protectors",
+    "category": "storage-media",
+    "mainKeyword": "surge protector power strip",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-corner-shelves",
+    "category": "storage-media",
+    "mainKeyword": "corner shelf",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-curio-cabinets",
+    "category": "storage-media",
+    "mainKeyword": "curio display cabinet",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-storage-baskets",
+    "category": "storage-media",
+    "mainKeyword": "storage baskets for shelves",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-magazine-racks",
+    "category": "storage-media",
+    "mainKeyword": "magazine rack",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-vinyl-record-storage",
+    "category": "storage-media",
+    "mainKeyword": "vinyl record storage",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-record-players",
+    "category": "storage-media",
+    "mainKeyword": "record player turntable",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bookshelf-speakers",
+    "category": "storage-media",
+    "mainKeyword": "bookshelf speakers",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-subwoofers",
+    "category": "storage-media",
+    "mainKeyword": "home subwoofer",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-av-receivers",
+    "category": "storage-media",
+    "mainKeyword": "av receiver",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tv-antennas",
+    "category": "storage-media",
+    "mainKeyword": "indoor tv antenna",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tvs-for-living-rooms",
+    "category": "storage-media",
+    "mainKeyword": "smart tv 65 inch",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-remote-control-caddies",
+    "category": "storage-media",
+    "mainKeyword": "remote control holder",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-toy-storage-for-living-rooms",
+    "category": "storage-media",
+    "mainKeyword": "toy storage organizer",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-storage-benches",
+    "category": "storage-media",
+    "mainKeyword": "storage bench",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tv-tray-tables",
+    "category": "storage-media",
+    "mainKeyword": "tv tray table",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bar-carts",
+    "category": "storage-media",
+    "mainKeyword": "bar cart",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-lap-desks",
+    "category": "storage-media",
+    "mainKeyword": "lap desk",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-vases",
+    "category": "decor-styling",
+    "mainKeyword": "decorative vase",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-floor-vases",
+    "category": "decor-styling",
+    "mainKeyword": "tall floor vase",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-candle-holders",
+    "category": "decor-styling",
+    "mainKeyword": "candle holders",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-scented-candles",
+    "category": "decor-styling",
+    "mainKeyword": "scented candles",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-reed-diffusers",
+    "category": "decor-styling",
+    "mainKeyword": "reed diffuser",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-essential-oil-diffusers",
+    "category": "decor-styling",
+    "mainKeyword": "essential oil diffuser",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-air-purifiers-for-living-rooms",
+    "category": "decor-styling",
+    "mainKeyword": "air purifier large room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-humidifiers-for-living-rooms",
+    "category": "decor-styling",
+    "mainKeyword": "large room humidifier",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-space-heaters-for-living-rooms",
+    "category": "decor-styling",
+    "mainKeyword": "space heater",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tower-fans",
+    "category": "decor-styling",
+    "mainKeyword": "tower fan",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-canvas-wall-art",
+    "category": "decor-styling",
+    "mainKeyword": "canvas wall art living room",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-metal-wall-art",
+    "category": "decor-styling",
+    "mainKeyword": "metal wall art",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-decorative-trays",
+    "category": "decor-styling",
+    "mainKeyword": "decorative tray",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bookends",
+    "category": "decor-styling",
+    "mainKeyword": "bookends",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-coffee-table-books",
+    "category": "decor-styling",
+    "mainKeyword": "coffee table book",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-hanging-planters",
+    "category": "decor-styling",
+    "mainKeyword": "hanging planter",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-indoor-planters",
+    "category": "decor-styling",
+    "mainKeyword": "indoor planter pot",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-grow-lights-for-houseplants",
+    "category": "decor-styling",
+    "mainKeyword": "grow light for indoor plants",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-cellular-shades",
+    "category": "decor-styling",
+    "mainKeyword": "cellular shades",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-motorized-blinds",
+    "category": "decor-styling",
+    "mainKeyword": "motorized blinds",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-faux-wood-blinds",
+    "category": "decor-styling",
+    "mainKeyword": "faux wood blinds",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-privacy-window-film",
+    "category": "decor-styling",
+    "mainKeyword": "privacy window film",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-digital-photo-frames",
+    "category": "decor-styling",
+    "mainKeyword": "digital photo frame",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-rattan-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "rattan accent chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tapestries",
+    "category": "decor-styling",
+    "mainKeyword": "wall tapestry",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-cordless-vacuums",
+    "category": "rugs-flooring",
+    "mainKeyword": "cordless stick vacuum",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-smart-speakers",
+    "category": "storage-media",
+    "mainKeyword": "smart speaker",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-kids-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "kids sofa couch",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-floor-cushions",
+    "category": "sofas-seating",
+    "mainKeyword": "floor cushion seating",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-dehumidifiers-for-living-rooms",
+    "category": "decor-styling",
+    "mainKeyword": "dehumidifier for home",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-macrame-wall-hangings",
+    "category": "decor-styling",
+    "mainKeyword": "macrame wall hanging",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-wall-mounted-electric-fireplaces",
+    "category": "decor-styling",
+    "mainKeyword": "wall mounted electric fireplace",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-slipper-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "slipper chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-club-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "club chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-egg-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "indoor egg chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-massage-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "full body massage chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-daybeds",
+    "category": "sofas-seating",
+    "mainKeyword": "daybed",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-settees",
+    "category": "sofas-seating",
+    "mainKeyword": "settee",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-curved-sofas",
+    "category": "sofas-seating",
+    "mainKeyword": "curved sofa",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-upholstered-benches",
+    "category": "sofas-seating",
+    "mainKeyword": "upholstered bench",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-lounge-chairs",
+    "category": "sofas-seating",
+    "mainKeyword": "indoor lounge chair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bar-cabinets",
+    "category": "storage-media",
+    "mainKeyword": "bar cabinet",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-accent-cabinets",
+    "category": "storage-media",
+    "mainKeyword": "accent cabinet with doors",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-corner-cabinets",
+    "category": "storage-media",
+    "mainKeyword": "corner cabinet",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-storage-trunks",
+    "category": "storage-media",
+    "mainKeyword": "decorative storage trunk",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-speaker-stands",
+    "category": "storage-media",
+    "mainKeyword": "bookshelf speaker stands",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tower-speakers",
+    "category": "storage-media",
+    "mainKeyword": "floor standing tower speakers",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-center-channel-speakers",
+    "category": "storage-media",
+    "mainKeyword": "center channel speaker",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-blu-ray-players",
+    "category": "storage-media",
+    "mainKeyword": "4k blu ray player",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-hdmi-switches",
+    "category": "storage-media",
+    "mainKeyword": "hdmi switch 4k",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-media-storage-towers",
+    "category": "storage-media",
+    "mainKeyword": "dvd media storage tower",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tv-wall-shelves",
+    "category": "storage-media",
+    "mainKeyword": "floating shelf for cable box under tv",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-wireless-tv-headphones",
+    "category": "storage-media",
+    "mainKeyword": "wireless headphones for tv",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-abstract-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "abstract area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-striped-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "striped area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-animal-print-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "leopard print rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-oval-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "oval area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-polypropylene-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "polypropylene area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-viscose-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "viscose area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-flatweave-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "flatweave area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bamboo-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "bamboo area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-hand-tufted-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "hand tufted wool rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-solid-color-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "solid color area rug",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-memory-foam-rugs",
+    "category": "rugs-flooring",
+    "mainKeyword": "memory foam area rug",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-hardwood-floor-cleaners",
+    "category": "rugs-flooring",
+    "mainKeyword": "hardwood floor cleaner",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-steam-mops",
+    "category": "rugs-flooring",
+    "mainKeyword": "steam mop",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-pet-hair-vacuums",
+    "category": "rugs-flooring",
+    "mainKeyword": "vacuum for pet hair",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-floor-lamps-with-shelves",
+    "category": "lighting",
+    "mainKeyword": "floor lamp with shelves",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-glass-table-lamps",
+    "category": "lighting",
+    "mainKeyword": "glass table lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-crystal-table-lamps",
+    "category": "lighting",
+    "mainKeyword": "crystal table lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-brass-floor-lamps",
+    "category": "lighting",
+    "mainKeyword": "brass floor lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-light-therapy-lamps",
+    "category": "lighting",
+    "mainKeyword": "light therapy lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-lava-lamps",
+    "category": "lighting",
+    "mainKeyword": "lava lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-moon-lamps",
+    "category": "lighting",
+    "mainKeyword": "moon lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-puck-lights",
+    "category": "lighting",
+    "mainKeyword": "led puck lights",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-plug-in-pendant-lights",
+    "category": "lighting",
+    "mainKeyword": "plug in pendant light",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-wooden-table-lamps",
+    "category": "lighting",
+    "mainKeyword": "wood table lamp",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-artificial-trees",
+    "category": "decor-styling",
+    "mainKeyword": "artificial fiddle leaf fig tree",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-artificial-flowers",
+    "category": "decor-styling",
+    "mainKeyword": "artificial flowers",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-pampas-grass",
+    "category": "decor-styling",
+    "mainKeyword": "dried pampas grass",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-mantel-clocks",
+    "category": "decor-styling",
+    "mainKeyword": "mantel clock",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-decorative-bowls",
+    "category": "decor-styling",
+    "mainKeyword": "decorative bowl",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-decorative-sculptures",
+    "category": "decor-styling",
+    "mainKeyword": "decorative sculpture statue",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-tabletop-fountains",
+    "category": "decor-styling",
+    "mainKeyword": "tabletop water fountain",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-terrariums",
+    "category": "decor-styling",
+    "mainKeyword": "glass terrarium",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-picture-frames",
+    "category": "decor-styling",
+    "mainKeyword": "picture frame",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-decorative-throw-pillows",
+    "category": "decor-styling",
+    "mainKeyword": "decorative throw pillows",
+    "title": "",
+    "asins": [],
+    "status": "skip"
+  },
+  {
+    "slug": "best-room-dividers",
+    "category": "decor-styling",
+    "mainKeyword": "room divider",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-linen-curtains",
+    "category": "decor-styling",
+    "mainKeyword": "linen curtains",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-velvet-curtains",
+    "category": "decor-styling",
+    "mainKeyword": "velvet curtains",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-roman-shades",
+    "category": "decor-styling",
+    "mainKeyword": "roman shades",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  },
+  {
+    "slug": "best-bamboo-blinds",
+    "category": "decor-styling",
+    "mainKeyword": "bamboo blinds",
+    "title": "",
+    "asins": [],
+    "status": "inprogress"
+  }
 ]

@@ -32,3 +32,14 @@
 - Search returned retail listings and roundups: budget 2-in-1 toddler fold-out loungers for ages 1 to 4, sleeper sofas for kids (Serta-style) used as guest beds, premium modular play couches that convert into forts.
 - Star ratings and review counts were the only quality signal on retail pages; durability and fabric washability matter more.
 - Gap: stated open size and seat height, honest foam compression, and maker-stated certification (CPC) vs vague safety words; we cover all three.
+
+## best-settees
+- Guides define a settee (50 to 90 in wide, small sofa for two), lead with size and small-space use, and flag settees as often decorative.
+- Splits: comfort picks, value, classic tufted Chesterfield style, entryway settee benches.
+- Criteria: hardwood frame, cushion thickness, wipe-clean faux leather for families.
+- We add arm-less seat-width trap, settee vs loveseat vs bench distinction and seat-depth honesty.
+
+## best-curved-sofas
+- Guides split by sofa vs sectional, velvet vs boucle, budget and small spaces; statement pieces called out.
+- Common angles: curved vs straight sofa choice and room layout.
+- We add floating-versus-wall placement, wedge gap rule, boneless vs framed tradeoff and foam softening in year two.

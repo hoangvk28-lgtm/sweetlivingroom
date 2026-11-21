@@ -32,3 +32,36 @@
 - Guides lead with fill (shredded memory foam), thickness after expansion (5 inch for heavier users), washable covers and set-of-two value.
 - Splits: meditation, reading nook, boho style, kids and classroom.
 - We add compression recovery, round vs square footprint, why kids sets are not adult seating, and cover zipper quality.
+
+## best-slipper-chairs
+- Roundups lead with seat depth and comfort for longer sitting, then style (tufted, wingback, linen).
+- Picks split by value vs editor's choice; Roundhill, STHOUYN and Womina recur.
+- Wayfair-style explainers answer "what is a slipper chair" and where to place one (foot of bed, vanity, entry).
+- We add seat-width vs overall-width trap, pair vs single value and the armless long-sitting tradeoff.
+
+## best-club-chairs
+- Roundups lead with frame (rubberwood, hardwood) and upholstery, then split by leather, wipe-clean vinyl, washable covers and budget.
+- Small-space and apartment picks are called out separately; sets of two and ottoman bundles appear.
+- Explainers define club vs barrel vs wingback chairs.
+- We add seat-thickness numbers, PU peeling at arms, and floor-space needs for pairs.
+
+## best-egg-chairs
+- Roundups split hanging vs static, indoor vs outdoor, and call out single vs two-person.
+- Leading criteria: weight capacity (350 lb), PE rattan with steel frame, folding or portable stands, tool-free assembly.
+- Renters and tipping worries lead to static-base picks; footrests and cushion thickness are common extras.
+- We add ceiling-height and swing-radius sizing, stand-rating trap and rattan-fray ownership notes.
+
+## best-massage-chairs
+- Roundups lead with track type (SL-track), customization of depth, speed, intensity, and footprint warnings.
+- Splits by budget, premium/spa feel, heated chairs, under-1000 picks; weight limit and body fit are called out.
+- We add arch of fit for short and tall users, honest note that auto-program count is not quality, and recline clearance.
+
+## best-daybeds
+- Guides split by trundle, storage, metal vs upholstered, small space and guest room use; weight capacity and coating cited.
+- The first question answered is whether a mattress is included and what thickness fits.
+- We add pull-out vs pop-up trundle clearance, drawer capacity limits and the sofa-comfort tradeoff.
+
+## best-lounge-chairs
+- Guides mix designer lounge chairs, recliners, chaises and comfy budget accent chairs; some call out sleeper chaises.
+- Splits: bedroom vs living room, all-day lounging, movie marathons, lumbar support.
+- We add the boneless vs framed tradeoff, seat-depth honesty and low-seat standing difficulty.

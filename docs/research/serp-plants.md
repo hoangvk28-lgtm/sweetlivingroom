@@ -10,3 +10,20 @@
 - Experts favour LEDs; simple white spectrum LEDs suit most houseplants; start about two feet away; succulents and orchids want stronger light.
 - Picks span tabletop, kits and stylish stand lights.
 - We add distance falloff, timers, bulb vs bar vs ring and honest lumen claims.
+## best-artificial-trees
+- Roundups split decorative year-round faux trees (Nearly Natural Dracaena, olive and eucalyptus trees) from Christmas trees.
+- Guides lead with height proportion (popular heights 5, 6, 7 and 9 ft), realism of leaves and multi-tone trunks, and pre-potted bases.
+- Olive-style trees are said to suit minimalist and traditional rooms.
+- Gap: base weight and tip risk, UV fade near windows, dusting, leaf shine and listing height versus true height; we cover these.
+## best-artificial-flowers
+- Guides say silk or high-grade polyester with wired stems looks most realistic; hydrangeas, orchids, lavender and poppies recur.
+- Roundups split by luxury, budget, potted, pet-friendly and outdoor UV-resistant stems.
+- Gap: plastic sheen under strong light, stem wire gauge, dust, sun fade and how stem counts mislead; we cover these.
+## best-pampas-grass
+- Dried mixed sets for medium vases (about 17 in) and tall faux stems for floor vases are the two groups.
+- Advice: shake out dust outdoors, keep away from moisture and wind, hang stems from the ceiling for styling.
+- Gap: shedding of dried plumes, bleached and dyed fade, fire risk near candles and a vase weight rule for tall stems; we cover these.
+## best-terrariums
+- Advice splits by closed (ferns and moisture lovers) and open (succulents, cacti, air plants); do not mix wet and dry plants.
+- Guides stress petite plants that do not touch the glass and miniature orchids for enclosed types.
+- Gap: glass terrarium as hardware (lids, ventilation, drainage layers), mould in closed jars and sun scorch; we cover these.

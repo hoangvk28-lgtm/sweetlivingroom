@@ -1,0 +1,17 @@
+# cabinets cluster (accent cabinets, bar cabinets, corner cabinets, storage trunks)
+- Most budget cabinets are MDF or particleboard with melamine or veneer; solid wood is rare; legs may be solid wood; heavy items sag shelves.
+- Shelf capacity: adjustable shelf 20 to 40 lb per shelf is typical; total capacity 100 to 150 lb; glass bottles are heavy.
+- Standard depth for sideboards 15 to 16 in; accent cabinets 12 to 16 in; width 30 to 67 in; height 30 to 38 in.
+- Anti-tip hardware: tall or narrow cabinets need a wall strap into studs; most include one; a hazard with children.
+- Doors: soft-close hinges, magnetic catches vs push-open; glass doors need tempered glass and edges taped; slatted/fluted fronts are applied profile, not carved.
+- Fluted and arched fronts are a design trend; edges chip in transit; look for edge banding.
+- Adjustable shelves rest on pins; pins can pop; use all four per shelf.
+- Cable management and power outlets in bar/coffee cabinets: a built-in power strip is only as good as its rating; check amp and surge; do not run heavy appliances through the strip.
+- LED strips in cabinets are cosmetic; they fail before the frame does; check whether replaceable.
+- Bar cabinet storage: bottle racks and stemware racks; a wine rack holding 9 to 15 bottles; keep wine on its side; do not store wine near a heater; spirits stand upright.
+- Fridge-included cabinets: mini fridge compartment dimensions limited (usually under 20 in wide, 34 in tall); ventilation gap needed; fridge noise.
+- Counter surface: laminate or MDF top resists spills poorly; heat from coffee makers marks surfaces; use trivets.
+- Corner cabinets: 90 degree corner fit; room for door swing; depth along walls; triangular shelves waste space.
+- Storage trunks: rigid vs soft; lid hinge and safety stay; cedar liner; weight capacity as a seat; seat padding.
+- Assembly: 1 to 2 hours; two people; camlock fittings loosen; retighten after a month; wall strap.
+- Mistake: the listing's "solid wood" often means the legs only.
