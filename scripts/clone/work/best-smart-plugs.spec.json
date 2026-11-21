@@ -1,0 +1,609 @@
+{
+ "guideSlug": "best-smart-plugs",
+ "categorySlug": "lighting",
+ "mainKeyword": "smart plug",
+ "guideTitle": "Best Smart Plugs (2026)",
+ "metaTitle": "Best Smart Plugs for Lamps and Living Rooms",
+ "metaDescription": "Six Wi-Fi smart plugs compared on Matter support, HomeKit, energy monitoring, size and app setup, so you can automate lamps and small appliances with no hub.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "11 min",
+ "heroImage": "https://m.media-amazon.com/images/I/411QHB8RnuL._SL500_.jpg",
+ "expertTake": "The Tapo Matter smart plug mini is the top pick because Matter lets it join Apple Home, Alexa and Google Home, and it is rated for 15 amps and 1800 watts in a compact body. The Kasa Ultra Mini EP10P4 four-pack is the value pick for a simple Alexa and Google setup. Skip a smart plug for heaters and other high-draw appliances unless the rating clearly covers them, because a plug that is too small is a fire risk.",
+ "introParagraphs": [
+  "A smart plug sits between an outlet and a lamp, fan or small appliance, and lets you switch it on and off from an app, a schedule or your voice. It is the cheapest way to make a floor lamp or a string of lights smart, and it needs no wiring.",
+  "The details that matter are the platform, the load rating, the size and how reliably it stays connected. A plug that blocks the second outlet, drops off Wi-Fi or only works with one assistant becomes a nuisance, so choose by how you will actually use it."
+ ],
+ "products": [
+  {
+   "id": "B0BXMNJDW3",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "TP-Link Tapo Matter Smart Plug Mini, 15A 1800W",
+   "specs": [
+    "Matter",
+    "15A, 1800W",
+    "Compact",
+    "Apple, Alexa, Google"
+   ],
+   "specList": [
+    {
+     "label": "Protocol",
+     "value": "Matter over Wi-Fi"
+    },
+    {
+     "label": "Rating",
+     "value": "15A, 1800W maximum"
+    },
+    {
+     "label": "Platforms",
+     "value": "Apple Home, Alexa, Google Home"
+    },
+    {
+     "label": "Size",
+     "value": "Compact mini design"
+    },
+    {
+     "label": "Local control",
+     "value": "Works on the LAN when the internet is down"
+    }
+   ],
+   "description": "Tapo's Matter plug is a compact mini rated for 15 amps and 1800 watts, and the listing says it works with Apple Home, Alexa and Google Home. It also says Matter devices on your local network keep working when the home internet goes down.\n\nMatter makes a plug less likely to be stranded when you change phones or assistants, because the same plug can be added to several ecosystems. An 1800 watt rating covers lamps, fans, humidifiers and a window air conditioner of modest size, though you should always check the appliance's own wattage. Compared with the Kasa Ultra Mini, the Tapo adds Matter and Apple support at a similar size.\n\nThe mini body leaves the second outlet free on most duplex receptacles. Set it up in the Tapo app, then add it to your platform with the Matter code. Keep a note of the code or the QR on the box, because you need it to re-pair, and photograph it with your phone so that it survives when the box goes in the recycling. Avoid using any plug with a space heater unless the heater's wattage is well under the plug's rating and you are comfortable with the risk.",
+   "bestFor": "Mixed Apple, Alexa and Google homes that want a compact Matter plug.",
+   "pros": [
+    "Matter works across Apple, Alexa and Google",
+    "15A, 1800W rating covers most lamps and fans",
+    "Compact body leaves the second outlet free",
+    "Local control keeps working when the internet drops"
+   ],
+   "cons": [
+    "Matter setup needs a code and a compatible hub or app",
+    "Not suitable for heavy heaters"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BXMNJDW3?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/411QHB8RnuL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B091FXLMS8",
+   "rank": 2,
+   "badge": "Best Value",
+   "name": "Kasa Smart Plug Ultra Mini 15A, 4-Pack EP10P4",
+   "specs": [
+    "15A",
+    "4 pack",
+    "Alexa and Google",
+    "No hub"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "15A"
+    },
+    {
+     "label": "Pack",
+     "value": "4 plugs"
+    },
+    {
+     "label": "Platforms",
+     "value": "Alexa and Google Home"
+    },
+    {
+     "label": "Network",
+     "value": "2.4 GHz Wi-Fi, no hub"
+    },
+    {
+     "label": "Features",
+     "value": "Timer, countdown, schedules"
+    }
+   ],
+   "description": "Kasa's Ultra Mini is a 15 amp plug that works with Alexa and Google Home with no hub, and it comes in a four-pack. The listing says it needs 2.4 GHz Wi-Fi, and that you can set timers, countdowns and schedules in the Kasa app.\n\nThe Ultra Mini is small enough that it rarely blocks the second outlet, and the four-pack covers a living room's lamps with a spare. Compared with the Tapo Matter, the Kasa EP10 does not support Matter or Apple, so it suits Alexa and Google homes. Kasa's app is mature and reliable, with schedules that run locally, so it continues after a brief outage.\n\nPlug it in, open the Kasa app and follow the steps. Name each plug clearly, like Reading Lamp, because voice commands depend on the name. A plug controls only on and off, so use it with lamps that have a physical switch left on. Check that your router supports 2.4 GHz and that the signal reaches each outlet. If a plug keeps dropping off, try moving it to a different outlet or adding a small mesh node, because a metal lamp base or a nearby microwave can weaken the signal enough to break the connection.",
+   "bestFor": "Alexa and Google homes that need several plugs for lamps.",
+   "pros": [
+    "Four plugs cover a whole room",
+    "Ultra Mini body keeps the second outlet free",
+    "Timer, countdown and schedule features",
+    "Mature Kasa app and no hub"
+   ],
+   "cons": [
+    "No Matter or Apple support on this model",
+    "Requires a 2.4 GHz network"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B091FXLMS8?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41tyjDiDGgL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B14C719T",
+   "rank": 3,
+   "badge": "Best Energy Monitor",
+   "name": "Kasa Smart Plug Mini 15A EP25P4 with Energy Monitoring, 4-Pack",
+   "specs": [
+    "Energy monitoring",
+    "HomeKit",
+    "4 pack",
+    "UL listed"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "15A"
+    },
+    {
+     "label": "Pack",
+     "value": "4 plugs"
+    },
+    {
+     "label": "Platforms",
+     "value": "Apple HomeKit, Siri, Alexa, Google Home"
+    },
+    {
+     "label": "Feature",
+     "value": "Real-time and historical energy use"
+    },
+    {
+     "label": "Certification",
+     "value": "UL listed"
+    }
+   ],
+   "description": "Kasa's EP25P4 is a 15 amp plug that works with Apple HomeKit, Siri, Alexa and Google Home, and it monitors the connected device's energy use in real time and over history. The listing says it is UL listed and supports Amazon Frustration-Free Setup and Google Seamless Setup.\n\nEnergy monitoring shows what a lamp, a TV or a dehumidifier actually uses, which is useful for finding standby draw. HomeKit support makes it the pick for an iPhone household that does not use Matter yet. Compared with the Kasa Ultra Mini, the EP25 adds monitoring and Apple support, but it is a little larger.\n\nThe larger body may block the second outlet on a tight receptacle, so check your outlets. Use the monitoring to identify devices that draw power while off, and set a schedule to cut them. Do not treat the monitor as a safety device, since it only reports usage. Keep the pack for lamps, the TV box and the router if you want a remote reboot. The monitor is also handy in year three, when an old dehumidifier or space-hungry gaming console starts drawing more than it used to, and the history graph shows that drift before it shows up on a bill.",
+   "bestFor": "Apple households that want energy monitoring and HomeKit control.",
+   "pros": [
+    "Energy monitoring shows real-time and historical use",
+    "HomeKit, Alexa and Google support",
+    "UL listed",
+    "Four plugs cover a room"
+   ],
+   "cons": [
+    "Slightly larger body can block the second outlet",
+    "Matter is not listed"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0B14C719T?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LVbPDPTeL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C36WXGP1",
+   "rank": 4,
+   "badge": "Best Matter Alternative",
+   "name": "Linkind Matter Smart Plug, Works with Apple Home and Alexa",
+   "specs": [
+    "Matter",
+    "Timer and schedule",
+    "Apple Home",
+    "Alexa"
+   ],
+   "specList": [
+    {
+     "label": "Protocol",
+     "value": "Matter over Wi-Fi"
+    },
+    {
+     "label": "Platforms",
+     "value": "Apple Home, Alexa, Siri, Google Home"
+    },
+    {
+     "label": "Features",
+     "value": "Timer and schedule"
+    },
+    {
+     "label": "Control",
+     "value": "App, remote before arriving home"
+    },
+    {
+     "label": "Local control",
+     "value": "Devices on the LAN talk directly"
+    }
+   ],
+   "description": "Linkind's Matter plug works with Apple Home, Alexa, Siri and Google Home, and the listing says you can skip downloading a separate app for each brand once it is on Matter. It has a timer and schedule, and devices on your local network communicate directly.\n\nMatter plugs reduce the app clutter that grows with every smart home purchase. Compared with the Tapo Matter, the Linkind is nearly the same in function, and the difference lies in the brand's app and support, which is smaller. Direct local communication means commands run faster and keep working in an outage.\n\nUse the Matter setup code to add the plug to your platform of choice, and consider adding it to a second platform through multi-admin if your family uses both Apple and Alexa. Name the plug for its room and device. For lights that must stay on, such as a fish tank or medical equipment, do not rely on any plug, because a Wi-Fi fault or an accidental off command could cause harm.",
+   "bestFor": "Buyers who want a Matter plug from a smaller brand with timer features.",
+   "pros": [
+    "Matter works with Apple, Alexa and Google",
+    "Timer and schedule built in",
+    "Local control on the home network",
+    "Fewer apps to manage"
+   ],
+   "cons": [
+    "Smaller brand with less support",
+    "Not for devices that must never switch off"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0C36WXGP1?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31jIpSor2-L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B089DR29T6",
+   "rank": 5,
+   "badge": "Best Alexa Plug",
+   "name": "Amazon Smart Plug for Alexa, Simple Setup",
+   "specs": [
+    "Alexa only",
+    "No hub",
+    "Simple setup",
+    "Plug and play"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "Alexa only"
+    },
+    {
+     "label": "Setup",
+     "value": "Plug in, open Alexa app"
+    },
+    {
+     "label": "Hub",
+     "value": "Not required"
+    },
+    {
+     "label": "Suited devices",
+     "value": "Lamps, fans, coffee makers with a physical switch"
+    },
+    {
+     "label": "Brand",
+     "value": "Amazon"
+    }
+   ],
+   "description": "Amazon's Smart Plug is a simple plug that works with the Alexa app and compatible Alexa devices, and the listing says no hub is required. It suits lamps, fans and coffee makers that have a physical on and off switch.\n\nThe appeal is that setup happens inside the Alexa app with a few taps, and it is a first-party device with direct support. Compared with the Kasa Ultra Mini, the Amazon plug works only with Alexa and lacks the timers and energy tools of a dedicated app, so it is the simplest path rather than the most capable. It is a fine starter for a single lamp.\n\nFor devices to work, the appliance must be left in the on position, since the plug only supplies or cuts power. Create an Alexa routine for sunset, and name the plug clearly. Because it is tied to Alexa, switching to another assistant means replacing it, so pick a Matter model if you expect to change.",
+   "bestFor": "Echo owners who want the simplest possible setup for one or two lamps.",
+   "pros": [
+    "Setup happens entirely in the Alexa app",
+    "No hub required",
+    "First-party Amazon support",
+    "Works with lamps and small appliances"
+   ],
+   "cons": [
+    "Alexa only, with no Google or Apple",
+    "Fewer features than a dedicated app"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B089DR29T6?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/219G0lcz2NL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B62LPR5Z",
+   "rank": 6,
+   "badge": "Best Low Cost Pack",
+   "name": "EIGHTREE Smart Plug 15A Wi-Fi Outlet, 4-Pack",
+   "specs": [
+    "15A",
+    "4 pack",
+    "Smart Life app",
+    "Alexa and Google"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "15A"
+    },
+    {
+     "label": "Pack",
+     "value": "4 plugs"
+    },
+    {
+     "label": "App",
+     "value": "Smart Life"
+    },
+    {
+     "label": "Platforms",
+     "value": "Alexa and Google Assistant via the app"
+    },
+    {
+     "label": "Control",
+     "value": "Remote control and schedules"
+    }
+   ],
+   "description": "EIGHTREE's four-pack is a 15 amp Wi-Fi plug that works with Alexa and Google Assistant, but the listing notes that you must connect the plug in the Smart Life app first and then link it to your assistant. It supports remote control and schedules.\n\nThe extra step is the tradeoff for a low-cost pack, because you manage the plugs in a third-party app and then link that app to Alexa or Google. Compared with the Kasa Ultra Mini, the EIGHTREE has a less polished app and less certainty about long-term updates. The Smart Life platform is widely used, though, so the plugs work with many other devices.\n\nSet it up in the Smart Life app, then enable the skill in Alexa or the action in Google Home. Name each plug clearly. Since this is a generic platform, check that the plug carries a recognized safety mark such as UL or ETL on the label before you use it with anything important, and avoid using it for high-draw appliances. The plugs are also on the larger side, so a power strip or a tight outlet behind a sofa may not take two of them at once, and the cheapest packs are usually the ones whose app stops getting updates first.",
+   "bestFor": "Budget buyers who want several plugs and accept a generic app.",
+   "pros": [
+    "Four plugs at a low cost",
+    "Works with Alexa and Google through Smart Life",
+    "Remote control and schedules",
+    "Smart Life app works with many brands"
+   ],
+   "cons": [
+    "Requires the Smart Life app and a linking step",
+    "Less polished app and support"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0B62LPR5Z?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41eF0Y12VtL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Platform and Matter",
+   "explanation": "Check which assistant you use. The Amazon plug works only with Alexa, the Kasa EP10 works with Alexa and Google, the EP25 adds HomeKit and the Tapo and Linkind use Matter across all three. Matter also keeps local control working when the internet fails. If you might change phones or assistants, choose Matter."
+  },
+  {
+   "criterion": "Load rating and appliances",
+   "explanation": "Most plugs are rated 15 amps, or 1800 watts at 120 volts, as the Tapo lists. Lamps draw 10 to 60 watts, and a fan draws 50 to 100. Space heaters and air conditioners can draw 1500 watts, which is at the plug's limit. Check the appliance label and avoid running a plug at its maximum for hours. Never use a plug with something that could cause harm if it switches unexpectedly."
+  },
+  {
+   "criterion": "Size and outlet blocking",
+   "explanation": "A mini plug like the Kasa Ultra Mini or Tapo Mini leaves the second outlet free, while larger bodies can block it. Check the shape against your outlets, especially if outlets are close to furniture. Consider a plug with a right-angle design if the outlet is behind a sofa."
+  },
+  {
+   "criterion": "Network and setup",
+   "explanation": "Most plugs use 2.4 GHz Wi-Fi and no hub. Some, like the EIGHTREE, need a separate app and then a link to the assistant. A weak signal at the outlet causes dropouts. If you have many smart devices, check your router's device limit."
+  },
+  {
+   "criterion": "Energy monitoring and schedules",
+   "explanation": "The Kasa EP25 reports real-time and historical energy use. Schedules and timers are common, and local schedules keep running if Wi-Fi drops. Energy monitoring helps you find standby loads. It is not a safety feature."
+  },
+  {
+   "criterion": "Safety certification",
+   "explanation": "Look for UL or ETL certification on the plug. The Kasa EP25 lists UL, and certified plugs have been checked for overheating. Avoid uncertified plugs for appliances. Do not daisy-chain plugs or put them behind heavy furniture."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Matter",
+   "meaning": "Matter is a cross-platform standard that lets one device join Apple, Alexa and Google at once. It also supports local control.",
+   "watchFor": "The Tapo and Linkind list Matter, while the Kasa EP10 and Amazon plug do not."
+  },
+  {
+   "spec": "15A, 1800W",
+   "meaning": "This is the maximum current and power the plug can switch. Appliances must stay within it.",
+   "watchFor": "The Tapo lists 15A and 1800W, and heaters can approach that limit."
+  },
+  {
+   "spec": "Energy monitoring",
+   "meaning": "Energy monitoring measures the power a connected device uses. It shows real-time and past use.",
+   "watchFor": "The Kasa EP25 lists it, and the others do not."
+  },
+  {
+   "spec": "2.4 GHz Wi-Fi",
+   "meaning": "2.4 GHz is the longer-range Wi-Fi band that most smart plugs use. It passes through walls better than 5 GHz.",
+   "watchFor": "The Kasa listings require 2.4 GHz, so your router must support it."
+  },
+  {
+   "spec": "UL listed",
+   "meaning": "UL listing means an outside lab checked the product against safety standards. It matters for devices that carry household current.",
+   "watchFor": "The Kasa EP25 lists UL, and the Tapo lists compact design with a 15A rating."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Platform and Matter",
+   "description": "We compared Matter support on the Tapo and Linkind with the Alexa-only Amazon plug. Broader support ranked higher. We weighed lock-in risk."
+  },
+  {
+   "title": "Load and safety",
+   "description": "We looked at the 15A and 1800W ratings and certification, such as the Kasa EP25's UL listing. We weighed which appliances each suits. Clear safety marks earned trust."
+  },
+  {
+   "title": "Size and fit",
+   "description": "We compared mini bodies with larger ones and considered second-outlet blocking. The Tapo Mini and Kasa Ultra Mini stood out. Fit on real outlets matters."
+  },
+  {
+   "title": "App and setup",
+   "description": "We looked at Kasa's app, the Alexa app and the Smart Life linking step. Owner feedback patterns show setup friction with generic apps. Simpler setup raised a plug's rank."
+  },
+  {
+   "title": "Features and value",
+   "description": "We counted energy monitoring, timers and pack sizes. The EP25's monitoring and the four-packs add value. Features matter only when the plug stays connected."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Platform",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Apple, Alexa and Google",
+      "Tapo Matter",
+      "Matter and 1800W rating"
+     ],
+     [
+      "Apple HomeKit and monitoring",
+      "Kasa EP25",
+      "Energy data and HomeKit"
+     ],
+     [
+      "Alexa and Google lamps",
+      "Kasa Ultra Mini 4-pack",
+      "Compact and reliable"
+     ],
+     [
+      "Matter alternative",
+      "Linkind Matter",
+      "Timer features"
+     ],
+     [
+      "Alexa only, one lamp",
+      "Amazon Smart Plug",
+      "Simple setup"
+     ],
+     [
+      "Low-cost pack",
+      "EIGHTREE 4-pack",
+      "Four plugs"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Kasa Ultra Mini 4-pack",
+      "Compact four-pack"
+     ],
+     [
+      "Low tier",
+      "Amazon Smart Plug",
+      "Simple Alexa plug"
+     ],
+     [
+      "Lower middle",
+      "Tapo Matter",
+      "Matter"
+     ],
+     [
+      "Middle",
+      "EIGHTREE 4-pack",
+      "Four plugs"
+     ],
+     [
+      "Upper middle",
+      "Linkind Matter",
+      "Matter alternative"
+     ],
+     [
+      "Top tier",
+      "Kasa EP25 4-pack",
+      "Monitoring and HomeKit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Matter vs Platform-Specific",
+   "cards": [
+    {
+     "label": "Matter",
+     "text": "The Tapo and Linkind work across Apple, Alexa and Google. They keep working on the local network and survive an ecosystem change."
+    },
+    {
+     "label": "Platform-specific",
+     "text": "The Kasa EP10, EP25 and Amazon plug tie you to certain assistants. They are mature and simple, but you may need to replace them if you switch."
+    }
+   ],
+   "note": "Choose Matter if you might change assistants, and platform-specific if your setup is settled."
+  },
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Floor and table lamps",
+      "Kasa Ultra Mini",
+      "Compact"
+     ],
+     [
+      "Holiday lights on a timer",
+      "EIGHTREE",
+      "Schedules in a pack"
+     ],
+     [
+      "Checking standby power",
+      "Kasa EP25",
+      "Energy monitoring"
+     ],
+     [
+      "Fan or humidifier",
+      "Tapo Matter",
+      "1800W rating"
+     ],
+     [
+      "One lamp, Alexa",
+      "Amazon Smart Plug",
+      "Simple"
+     ],
+     [
+      "Cross-platform household",
+      "Linkind Matter",
+      "Matter"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Lamps Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a compact plug, a name you can say easily and a schedule feature. Leave the lamp's own switch on."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Kasa Ultra Mini and Tapo Mini suit lamps best because they leave the second outlet free."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want Matter, HomeKit or energy monitoring, such as the Tapo or Kasa EP25."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need timers for lamps, where the Kasa Ultra Mini pack is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check app and firmware updates",
+   "interval": "Every few months",
+   "why": "Updates fix bugs and security issues. Keep the app and the plug current."
+  },
+  {
+   "task": "Test schedules",
+   "interval": "After clock changes",
+   "why": "Daylight saving and router resets can shift schedules. Verify that timers run on time."
+  },
+  {
+   "task": "Inspect plugs and outlets",
+   "interval": "Every 6 months",
+   "why": "Warm or discolored plugs signal a problem. Replace any plug that feels hot."
+  },
+  {
+   "task": "Re-pair after router changes",
+   "interval": "As needed",
+   "why": "A new router or password drops devices. Reconnect and rename them in the app."
+  },
+  {
+   "task": "Check the load",
+   "interval": "When adding devices",
+   "why": "Overloaded plugs overheat. Confirm that the appliance wattage is well under the plug rating."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What can I plug into a smart plug?",
+   "a": "Lamps, fans, coffee makers with a physical switch and chargers are typical. Avoid space heaters and anything that could cause harm if it switches unexpectedly."
+  },
+  {
+   "q": "Do smart plugs need a hub?",
+   "a": "Not the ones here. They connect directly over 2.4 GHz Wi-Fi."
+  },
+  {
+   "q": "Does a smart plug work if the internet is down?",
+   "a": "Matter plugs and schedules stored on the plug can keep working locally. Cloud-only control and voice commands may stop."
+  },
+  {
+   "q": "Why does my plug go offline?",
+   "a": "Weak Wi-Fi, a router change or an overloaded network usually causes it. Move the router or add an access point."
+  },
+  {
+   "q": "Can I use a smart plug with a space heater?",
+   "a": "Only if the heater's wattage is well below the plug rating, and even then it carries risk. Many heaters are designed to plug directly into the wall."
+  },
+  {
+   "q": "Are smart plugs safe?",
+   "a": "Certified plugs rated for the load are safe in normal use. Avoid uncertified plugs and never exceed the rating."
+  }
+ ],
+ "relatedGuides": []
+}

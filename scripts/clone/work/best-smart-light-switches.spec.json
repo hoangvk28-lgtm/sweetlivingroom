@@ -1,0 +1,609 @@
+{
+ "guideSlug": "best-smart-light-switches",
+ "categorySlug": "lighting",
+ "mainKeyword": "smart light switch",
+ "guideTitle": "Best Smart Light Switches (2026)",
+ "metaTitle": "Best Smart Light Switches for Living Rooms",
+ "metaDescription": "Six Wi-Fi smart light switches compared on Matter support, neutral wire needs, dimming, 3-way wiring and voice platforms, so you can upgrade lights with no hub.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/51uFhM+11bL._SL500_.jpg",
+ "expertTake": "The Kasa Matter KS205 is the top pick because Matter support lets it work with Apple Home, Alexa, Google Home and SmartThings from one switch. The Amazon Basics smart switch is the value pick if you only use Alexa and want the simplest setup. Skip a smart switch if your boxes have no neutral wire and you are not ready for a no-neutral model, because every switch here needs one.",
+ "introParagraphs": [
+  "A smart light switch replaces the wall switch you already use, which means every light on that switch becomes smart, and guests still flip it like a normal switch. It avoids the problem of smart bulbs that stop responding when someone turns the wall switch off.",
+  "What matters is the wiring, the platform and the dimming. Most Wi-Fi switches need a neutral wire in the box, they connect on 2.4 GHz and they work with certain voice assistants. Matter support widens that last point, while dimming and 3-way handling decide whether the switch fits your room."
+ ],
+ "products": [
+  {
+   "id": "B0CC8NP7ZD",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Kasa Matter Smart Light Switch KS205, Single Pole",
+   "specs": [
+    "Matter",
+    "Single pole",
+    "Neutral wire",
+    "Wi-Fi"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Single pole smart switch"
+    },
+    {
+     "label": "Protocol",
+     "value": "Matter over Wi-Fi"
+    },
+    {
+     "label": "Platforms",
+     "value": "Apple Home, Alexa, Google Home, SmartThings"
+    },
+    {
+     "label": "Wiring",
+     "value": "Neutral wire required"
+    },
+    {
+     "label": "Control",
+     "value": "Kasa app, voice, schedules"
+    }
+   ],
+   "description": "Kasa's KS205 is a single-pole Wi-Fi switch with Matter, which the listing says lets it work across Apple Home, Alexa, Google Home and SmartThings. It needs a neutral wire, and you control it through the Kasa app, by voice with Siri, Alexa or Google, or with schedules.\n\nMatter is the practical reason to buy a new switch today, because a switch that supports it is not locked to one assistant, and you can change ecosystems later. Compared with the older HS200, the KS205 adds that platform flexibility and keeps the same easy install. A Matter switch also keeps working inside the home network when the internet drops, which helps reliability.\n\nBefore buying, check that your switch box has a neutral wire, usually a bundle of white wires at the back of the box. Switch off the breaker and verify with a tester. Keep a 2.4 GHz network available, since the switch connects on that band. If your light is on a 3-way circuit, use the Kasa 3-way kit instead. Smart switches are slightly deeper than a standard toggle, so in a crowded gang box, push the wires back neatly and check that the plate sits flush, because a switch that bulges out will not seat the faceplate and can stress the wire nuts.",
+   "bestFor": "Homes that use more than one smart home platform or may change later.",
+   "pros": [
+    "Matter works across Apple, Alexa, Google and SmartThings",
+    "Local control keeps working when the internet is out",
+    "Familiar Kasa app and guided install",
+    "Single-pole wiring is simple for most rooms"
+   ],
+   "cons": [
+    "Neutral wire is required",
+    "Does not dim lights on this model"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CC8NP7ZD?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51uFhM+11bL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CBNX6Q51",
+   "rank": 2,
+   "badge": "Best Matter Value",
+   "name": "TP-Link Tapo Matter Smart Light Switch",
+   "specs": [
+    "Matter",
+    "Siri, Alexa, Google",
+    "Timer",
+    "UL certified"
+   ],
+   "specList": [
+    {
+     "label": "Protocol",
+     "value": "Matter over Wi-Fi"
+    },
+    {
+     "label": "Platforms",
+     "value": "Siri, Alexa, Google Home"
+    },
+    {
+     "label": "Features",
+     "value": "Timer and schedule"
+    },
+    {
+     "label": "Certification",
+     "value": "UL certified"
+    },
+    {
+     "label": "Multi-admin",
+     "value": "Multiple platforms at once"
+    }
+   ],
+   "description": "Tapo's Matter switch is UL certified, supports Siri, Alexa and Google Home, and has a timer and schedule. The listing says devices on the home network communicate directly, so control can keep working if the internet goes down, and that multi-admin lets you use several smart home systems at the same time.\n\nMulti-admin means you can add the same switch to Apple Home and Alexa, so family members with different phones are not locked out. Compared with the Kasa KS205, the Tapo is nearly the same in function, and the choice often comes down to which app you prefer, since TP-Link makes both Kasa and Tapo. UL certification is a good sign for a device that connects to household wiring.\n\nA neutral wire is required, as with the Kasa. Install it using the Tapo app, and add it to your platform of choice using the Matter code. Test local control by disconnecting the internet briefly. If setup fails, check that your phone is on 2.4 GHz and that your router is not blocking device-to-device traffic. In year three, the usual complaint with any Wi-Fi switch is a dropped connection after a router change, so write down your network name and password, and expect to re-pair the switch once if you replace the router.",
+   "bestFor": "Mixed Apple and Android households that want multi-admin Matter control.",
+   "pros": [
+    "Matter with Siri, Alexa and Google support",
+    "Multi-admin works with several platforms at once",
+    "UL certified for household wiring",
+    "Timer and schedule built in"
+   ],
+   "cons": [
+    "Neutral wire is required",
+    "Does not dim lights on this model"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CBNX6Q51?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41FSBftPR8L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07HGSCXB6",
+   "rank": 3,
+   "badge": "Best Dimmer",
+   "name": "Kasa Smart Dimmer Switch HS220, Single Pole",
+   "specs": [
+    "0 to 100% dimming",
+    "Single pole",
+    "Neutral wire",
+    "Alexa and Google"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Single pole dimmer"
+    },
+    {
+     "label": "Dimming",
+     "value": "0 to 100 percent"
+    },
+    {
+     "label": "Control",
+     "value": "Button or Kasa app"
+    },
+    {
+     "label": "Platforms",
+     "value": "Alexa and Google Home"
+    },
+    {
+     "label": "Wiring",
+     "value": "Neutral wire required"
+    }
+   ],
+   "description": "Kasa's HS220 is a single-pole dimmer switch with 0 to 100 percent dimming, adjustable by the button or the Kasa app, and voice control through Alexa and Google. A neutral wire is required and the app guides the install.\n\nA smart dimmer is the best match for a living room, where you want evening light at 20 or 30 percent. Compared with the KS205, the HS220 dims but does not list Matter or Apple support, so it is for Alexa and Google homes. Dimming must match the bulbs: it works with dimmable LEDs and incandescent bulbs, but non-dimmable LED bulbs flicker or buzz.\n\nSet a minimum brightness so that cheap LEDs do not flicker at the bottom of the range. Do not use it with a load under the minimum wattage stated in the manual, since very low loads cause flicker. If you have bulbs that buzz at low levels, swap one to a dimmable model rated for the dimmer. The switch also remembers the last level, so a single press returns to your preferred setting. A dimmer also generates a little heat in the box, so avoid packing it into a gang box with several other dimmers, and keep the total load well under the rated maximum in the manual.",
+   "bestFor": "Living rooms and dining rooms that need smooth dimming.",
+   "pros": [
+    "0 to 100 percent dimming suits evening light",
+    "Button and app control",
+    "Alexa and Google voice support",
+    "Guided app install"
+   ],
+   "cons": [
+    "No Matter or Apple support on this model",
+    "Needs dimmable bulbs to avoid flicker"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07HGSCXB6?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21BqwsxD-NL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GR1TR26Y",
+   "rank": 4,
+   "badge": "Best Brand Support",
+   "name": "Leviton Decora Smart Wi-Fi Switch D315S with Matter",
+   "specs": [
+    "Matter",
+    "Decora style",
+    "My Leviton app",
+    "Wi-Fi"
+   ],
+   "specList": [
+    {
+     "label": "Style",
+     "value": "Decora rocker"
+    },
+    {
+     "label": "Protocol",
+     "value": "Matter and Wi-Fi"
+    },
+    {
+     "label": "Platforms",
+     "value": "My Leviton, Alexa, Google, Apple"
+    },
+    {
+     "label": "Scheduling",
+     "value": "Sunset schedules"
+    },
+    {
+     "label": "Control",
+     "value": "Remote and voice"
+    }
+   ],
+   "description": "Leviton's D315S is a Decora-style Wi-Fi switch that works with Matter, the My Leviton app, Alexa, Google Assistant and Apple. The listing highlights scheduling lights to turn on at sunset and checking or adjusting lights remotely.\n\nLeviton is a long-standing electrical brand, so its switches are designed around standard wall plates, with a flat rocker that matches most modern homes. Compared with the Kasa and Tapo, the Leviton is a more traditional electrical product with the same Matter flexibility, and it will suit buyers who prefer an established wiring brand. The Decora rocker is also easier to match with other switches in a gang box.\n\nCheck whether your wall plate is a Decora cutout, and replace it if it is a toggle style. The switch needs a neutral wire, so inspect the box first. Pair it in the My Leviton app, then add it to your preferred platform through Matter. A sunset schedule is a useful way to automate porch and living room lights through the seasons.",
+   "bestFor": "Buyers who want a Matter switch from an established electrical brand.",
+   "pros": [
+    "Matter with Apple, Alexa and Google support",
+    "Decora rocker matches modern plates",
+    "Sunset scheduling follows the seasons",
+    "Established electrical brand"
+   ],
+   "cons": [
+    "Requires a Decora-compatible plate",
+    "Neutral wire is required"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GR1TR26Y?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41bjM2VkhbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07724HNTX",
+   "rank": 5,
+   "badge": "Best 3-Way",
+   "name": "Kasa Smart 3-Way Switch HS210 Kit",
+   "specs": [
+    "3-way kit",
+    "2 switches",
+    "Neutral wire",
+    "Alexa and Google"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "3-way or single pole kit"
+    },
+    {
+     "label": "Pack",
+     "value": "Kit for two locations"
+    },
+    {
+     "label": "Wiring",
+     "value": "Neutral wire required"
+    },
+    {
+     "label": "Platforms",
+     "value": "Alexa and Google Home"
+    },
+    {
+     "label": "Control",
+     "value": "Kasa or Tapo app"
+    }
+   ],
+   "description": "Kasa's HS210 kit is designed for a light controlled from two locations, and the listing says it can be used as a 3-way or a single-pole switch. It needs a neutral wire, uses 2.4 GHz Wi-Fi and works with Alexa and Google Home through the app.\n\nThree-way circuits are the hardest wiring problem in smart switches, and a purpose-built kit saves you from guessing which wire is the traveler. Compared with the KS205, the HS210 is the one to buy for a hallway or a staircase where two switches control one light. The pair communicates, so both locations stay in sync.\n\nTake a photo of the existing wiring before you disconnect anything, and label the wires. If one of the boxes has no neutral, the kit will not work. Install the main switch where the line power arrives, and the companion at the other location, following the app. Test from both positions before closing the boxes. If the light flickers or stays on when you flip the companion switch, the traveler wire is probably on the wrong terminal, so turn the breaker off and swap it, using the photo you took as a guide, before you blame the switch itself.",
+   "bestFor": "Hallways and stairs where two switches control one light.",
+   "pros": [
+    "Kit handles 3-way circuits with two switches",
+    "Can also act as a single-pole switch",
+    "Alexa and Google voice support",
+    "App-guided wiring steps"
+   ],
+   "cons": [
+    "Both boxes need a neutral wire",
+    "No Matter or Apple support on this model"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07724HNTX?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ZE0ksVsRL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B095X911T8",
+   "rank": 6,
+   "badge": "Best Alexa-Only",
+   "name": "Amazon Basics Smart Light Switch, Single Pole, Alexa Only",
+   "specs": [
+    "Alexa only",
+    "Single pole",
+    "2.4 GHz",
+    "No hub"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Single pole smart switch"
+    },
+    {
+     "label": "Platform",
+     "value": "Alexa only"
+    },
+    {
+     "label": "Network",
+     "value": "2.4 GHz Wi-Fi, no hub"
+    },
+    {
+     "label": "Features",
+     "value": "Voice, schedule, routines"
+    },
+    {
+     "label": "Install",
+     "value": "Video and manual guidance"
+    }
+   ],
+   "description": "Amazon Basics sells a single-pole smart switch that works with Alexa only, over 2.4 GHz Wi-Fi with no hub. The listing describes a guided installation with a video and manual, and scheduling through Alexa routines.\n\nA single-platform switch is simpler to set up if you already own Echo devices, because it appears in the Alexa app without extra bridges. Compared with the Kasa KS205, the Amazon Basics does not work with Google or Apple, so it locks you into Alexa. Its advantage is price and the single clear setup path.\n\nChoose it only if you are sure that you will stay with Alexa for years. A neutral wire is typically required for a Wi-Fi switch, so check your box. Create an Alexa routine for sunset and for a bedtime scene, and keep the wall switch usable for guests. If you later change platforms, you will need to replace the switch. That limit matters more over a decade than the savings today, so weigh it against the Matter models, which cost a little more but let you move to another assistant without touching the wiring again.",
+   "bestFor": "Alexa-only homes that want the simplest, cheapest setup.",
+   "pros": [
+    "Works directly with Alexa and no hub",
+    "Schedules and routines through Alexa",
+    "Guided video installation",
+    "Simple single-pole wiring"
+   ],
+   "cons": [
+    "Does not work with Google or Apple",
+    "Locks you into Alexa"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B095X911T8?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31X2JpplcaL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Neutral wire requirement",
+   "explanation": "Most Wi-Fi switches need a neutral wire in the box, usually white wires bundled at the back. All the switches here require it. Houses built before the 1980s often lack neutrals at the switch. Switch off the breaker, remove the plate and check before you buy, or choose a no-neutral model from another line."
+  },
+  {
+   "criterion": "Platform and Matter support",
+   "explanation": "Matter lets a switch work across Apple Home, Alexa, Google Home and SmartThings. The Kasa KS205, Tapo and Leviton D315S support it, while the HS210, HS220 and Amazon Basics are tied to specific assistants. Works with Alexa does not mean works with Google or Apple. Matter also keeps local control working when the internet is down."
+  },
+  {
+   "criterion": "Dimming and load type",
+   "explanation": "A dimmer such as the HS220 gives 0 to 100 percent control, but it needs dimmable bulbs. On/off switches such as the KS205 control any bulb. Non-dimmable LEDs flicker or buzz on a dimmer. Check the minimum and maximum load in the manual, since LED loads are small and can trigger flicker."
+  },
+  {
+   "criterion": "Circuit type: single pole or 3-way",
+   "explanation": "A single-pole circuit has one switch, and a 3-way circuit has two switches controlling one light. The HS210 kit is built for 3-way circuits. Installing a single-pole switch in a 3-way box can give odd behavior. Identify your circuit before you buy, and take a photo of the wiring."
+  },
+  {
+   "criterion": "Wi-Fi and network",
+   "explanation": "These switches use 2.4 GHz Wi-Fi, so your router must support that band. Many switches on a crowded router can strain it. A strong signal at the switch location matters, since metal boxes weaken it. Check your router's device limit if you plan to replace many switches."
+  },
+  {
+   "criterion": "Style and wall plates",
+   "explanation": "Decora rocker switches, like the Leviton D315S, need a Decora cutout plate. Toggle plates need to be swapped. Matching colors and gang boxes matter for a tidy look. The Kasa 2-gang style fits two circuits in one gang."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Matter",
+   "meaning": "Matter is a cross-platform smart home standard. It lets one device work with several ecosystems.",
+   "watchFor": "The KS205, Tapo and Leviton list Matter, while the HS210, HS220 and Amazon Basics do not."
+  },
+  {
+   "spec": "Neutral wire",
+   "meaning": "A neutral wire completes the circuit and gives the switch constant power. Many older boxes lack one.",
+   "watchFor": "All six switches in this guide need a neutral wire."
+  },
+  {
+   "spec": "Single pole versus 3-way",
+   "meaning": "Single pole means one switch controls a light, and 3-way means two switches control it. The wiring differs.",
+   "watchFor": "The HS210 kit is built for 3-way, and the others are single pole."
+  },
+  {
+   "spec": "2.4 GHz Wi-Fi",
+   "meaning": "2.4 GHz is the longer-range Wi-Fi band that most smart devices use. It is slower but passes through walls better.",
+   "watchFor": "The Amazon Basics and Kasa switches list 2.4 GHz, so your router must support it."
+  },
+  {
+   "spec": "Multi-admin",
+   "meaning": "Multi-admin lets a Matter device join several smart home platforms at once. It suits mixed households.",
+   "watchFor": "The Tapo lists multi-admin, which helps when family members use different phones."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Platform support",
+   "description": "We compared Matter support on the KS205, Tapo and Leviton with the Alexa-only Amazon Basics. Broader support ranked higher. We weighed the risk of lock-in."
+  },
+  {
+   "title": "Wiring and install",
+   "description": "We checked neutral wire needs, single-pole and 3-way options and app guidance. The HS210 kit addresses 3-way wiring. Clear installation help earned points."
+  },
+  {
+   "title": "Dimming and features",
+   "description": "We looked at the HS220's 0 to 100 percent dimming, schedules and timers. We weighed which features matter in a living room. Dimming and sunset scheduling stood out."
+  },
+  {
+   "title": "Reliability and local control",
+   "description": "We read claims about local control when the internet fails, such as the Tapo's direct device communication. Owner feedback patterns show cloud dependency as a risk. Local control raised a switch's rank."
+  },
+  {
+   "title": "Brand and value",
+   "description": "We considered brand support from Kasa, Tapo, Leviton and Amazon. We weighed price against platform flexibility. A switch you can keep through a platform change offers better value."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Platform",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Apple, Alexa and Google mix",
+      "Kasa KS205",
+      "Matter"
+     ],
+     [
+      "Family on different phones",
+      "Tapo Matter",
+      "Multi-admin"
+     ],
+     [
+      "Alexa only",
+      "Amazon Basics",
+      "Simple, no hub"
+     ],
+     [
+      "Alexa and Google with dimming",
+      "Kasa HS220",
+      "0 to 100 percent dimming"
+     ],
+     [
+      "Established brand with Matter",
+      "Leviton D315S",
+      "Decora and Matter"
+     ],
+     [
+      "Two-location hallway",
+      "Kasa HS210 kit",
+      "3-way kit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Kasa KS205",
+      "Matter for the money"
+     ],
+     [
+      "Low tier",
+      "Amazon Basics",
+      "Alexa only"
+     ],
+     [
+      "Lower middle",
+      "Tapo Matter",
+      "Multi-admin"
+     ],
+     [
+      "Middle",
+      "Kasa HS210 kit",
+      "3-way kit"
+     ],
+     [
+      "Upper middle",
+      "Leviton D315S",
+      "Brand and Decora"
+     ],
+     [
+      "Top tier",
+      "Kasa HS220",
+      "Dimmer"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Matter vs Alexa-Only",
+   "cards": [
+    {
+     "label": "Matter",
+     "text": "The KS205, Tapo and Leviton work across platforms. They keep local control when the internet is down and survive a change of ecosystem."
+    },
+    {
+     "label": "Alexa-only",
+     "text": "The Amazon Basics works only with Alexa. It is simple and low-cost, but it ties you to one assistant."
+    }
+   ],
+   "note": "Choose Matter if you might change platforms, and Alexa-only if you are committed to Echo."
+  },
+  {
+   "subheading": "By Circuit Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Single switch, on and off",
+      "Kasa KS205",
+      "Single pole Matter"
+     ],
+     [
+      "Single switch with dimming",
+      "Kasa HS220",
+      "Dimmer"
+     ],
+     [
+      "Two switches for one light",
+      "Kasa HS210",
+      "3-way kit"
+     ],
+     [
+      "Decora plates",
+      "Leviton D315S",
+      "Decora rocker"
+     ],
+     [
+      "Alexa routines",
+      "Amazon Basics",
+      "Simple"
+     ],
+     [
+      "Mixed phones",
+      "Tapo",
+      "Multi-admin"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Living Rooms Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for dimming, sunset scheduling and a switch that works with your voice assistant. Pair it with dimmable LED bulbs."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Kasa HS220 dimmer and the Leviton D315S with sunset scheduling suit living rooms best."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want dimming and platform flexibility, such as the HS220 or a Matter model."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need simple on and off and use Alexa, where the Amazon Basics is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Update firmware",
+   "interval": "Every few months",
+   "why": "Updates fix bugs and security issues. Check the app for available updates."
+  },
+  {
+   "task": "Check Wi-Fi signal",
+   "interval": "Every 6 months",
+   "why": "Router changes can drop switches. Reconnect and check signal at the switch."
+  },
+  {
+   "task": "Test schedules",
+   "interval": "After clock changes",
+   "why": "Daylight saving changes shift sunset schedules. Check that routines still run on time."
+  },
+  {
+   "task": "Inspect the faceplate and wiring",
+   "interval": "Yearly",
+   "why": "Loose wires cause heat or flicker. With the breaker off, check connections for tightness."
+  },
+  {
+   "task": "Verify bulbs and dimming",
+   "interval": "As needed",
+   "why": "Failing bulbs cause flicker on dimmers. Replace them with dimmable bulbs rated for the switch."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a neutral wire for a smart switch?",
+   "a": "Most Wi-Fi switches do, including all six here. Check the back of the switch box for a bundle of white wires, or choose a no-neutral model."
+  },
+  {
+   "q": "Do smart switches work with any bulb?",
+   "a": "On and off switches work with any bulb. Dimmers need dimmable bulbs, or the lights flicker or buzz."
+  },
+  {
+   "q": "Is Matter worth it?",
+   "a": "Yes, if you use more than one ecosystem or might change later. It also keeps local control working when the internet is down."
+  },
+  {
+   "q": "Can I install a smart switch myself?",
+   "a": "Many homeowners can, after turning off the breaker and verifying with a tester. A 3-way circuit or old wiring calls for an electrician."
+  },
+  {
+   "q": "What if my light has two switches?",
+   "a": "That is a 3-way circuit. Use a 3-way kit like the Kasa HS210, or a dimmer rated for 3-way."
+  },
+  {
+   "q": "Should I choose smart switches or smart bulbs?",
+   "a": "Switches control every bulb on the circuit and stay usable by guests. Bulbs offer color but stop responding when someone flips the wall switch off."
+  }
+ ],
+ "relatedGuides": []
+}

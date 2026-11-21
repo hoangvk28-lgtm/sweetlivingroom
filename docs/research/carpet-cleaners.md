@@ -1,0 +1,19 @@
+- Portable spot cleaners are small extractors: spray solution, scrub, then suction the dirty water into a separate tank. Not a replacement for a full-size upright.
+- Suction removes the dirt; heat and solution only loosen it. A machine that sprays more than it extracts leaves a wet carpet.
+- Suction ratings (Kpa, air watts) have no common standard between brands, so treat headline numbers as rough.
+- Heated models help with set-in grease and pet stains; onboard heaters usually warm water to about 120 to 150 F, not a true steam clean.
+- Many cheaper units only heat the tank before use or rely on hot tap water you add yourself.
+- Dual tanks: a clean-solution tank and a dirty-water tank. Check both capacities; listings often quote only one.
+- Small tanks (about 0.5 gallon class) mean frequent refills; larger tanks make the machine heavier and harder to carry up stairs.
+- Most portables weigh under 15 lb empty; a full tank adds several pounds.
+- Corded machines hold steady suction; cordless ones lose power on deep stains and run short.
+- Typical tools: 3 to 4 inch stain tool, crevice tool for stairs, upholstery tool, sometimes a pet hair or brush tool.
+- Self-cleaning tools and hose rinse cycles reduce residue and odor build up.
+- Use the maker's solution or a low-foam one; too much soap leaves residue that attracts dirt.
+- Rinse the clean tank, empty and wash the dirty tank, and let parts air dry after every job to prevent mildew smell.
+- Clogged hoses and filters are the most common failure; clear the nozzle and screen after each use.
+- Carpet should feel damp, not soaked; allow several hours to dry and keep foot traffic off.
+- Test cleaners on a hidden spot; some dyes bleed and some fabrics (silk, wool rugs, delicate upholstery) need gentler handling.
+- Work fresh stains first; old pet urine often needs an enzyme pre-treatment.
+- Sofa and stair cleaning needs a flexible hose of adequate length (about 4 to 5 ft is workable).
+- Expect motor and pump wear after several years of regular use; keep seals and gaskets clean.
