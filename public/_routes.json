@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "include": [
+    "/info", "/info/*", "/local", "/local/*",
+    "/ptjs/*", "/yjsjy/*", "/kxyj/*", "/zsjy/*", "/szll/*", "/xygk/*",
+    "/bksjy/*", "/bksjy.html"
+  ],
+  "exclude": []
+}
