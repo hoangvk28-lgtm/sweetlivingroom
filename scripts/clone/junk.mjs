@@ -4,7 +4,11 @@
 const PHRASES = [
   /\breplacement\b/, /\bspare\b/, /\bblades? (set|for|kit)\b/, /\b(filters?|bags?|belts?|covers?|liners?|baskets?|carafes?|jars?|blades?) (for|compatible)\b/,
   /\bfits? (models?|for)\b/, /\bkit for\b/, /\battachment\b/, /\baccessor(y|ies)\b/,
-  /\btools? kit\b/, /\bencl(osure|osures)\b/, /\bfilament\b/, /\b3d (printing )?pen\b/, /\bspool\b/, /\bline refill\b/,
+  // "filament" was bare here for 3D printing stock, but an Edison bulb's selling
+  // point is its filament, so a bare match drops real lighting candidates
+  // (caught on GUILEDUO ST64 Dimmable Amber Glass Edison LED Bulbs). Tie it to
+  // the printing materials instead.
+  /\btools? kit\b/, /\bencl(osure|osures)\b/, /\b(3d printer|pla|petg|abs|tpu) filament\b/, /\b3d (printing )?pen\b/, /\bspool\b/, /\bline refill\b/,
   /\bshear (pins?|bolts?)\b/, /\brecoil\b/, /\bstarter (rope|assembly)\b/, /\bwheel kit\b/, /\bnozzle tips?\b/, /\bhose only\b/,
   /\b(bar|engine|chain) oil\b/, /\b\d+w-?\d+\b/, /\bchain only\b/, /\bparts?\b(?! per)/, /\bdrill bit\b/, /\bbit for\b/, /\bhand auger\b/,
   /\bonline store\b/, /\bstorefront\b/,
@@ -25,6 +29,19 @@ const PHRASES = [
   /\bbbq (tools?|utensils?|gloves?|mats?) (set|kit)\b/, /\bskewers?\b/, /\bbasting brush\b/,
   /\bburner (tubes?|replacement)\b/, /\bigniter kit\b/, /\bpropane (tank|hose|regulator|adapter)\b/,
 ];
+// Pet furniture (SweetLivingRoom, added for the round 5 audience-qualifier slugs).
+// An audience keyword such as "sofa for cat owners" returns cat couches and dog
+// beds, which are a different product category rather than an accessory, so the
+// phrase list above never caught them. These phrases are deliberately tied to a
+// pet word next to the furniture word: "cat" and "dog" do not otherwise appear
+// in human sofa or rug titles, while a bare /\bbed\b/ would kill real sofa beds.
+const PET_FURNITURE = [
+  /\b(cat|dog|pet|kitten|puppy) (bed|beds|couch|couches|sofa|sofas|house|tower|tree|mat|cushion|furniture|stairs|steps|ramp)\b/,
+  /\b(bed|couch|sofa|mat|cushion) for (indoor )?(cats?|dogs?|pets?|kittens?|puppies)\b/,
+  /\b(cat|dog) (scratcher|scratching)\b/,
+  /\bpet (beds?|sofas?|couches?)\b/,
+];
+
 // Accessory words only count when they lead the title (e.g. "Replacement Filter ...", "Snow Blower Cover ...").
 const LEADING = /^(\S+\s+){0,3}(covers?|filters?|bags?|mats?|cases?|sleeves?)\b/i;
 // Soft terms that are accessory phrasing in most categories but normal wording on a real machine:
@@ -34,6 +51,6 @@ const SOFT = [/\badapter\b/, /\bcompatible with\b/];
 const MACHINE = /\b(inverters?|power stations?)\b/;
 export function isJunk(title = "") {
   const t = title.toLowerCase();
-  if (PHRASES.some((re) => re.test(t)) || LEADING.test(title)) return true;
+  if (PHRASES.some((re) => re.test(t)) || PET_FURNITURE.some((re) => re.test(t)) || LEADING.test(title)) return true;
   return !MACHINE.test(t) && SOFT.some((re) => re.test(t));
 }

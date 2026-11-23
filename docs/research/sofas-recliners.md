@@ -15,3 +15,9 @@
 - Lift chair: 2-motor vs single motor; infinite position vs 3-position; check seat height 18 to 20 in, user height range and weight rating.
 - Lift chair fabric: microfiber and chenille clean easier than faux leather; a hand remote with few large buttons is easier than many-icon remotes.
 - Ownership: foam softening, rocker or swivel base squeaks, faux leather flaking, power supply failure; keep manual and brackets.
+- Zero gravity position: back reclined around 120 to 130 degrees with knees raised near heart level; marketing label, no standard; dual motors set back and footrest apart.
+- Lift chair tilts seat forward up to about 45 degrees to assist standing; not all zero gravity chairs lift.
+- Oversized seats of 24 to 26 in suit broader sitters; check weight rating against body weight plus a margin.
+- Leather grades: full-grain and top-grain are real hide with the surface layer kept; split and bonded leather are scraps coated and embossed; PU is plastic over fabric backing and peels in 2 to 4 years.
+- Genuine leather chairs often use leather only on touch surfaces and vinyl on sides and back; check wording like "leather match".
+- Leather care: condition every 3 to 6 months, keep 2 ft from heat sources, wipe spills fast, avoid direct sun.

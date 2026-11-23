@@ -17,3 +17,10 @@
 - Top guides lead with Dyson models (V11 Animal, V15 Detect), Shark Stratos for upper mid-range, Samsung Jet 75, Tineco Pure ONE S11 as value (about nine pounds, poor for stairs), Black+Decker for small spaces and Shark pet models.
 - Caveats: cordless vacuums trade suction and features for convenience; budget runtimes about 24 to 40 minutes; max power can drain a battery in about 10 minutes.
 - Gap: honest runtime by mode and the fact that kPa figures are not comparable; we cover both.
+
+## best-upholstery-cleaners
+- Reviewers split upholstery cleaners into spray or foam solutions and portable steam or extraction machines; wipes and vacuums are sometimes listed.
+- Portable extractors from major carpet brands recur as top picks; budget foams and premium sprays anchor the low end.
+- Material warnings repeat: avoid harsh chemicals or machines on leather, velvet and suede; keep microfiber away from heavy sprays.
+- Several lists mix UK and US products and span 2022 to 2026.
+- Gap: the W, S, WS and X cleaning code tags, over-wetting foam, and the water ring after a spot clean.

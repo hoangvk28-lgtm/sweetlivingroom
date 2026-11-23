@@ -16,3 +16,17 @@
 - They lead with bin size, anti-tangle brush rolls, and stairs/upholstery tools.
 - They note brush roll wrapping and weaker deep-carpet performance on some cordless units.
 - Gap: bare-floor scatter, filter washing schedule and real weight on stairs; we cover these.
+
+## best-lint-rollers-for-furniture
+- Reviewers repeatedly name a reusable friction roller as the pet hair pick, noting it costs more up front but produces no waste.
+- Sticky sheet rollers are split by width, refill count and stickiness; value multipacks are the budget answer.
+- One furniture-focused guide warns that a reusable remover is not suited to smooth surfaces like leather.
+- For cat hair on upholstery, guides point to dedicated upholstery tools or a vacuum with a pet attachment.
+- Gap: friction versus tape on different fabrics, refill cost over a year, and when a roller is the wrong tool.
+
+## best-handheld-vacuums
+- Top guides lead with size, weight, power and runtime, with some suggesting 15 air watts or more as a floor for real cleaning.
+- Corded versus cordless and runtime are flagged by home-focused reviewers; pet hair motorized brush tools are a separate pick.
+- Picks split into best overall, best value cordless, pet hair, car and premium categories.
+- Several guides are dated 2022 to 2023, so current model coverage is thin.
+- Gap: peak Pa claims on cheap units versus air watts, wall mount charging, and dust cup size honesty.

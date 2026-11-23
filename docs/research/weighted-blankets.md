@@ -1,0 +1,16 @@
+# weighted-blankets cluster
+- Common guidance is to choose a blanket of roughly 7 to 12 percent of body weight; listings quote 7 to 12, 8 to 12 or 10 percent; it is a guideline, not a rule.
+- Evidence that weighted blankets help anxiety or sleep is limited and mixed; treat benefits as possible, not proven.
+- Not for infants or toddlers; people with breathing, circulation or mobility problems should check with a clinician; you must be able to remove it yourself.
+- Fill is glass beads or plastic pellets in quilted pockets; glass beads are finer and quieter; pocket size (such as 5 x 5 in) affects how well the weight stays spread.
+- Small pockets and tight stitching keep beads from shifting and pooling at the edges.
+- Weight is felt more in a smaller blanket; a 15 lb throw is heavier per area than a 15 lb queen.
+- Sizes: throw about 48 x 72 in suits one person on a sofa or twin bed; 60 x 80 in is queen; a blanket for one person need not match the bed.
+- Covers: cotton and bamboo run cooler; minky, flannel and sherpa fleece run warm; cooling claims are marketing unless the fabric breathes.
+- Washing: many blankets are machine washable on gentle cycle but heavy ones can overload a home washer; a removable duvet cover helps.
+- Heavy blankets need a large machine or a laundromat; wet glass beads add weight.
+- Loops for a duvet cover tie keep the blanket from sliding inside.
+- Weight per blanket often sits between 5 and 30 lb; 15 and 20 lb are the most common adult sizes.
+- Sherpa or faux fur sheds and collects pet hair; tight weave cotton sheds less.
+- Heat: heavy plus thick fleece raises sleeping temperature; hot sleepers should prefer breathable cotton.
+- Seams: check for leaking beads in the first weeks; a few stray beads are common in cheap builds.

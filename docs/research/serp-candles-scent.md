@@ -10,3 +10,10 @@
 - Guides split ultrasonic vs nebulizing (waterless, stronger, uses more oil and costs more); picks for best overall, quiet, portable, budget and large rooms.
 - Capacity and run time matter for large spaces; smart control appears in a few lists.
 - We add scale on the plate, weekly cleaning, timers, pet safety and oil use per hour.
+
+## best-wax-melt-warmers
+- Guides name a 2 in 1 candle and melt warmer as best overall and a plug in as best budget.
+- Style picks (mosaic, ceramic, metal) get their own slots; a large platter for melts is praised.
+- Some cheaper models are described as night lights with a small bowl fixed to the top.
+- Buying advice mentions soy or beeswax melts over paraffin.
+- Gap we cover: bulb vs PTC safety, dish diameter and the cleaning chore.

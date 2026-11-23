@@ -1,0 +1,16 @@
+# cable-management cluster (cable boxes, trays, cord covers)
+- A box hides a power strip and the plug heads; measure the strip length, width and height including the cord exit and add 1 in of clearance.
+- Common strip sizes: 6 to 8 outlet bars run about 10 to 15 in long; wide surge protectors with rotating outlets and bulky adapters need extra width.
+- Ventilation matters: a strip carrying heat producing loads in a sealed box can warm; look for vent slots or open sides.
+- Do not box up a coiled extension cord under heavy load; coiled cords heat more than straight ones.
+- Never plug one strip into another; a box does not change that rule.
+- ABS plastic is light and cheap, does not warp, and wipes clean; wood and rattan look better but vary in finish and fit.
+- Rear or side cable slots let cords exit; the number and position decide how tidy the result looks.
+- Lids: magnetic lids keep curious pets and toddlers out; slide or lift lids are easier to open for resetting a breaker.
+- Rubber feet protect floors and stop sliding; check them on wood or tile floors.
+- Boxes do not shorten cords; extra length still needs a clip, a Velcro tie or a tray.
+- Under desk trays and mesh baskets hold bricks and strips off the floor; they need a desk edge or screws.
+- Clips and adhesive channels route cords along baseboards; adhesive fails on textured or dusty walls.
+- Leave one cord end reachable so you can unplug devices without lifting the whole box.
+- Wood and rattan boxes are for visible spots; plastic suits behind furniture.
+- Dust collects on strips in any closed space; wipe the box inside twice a year.

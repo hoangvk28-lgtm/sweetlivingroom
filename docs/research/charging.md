@@ -1,0 +1,16 @@
+# charging cluster (charging stations, USB hubs, surge strips, wireless chargers)
+- Total output is shared: a 100 W station with six ports does not give 100 W to each port; check the per port split when several are used.
+- USB-C Power Delivery commonly runs 20 W for phones, 45 to 65 W for tablets and thin laptops, up to 100 W for larger laptops.
+- USB-A ports are older and usually top out around 12 to 30 W depending on protocol.
+- GaN chargers run cooler and smaller than older silicon ones at the same wattage.
+- Wireless charging is slower than wired; basic Qi pads run about 5 to 7.5 W for iPhones and up to 15 W with magnetic Qi2 or MagSafe class chargers; cases and misalignment cut speed.
+- Wireless stands for phone, watch and earbuds are three coils; the watch charger is proprietary on Apple devices.
+- Surge protection ratings in joules measure energy absorbed; higher is better but joules alone do not guarantee safety; look for a UL listing.
+- Extension cords and strips should not be daisy chained; the plug and cord gauge limit the load at 1,875 W on a 15 A, 125 V US circuit (about 1,800 W continuous at 80 percent).
+- Flat plugs sit flush behind sofas but cannot take rotated outlets in tight spots.
+- Retractable cords add a mechanical part that wears; keep them away from heavy loads.
+- Outlet spacing matters: bulky adapters block neighbors; 1.5 in spacing or rotating outlets help.
+- A phone left on a soft sofa arm can overheat while charging; use a hard, ventilated surface.
+- Cable strain at the port is the first thing to wear; keep cables short and unstressed.
+- Indicator lights can be bright in a dim TV room; look for dimmable or off options.
+- Keep chargers on hard surfaces with airflow; do not cover them with blankets.

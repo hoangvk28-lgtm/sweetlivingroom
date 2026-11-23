@@ -16,3 +16,6 @@
 - Weight matters on stairs: cordless sticks around 5 to 7 lb, uprights 12 to 18 lb.
 - Replace filters on the maker schedule; a full bin cuts suction sharply.
 - Robot vacuums handle daily shed but not deep carpet or stairs.
+- Handheld vacuums: cordless units run roughly 10 to 30 minutes on a charge (50 on premium), cup sizes are small, and spec numbers (Pa, AW, kPa) have no shared standard so compare air watts only within a brand.
+- Motorized mini brush heads lift pet hair from upholstery and stairs better than suction-only crevice tools; stairs and car seats need a crevice and a brush tool.
+- Wall or dock charging keeps the vacuum ready; washable filters need monthly rinses and 24 hours to dry.

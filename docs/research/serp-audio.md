@@ -50,3 +50,17 @@
 - Guides rank RF transmitter dock models highest because of low latency; Bluetooth with aptX noted as an alternative.
 - Splits: budget, mid-range, noise cancelling, seniors.
 - We add latency threshold, which TV outputs the dock needs and honest battery claims.
+
+## best-soundbar-mounts
+- Guides lead with measuring the bar's weight and depth, and warn that some mounts are too shallow for thick premium bars.
+- Picks split by use: budget, Dolby Atmos depth, adjustability, heavy bars up to 20 lb, no drill renters.
+- Cheapest brackets are flagged for poor install hardware.
+- Mention of keyholes vs clamp style.
+- Gap we cover: wall anchor as the real limit, VESA load, and sensor blockage.
+
+## best-speaker-wall-mounts
+- Guides repeatedly name WALI and Mount-It side clamp brackets, with VideoSecu as one overall pick.
+- Budget picks are low profile brackets for light satellites; premium picks are rated for up to 55 lb.
+- Advice: check mount weight rating against speaker weight and size, since side clamps are sized by width; mount to studs or masonry for heavy speakers.
+- Several lists are dated (2021).
+- Gap we cover: thread types for rears, clamp marks on veneers and wall limits.

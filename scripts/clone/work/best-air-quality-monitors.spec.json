@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-air-quality-monitors",
+ "categorySlug": "decor-styling",
+ "mainKeyword": "air quality monitor",
+ "guideTitle": "Best Air Quality Monitors for the Home (2026)",
+ "metaTitle": "Best Air Quality Monitors for the Home",
+ "metaDescription": "Six indoor air quality monitors compared on sensor type, CO2 method, PM2.5, VOC and radon coverage, battery life and data access, with honest accuracy limits.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "13 min",
+ "expertTake": "The Aranet4 is our top pick for a living room because it measures CO2 with an NDIR sensor, runs on batteries for years and shows a clear reading on an e-ink screen. The GoveeLife monitor is the value pick if you mainly care about fine dust and a clock on a shelf. Skip a monitor if you expect it to replace a certified smoke or carbon monoxide alarm, because none of these devices does that job.",
+ "introParagraphs": [
+  "An indoor air quality monitor is a small sensor box that shows what is in the air of a room: carbon dioxide from breathing, fine dust from cooking and candles, volatile organic compounds from cleaners and furniture, and humidity. It does not clean the air, but it tells you when to open a window or run a purifier.",
+  "Consumer sensors are indicative, not laboratory instruments, and some cheap multi gas units claim far more than their sensors can deliver. This guide compares what each device really measures, how it senses CO2, how it is powered and what data you can access, and is honest about the limits of every number on a screen."
+ ],
+ "products": [
+  {
+   "id": "B07YY7BH2W",
+   "badge": "Best Overall",
+   "name": "Aranet4 Wireless CO2 Monitor, NDIR Sensor, E Ink, 4 Year Battery",
+   "specs": [
+    "NDIR CO2",
+    "E ink screen",
+    "4 year battery",
+    "Temp and humidity"
+   ],
+   "specList": [
+    {
+     "label": "Measures",
+     "value": "CO2, temperature, humidity, air pressure"
+    },
+    {
+     "label": "CO2 sensor",
+     "value": "NDIR"
+    },
+    {
+     "label": "Display",
+     "value": "Power efficient e ink"
+    },
+    {
+     "label": "Battery",
+     "value": "Up to 4 years, per the listing"
+    },
+    {
+     "label": "Alert",
+     "value": "Color coding and optional buzzer"
+    }
+   ],
+   "description": "Aranet4 measures CO2, temperature, relative humidity and atmospheric pressure with an NDIR sensor and a power efficient e ink screen. The listing says batteries last up to four years, so it is cable free and can sit anywhere. Color coding and a big CO2 number make the reading easy at a glance, with an optional buzzer.\n\nCO2 is the best single number for a living room because it tracks how stuffy the air is when people are present, and NDIR is the proper method, not a guess. The tradeoff is that Aranet4 does not measure fine dust or VOCs, so it will not tell you about cooking smoke or off gassing. Compared with the multi gas 10 in 1 units, it measures less but trustworthy things. It sits in the upper part of the price order.\n\nPlace it at breathing height, away from windows and your breath. Let it settle for a few minutes after moving. It suits a living room or home office where ventilation is the question. Check the reading after a dinner party or a long movie night, when CO2 often climbs, to learn how fast your room stuffs up.",
+   "bestFor": "Living rooms and offices where CO2 and ventilation are the main concern.",
+   "pros": [
+    "NDIR is the proper method for measuring CO2",
+    "E ink screen and batteries last years, per the listing",
+    "Color coding makes the reading easy from across the room",
+    "Also shows temperature, humidity and air pressure"
+   ],
+   "cons": [
+    "Does not measure fine dust or VOCs",
+    "Upper part of the price order for a single gas focus"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B07YY7BH2W?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CDsAQDMuL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BZV1XG6Y",
+   "badge": "Best Value",
+   "name": "GoveeLife Smart Air Quality Monitor, PM2.5, Wired, LED Display",
+   "specs": [
+    "PM2.5",
+    "Temp and humidity",
+    "Wired",
+    "Clock display"
+   ],
+   "specList": [
+    {
+     "label": "Measures",
+     "value": "PM2.5, temperature, humidity"
+    },
+    {
+     "label": "PM2.5 accuracy",
+     "value": "Plus or minus 15 micrograms per cubic meter"
+    },
+    {
+     "label": "Display",
+     "value": "LED, switchable clock and PM2.5"
+    },
+    {
+     "label": "Power",
+     "value": "Wired"
+    },
+    {
+     "label": "App",
+     "value": "Smart connected"
+    }
+   ],
+   "description": "GoveeLife measures PM2.5, temperature and humidity and shows them on a switchable LED display that can also act as a clock. The listing gives the PM2.5 accuracy as plus or minus 15 micrograms per cubic meter, which is an honest, specific number that many cheaper listings avoid. It is a smart, wired unit that connects to an app.\n\nFine dust is the pollutant most people notice, because cooking, candles and traffic raise it, and PM2.5 is the standard indicator. The tradeoff is that this unit does not measure CO2 or VOCs, and a wired unit needs an outlet. Compared with the Aranet4, the GoveeLife covers dust rather than ventilation. It sits in the lower middle of the price order.\n\nPlace it away from the kitchen steam and a vent. Dust the sensor opening occasionally. It suits a shelf or a nightstand where PM2.5 and a clock are both useful. Compare readings before and after cooking to see how much a range hood really helps.",
+   "bestFor": "People who mainly want to track fine dust and humidity.",
+   "pros": [
+    "Lists a specific PM2.5 accuracy figure of plus or minus 15",
+    "Switchable display doubles as a clock",
+    "Smart app connection for trends",
+    "Lower middle in the price order"
+   ],
+   "cons": [
+    "Does not measure CO2 or VOCs",
+    "Wired power means it needs an outlet nearby"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0BZV1XG6Y?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xzPQ9da8L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B097YW5Q72",
+   "badge": "Best With Radon",
+   "name": "Airthings 2960 View Plus Radon and Air Quality Monitor",
+   "specs": [
+    "Radon",
+    "PM2.5, CO2, VOC",
+    "Battery",
+    "WiFi"
+   ],
+   "specList": [
+    {
+     "label": "Measures",
+     "value": "Radon, PM2.5, CO2, VOC, humidity, temperature, pressure"
+    },
+    {
+     "label": "Power",
+     "value": "Battery powered"
+    },
+    {
+     "label": "Connectivity",
+     "value": "WiFi"
+    },
+    {
+     "label": "Radon",
+     "value": "Digital radon detector"
+    },
+    {
+     "label": "Price order",
+     "value": "Highest in the lineup"
+    }
+   ],
+   "description": "Airthings combines radon, PM2.5, CO2, VOC, humidity, temperature and air pressure in one battery powered WiFi monitor. The listing says radon is the number one cause of lung cancer among non smokers, which is why a radon reading is valuable in a basement or on a ground floor. It is the most complete monitor here and the highest in the price order.\n\nRadon builds up slowly, so a short reading is not enough, and the device averages over days or weeks. A multi sensor box also asks for more calibration care than a single gas one. Compared with the Aranet4, the Airthings measures far more but costs far more. It is a good fit for a home with a basement or ground level living room.\n\nPlace it low on the main floor for radon and away from windows. Let it run for at least a week before judging the radon figure. It suits a home where radon is a concern. The radon average is what matters, so leave it in place and check the long term trend in the app.",
+   "bestFor": "Homes with a basement or ground floor where radon matters.",
+   "pros": [
+    "Measures radon along with PM2.5, CO2 and VOCs",
+    "Battery powered, so it can sit anywhere",
+    "WiFi connection gives trends in an app",
+    "Brand with a long history in radon monitoring"
+   ],
+   "cons": [
+    "Highest in the price order of this lineup",
+    "Radon needs days of averaging before a figure means much"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B097YW5Q72?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31JRgqbFodL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H6MZRH5H",
+   "badge": "Best Sensor Transparency",
+   "name": "AirGradient ONE Indoor Monitor, PM2.5, CO2, TVOC, NOx",
+   "specs": [
+    "PM2.5",
+    "NDIR CO2",
+    "TVOC, NOx",
+    "Named sensors"
+   ],
+   "specList": [
+    {
+     "label": "Measures",
+     "value": "PM2.5, CO2, TVOC, NOx, temperature, humidity"
+    },
+    {
+     "label": "CO2 sensor",
+     "value": "SenseAir NDIR"
+    },
+    {
+     "label": "PM sensor",
+     "value": "Plantower PMS5003 laser"
+    },
+    {
+     "label": "VOC sensor",
+     "value": "Sensirion SGP41"
+    },
+    {
+     "label": "Recognition",
+     "value": "2025 AIRLAB Microsensors accuracy for PM2.5, per listing"
+    }
+   ],
+   "description": "AirGradient names its sensor modules: a SenseAir NDIR CO2 sensor, a Plantower PMS5003 laser particle sensor and a Sensirion SGP41 for VOCs and NOx. The listing says it was recognized for best accuracy for indoor PM2.5 in the 2025 AIRLAB Microsensors evaluation, which is an independent claim we could not verify. Naming parts is rare and makes the device more transparent.\n\nVOC and NOx sensors report an index, not a concentration, so the numbers are relative trends. The device is made by a small company and its pricing is in the upper range. Compared with the 10 in 1 units, the AirGradient measures fewer things but names the hardware behind each. It suits readers who care about how the numbers are produced.\n\nPlace it at breathing height and away from vents. Check for firmware updates. It suits a tech minded household that wants named sensors and open data. Because the sensors are named, you can look up each datasheet and judge the limits yourself.",
+   "bestFor": "Tech minded buyers who want named sensors and open data.",
+   "pros": [
+    "Names its sensors, which is rare in this category",
+    "NDIR CO2 and laser PM2.5 cover the key indicators",
+    "VOC and NOx index add cooking and cleaning insight",
+    "Cites an independent PM2.5 accuracy evaluation"
+   ],
+   "cons": [
+    "VOC and NOx are index values, not concentrations",
+    "The accuracy recognition could not be verified"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H6MZRH5H?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31fpPyU6nDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08DNJ8L55",
+   "badge": "Best Data Export",
+   "name": "Temtop 7 in 1 Air Quality Monitor, PM2.5, HCHO, VOC, USB Export",
+   "specs": [
+    "PM2.5, PM10",
+    "HCHO, VOC",
+    "USB export",
+    "3 months data"
+   ],
+   "specList": [
+    {
+     "label": "Measures",
+     "value": "PM2.5, PM10, HCHO, VOCs, humidity, temperature, AQI"
+    },
+    {
+     "label": "Sensor",
+     "value": "Upgraded dart sensor"
+    },
+    {
+     "label": "Data",
+     "value": "3 months, export by USB to Excel"
+    },
+    {
+     "label": "Use",
+     "value": "Trend detection of PM2.5 and HCHO"
+    },
+    {
+     "label": "Display",
+     "value": "Color screen"
+    }
+   ],
+   "description": "Temtop packs seven readings into one unit: PM2.5, PM10, formaldehyde, VOCs, humidity, temperature and an AQI. The listing says it logs all seven continuously for three months and exports the data by USB to Excel, which is useful for spotting patterns across days. It focuses on trends, not just a single spot reading.\n\nFormaldehyde sensors in this price class are not precise, so treat the HCHO number as a rough indicator and not a pass or fail. The upgraded sensor is a plus for PM readings. Compared with the AirGradient, the Temtop offers data export but gives no named sensor modules. It sits in the lower middle of the price order.\n\nPlace it at breathing height away from sources. Export the data monthly to see patterns. It suits a household that wants to compare days and activities. Export a week of data and line it up with your activities to see when readings rise.",
+   "bestFor": "Households that want to spot patterns with exportable data.",
+   "pros": [
+    "Logs seven readings for three months with USB export",
+    "Tracks PM2.5, PM10, HCHO and VOCs together",
+    "Designed to show trends, not only spot readings",
+    "Lower middle in the price order"
+   ],
+   "cons": [
+    "Formaldehyde readings at this price are rough indicators",
+    "No named sensor hardware in the listing"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B08DNJ8L55?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31A08dfjnBL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08W8KS8D3",
+   "badge": "Best Smart Home",
+   "name": "Amazon Smart Air Quality Monitor, PM2.5, VOC, CO, Temp, Humidity",
+   "specs": [
+    "5 factors",
+    "LED color",
+    "Alexa",
+    "CO sensing"
+   ],
+   "specList": [
+    {
+     "label": "Measures",
+     "value": "PM2.5, VOCs, carbon monoxide, temperature, humidity"
+    },
+    {
+     "label": "Indicator",
+     "value": "Color coded LED"
+    },
+    {
+     "label": "App",
+     "value": "Air quality score and notifications"
+    },
+    {
+     "label": "Smart home",
+     "value": "Works with Alexa"
+    },
+    {
+     "label": "Price order",
+     "value": "Middle"
+    }
+   ],
+   "description": "Amazon's monitor tracks five factors, PM2.5, VOCs, carbon monoxide, temperature and humidity, and shows a color coded LED for a quick read plus an air quality score in an app. It sends notifications when conditions change. The smart home connection suits routines that trigger a purifier or a fan.\n\nThe carbon monoxide sensor is not a replacement for a certified CO alarm, and you should keep a proper alarm in the home. The device does not measure CO2, so it cannot tell you when a room is stuffy. Compared with the Aranet4, the Amazon monitor covers more kinds of pollutant but misses CO2. It sits in the middle of the price order.\n\nPlace it in the room you spend most time in, away from the kitchen. Keep working smoke and CO alarms in the home regardless. It suits a smart home that already uses Alexa. Pair it with a purifier on a routine so the fan runs when PM2.5 rises.",
+   "bestFor": "Alexa homes that want a simple color coded air score.",
+   "pros": [
+    "Tracks five factors with a color coded LED",
+    "App score and notifications explain what is happening",
+    "Works with Alexa routines to trigger other devices",
+    "Middle of the price order for a branded device"
+   ],
+   "cons": [
+    "Does not measure CO2, so stuffy air goes unseen",
+    "Its CO sensing is not a substitute for a certified alarm"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B08W8KS8D3?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31qfZxwlglL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "What it actually measures",
+   "explanation": "CO2, PM2.5 and VOCs are the three useful indicators for a living room. The Aranet4 covers CO2, the GoveeLife covers PM2.5 and the Airthings and AirGradient cover several. A 10 in 1 or 16 in 1 label often counts temperature and humidity several ways, so read the real list. A device that lists only a count and no sensor names deserves extra doubt."
+  },
+  {
+   "criterion": "CO2 sensor method",
+   "explanation": "NDIR sensors measure CO2 directly and are the proper method. Cheaper units estimate CO2 from VOC readings, called eCO2, which is a guess. Outdoor air is about 420 ppm, and indoor levels above about 1000 ppm often mean a stuffy room. If a unit does not say NDIR, assume it estimates CO2."
+  },
+  {
+   "criterion": "Particle sensor and accuracy",
+   "explanation": "PM2.5 sensors are laser based and are good at showing trends. The GoveeLife states a plus or minus 15 micrograms per cubic meter figure. Treat the number as indicative, not a lab result. Cooking with gas or candles raises PM2.5 quickly, so use those events as a test."
+  },
+  {
+   "criterion": "VOC and formaldehyde readings",
+   "explanation": "VOC and NOx are index values that show change, not exact concentrations. Formaldehyde sensors in cheap units are rough. Use them to spot a spike after cleaning or new furniture, not to pass or fail a room. Index values rise after cleaning sprays and fall as the room airs out."
+  },
+  {
+   "criterion": "Power and display",
+   "explanation": "Battery units like the Aranet4 and Airthings can sit anywhere, while wired units like the GoveeLife need an outlet. E ink screens use little power. Large color screens are easy to read but drain batteries. A battery monitor can be moved to the bedroom overnight to compare rooms."
+  },
+  {
+   "criterion": "Data and honest limits",
+   "explanation": "Apps, notifications and USB export like on the Temtop help spot patterns. No consumer monitor is a certified safety device, so keep smoke and carbon monoxide alarms. Radon needs days of averaging, so do not judge it from a single hour."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "NDIR CO2",
+   "meaning": "Non dispersive infrared sensing measures CO2 by how it absorbs light. It is the accurate method for consumer CO2 monitors.",
+   "watchFor": "The Aranet4 and AirGradient list NDIR CO2 sensors. Look for a plain list of sensors rather than a number."
+  },
+  {
+   "spec": "PM2.5",
+   "meaning": "Fine particles smaller than 2.5 micrometers, such as smoke and dust. A laser sensor counts them and the unit estimates a concentration.",
+   "watchFor": "The GoveeLife lists plus or minus 15 micrograms per cubic meter. Check the sensor name for NDIR in the listing."
+  },
+  {
+   "spec": "TVOC and VOC index",
+   "meaning": "A relative measure of volatile organic compounds from cleaners, paint and cooking. It shows change over time, not a safety level.",
+   "watchFor": "The AirGradient lists a Sensirion SGP41 for VOC and NOx."
+  },
+  {
+   "spec": "Radon",
+   "meaning": "A radioactive gas that seeps from soil. It needs days of averaging and is measured in picocuries per liter.",
+   "watchFor": "The Airthings lists a digital radon detector. Use a long average and not a single reading."
+  },
+  {
+   "spec": "N in 1",
+   "meaning": "A marketing count of readings. Temperature and humidity may be counted several times, so check the real sensors.",
+   "watchFor": "Several 10 in 1 and 16 in 1 units list vague sensors. Multiply claims by skepticism."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Sensors and method",
+   "description": "We compared what each unit measures and how. NDIR CO2 and named modules scored best. These are editorial assessments based on the spec sheet."
+  },
+  {
+   "title": "Accuracy claims",
+   "description": "We read the accuracy figures and treated them as claims. A stated tolerance scored higher than a vague promise. We could not verify any figure."
+  },
+  {
+   "title": "Power and display",
+   "description": "We compared battery life, screens and wiring. E ink and long battery life scored for convenience. We noted units that need an outlet."
+  },
+  {
+   "title": "Data and apps",
+   "description": "We looked at apps, notifications and exports. The Temtop export and the Airthings app stood out. We noted limits of smart home links."
+  },
+  {
+   "title": "Ownership patterns",
+   "description": "We looked at owner feedback patterns about drift, false alerts and odd readings from cheap sensors. These shaped the cons. We make no medical claims."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Concern",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Stuffy room, ventilation",
+      "Aranet4",
+      "NDIR CO2"
+     ],
+     [
+      "Dust and cooking smoke",
+      "GoveeLife",
+      "PM2.5 with stated accuracy"
+     ],
+     [
+      "Basement or ground floor",
+      "Airthings",
+      "Radon and more"
+     ],
+     [
+      "Named sensors, open data",
+      "AirGradient",
+      "Transparent hardware"
+     ],
+     [
+      "Pattern spotting",
+      "Temtop",
+      "3 month USB export"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower",
+      "GoveeLife",
+      "PM2.5 and a clock"
+     ],
+     [
+      "Lower mid",
+      "Temtop",
+      "Seven readings with export"
+     ],
+     [
+      "Middle",
+      "Amazon",
+      "Five factors and Alexa"
+     ],
+     [
+      "Upper",
+      "Aranet4",
+      "NDIR CO2 and battery"
+     ],
+     [
+      "Highest",
+      "Airthings or AirGradient",
+      "Radon or named sensors"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Single Gas vs Multi Gas",
+   "cards": [
+    {
+     "label": "Single focus",
+     "text": "The Aranet4 and GoveeLife measure a few things well. They are simpler to trust and read."
+    },
+    {
+     "label": "Multi gas",
+     "text": "The Airthings, AirGradient, Temtop and Amazon measure many things. Some readings are rough."
+    }
+   ],
+   "note": "Choose single focus for clarity and multi gas for a fuller picture."
+  },
+  {
+   "subheading": "Power and Placement",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Move it room to room",
+      "Aranet4",
+      "Battery and e ink"
+     ],
+     [
+      "Fixed shelf with outlet",
+      "GoveeLife",
+      "Wired with clock"
+     ],
+     [
+      "Basement check",
+      "Airthings",
+      "Battery with radon"
+     ],
+     [
+      "Smart home routines",
+      "Amazon",
+      "Alexa link"
+     ],
+     [
+      "Desk logging",
+      "Temtop",
+      "Logs to USB"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Living Room Air Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "CO2 to see ventilation, PM2.5 to see cooking and candle dust, and humidity. Place it at breathing height away from vents."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Aranet4 and GoveeLife are the two core picks. The AirGradient covers both with named sensors."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want radon, named sensors or years of battery life, as with the Airthings, AirGradient or Aranet4."
+    },
+    {
+     "label": "Save if",
+     "text": "You just want to watch dust and humidity, and the GoveeLife will do the job."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dust the sensor openings",
+   "interval": "Every 3 months",
+   "why": "Dust can clog particle sensors and skew readings. Use a soft brush."
+  },
+  {
+   "task": "Calibrate or refresh CO2",
+   "interval": "Per the maker, often yearly",
+   "why": "CO2 sensors drift. Many have an automatic baseline or a manual step. Follow the maker's steps."
+  },
+  {
+   "task": "Replace batteries",
+   "interval": "As the maker advises",
+   "why": "Low batteries cause odd readings. Keep spares."
+  },
+  {
+   "task": "Check placement",
+   "interval": "After moving furniture",
+   "why": "A vent or window changes readings. Keep sensors at breathing height."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "Every few months",
+   "why": "Updates can improve readings and connections. Use the app."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do air quality monitors clean the air?",
+   "a": "No, they only measure. Use the readings to decide when to ventilate or run a purifier."
+  },
+  {
+   "q": "Is a 10 in 1 monitor better?",
+   "a": "Not necessarily. Several readings are repeats or rough estimates. Check the real sensors. A smaller list of good sensors is better than a long list of vague ones."
+  },
+  {
+   "q": "What CO2 level is too high?",
+   "a": "Outdoor air is about 420 ppm. Indoor levels above about 1000 ppm often mean a stuffy room."
+  },
+  {
+   "q": "Can a monitor replace a CO alarm?",
+   "a": "No. Keep certified smoke and carbon monoxide alarms. A monitor is an extra."
+  },
+  {
+   "q": "Are the readings accurate?",
+   "a": "They are indicative. PM2.5 and CO2 with NDIR are the most reliable. VOC and formaldehyde are rough. Treat any single reading with caution and watch the trend."
+  },
+  {
+   "q": "Where should I place it?",
+   "a": "At breathing height, away from windows, vents and the kitchen. Let it settle after moving. Avoid putting it near a window or a vent."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41CDsAQDMuL._SL500_.jpg"
+}

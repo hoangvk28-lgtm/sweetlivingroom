@@ -18,3 +18,10 @@
 - Mid-size 50-pint units recommended for living rooms; Energy Star, digital humidistat and drain options; buy more capacity than you need.
 - Noise matters in living spaces; check rated square footage against the room.
 - We add compressor vs thermoelectric (small cube) capacity honesty, pint rating test condition, drain hose and low-temperature limits.
+
+## best-air-quality-monitors
+- Roundups rank Airthings View Plus first (radon, CO2, VOC, PM) with the Wave Mini as a budget pick; Temtop and Awair also recur.
+- Guides note monitors differ in what they measure; extra credit for formaldehyde, NO2, ozone or radon.
+- Accuracy over time is questioned by some sources; treat secondhand claims with care.
+- Picks split by allergies, comprehensive and portable options.
+- Gap we cover: NDIR vs estimated CO2, index values for VOC, and not replacing CO alarms.

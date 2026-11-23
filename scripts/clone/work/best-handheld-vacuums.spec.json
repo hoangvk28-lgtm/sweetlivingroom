@@ -1,0 +1,628 @@
+{
+ "guideSlug": "best-handheld-vacuums",
+ "categorySlug": "rugs-flooring",
+ "mainKeyword": "handheld vacuum",
+ "guideTitle": "Best Handheld Vacuums (2026)",
+ "metaTitle": "Best Handheld Vacuums (2026): 7 Cordless Picks",
+ "metaDescription": "Seven cordless handheld vacuums compared on weight, runtime, motorized tools, dust cup size and charging, with honest notes on suction claims.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "expertTake": "The Shark WANDVAC is the best overall pick because its 1.4 lb body, charging dock and pet-hair tool make it the easiest to reach for daily. The BLACK+DECKER HNV220 with wall mount is the value pick for a simple, bagless dustbuster. Skip a handheld as your only vacuum, because small cups and short runtimes suit crumbs, stairs and cushions, not a whole carpeted floor.",
+ "introParagraphs": [
+  "A handheld vacuum is the tool you actually use between real vacuuming: crumbs on a sofa, hair on a stair, sand in a car. It has to be light, ready to go and easy to empty, because a tool that is a chore to get out will sit in a drawer.",
+  "Marketing numbers are loud and inconsistent, with suction quoted in Pa, kPa and air watts, none of which share a standard. The practical comparison is weight, runtime, cup size, the tools in the box and whether it lives on a charging dock where you can grab it."
+ ],
+ "products": [
+  {
+   "id": "B0CBSV2TNM",
+   "badge": "Best Overall",
+   "name": "Shark WANDVAC Cordless Hand Vac WV201BK, 1.4 lb",
+   "specs": [
+    "1.4 lb",
+    "Brushless motor",
+    "Charging dock",
+    "Pet tool"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "1.4 lb"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Charging",
+     "value": "Dock included"
+    },
+    {
+     "label": "Tools",
+     "value": "Multi-surface pet tool and crevice tool"
+    },
+    {
+     "label": "Emptying",
+     "value": "Single-touch"
+    }
+   ],
+   "description": "The WANDVAC weighs 1.4 lb and uses a brushless motor, which the maker says gives strong cordless suction. It comes with a charging dock and tools for pet hair and tight spaces, including a multi-surface pet tool for upholstery and carpet.\n\nWeight matters because a handheld is held in one hand for the whole job, and 1.4 lb is light enough to use on a stair for several minutes. A dock keeps it charged and visible, which makes it the vacuum people reach for. Compared with the Shark Cyclone PET, it is lighter and has a dock. A brushless motor tends to run quieter and last longer than a brushed one.\n\nEmpty the cup after each use, rinse the filter monthly and let it dry fully. Keep the dock on a counter near where messes happen. Park the dock near the couch or the kitchen so you grab it within seconds of a spill. After heavy pet hair, tap the cup over a bag rather than a bin, because fine hair floats back out.",
+   "bestFor": "Daily pickups on sofas, stairs and crumbs around the house.",
+   "pros": [
+    "1.4 lb weight is easy to hold for a full stair",
+    "Charging dock keeps it ready and visible",
+    "Pet tool handles upholstery and carpet hair",
+    "Single-touch emptying keeps cleanup quick"
+   ],
+   "cons": [
+    "Small cup fills quickly on a shedding dog",
+    "Runtime is short compared with a stick vacuum"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CBSV2TNM?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4142CuVP3EL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F3QCWLLG",
+   "badge": "Best for Pets",
+   "name": "Shark Cyclone PET Handheld Vacuum AA701, 1.6 lb",
+   "specs": [
+    "1.6 lb",
+    "Cyclone",
+    "Pet tool",
+    "XL dust cup"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "1.6 lb"
+    },
+    {
+     "label": "Design",
+     "value": "HyperVelocity cyclone"
+    },
+    {
+     "label": "Tools",
+     "value": "Crevice, upholstery and scrubbing tool"
+    },
+    {
+     "label": "Dust cup",
+     "value": "XL"
+    },
+    {
+     "label": "Use",
+     "value": "Pet homes"
+    }
+   ],
+   "description": "Shark's Cyclone PET weighs 1.6 lb and has an XL dust cup, a cyclone design the maker calls HyperVelocity suction, and tools for tight spaces and upholstery, including a scrubbing tool for stuck-on hair.\n\nA larger cup is the practical advantage for pet hair, which fills a small cup fast. At 1.6 lb it is a touch heavier than the WANDVAC, but the capacity pays off on a large sofa. Compared with the Bissell Pet Hair Eraser, it relies on suction and a scrubbing tool rather than a motorized brush. The scrubbing tool is the feature to look for on a pet sofa.\n\nEmpty it often, wipe the cup and rinse the filter monthly. Use the scrubbing tool in short strokes against the lie of the fabric, then follow with the upholstery tool to pick up the loosened hair. Keep the filter dry before reinstalling to avoid musty smells.",
+   "bestFor": "Pet households that need a bigger cup for hair-heavy cleanups.",
+   "pros": [
+    "XL dust cup holds more hair before emptying",
+    "Scrubbing tool loosens stuck-on pet hair",
+    "Crevice and upholstery tools cover tight spots",
+    "1.6 lb weight is still easy to carry"
+   ],
+   "cons": [
+    "Slightly heavier than the lightest options",
+    "Suction-only tools are less aggressive than a motorized brush"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3QCWLLG?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41pBzKrKu0L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07CB6RBSP",
+   "badge": "Best Motorized Brush",
+   "name": "Bissell Pet Hair Eraser Cordless Hand Vacuum 2390A",
+   "specs": [
+    "14V Li-ion",
+    "Motorized brush",
+    "Pet hair",
+    "Cordless"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "14V lithium-ion"
+    },
+    {
+     "label": "Brush tool",
+     "value": "Motorized, pet-specific"
+    },
+    {
+     "label": "Use",
+     "value": "Pet hair on furniture and stairs"
+    },
+    {
+     "label": "Cordless",
+     "value": "Yes"
+    },
+    {
+     "label": "Surfaces",
+     "value": "Home, auto and pet areas"
+    }
+   ],
+   "description": "The Pet Hair Eraser has a 14V lithium-ion battery and a motorized brush tool designed for embedded pet hair, for use on furniture, stairs and in the car.\n\nA motorized brush agitates the fibers so hair comes loose, which suction alone often fails to do on woven fabric. The tradeoff is a heavier body and a louder motor. It is the strongest tool here for pet hair that has settled into upholstery. Compared with the Shark Cyclone PET, it is more aggressive on fabric. Expect a louder motor than the suction-only models.\n\nUntangle hair from the brush after each use and empty the cup, since a wrapped brush loses effect. Vacuum slowly across a cushion so the brush has time to work, and finish with the crevice tool along seams. If the brush slows, stop and cut away wrapped hair rather than pushing through.",
+   "bestFor": "Embedded pet hair on sofas, stairs and car seats.",
+   "pros": [
+    "Motorized brush loosens embedded pet hair",
+    "14V lithium-ion battery gives steady power",
+    "Works on furniture, stairs and car interiors",
+    "Pet-specific tool is built for hair, not just dust"
+   ],
+   "cons": [
+    "Heavier and louder than light suction-only models",
+    "Brush needs untangling after each use"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07CB6RBSP?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41nGO4XLkqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01DAWQU12",
+   "badge": "Best Value",
+   "name": "BLACK+DECKER Dustbuster Handheld HNV220BCZ10FF with Wall Mount",
+   "specs": [
+    "12.5 oz bowl",
+    "Bagless",
+    "Wall mount",
+    "Crevice tool"
+   ],
+   "specList": [
+    {
+     "label": "Dirt bowl",
+     "value": "12.5 oz, translucent, bagless"
+    },
+    {
+     "label": "Battery",
+     "value": "2Ah lithium-ion"
+    },
+    {
+     "label": "Tool",
+     "value": "Built-in crevice tool"
+    },
+    {
+     "label": "Charging",
+     "value": "Wall mount base"
+    },
+    {
+     "label": "Design",
+     "value": "Lightweight, portable"
+    }
+   ],
+   "description": "This BLACK+DECKER Dustbuster has a 12.5 oz translucent bagless dirt bowl, a built-in crevice tool, a 2Ah lithium-ion battery and a wall mount base with a charger.\n\nThe translucent bowl lets you see when it is full, and the built-in crevice tool means you do not need to hunt for attachments. It sits at a lower price tier than the Shark models and is a good first handheld. Compared with the WANDVAC, it is heavier and has fewer specialized tools. A bagless bowl avoids buying replacement bags.\n\nMount the base near a plug, empty the bowl after each use and rinse the filter when it clogs. Because the bowl is translucent, you can spot a full bowl early and avoid clogging the filter. Stick the mount to a stud or use the supplied anchors, since a falling vacuum can crack the housing.",
+   "bestFor": "Households that want a simple, low-cost handheld with a mount.",
+   "pros": [
+    "12.5 oz bowl shows when it is full",
+    "Built-in crevice tool needs no separate attachment",
+    "Wall mount keeps it charged and in reach",
+    "Lower price tier among the seven vacuums"
+   ],
+   "cons": [
+    "No specialized pet or upholstery tool",
+    "Smaller battery limits runtime on long jobs"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B01DAWQU12?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31UZe0gWdlL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DLXGDHBX",
+   "badge": "Best Premium",
+   "name": "Dyson Car and Boat Handheld Vacuum with Mini Motorized Tool",
+   "specs": [
+    "115 AW",
+    "50 min runtime",
+    "2 power modes",
+    "Motorized tool"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "115 air watts, maker rating"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 50 minutes, maker rating"
+    },
+    {
+     "label": "Modes",
+     "value": "2 power modes"
+    },
+    {
+     "label": "Tool",
+     "value": "Mini motorized tool"
+    },
+    {
+     "label": "Use",
+     "value": "Hard surfaces and upholstery"
+    }
+   ],
+   "description": "Dyson's Car and Boat handheld is rated by the maker at 115 air watts with up to 50 minutes of fade-free runtime and two power modes. It includes a mini motorized tool for deep-cleaning fabric.\n\nThe stated air-watt figure is a more meaningful power measure than Pa, though it is still a maker rating. A 50-minute runtime is long for a handheld, which makes it the choice for a car, a boat or a big sofa. It is also at the highest price tier. Compared with the Bissell, the motorized tool is smaller and the run time is much longer. It is the one to choose if you also vacuum a car or a boat regularly.\n\nWash the filter on the maker's schedule and clear the brush bar of hair. Use the low mode for upholstery and the high mode for gritty car mats, and switch back to save battery. Rinse the filter on the maker's schedule and dry it fully before use.",
+   "bestFor": "Cars, boats and big sofas where runtime and fabric tools matter.",
+   "pros": [
+    "Rated at 115 air watts with a published number",
+    "Up to 50 minutes of runtime on a charge",
+    "Two power modes balance suction and runtime",
+    "Mini motorized tool deep-cleans fabric"
+   ],
+   "cons": [
+    "Highest price tier among the seven vacuums",
+    "Heavier than the lightest Shark models"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DLXGDHBX?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31s1Jy9BeaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DSJ4MXYY",
+   "badge": "Best Budget Car Vac",
+   "name": "CKIKH 15000PA Cordless Handheld Vacuum with Long Nozzle",
+   "specs": [
+    "15000 Pa",
+    "7800 mAh",
+    "30 min",
+    "3 nozzles"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "15000 Pa, maker rating"
+    },
+    {
+     "label": "Battery",
+     "value": "7800 mAh"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 30 minutes"
+    },
+    {
+     "label": "Tools",
+     "value": "Long nozzle, brush nozzle, extended hose"
+    },
+    {
+     "label": "Design",
+     "value": "Cyclonic"
+    }
+   ],
+   "description": "CKIKH's handheld lists 15000 Pa suction with cyclonic technology, a 7800 mAh battery that runs up to 30 minutes, and a long suction nozzle, a brush nozzle and an extended hose.\n\nPa figures from unfamiliar brands have no shared standard, so treat 15000 Pa as a marketing number. The extended hose and nozzles suit a car, where reach matters more than raw power. It sits at a low price tier, which makes it an inexpensive car vacuum. Compared with the Dyson, it gives a stated runtime and a hose but no premium motor. A low price tier makes it a reasonable car glovebox vacuum.\n\nEmpty the cup after each use and wash the filter when suction fades. Use the extended hose for under-seat areas and the brush nozzle for fabric, and empty the cup after every car session. Fast charging is convenient, but do not leave it plugged in for days.",
+   "bestFor": "Car interiors and tight spots on a small budget.",
+   "pros": [
+    "Extended hose and long nozzle reach car seats and gaps",
+    "7800 mAh battery gives up to 30 minutes of runtime",
+    "Brush nozzle helps lift crumbs from fabric",
+    "Low price tier suits a car vacuum"
+   ],
+   "cons": [
+    "Pa rating is a marketing number with no standard",
+    "Build and filter quality are less proven"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DSJ4MXYY?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51dzdfGhgwL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HMVVMG6Q",
+   "badge": "Best Dock Design",
+   "name": "Filigo 3-in-1 Cordless Handheld Vacuum with Charging Dock",
+   "specs": [
+    "3 in 1",
+    "Charging dock",
+    "2 speeds",
+    "Lightweight"
+   ],
+   "specList": [
+    {
+     "label": "Design",
+     "value": "3-in-1, one-hand"
+    },
+    {
+     "label": "Charging",
+     "value": "Dock for storage"
+    },
+    {
+     "label": "Speeds",
+     "value": "2"
+    },
+    {
+     "label": "Dust cup",
+     "value": "Detachable"
+    },
+    {
+     "label": "Use",
+     "value": "Sofas, gaps, upholstery, car"
+    }
+   ],
+   "description": "Filigo's handheld is a lightweight 3-in-1 design with two speeds, a charging dock and a detachable dust cup. It is meant for gaps, sofas, upholstery and car interiors with one-handed use.\n\nA dock is useful because a vacuum stored where you can see it gets used. Two speeds let you save battery on light jobs. Compared with the WANDVAC, it is a less proven brand at a similar concept. It is a good desk or workshop vacuum.\n\nEmpty the cup after each use and keep the filter dry. Use the low speed for sofas and the high for stairs, and keep the dock out of damp areas. Test it on a small mess first so you know how long a charge really lasts.",
+   "bestFor": "Desks, sofas and cars where a dock-mounted vacuum stays in reach.",
+   "pros": [
+    "Charging dock keeps it ready and neat",
+    "Two speeds balance power and battery life",
+    "Detachable dust cup empties quickly",
+    "3-in-1 design covers gaps, sofas and cars"
+   ],
+   "cons": [
+    "Brand is less proven than the major makers",
+    "Runtime and cup size are not clearly stated"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B0HMVVMG6Q?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419gRrvZlrL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Weight and handling",
+   "explanation": "A handheld is held in one hand for the whole job. The WANDVAC weighs 1.4 lb and the Cyclone PET 1.6 lb, which is light enough for a flight of stairs. Heavier units with motorized brushes tire the wrist. Hold each one at arm's length for a minute in a shop if you can."
+  },
+  {
+   "criterion": "Runtime and battery",
+   "explanation": "The Dyson is rated for up to 50 minutes and the CKIKH for 30 minutes, while most small units run about 10 to 20. Runtime drops in max power mode. If you vacuum stairs, choose longer. Runtime also falls as the battery ages, so plan on a battery replacement after a few years."
+  },
+  {
+   "criterion": "Suction numbers",
+   "explanation": "Pa, kPa and air watts have no shared standard. Dyson quotes 115 air watts and CKIKH 15000 Pa, which are different units. Compare air watts within a brand and ignore peak Pa claims from unknown brands. The only fair test is how well it picks up a standard mess in your own home."
+  },
+  {
+   "criterion": "Tools and brush",
+   "explanation": "A motorized brush like the Bissell's lifts embedded pet hair, while a suction-only crevice tool does not. Stairs and car seats need a crevice and a brush tool. The Shark Cyclone PET adds a scrubbing tool. Check whether the brush head is washable."
+  },
+  {
+   "criterion": "Dust cup size and emptying",
+   "explanation": "The BLACK+DECKER cup holds 12.5 oz, and the Cyclone PET has an XL cup. Pet hair fills a small cup fast. Check how easily it empties, since that decides how often you use it. A dust cup that is hard to open is a daily annoyance."
+  },
+  {
+   "criterion": "Charging and storage",
+   "explanation": "A dock or wall mount, as on the WANDVAC and BLACK+DECKER, keeps the vacuum ready. A drawer vacuum is a forgotten vacuum. Place the dock near where crumbs happen. Wall mounts need a nearby outlet, so check before drilling."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Air watts (AW)",
+   "meaning": "A suction power measure that combines airflow and vacuum. It is a better guide than Pa but is still a maker figure.",
+   "watchFor": "The Dyson lists 115 AW, while most others do not. Treat it as a rough guide even for a major brand."
+  },
+  {
+   "spec": "Pa",
+   "meaning": "Pascals, a pressure measure with no shared standard for handhelds.",
+   "watchFor": "The CKIKH lists 15000 Pa, which cannot be compared with air watts. Ignore peak figures from unknown brands."
+  },
+  {
+   "spec": "Runtime",
+   "meaning": "Minutes of use on one charge, usually at the lowest mode.",
+   "watchFor": "Dyson states up to 50 minutes and CKIKH up to 30, but max mode is much shorter. Ask for the runtime at max power, not just the low mode."
+  },
+  {
+   "spec": "Motorized brush",
+   "meaning": "A brush head driven by the vacuum motor that agitates fibers to lift hair.",
+   "watchFor": "The Bissell and Dyson include one, while most others use suction only. A suction-only tool may leave hair in woven fabric."
+  },
+  {
+   "spec": "Dust cup capacity",
+   "meaning": "The volume the cup holds before emptying.",
+   "watchFor": "The BLACK+DECKER lists 12.5 oz, while others do not state it. A larger cup also makes the vacuum heavier."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Weight and handling",
+   "description": "We evaluated the stated weights, including the WANDVAC's 1.4 lb and the Cyclone PET's 1.6 lb. We favored light tools for stairs. We noted heavier motorized tools. We did not assume any weight that a listing did not state."
+  },
+  {
+   "title": "Runtime and power",
+   "description": "We compared stated runtimes and suction ratings, including the Dyson's 50 minutes and 115 AW and the CKIKH's 30 minutes. We treated Pa claims as rough. We noted that max mode shortens runtime."
+  },
+  {
+   "title": "Tools and pet hair",
+   "description": "We looked at included tools and brush types against owner feedback patterns on pet hair. The Bissell's motorized brush and the Shark's scrubbing tool stood out. Suction-only tools scored lower on embedded hair. Where a listing gave no tool list, we said so."
+  },
+  {
+   "title": "Cup size and charging",
+   "description": "We read cup sizes and charging methods. Docks and mounts scored higher. Tools with unclear cup sizes scored lower."
+  },
+  {
+   "title": "Value and ownership",
+   "description": "We used each product's relative price tier only to order the field. Filter care and brush cleaning were weighed alongside. All scores are editorial assessments, not measurements. Where a listing was silent on a detail, we said so rather than guessing."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Daily crumbs and stairs",
+      "Shark WANDVAC",
+      "Light and docked"
+     ],
+     [
+      "Shedding pets",
+      "Bissell Pet Hair Eraser",
+      "Motorized brush"
+     ],
+     [
+      "Large sofa",
+      "Shark Cyclone PET",
+      "XL cup"
+     ],
+     [
+      "Car and boat",
+      "Dyson Car and Boat",
+      "Longest rated runtime"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "BLACK+DECKER HNV220",
+      "Simple dustbuster with wall mount"
+     ],
+     [
+      "Lower mid",
+      "CKIKH or Filigo",
+      "Long-nozzle car vac or docked design"
+     ],
+     [
+      "Mid to upper",
+      "Shark Cyclone PET or Bissell",
+      "Pet tools"
+     ],
+     [
+      "Highest tier",
+      "Dyson Car and Boat or WANDVAC",
+      "Premium runtime or lightest build"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Motorized Brush vs Suction Only",
+   "cards": [
+    {
+     "label": "Motorized Brush",
+     "text": "The Bissell and Dyson agitate fibers to lift embedded hair. They are heavier and louder."
+    },
+    {
+     "label": "Suction Only",
+     "text": "The WANDVAC, BLACK+DECKER and CKIKH rely on airflow. They are lighter and easier to carry but weaker on embedded hair."
+    }
+   ],
+   "note": "Choose a motorized brush for pets and suction only for crumbs and stairs. If you are unsure, start with suction only and add a brush tool later."
+  },
+  {
+   "subheading": "By Charging",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Counter dock",
+      "Shark WANDVAC",
+      "Dock included"
+     ],
+     [
+      "Wall mount",
+      "BLACK+DECKER HNV220",
+      "Wall mount base"
+     ],
+     [
+      "Desk or car",
+      "Filigo",
+      "Dock storage"
+     ],
+     [
+      "No dock needed",
+      "CKIKH",
+      "Cord charging"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Pet Owners Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A motorized brush, a scrubbing tool, a large cup and a washable filter."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Bissell and Shark Cyclone PET are the strongest pet fits. Both have washable filters, which cuts running costs."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You use it daily, need long runtime or want a motorized tool for fabric. A motorized brush also saves time on stairs and sofas."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need crumbs and a car, where the BLACK+DECKER or CKIKH is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Empty the dust cup",
+   "interval": "After each use",
+   "why": "A full cup cuts suction sharply. Empty it before you store it. Empty it over a bag to avoid hair drifting."
+  },
+  {
+   "task": "Rinse the filter",
+   "interval": "Monthly",
+   "why": "A clogged filter reduces airflow. Let it dry for 24 hours before reinstalling. Never use a damp filter."
+  },
+  {
+   "task": "Clear the brush",
+   "interval": "After pet use",
+   "why": "Hair wraps the bristles and stops them from turning. Snip it free."
+  },
+  {
+   "task": "Check the charge",
+   "interval": "Weekly",
+   "why": "A dock keeps it ready, but a drawer vacuum can go flat. Charge before a big job."
+  },
+  {
+   "task": "Wipe the nozzle",
+   "interval": "Monthly",
+   "why": "Lint builds up in tight tools. A damp cloth keeps airflow clear."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a handheld vacuum worth it?",
+   "a": "Yes for crumbs, stairs, sofas and cars. It is not a replacement for a full vacuum. A handheld also keeps a stick vacuum from being pulled out for every small mess."
+  },
+  {
+   "q": "How long should a handheld run?",
+   "a": "Most run 10 to 20 minutes at low power, and a few run longer. Max mode shortens it. A second battery is not offered on most handhelds, so plan jobs in short sessions."
+  },
+  {
+   "q": "What does 15000 Pa mean?",
+   "a": "It is a pressure figure with no shared standard. Treat it as a marketing number. Air watts are a better guide."
+  },
+  {
+   "q": "Do I need a motorized brush?",
+   "a": "For embedded pet hair on fabric, yes. For crumbs and dust, suction alone is enough. A scrubbing tool is a lighter alternative to a motorized brush."
+  },
+  {
+   "q": "How often should I replace the filter?",
+   "a": "Rinse washable filters monthly and replace them on the maker's schedule. A clogged filter is the most common reason for weak suction."
+  },
+  {
+   "q": "Where should I store it?",
+   "a": "On a dock or wall mount near where messes happen. A visible vacuum gets used. A mount near the kitchen or sofa works best."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/4142CuVP3EL._SL500_.jpg"
+}

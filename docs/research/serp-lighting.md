@@ -130,3 +130,64 @@
 - Results were retailer pages (Lamps Plus, Visual Comfort, Target) and vintage marketplaces; no clear expert ranking.
 - Retail advice: oak, walnut and teak with metal or glass accents; never see the neck of the lamp or the bulb from seated or standing.
 - Gap: solid wood versus resin or paint-over wood grain, tripod stability, shade proportion and bulb heat; we cover these.
+
+## best-color-changing-light-bulbs
+- Top guides crown a premium hub-based system for color richness, then name Wi-Fi bulbs from big-volume brands for value.
+- Remote-only bulbs, speaker bulbs and bulk multipacks each get their own picks.
+- A common caveat: the white setting of color bulbs is dimmer than a standard bulb, so they suit mood lighting, not main lighting.
+- Matter support and voice assistant compatibility are the new criteria in 2026 lists.
+- Gap: color brightness versus white lumens, 2.4 GHz Wi-Fi limits with many bulbs, and bulbs left behind a wall dimmer.
+
+## best-daylight-bulbs
+- Top guides credit a 5000K bulb with 90+ CRI as the balanced pick and call out high-lumen multipacks for brightness.
+- Dimmable and non-dimmable are split; one common warning is that some bulbs do not dim smoothly at low levels.
+- Color-critical picks cite 95 CRI for makeup and art; some guides confuse 4000K with 5000K or 6500K.
+- Guides disagree on specs for the same product, so reading the box matters.
+- Gap: where 5000K feels harsh at night, bulb lumens versus wattage, and what non-dimmable on a dimmer does.
+
+## best-high-cri-bulbs
+- Guides treat CRI 90 as the practical high-CRI threshold and lead with fixed 3000K or 2700K picks for living spaces.
+- A value pick and a decorative filament pick usually round out the list; retailer catalog pages list 95 CRI options for specialty fixtures.
+- Dimming compatibility and color temperature are the other criteria buyers check.
+- No independent lab data appears in the results, so spec honesty matters.
+- Gap: what CRI does not tell you (R9 red rendering), why 95 and 97 are marketing neighbors, and flicker claims.
+
+## best-indoor-motion-sensor-lights
+- Guides split indoor motion lights into stick-on night lights, battery wall and closet lights, plug-in night lights, ceiling lights and smart sensors.
+- Criteria repeated: brightness, sensor range and angle, and how the light is installed (battery, plug-in or wired).
+- Stairs and hallways are the headline use; warm, glare-free output is praised over harsh white.
+- Smart-ecosystem sensors are noted as limited to their own hub; many lists are dated or affiliate-driven.
+- Gap: sensor false triggers from pets and heat vents, battery life honesty, and light sensor settings that keep daytime lights off.
+
+## best-swing-arm-wall-lamps
+- Guides split plug-in swing arms for renters from hardwired ones for a permanent look and recommend 15 to 20 in of reach for bedside use.
+- Shade advice: frosted or opal diffuses glare; a downward shade cuts monitor glare for desk work.
+- Mount height of roughly 60 to 65 in to the plate center is cited for bedside lights.
+- Picks range from designer classics to budget industrial lamps; most sources are retailer listings, not independent comparisons.
+- Gap: the visible cord problem, dimmer and bulb compatibility, and wall box versus drywall mounting weight.
+
+## best-gooseneck-floor-lamps
+- Few guides focus on gooseneck floor lamps; most results are general floor lamp roundups or desk gooseneck lists.
+- One roundup flags the bulb wattage limit (for example 40 W LED) and warns that brighter bulbs can overheat the lamp.
+- General floor lamp guides lead with brightness, dimming and reading use; vintage gooseneck floor lamps appear as collectibles.
+- Gap: gooseneck droop under a heavy head, base weight and tip risk, and integrated LED lifespan versus a socket you can re-bulb.
+
+## best-semi-flush-mount-lights
+- Buying guides define semi-flush as a fixture with a short stem that drops the bulbs roughly 4 to 8 in below the ceiling, suited to taller ceilings; flush mounts are the safer choice at 8 ft or lower.
+- Picks and listings split by drum shade, glass shade, brass and gold, and multi-light designs.
+- Most pages are retailer category pages; ceiling height and room size are the leading criteria.
+- Gap: honest drop distance numbers, bulb wattage limits on fabric shades, and installation on an existing ceiling box.
+
+## best-smart-light-panels
+- Top guides name a hub-light brand and a mainstream value brand, usually pitching Matter, music sync and per-edge color as the headline features.
+- Premium wood-look hexagons and 3D wall art panels appear as upgrade picks; bundles range widely in panel count.
+- Connectivity (Wi-Fi, Bluetooth, Thread) and ecosystem support are the common criteria.
+- Retail and affiliate lists dominate; layout planning, adhesive and power limits are rarely covered.
+- Gap: how many panels one power supply drives, wall adhesive on paint, and RGBIC versus single-color panels.
+
+## best-lamp-timers
+- Guides split lamp timers into mechanical pin-dial, digital programmable and smart plugs; mechanical is cheapest with a 30 minute minimum interval.
+- Digital timers add multiple programs, daylight saving support, battery backup and one minute intervals.
+- Standard lamp timers carry roughly a 15 amp, 1875 watt resistive rating; a bedside-friendly silent switch is a common pick criterion.
+- Most pages are affiliate listicles; two-prong versus three-prong plug type and load limits are barely covered.
+- Gap: LED dimmable loads and minimum wattage, vacation randomization, and what happens after a power outage.

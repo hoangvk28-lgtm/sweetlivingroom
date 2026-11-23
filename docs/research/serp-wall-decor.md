@@ -33,3 +33,30 @@
 - Curtain dividers are cheap but give little sound insulation; freestanding types take floor space; mid-range is the quality band.
 - Recurring names: RoomDividersNow muslin kit, Coaster four-panel screen, Roundhill shoji 4-panel.
 - Gap: stability and tipping, privacy versus light, panel height and honest note on sound; we cover these.
+
+## best-framed-art-prints
+- Guides define good prints as pre-mounted, ready to hang, with quality paper or canvas and archival inks.
+- Retailers split by one large piece vs grouped smaller pieces, and ceiling height.
+- Giclee fade resistant ink and plexiglass fronts are named as specs to compare.
+- Color advice: complement the room, do not match exactly.
+- Gap we cover: two thirds of sofa width, hanging height and honest 2D print language.
+
+## best-wall-sculptures
+- Guides name picks by size and piece count (a 43 in iron leaf, sets of four, two packs).
+- Sizing with the two thirds rule appears as the layout tip.
+- Metal and 3D hollow designs dominate living room lists; retailer best seller tags are not independent testing.
+- Budget picks are small 2 pack branch sets and multi piece abstract sets.
+- Gap we cover: real wood vs resin, relief dust, hanging hardware and missing dimensions in listings.
+
+## best-sunburst-mirrors
+- Guides name a 23 in antique gold wire mirror, a 3 pack of 12 in mirrors for value, a 24 in 128 spoke piece and a 32 in beveled glass wood frame with French cleat.
+- Vintage styles are mid century, Hollywood Regency and French; plain backgrounds flatter a sunburst.
+- Dates range from June to November 2026 and sources are affiliate supported.
+- Sizing: overall diameter vs glass diameter is rarely explained.
+- Gap we cover: glass is a small share of the piece, weight and hanging, and finish scratching.
+
+## best-neon-signs-for-rooms
+- Roundups pair quote signs (good vibes, pretty), shaped signs (palm, butterfly) and custom signs; budget picks dominate teen-room lists.
+- LED neon is pitched as durable and energy efficient; styling advice is to echo the sign's color in pillows and accessories.
+- Most pages are shopping roundups with inconsistent dates and unverified test claims.
+- Gap: USB adapter not included, dimmer wire length, size in inches, and the cords and hooks you need to mount it.

@@ -105,3 +105,66 @@
 - Guides feature Mount-It glass shelves (single, double, triple), Sanus cable box shelf, budget no-drill shelves.
 - Check weight rating, depth clearance and cable management.
 - We add VESA fit, heat from cable boxes and stud anchoring honesty.
+
+## best-tv-stands-for-75-inch-tvs
+- Top lists lead with top width and weight rating, and suggest a surface well wider than the panel (80 to 90 in per one guide).
+- Picks split by style (mid century, farmhouse, fireplace) and by use (gaming, storage heavy).
+- Several flag pressboard construction as the main drawback, and doors that hide storage.
+- Mention VESA compatibility for wall-mounted setups and include floor stands with mounts.
+- Gap we cover: listing titles that overstate TV size versus the real top width.
+
+## best-tv-stands-for-85-inch-tvs
+- Lists lead with real TV width (about 74 to 80 in for 85 in) and margin on each side, plus the TV base depth.
+- Heavy duty floor stands appear alongside consoles, with stated lb capacity.
+- Retailer pages split by style: fireplace, farmhouse, mid century.
+- Weight capacity and wall anchoring are named as buying criteria.
+- Gap we cover: stated load vs unstated load, and foot spread vs label.
+
+## best-tv-stands-with-fireplace
+- Top guides state heat coverage (about 400 sq ft) and temperature range, and note flame can run without heat.
+- Picks split by TV size, corner models, rustic (logs) vs modern (crystals).
+- Value picks are named separately from best overall.
+- Shelving and storage get their own pick.
+- Gap we cover: circuit load for a 1500W heater and insert window width.
+
+## best-cable-management-boxes
+- Top guides lead with ventilation and measuring the power strip before buying.
+- Rubber feet and sturdy bases are named as a criterion.
+- Picks split by finish: plastic value, wood look, and size by strip length.
+- D-Line is the most repeated pick; others are named for finish options.
+- Gap we cover: sealed boxes and heat, coiled cords, and listing sizes vs interior space.
+
+## best-turntable-stands
+- Guides stress a solid, stable surface and room for a preamp or monitors beside the deck.
+- Capacity is a lead criterion, with picks for large collections (hundreds of albums).
+- Dust protection (flip top or doors) is a named category.
+- Minimalist and mid century styles get separate picks, plus a budget pick.
+- Gap we cover: tiny tops vs turntable depth, and tall towers vs vibration.
+
+## best-board-game-storage
+- Top guides lead with shelf depth (about 11 to 12 in, or 9.5 for Euro games) and per shelf weight capacity.
+- Picks split by cube organizers, bookcases and budget options, with an adjustability note.
+- Some suggest slimmer cases to shrink a collection; one notes shelves will not fix humidity or box crushing.
+- Mention of storing flat vs vertical and corner crush.
+- Gap we cover: case sizes vs real box sizes, and the honest cost of discarding original boxes.
+
+## best-etageres
+- Roundups lead with weight capacity per shelf (up to 200 lb claims) and frame geometry.
+- Picks split by style: industrial, glass and gold, narrow bathroom models.
+- Delivery width (minimum doorway for large units) is called out.
+- Warn to check anti tip hardware and dimensions.
+- Gap we cover: shelf spacing for real book sizes and board bowing over long spans.
+
+## best-charging-stations-for-living-rooms
+- Guides lead with total wattage and per port output, and USB-C vs USB-A mix.
+- Picks split by port count, wireless capacity, family use and slim design.
+- Some warn that indicator lights are too bright near TVs, and tower shapes suit shared spaces.
+- Wireless pads are noted as slower than wired.
+- Gap we cover: shared wattage across ports, plug and strip limits, and soft surface heat.
+
+## best-tv-stands-for-65-inch-tvs
+- Guides lead with width (a 65 in TV is about 56 to 58 in wide), then weight capacity and VESA range.
+- One reviewer suggests taller stands (30 in plus) for better eye level.
+- Picks split by industrial, sliding barn door, fluted and mid century styles, plus a rolling stand.
+- Retail reviews mention some stands failing to hold 65 in TV weight.
+- Gap we cover: tops narrower than the panel, sofa eye level math and stated vs missing load figures.

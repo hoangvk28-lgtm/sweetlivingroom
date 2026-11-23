@@ -1,0 +1,628 @@
+{
+ "guideSlug": "best-high-cri-bulbs",
+ "categorySlug": "lighting",
+ "mainKeyword": "high CRI light bulb",
+ "guideTitle": "Best High CRI Bulbs (2026)",
+ "metaTitle": "Best High CRI Bulbs (2026): 7 Compared",
+ "metaDescription": "Seven high CRI LED bulbs compared on CRI, color temperature, lumens, dimming and flicker claims, with notes on what a CRI number does and does not tell you.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "expertTake": "The Philips Ultra Definition 2700K four-pack is the best overall pick because it states a CRI of 95, a warm white and dimming in a standard A19. The Feit 90 plus CRI eight-pack is the value pick for a whole-house swap. Skip the highest numbers if the room is just a hallway, because CRI 97 is a premium for a color accuracy that only matters where you judge fabric, skin and art.",
+ "introParagraphs": [
+  "CRI, the color rendering index, scores how faithfully a light shows colors compared with a reference source, on a scale up to 100. Standard LED bulbs sit near 80, and bulbs sold as high CRI start around 90. The difference shows up on reds, skin tones, wood and fabric.",
+  "A number alone does not tell the whole story. Two bulbs with the same CRI can differ in red rendering, flicker and dimming behavior, and a high CRI bulb in the wrong color temperature still looks wrong. Match CRI with Kelvin and brightness for the room."
+ ],
+ "products": [
+  {
+   "id": "B0B92VRHJ2",
+   "badge": "Best Overall",
+   "name": "Philips Ultra Definition Soft White A19, 2700K, CRI 95, 4 Pack",
+   "specs": [
+    "CRI 95",
+    "2700K",
+    "800 lumens",
+    "Dimmable"
+   ],
+   "specList": [
+    {
+     "label": "CRI",
+     "value": "95"
+    },
+    {
+     "label": "Color temperature",
+     "value": "2700K soft white"
+    },
+    {
+     "label": "Brightness",
+     "value": "800 lumens, 60 W equivalent"
+    },
+    {
+     "label": "Dimming",
+     "value": "Dimmable"
+    },
+    {
+     "label": "Flicker",
+     "value": "Flicker-free, per the maker"
+    }
+   ],
+   "description": "Philips' Ultra Definition soft white bulbs are 800 lumen, 2700K A19s with a stated CRI of 95. They are dimmable and described by the maker as flicker-free, with an eye comfort rating.\n\nCRI 95 sits comfortably above the 90 line that guides call high CRI, and 2700K is the warm white most people like in a living room. That pairing is the reason to pick it: it renders wood, fabric and skin tones naturally at an evening-friendly warmth. Compared with the sunsy at 97, the number is a little lower, but the maker and the dimming support are more established. A frosted finish is also easier on the eye than a clear bulb.\n\nCheck your dimmer against the maker's list and keep the bulb out of fully enclosed fixtures. Use one in a lamp you read under for a week and compare it with an older 80 CRI bulb in the next lamp, since the difference shows most on wood and fabric. Keep the box in case you need the dimmer compatibility list.",
+   "bestFor": "Living rooms and bedrooms that want warm, accurate light.",
+   "pros": [
+    "Stated CRI of 95 renders colors accurately",
+    "2700K warm white suits evening living rooms",
+    "Dimmable, so it works with compatible dimmers",
+    "Frosted, flicker-free design reduces glare"
+   ],
+   "cons": [
+    "Only four bulbs in the pack",
+    "Dimming at the very lowest levels may be uneven"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0B92VRHJ2?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YlWV83lfL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DM4BJXXS",
+   "badge": "Best Full Spectrum",
+   "name": "sunsy Shine A19 Full-Spectrum LED, 2700K, CRI 97",
+   "specs": [
+    "CRI 97",
+    "2700K",
+    "670 lumens",
+    "Full spectrum"
+   ],
+   "specList": [
+    {
+     "label": "CRI",
+     "value": "97"
+    },
+    {
+     "label": "Color temperature",
+     "value": "2700K soft white"
+    },
+    {
+     "label": "Brightness",
+     "value": "670 lumens at 11 W"
+    },
+    {
+     "label": "Spectrum",
+     "value": "Full-spectrum SunLike diode"
+    },
+    {
+     "label": "Flicker",
+     "value": "Under 1 percent, per the maker"
+    }
+   ],
+   "description": "The sunsy Shine is a full-spectrum A19 with a CRI of 97, a 2700K soft white and 670 lumens at 11 W. It uses a SunLike full-spectrum diode that the maker says reproduces the broad wavelengths of sunlight, with a constant-current driver holding flicker under 1 percent.\n\nFull spectrum means the light covers the visible range more evenly, which tends to render reds and skin tones closer to natural. The tradeoff is efficiency: 670 lumens at 11 W is dimmer than a standard 60 W equivalent bulb, so it suits lamps and ambient use more than a bare ceiling light. Compared with the Philips, it states a higher CRI and a lower output. The full-spectrum diode is the main reason to choose it over a standard bulb.\n\nThe flicker figure is a maker claim, so check reviews if you are flicker-sensitive. Because the output is lower, use two in a floor lamp or choose it for a reading lamp where you sit close. Check the flicker with your phone camera before putting it in a bedroom.",
+   "bestFor": "Reading lamps and bedrooms where color and eye comfort matter most.",
+   "pros": [
+    "Stated CRI of 97 is the highest in the group",
+    "Full-spectrum diode renders reds and skin tones naturally",
+    "Flicker stated under 1 percent by the maker",
+    "Dimmable, with 2700K warmth for evenings"
+   ],
+   "cons": [
+    "670 lumens at 11 W is dimmer than a standard 60 W equivalent",
+    "Upper-mid price tier for a single bulb"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DM4BJXXS?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/411AugtP+KL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G7M28GHW",
+   "badge": "Best 4000K Full Spectrum",
+   "name": "Norb Everyday Sun Full Spectrum LED, 4000K, CRI 95 Plus",
+   "specs": [
+    "CRI 95 plus",
+    "4000K",
+    "Full spectrum",
+    "Dimmable"
+   ],
+   "specList": [
+    {
+     "label": "CRI",
+     "value": "95 plus"
+    },
+    {
+     "label": "Color temperature",
+     "value": "4000K neutral daylight"
+    },
+    {
+     "label": "Spectrum",
+     "value": "Full spectrum"
+    },
+    {
+     "label": "Dimming",
+     "value": "Dimmable"
+    },
+    {
+     "label": "Use",
+     "value": "Kitchens, offices, craft areas"
+    }
+   ],
+   "description": "Norb's Everyday Sun bulb is a 4000K full-spectrum LED with a CRI of 95 plus and a dimmable design, aimed at natural daylight in work and task rooms.\n\n4000K is a neutral white between warm and cool, so it suits a kitchen, a home office or a craft table better than a living room at night. High CRI at 4000K helps when matching paint swatches or checking food. Compared with the Philips 2700K, it is cooler and more task-oriented. The neutral white is also easier on the eyes than a 5000K bulb for long sessions.\n\nTest one bulb in the room before you buy a pack, since some people find 4000K too stark. Place it where you judge color, such as over a kitchen counter or a craft table, and keep the living room on a warm bulb. A pair of 4000K bulbs in a desk lamp makes a good test.",
+   "bestFor": "Kitchens, offices and craft tables that need neutral, accurate light.",
+   "pros": [
+    "CRI 95 plus gives accurate color at a neutral white",
+    "4000K suits kitchens, offices and craft areas",
+    "Full spectrum renders reds and wood naturally",
+    "Dimmable for adjusting brightness by task"
+   ],
+   "cons": [
+    "4000K feels cool in an evening living room",
+    "Less established brand than Philips or Feit"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0G7M28GHW?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zampGOwTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CV1T565M",
+   "badge": "Best Value Pack",
+   "name": "Feit Electric A19 LED Bulbs, 60W Equivalent, 90 Plus CRI, 8 Pack",
+   "specs": [
+    "8 pack",
+    "90 plus CRI",
+    "800 lumens",
+    "2700K"
+   ],
+   "specList": [
+    {
+     "label": "Pack",
+     "value": "8 bulbs"
+    },
+    {
+     "label": "CRI",
+     "value": "90 plus"
+    },
+    {
+     "label": "Brightness",
+     "value": "800 lumens at 8.8 W"
+    },
+    {
+     "label": "Color temperature",
+     "value": "2700K soft white"
+    },
+    {
+     "label": "Dimming",
+     "value": "Dimmable"
+    }
+   ],
+   "description": "Feit's eight-pack is a 60 W equivalent A19 with 800 lumens at 8.8 W, a CRI of 90 plus, a 2700K soft white and a dimmable design.\n\nCRI 90 plus is the practical high-CRI floor, and eight bulbs are enough to change a whole floor. It costs less than the sunsy and gives you twice the bulbs of the Philips pack. Compared with the Philips, the CRI is stated as a floor rather than a figure. The eight-pack is the easiest way to upgrade a whole floor at once.\n\nCheck your dimmer, and keep one spare for the lamp you use most. Replace the busiest sockets first, such as the kitchen and entryway, and keep two spares. Check the packaging for the dimmer note if you use older wall dimmers.",
+   "bestFor": "Whole-house swaps that need 90 plus CRI across many sockets.",
+   "pros": [
+    "Eight bulbs cover a floor of a home",
+    "CRI of 90 plus is above standard bulbs",
+    "800 lumens at 8.8 W is a true 60 W equivalent",
+    "Dimmable with most LED dimmers"
+   ],
+   "cons": [
+    "CRI is stated only as 90 plus, not an exact number",
+    "Not full spectrum like the sunsy or Norb"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CV1T565M?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mNjcqeXZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DNKWF8K7",
+   "badge": "Best Tunable Pack",
+   "name": "Feit Electric A19 5CCT LED, 90 Plus CRI, 2700K to 5000K, 10 Pack",
+   "specs": [
+    "10 pack",
+    "5CCT",
+    "90 plus CRI",
+    "800 lumens"
+   ],
+   "specList": [
+    {
+     "label": "Pack",
+     "value": "10 bulbs"
+    },
+    {
+     "label": "CRI",
+     "value": "90 plus"
+    },
+    {
+     "label": "Color options",
+     "value": "2700K, 3000K, 3500K, 4000K, 5000K"
+    },
+    {
+     "label": "Brightness",
+     "value": "800 lumens at 8.8 W"
+    },
+    {
+     "label": "Dimming",
+     "value": "Dimmable"
+    }
+   ],
+   "description": "Feit's 5CCT bulb has a switchable white from 2700K to 5000K, a CRI of 90 plus and 800 lumens at 8.8 W, sold in a ten-pack.\n\nA switchable bulb lets you choose a warm, neutral or cool white at installation, so one SKU covers living rooms and workrooms. The choice is made with a switch on the bulb and stays fixed afterward. Compared with the fixed 2700K Feit pack, it is more flexible and slightly more complex. A ten-pack of one type also simplifies buying replacements.\n\nSet the CCT before screwing it in and match bulbs in one room. Mark each bulb's setting with a pen on the base before installing so you can match replacements later. Use 2700K in lamps and 4000K in a home office.",
+   "bestFor": "Homes that want one bulb type with a choice of white for each room.",
+   "pros": [
+    "Five color temperatures from 2700K to 5000K in one bulb",
+    "CRI of 90 plus across all settings",
+    "Ten-pack covers a large home",
+    "Dimmable with most LED dimmers"
+   ],
+   "cons": [
+    "Mixed settings in one room can look patchy",
+    "CCT is set at install and cannot be changed remotely"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DNKWF8K7?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41U1+yZiVRL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07FFB3W45",
+   "badge": "Best Bright 3000K",
+   "name": "Feit Electric Enhance A19, 100W Equivalent, 3000K, 90 Plus CRI, 2 Pack",
+   "specs": [
+    "1600 lumens",
+    "17.5 W",
+    "3000K",
+    "90 plus CRI"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "1600 lumens at 17.5 W"
+    },
+    {
+     "label": "Color temperature",
+     "value": "3000K bright white"
+    },
+    {
+     "label": "CRI",
+     "value": "90 plus"
+    },
+    {
+     "label": "Dimming",
+     "value": "Dimmable"
+    },
+    {
+     "label": "Base",
+     "value": "E26 standard"
+    }
+   ],
+   "description": "Feit's Enhance A19 is a 100 W equivalent with 1600 lumens at 17.5 W, a 3000K bright white, a CRI of 90 plus and a dimmable design, sold as a two-pack.\n\nA 1600 lumen bulb suits a large room, a kitchen ceiling or a task lamp, and 3000K is neutral without feeling cold. High output gets hot, so check the fixture's wattage tag. Compared with the 800 lumen packs, it doubles the output. The two-pack is a good fit for one or two big lamps.\n\nUse it in open fixtures and keep spares for a lamp that needs the extra light. A 1600 lumen bulb in a shaded lamp wastes output, so use it in open fixtures and keep it away from fabric shades. Check the socket's maximum wattage first.",
+   "bestFor": "Large rooms and task lamps that need high-output, high-CRI light.",
+   "pros": [
+    "1600 lumens is the brightest dimmable bulb here",
+    "3000K neutral white suits kitchens and offices",
+    "CRI of 90 plus renders colors well",
+    "Dimmable for adjusting brightness"
+   ],
+   "cons": [
+    "Higher wattage runs warmer in the fixture",
+    "Only two bulbs in the pack"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B07FFB3W45?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/411eAGkgMyL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F7XQYGL7",
+   "badge": "Best High Output Daylight",
+   "name": "Maelsrlg A19 LED, 100W Equivalent, 90 CRI, 5000K, 1500 Lumens",
+   "specs": [
+    "1500 lumens",
+    "13 W",
+    "90 CRI",
+    "5000K"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "1500 lumens at 13 W"
+    },
+    {
+     "label": "CRI",
+     "value": "90 plus"
+    },
+    {
+     "label": "Color temperature",
+     "value": "5000K daylight"
+    },
+    {
+     "label": "Dimming",
+     "value": "Non-dimmable"
+    },
+    {
+     "label": "Base",
+     "value": "E26"
+    }
+   ],
+   "description": "Maelsrlg's A19 is a 100 W equivalent with 1500 lumens at 13 W, a stated CRI of 90 plus, 5000K daylight and a non-dimmable design.\n\nHigh CRI at 5000K suits a workshop, a craft room or a garage where you judge color in strong light. It is not dimmable, so keep it off dimmer circuits. Compared with the Feit Enhance, it is cooler and cheaper to run per lumen but lacks dimming. A high-output bulb in an open fixture is the traditional workshop answer.\n\nUse it in open fixtures, away from reading chairs. Put it in a garage or workshop fixture rather than a living room lamp, and add a separate warm lamp for relaxing. Remember it is non-dimmable, so it needs a plain switch.",
+   "bestFor": "Workshops and craft rooms that need bright, accurate daylight.",
+   "pros": [
+    "1500 lumens at 13 W is efficient for the output",
+    "CRI of 90 plus is stated by the maker",
+    "5000K daylight suits workshops and craft tables",
+    "Low price tier for a high CRI bulb"
+   ],
+   "cons": [
+    "Non-dimmable, so it will flicker on a dimmer",
+    "5000K feels harsh in a living room at night"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B0F7XQYGL7?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Jhvn7kLPL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "CRI and what 90 means",
+   "explanation": "CRI is scored up to 100, and standard LEDs sit near 80. A rating of 90 plus is the practical high-CRI floor, while the Philips lists 95 and the sunsy 97. Higher numbers cost more, and above 95 the gains are hard to see. A reading of 90 is a floor, so check whether a maker states a number or just plus."
+  },
+  {
+   "criterion": "Color temperature",
+   "explanation": "2700K is warm and suits living rooms and bedrooms, 3000K is soft neutral, 4000K suits kitchens and offices and 5000K is daylight. A high CRI at the wrong Kelvin still looks wrong. Match Kelvin to the room first. A warm bulb makes high CRI colors feel cozy and a cool bulb makes them feel crisp."
+  },
+  {
+   "criterion": "Lumens and fit",
+   "explanation": "The sunsy gives 670 lumens, standard 60 W equivalents give 800, and the Feit Enhance gives 1600. Full spectrum bulbs often trade lumens for accuracy. Choose the brightness for the fixture and the room. Full spectrum bulbs often use more power for the same light."
+  },
+  {
+   "criterion": "Dimming and flicker",
+   "explanation": "Most high CRI bulbs are dimmable, but the Maelsrlg is not. Flicker figures like sunsy's under 1 percent are maker claims. If you are sensitive, buy one bulb and watch it through a phone camera before buying more. A phone camera in slow motion can reveal flicker."
+  },
+  {
+   "criterion": "Full spectrum versus high CRI",
+   "explanation": "Full spectrum bulbs like the sunsy and Norb cover the visible range more evenly. A 90 CRI bulb can still render deep red poorly. Look for a stated red value if color matters for art or makeup. A stated R9 value is a good sign for makeup lighting."
+  },
+  {
+   "criterion": "Pack size and cost",
+   "explanation": "The Feit eight- and ten-packs cover a whole home, while the Philips pack has four. The full-spectrum bulbs cost more per bulb. Use the premium bulbs where you judge color and cheaper packs elsewhere. A few premium bulbs in the right places give more than a house of them."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CRI",
+   "meaning": "Color rendering index, up to 100, showing how accurately a light renders colors. Standard LEDs sit near 80.",
+   "watchFor": "The Philips lists 95 and the sunsy 97, while the Feit packs list 90 plus. A CRI figure is a maker claim, so look for a stated number."
+  },
+  {
+   "spec": "Full spectrum",
+   "meaning": "A bulb that covers the visible spectrum more evenly than a standard LED.",
+   "watchFor": "The sunsy and Norb claim it, so it is a maker description. Check reviews for evidence of the claim."
+  },
+  {
+   "spec": "Kelvin",
+   "meaning": "The warmth of the white. 2700K is warm and 5000K is daylight.",
+   "watchFor": "The Feit 5CCT lists five settings. A switchable bulb is set at installation."
+  },
+  {
+   "spec": "Flicker percentage",
+   "meaning": "How much brightness varies as the bulb cycles, as a percent. Lower is better.",
+   "watchFor": "The sunsy states under 1 percent, per the maker. Flicker is easier to see on a camera than by eye."
+  },
+  {
+   "spec": "Lumens at watts",
+   "meaning": "Brightness against power, which shows efficiency.",
+   "watchFor": "The sunsy gives 670 lumens at 11 W, while the Feit gives 800 at 8.8 W. Lower lumens at the same watts means lower efficiency."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "CRI and spectrum",
+   "description": "We evaluated stated CRI numbers from 90 plus to 97 and full spectrum claims. We noted that 90 is a floor, not a score. We favored bulbs that state a figure. We did not assume a CRI where a listing gave only a floor."
+  },
+  {
+   "title": "Color temperature",
+   "description": "We compared stated Kelvin and which rooms each suits, including the sunsy's 2700K and the Norb's 4000K. We matched color temperature to use. We noted tunable options."
+  },
+  {
+   "title": "Brightness and efficiency",
+   "description": "We read lumens and watts, from 670 lumens at 11 W to 1600 lumens at 17.5 W. We noted that full spectrum bulbs can be dimmer. We matched output to fixtures. We matched output to typical fixture sizes."
+  },
+  {
+   "title": "Dimming and flicker",
+   "description": "We looked at dimming support and flicker claims. The Philips and sunsy stated flicker control. We noted non-dimmable bulbs."
+  },
+  {
+   "title": "Value and ownership",
+   "description": "We used each product's relative price tier only to order the field. Pack size and fixture fit were weighed alongside. All scores are editorial assessments, not measurements. Where a listing was silent on a detail, we said so rather than guessing."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Living room",
+      "Philips 2700K",
+      "Warm and accurate"
+     ],
+     [
+      "Reading lamp",
+      "sunsy 2700K",
+      "CRI 97 full spectrum"
+     ],
+     [
+      "Kitchen or office",
+      "Norb 4000K",
+      "Neutral and accurate"
+     ],
+     [
+      "Workshop",
+      "Maelsrlg 5000K",
+      "Bright daylight"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Philips 2700K four-pack",
+      "Cheapest CRI 95 pack"
+     ],
+     [
+      "Lower mid",
+      "Maelsrlg",
+      "Bright daylight at CRI 90"
+     ],
+     [
+      "Mid",
+      "Feit packs",
+      "Whole-house CRI 90 plus"
+     ],
+     [
+      "Higher tier",
+      "sunsy or Norb",
+      "Full spectrum bulbs"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "High CRI vs Full Spectrum",
+   "cards": [
+    {
+     "label": "High CRI",
+     "text": "The Philips and Feit bulbs score 90 or more and render colors well. They are affordable and dimmable."
+    },
+    {
+     "label": "Full Spectrum",
+     "text": "The sunsy and Norb cover the visible range more evenly and state CRI 95 or more. They cost more and are often dimmer."
+    }
+   ],
+   "note": "Choose high CRI for general use and full spectrum where color and eye comfort matter most. If you are unsure, start with a warm high CRI bulb and add full spectrum where it matters."
+  },
+  {
+   "subheading": "By Kelvin",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Warm evenings",
+      "Philips or sunsy",
+      "2700K"
+     ],
+     [
+      "Soft neutral",
+      "Feit Enhance",
+      "3000K"
+     ],
+     [
+      "Task rooms",
+      "Norb",
+      "4000K"
+     ],
+     [
+      "Choose per room",
+      "Feit 5CCT",
+      "Switchable white"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Art and Makeup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A CRI of 95 or more, a neutral 4000K or 5000K white, flicker control and enough lumens at the work surface."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Norb and sunsy state CRI 95 or more, and the Philips states 95. All three are dimmable."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You judge color for art, makeup or fabric, or want full spectrum comfort. A bulb with a stated number is easier to compare."
+    },
+    {
+     "label": "Save if",
+     "text": "The bulb is for a hallway or utility space, where a Feit pack is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Match bulbs in a room",
+   "interval": "At install",
+   "why": "Mixed Kelvin or CRI looks patchy. Use the same bulb in a fixture. Keep one color temperature per room."
+  },
+  {
+   "task": "Check dimmer compatibility",
+   "interval": "At install",
+   "why": "Some dimmers buzz or flicker with LEDs. Test one bulb first."
+  },
+  {
+   "task": "Dust the bulbs",
+   "interval": "Every few months",
+   "why": "Dust dulls output. A dry cloth restores brightness. Turn off and cool the bulb before wiping."
+  },
+  {
+   "task": "Avoid enclosed fixtures",
+   "interval": "At install",
+   "why": "Heat shortens LED life. Choose open fixtures."
+  },
+  {
+   "task": "Keep spares",
+   "interval": "Always",
+   "why": "Matching a spare keeps the color even. Store in a dry drawer."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is a good CRI for home use?",
+   "a": "90 plus is high CRI. For general rooms, 90 is plenty, and for art or makeup, 95 or more helps. Most standard LED bulbs sit near 80."
+  },
+  {
+   "q": "Is higher CRI always better?",
+   "a": "Above 95 the gains are small. Kelvin and brightness matter as much for how a room feels. A good bulb in the wrong color temperature still looks wrong."
+  },
+  {
+   "q": "What does full spectrum mean?",
+   "a": "It means the light covers the visible range more evenly. It is a maker description, not a standard. Look for a stated CRI number to back it up."
+  },
+  {
+   "q": "Do high CRI bulbs dim?",
+   "a": "Most do, but the Maelsrlg is non-dimmable. Check your dimmer. A compatible dimmer list from the maker helps."
+  },
+  {
+   "q": "Are they brighter?",
+   "a": "Not necessarily. Full spectrum bulbs often have fewer lumens per watt. A full spectrum bulb can feel softer even if it is dimmer."
+  },
+  {
+   "q": "Which Kelvin should I choose?",
+   "a": "2700K for living rooms and bedrooms, 4000K for kitchens and offices and 5000K for workshops. Choose one Kelvin per room for a consistent look."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41YlWV83lfL._SL500_.jpg"
+}

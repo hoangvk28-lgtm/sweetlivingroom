@@ -27,3 +27,17 @@
 - Advice splits by closed (ferns and moisture lovers) and open (succulents, cacti, air plants); do not mix wet and dry plants.
 - Guides stress petite plants that do not touch the glass and miniature orchids for enclosed types.
 - Gap: glass terrarium as hardware (lids, ventilation, drainage layers), mould in closed jars and sun scorch; we cover these.
+
+## best-faux-olive-trees
+- Roundups lead with height (6 ft and up stands out) and trunk realism, and name one pick per height class.
+- Picks split by best overall for tall spaces, wood trunk realism and budget.
+- Manufacturer pages claim bestseller status; treat those as marketing, not independent review.
+- Size and trunk realism matter most when choosing.
+- Gap we cover: planter included in height, base weight, sun fade and fluffing time.
+
+## best-faux-fiddle-leaf-fig-trees
+- Roundups name a 6 ft crowd favorite and list its cons: an unstable pot and trunks that look artificial up close.
+- Picks split by budget, cement weighted pots and UV resistant models for sun.
+- One tester compared several trees and singled out realism and price tiers.
+- Tip: keep leaves dust free for shine.
+- Gap we cover: planter height vs tree height, trunk count and leaf count detail.

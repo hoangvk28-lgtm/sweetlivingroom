@@ -65,3 +65,31 @@
 - Guides mix designer lounge chairs, recliners, chaises and comfy budget accent chairs; some call out sleeper chaises.
 - Splits: bedroom vs living room, all-day lounging, movie marathons, lumbar support.
 - We add the boneless vs framed tradeoff, seat-depth honesty and low-seat standing difficulty.
+
+## best-glider-chairs
+- Top guides are nursery-led: comfort, cushioning and backrest support come first, then size for the room.
+- Picks split into classic wood-frame glider with ottoman, swivel glider recliner and budget rocker.
+- Safety mentions center on flammability compliance and low-emission certifications.
+- Several lists are dated; freshness and clear dimensions are weak spots.
+- Gap: glider clearance behind the chair, hoop versus rail glide mechanics, and who should skip a glider for a plain rocker.
+
+## best-armless-chairs
+- Guides frame armless chairs as slim seats for small rooms, dens, dining and vanity use.
+- Often cited benefits: tucks under a desk or table, fewer crumb nooks, easier to rearrange.
+- Materials mentioned: velvet, leather, linen; swivel versions pitched for home offices.
+- Some "best armless chair" lists are really desk chairs, so category intent is mixed.
+- Gap: honest seat width and depth, caster-on-floor warnings, and when arms are better for long sitting.
+
+## best-chair-and-a-half
+- Guides define a chair and a half as roughly 50 percent wider than a chair, with room for curling up or sharing.
+- Selection criteria: seat depth, back height, cushion and fill quality, frame durability, solid wood frames for stability.
+- Small-space advice: look under about 50 in of width and check seat height for getting up.
+- Picks split by sleek accent, deep lounger, reading chair and recliner styles.
+- Gap: honest width versus seat width, doorway path and whether the ottoman is included.
+
+## best-accent-chairs-with-ottomans
+- Editorial roundups stress the ottoman as footrest, extra seat or coffee table, and note not every accent chair includes one.
+- Styles surfaced: tufted, barrel, Eames-style lounger, swivel, chenille and faux leather sets.
+- Retail pages dominate results; independent comparisons are sparse.
+- Guides lean on style first, dimensions second.
+- Gap: ottoman height versus seat height, honest chair footprint with the ottoman out, and whether the ottoman is movable.

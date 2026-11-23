@@ -26,3 +26,38 @@
 - Arlo Blinds, LazBlinds no-drill, BAYUE budget, EVOZEN indoor-outdoor and Chicology recur.
 - Advice: cordless for child safety, lining for privacy, matchstick styles let in more light than flat slats.
 - Gap: fade and brittleness in sun, valance and stack height, moisture and mould in bathrooms, and honest light filtering; we cover these.
+
+## best-thermal-curtains
+- Roundups lead with insulating performance and light blocking, often split by best overall, best value and budget.
+- Domino and others stress curtains that also keep a room cooler in summer.
+- US and UK lists both name pleated, blackout and lined styles.
+- Caveats: picks vary because each source tests different products; anecdotes about degrees of cooling are single reports.
+- Gap we cover: GSM weight, width fullness and honest limits of curtains vs real insulation.
+
+## best-curtain-tie-backs
+- Guides split by style: magnetic no drill, rope and braided, metal and decorative.
+- Advice: match the tie back to curtain weight; thick or wide ties slide off sheers.
+- No drill magnetic types are recommended for renters; rope styles need no wall hardware.
+- DIY options exist but some slip on silk.
+- Gap we cover: placement height, weight limits of magnets and honest wall mounting costs.
+
+## best-door-draft-stoppers
+- Roundups name a low price, easy install and stay-put design as top reasons for the best overall pick.
+- Picks split by gap size (weighted for up to 3 in), interior vs exterior and washable covers.
+- Some products are multi use (windows, sliding doors, fireplaces).
+- Magnetic clip ons may not stay on all doors.
+- Gap we cover: measure the gap first, floor type, adhesive failure and frame leaks.
+
+## best-window-valances
+- Guides name a best overall valance with many colors usable alone or with other treatments, plus a sheer pick and scalloped options.
+- Advice: valances are visually heavy and suit larger, taller windows; light fabrics keep small rooms open.
+- Pair with a blind or shade for privacy, or a cafe curtain for a cottage look.
+- Style picks: minimalist linen for modern, scalloped for traditional.
+- Gap we cover: length proportion, fullness width and the limit of a valance on light control.
+
+## best-soundproof-curtains
+- Bob Vila names Pony Dance best overall and RYB Home as upgrade; other lists put RYB Home first with NICETOWN as budget.
+- The soundproof label mostly reflects sound dampening layers on blackout designs.
+- Soundproofing advice: seal gaps first, then add mass and absorption; curtains alone block modest sound.
+- Many lists are affiliate driven and dated.
+- Gap we cover: honest limits, felt liner mass, overlap and heavy rod hardware.

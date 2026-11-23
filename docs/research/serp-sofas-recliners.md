@@ -43,3 +43,51 @@
 - Guides split by sofa vs sectional, velvet vs boucle, budget and small spaces; statement pieces called out.
 - Common angles: curved vs straight sofa choice and room layout.
 - We add floating-versus-wall placement, wedge gap rule, boneless vs framed tradeoff and foam softening in year two.
+
+## best-reclining-loveseats
+- Top guides split by power vs manual recline and lead with leather vs fabric and wall-hugger clearance.
+- Home theater and RV-style loveseats with consoles and cup holders appear as their own picks.
+- Small-space picks are called out by name; a premium full-grain leather option anchors the high end.
+- Most guides never state the gap between seat width and overall width; we add that sizing rule.
+- Gap: the console-versus-shared-middle tradeoff and what massage on a budget loveseat really is.
+
+## best-home-theater-seating
+- Top guides lead with room size and row count, then power recline, powered headrest and lumbar support.
+- Picks are split by compact rooms, value rows, premium leather and zero gravity comfort.
+- Many pages are retailer lists; several are dated years ago, so freshness is a gap.
+- Common warnings: one size does not fit all rooms; check how many seats you can really fit.
+- Gap: row spacing and recline clearance numbers, wall-hugger limits for rows, and faux versus top grain leather ownership.
+
+## best-zero-gravity-recliners
+- Guides split outdoor folding loungers from indoor power recliners; intent is mixed.
+- Indoor picks lead with dual motors, heat and massage, leather type and swivel.
+- Explainers note that zero gravity describes a posture, not weightlessness.
+- Weight capacity and oversized seat width are common selection criteria.
+- Gap: honest wall clearance, lift versus zero gravity distinction, and what budget massage actually does.
+
+## best-swivel-rocker-recliners
+- Top guides lead with swivel, rock and recline in one chair, then seat size and weight limits.
+- Picks split by value manual, nursery glider recliner, oversized and leather splurge.
+- Owners are warned about weight limits near 250 lb on some budget frames.
+- Prices vary widely, so guides tell shoppers to check current listings.
+- Gap: swivel base wobble, rocking arc clearance, and what vibration massage really does.
+
+## best-leather-recliners
+- Guides separate genuine top-grain leather power chairs from budget PU faux leather options.
+- Lay-flat power recliners with powered headrests are repeatedly named for napping.
+- Wall hugger and swivel glider styles are recommended for tight spaces.
+- Many lists are affiliate-driven with inconsistent dates, so honesty about leather grades is a gap.
+- Gap: what top-grain, bonded and PU really mean in year three, and peeling at the arms.
+
+## best-u-shaped-sectionals
+- Top guides frame U-shapes as the choice for big rooms and movie nights, with size under or over 120 in as the dividing line.
+- Common splits: modular cloud sets, velvet statement sectionals, sleeper versions and leather.
+- L-shape versus U-shape comparisons appear in several results; sleeper options are called out.
+- Many pages are affiliate-driven and mix price claims; room measurement advice is thin.
+- Gap: delivery path, doubled chaise floor footprint, and which pieces really rearrange.
+
+## best-pet-stairs-for-couches
+- Guides split pet stairs into foam steps, folding plastic or wood stairs and ramp-style foam for small dogs and cats; couch stairs are shorter than bed stairs.
+- Buyer tips repeat: match step height to the couch, check the weight rating, and look for a non-slip base and a removable washable cover.
+- Weight limits in listings range from small-dog ratings to large-dog ratings; folding models can wobble.
+- Gap: honest seat-height measuring, foam compression under a heavy dog, and whether a ramp or steps suits older joints.

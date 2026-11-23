@@ -1,0 +1,14 @@
+# lumbar-support cluster (lumbar pillows and back cushions for sofas, chairs, cars)
+- The lumbar region is the lower back curve; a support pillow sits in the gap between the small of the back and the seat back; placement is roughly at belt height.
+- Memory foam supports with a firm contour and slow recovery; it feels warmer than polyester fill and can soften with body heat.
+- Roll shaped supports are round and firm; D shaped or contoured cushions spread contact across a wider area; wide cushions suit deep sofas.
+- Sofa seat depth is often 22 to 25 in, deeper than an office chair; a deep sofa pushes sitters forward, which a thin pillow does not fix.
+- A pillow too thick pushes the spine forward and can tire the back; support should fill the curve, not exaggerate it.
+- Straps (elastic or buckled) hold a support in place on a chair; on a fabric sofa they can slip or twist.
+- Mesh and breathable covers reduce heat build up; removable, machine washable covers help hygiene.
+- Memory foam odor from packaging usually fades within a day or two of airing out.
+- Foam compresses over months; a firm support that feels soft after a year has lost loft.
+- A pillow is not a medical device; chronic back pain deserves a clinician, and no cushion fixes long hours of sitting; changing position often matters.
+- Decorative lumbar throw pillows are about 12 x 20 in or 14 x 24 in; they add comfort in a sofa corner more than posture correction.
+- Insert should be about 2 in larger than a decorative cover for a plump look.
+- Pillow height on a sofa should reach the small of the back of a typical adult, about 8 to 10 in above the seat.

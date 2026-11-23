@@ -1,0 +1,628 @@
+{
+ "guideSlug": "best-lamp-timers",
+ "categorySlug": "lighting",
+ "mainKeyword": "lamp timer",
+ "guideTitle": "Best Lamp Timers (2026)",
+ "metaTitle": "Best Lamp Timers (2026): 7 Compared",
+ "metaDescription": "Seven lamp timers compared across mechanical, digital and smart plug types, on plug style, program count, intervals, load limits and backup, with honest notes.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "11 min",
+ "expertTake": "The BN-LINK 7-day digital timer with two outlets is the best overall pick because it offers eight programs, a random vacation mode and two grounded outlets in one unit. The BN-LINK U47 mechanical two-pack is the value pick for a plain daily schedule. Skip a mechanical timer if you want the lamp to follow a changing weekday routine, because the pin dial repeats the same 24 hours every day.",
+ "introParagraphs": [
+  "A lamp timer plugs into an outlet and switches whatever is plugged into it on and off on a schedule. It turns a bedside lamp on before you get home, makes an empty house look lived-in and ends the habit of leaving a light on all night.",
+  "There are three families: mechanical dials with pins, digital programmable timers and Wi-Fi smart plugs. They differ in how finely you can schedule, whether they remember settings through a power cut and whether the plug fits your lamp, which can be two prongs or three."
+ ],
+ "products": [
+  {
+   "id": "B00MVF16JG",
+   "badge": "Best Overall",
+   "name": "BN-LINK 7-Day Programmable Digital Timer, 2 Grounded Outlets",
+   "specs": [
+    "7-day",
+    "8 programs",
+    "2 outlets",
+    "Random mode"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Digital, 7-day"
+    },
+    {
+     "label": "Programs",
+     "value": "8 on/off programs"
+    },
+    {
+     "label": "Outlets",
+     "value": "2 grounded"
+    },
+    {
+     "label": "Extras",
+     "value": "Random vacation mode, daylight saving"
+    },
+    {
+     "label": "Days",
+     "value": "Individual days or preset combinations"
+    }
+   ],
+   "description": "BN-LINK's digital timer has two grounded outlets, up to eight on and off programs, individual or preset day combinations, a random vacation mode and daylight saving support.\n\nA 7-day schedule lets weekdays and weekends differ, which a mechanical dial cannot do. The random mode varies the on and off times slightly so a house looks occupied. Two outlets let you time a lamp and a second device at once. Compared with the single-outlet models, it controls more with one plug. The preset day combinations save setup time.\n\nSet the time and day on first use, and check that the load stays within the rated limit. Use the random mode only while you are away, and give each outlet its own program so a lamp and a radio do not switch together. Label the unit with the plan so a house-sitter can see how it works.",
+   "bestFor": "Households that want weekday and weekend schedules and vacation mode.",
+   "pros": [
+    "Eight programs handle different weekdays and weekends",
+    "Random vacation mode makes a house look lived-in",
+    "Two grounded outlets time two devices",
+    "Daylight saving support keeps the schedule right"
+   ],
+   "cons": [
+    "Digital menu takes a few minutes to learn",
+    "Bulkier than a single-outlet timer"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00MVF16JG?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31V1SqmHhmL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C6XKGQLD",
+   "badge": "Best Bedside Digital",
+   "name": "DEWENWILS Indoor 24 Hour Programmable Digital Timer Outlet, 2 Pack",
+   "specs": [
+    "2 pack",
+    "3 programs",
+    "125V 15A",
+    "Slim"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Digital, 24 hour"
+    },
+    {
+     "label": "Programs",
+     "value": "3 daily repeat schedules"
+    },
+    {
+     "label": "Rating",
+     "value": "125V, 15A, 1/2 HP"
+    },
+    {
+     "label": "Backup",
+     "value": "Keeps settings up to 3 months"
+    },
+    {
+     "label": "Design",
+     "value": "Slim, does not block other sockets"
+    }
+   ],
+   "description": "DEWENWILS' digital timer has four buttons, three daily repeat schedules with always on, auto and always off modes, a 125V 15A rating and settings preserved up to three months through a power outage. The slim body does not block the other socket.\n\nA slim body matters at a bedside outlet, where a bulky timer blocks the second socket. Three programs cover a morning, an evening and a night routine. Compared with the BN-LINK 7-day, it has fewer programs but a smaller footprint. It is a quiet unit that will not disturb sleep.\n\nSet the clock, program the schedule and test the lamp before you leave. Program a dusk start and a bedtime stop, then use the always off mode when you want the lamp to stay dark for a night. Confirm the clock is in the right AM or PM before you leave it.",
+   "bestFor": "Bedside outlets that need a slim timer with a few programs.",
+   "pros": [
+    "Slim body does not block the second socket",
+    "Three daily programs cover morning, evening and night",
+    "Preserves settings up to three months in an outage",
+    "Always on, auto and always off modes"
+   ],
+   "cons": [
+    "Only 24-hour schedules, not weekday and weekend",
+    "Backup holds settings for three months only"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0C6XKGQLD?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31TymVskJjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01LPSGBZS",
+   "badge": "Best Value Mechanical",
+   "name": "BN-LINK U47 Mini 24-Hour Mechanical Timer, 3-Prong, 2 Pack",
+   "specs": [
+    "2 pack",
+    "30 min steps",
+    "3-prong",
+    "24 hour"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Mechanical dial"
+    },
+    {
+     "label": "Intervals",
+     "value": "30 minutes"
+    },
+    {
+     "label": "Plug",
+     "value": "3-prong grounded"
+    },
+    {
+     "label": "Settings",
+     "value": "Up to 24 on and off per day"
+    },
+    {
+     "label": "Operation",
+     "value": "Pins down means on"
+    }
+   ],
+   "description": "The BN-LINK U47 is a mini 24-hour mechanical timer in a two-pack with 30 minute intervals, a three-prong plug and up to 24 on and off settings per day. Pins down mean on and pins up mean off.\n\nA mechanical timer has no screen and no batteries, so it is simple and reliable for a daily lamp. The 30 minute step is fine for most lamps. It repeats the same schedule every day, which is its limitation. It sits at a lower price tier than the digital models. It is a solid first timer for a holiday lamp.\n\nPush pins down for the on times and rotate the dial to the current time. Wrap a small sticker on the dial to mark the current time position, and push the pins down in clear blocks so you can read the schedule at a glance. A mechanical timer needs a reset after a power cut.",
+   "bestFor": "Simple daily lamp schedules at a low cost.",
+   "pros": [
+    "Two-pack at a low price tier",
+    "30 minute pins are easy to set with no menu",
+    "No screen or battery to fail",
+    "Up to 24 on and off settings per day"
+   ],
+   "cons": [
+    "Same schedule every day with no weekday option",
+    "Dial ticks audibly in a quiet bedroom"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B01LPSGBZS?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41itTnPyv0L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07YQKNC4D",
+   "badge": "Best Dual Outlet Mechanical",
+   "name": "GE 24-Hour Plug-In Mechanical Timer, 2 Grounded Outlets, 2 Pack",
+   "specs": [
+    "2 pack",
+    "2 outlets each",
+    "Pushpin",
+    "24 hour"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Mechanical, pushpin"
+    },
+    {
+     "label": "Intervals",
+     "value": "30 minutes"
+    },
+    {
+     "label": "Outlets",
+     "value": "2 grounded each"
+    },
+    {
+     "label": "Setup",
+     "value": "No Wi-Fi or apps"
+    },
+    {
+     "label": "Pack",
+     "value": "2 timers"
+    }
+   ],
+   "description": "GE's mechanical timer has two grounded outlets, 30 minute pushpin scheduling and works without Wi-Fi or apps. It is sold as a two-pack.\n\nTwo outlets let you time two lamps from one plug, and the grounded plugs accept modern three-prong lamps. A GE name gives some confidence in build. Compared with the BN-LINK U47, it has two outlets and a larger body that can block adjacent sockets. It suits a room where one plug needs to run two lamps.\n\nSet the pins, check that the total load stays within the rated limit and rotate to the current time. Because the body is larger, plug it into the bottom outlet and use a short extension if the upper socket matters. Set both outlets with the same schedule unless you use the second for a different device.",
+   "bestFor": "Two lamps on one plug with a simple mechanical schedule.",
+   "pros": [
+    "Two grounded outlets per timer",
+    "30 minute pushpins are easy to set",
+    "No Wi-Fi, app or battery needed",
+    "Two-pack covers two locations"
+   ],
+   "cons": [
+    "Larger body can block neighboring sockets",
+    "Same schedule every day"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07YQKNC4D?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41k8pPRmU5L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01LPT0IQA",
+   "badge": "Best 2-Prong",
+   "name": "BN-LINK Mechanical 2-Prong 24-Hour Mini Lamp Timers, 2 Pack",
+   "specs": [
+    "2 pack",
+    "2-prong",
+    "30 min steps",
+    "24 hour"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Mechanical dial"
+    },
+    {
+     "label": "Plug",
+     "value": "2-prong polarized"
+    },
+    {
+     "label": "Intervals",
+     "value": "30 minutes"
+    },
+    {
+     "label": "Settings",
+     "value": "Up to 24 on and off per day"
+    },
+    {
+     "label": "Use",
+     "value": "Lamps, fish tank, fans"
+    }
+   ],
+   "description": "BN-LINK's two-prong version is a 24-hour mechanical timer in a two-pack with 30 minute intervals and up to 24 on and off settings per day. It suits lamps, fish tanks and fans.\n\nMany older lamps and small devices use two-prong plugs, and a three-prong timer will not fit them. This model solves that. It sits at the lowest price tier among the BN-LINK timers. Compared with the U47, the only difference is the plug. It is the answer for an older lamp that no three-prong timer fits.\n\nPush pins down for on times and rotate to the current time. Check the plug blade shapes before you buy, since a polarized plug has one blade wider than the other and the timer must match. Use it for fans and a fish tank light as well as lamps.",
+   "bestFor": "Two-prong lamps and older devices.",
+   "pros": [
+    "Two-prong plug fits older lamps and small devices",
+    "Lowest price tier in the BN-LINK range",
+    "30 minute pins are easy to set",
+    "No screen or battery to fail"
+   ],
+   "cons": [
+    "Same schedule every day",
+    "No grounding for three-prong devices"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B01LPT0IQA?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413Cy3GTtdL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07GBK39LG",
+   "badge": "Best Slim Digital",
+   "name": "BN-LINK Slim 24H Programmable Digital Timer, 1 Outlet, 2 Pack",
+   "specs": [
+    "2 pack",
+    "2 programs",
+    "1875 W",
+    "Backup battery"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Digital, slim"
+    },
+    {
+     "label": "Programs",
+     "value": "2 daily on/off programs"
+    },
+    {
+     "label": "Rating",
+     "value": "125V, 15A, 1875W"
+    },
+    {
+     "label": "Buttons",
+     "value": "5 function buttons"
+    },
+    {
+     "label": "Backup",
+     "value": "Built-in battery"
+    }
+   ],
+   "description": "BN-LINK's slim digital timer supports two daily repeating on and off programs, has five function buttons with a clear display, is rated 125V, 15A and 1875W and has a built-in backup battery. It runs quietly for bedrooms and living rooms.\n\nA quiet digital timer is easier to live with than a ticking dial in a bedroom. Two programs cover a morning and an evening. Compared with the DEWENWILS, it has one fewer program and a stated 1875 W rating. It is the middle choice between a dial and a full 7-day unit.\n\nSet the clock, program the times and test the lamp. Use the two programs for a morning and an evening, and avoid overlapping times. The built-in battery keeps the clock, but plan a reset if the power is out for a long time.",
+   "bestFor": "Bedrooms and living rooms that want a quiet digital timer.",
+   "pros": [
+    "Quiet digital operation suits bedrooms",
+    "Two daily programs cover morning and evening",
+    "Rated 1875 W for most lamps and fans",
+    "Built-in battery backup holds settings"
+   ],
+   "cons": [
+    "Only two programs per day",
+    "Menu is less flexible than the 7-day model"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B07GBK39LG?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31yjPeb1rmL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D7ZWGXGP",
+   "badge": "Best Smart Plug",
+   "name": "GHome Smart Plug, Wi-Fi and Bluetooth, Works with Alexa and Google",
+   "specs": [
+    "Wi-Fi",
+    "Bluetooth",
+    "Voice control",
+    "App"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Smart plug"
+    },
+    {
+     "label": "Connection",
+     "value": "Wi-Fi or Bluetooth"
+    },
+    {
+     "label": "Voice",
+     "value": "Alexa and Google Assistant"
+    },
+    {
+     "label": "Control",
+     "value": "App from anywhere"
+    },
+    {
+     "label": "Use",
+     "value": "Lamps and light timers"
+    }
+   ],
+   "description": "GHome's smart plug supports Wi-Fi or Bluetooth connections, voice control with Alexa and Google Assistant and app control from anywhere, with scheduling for lamps.\n\nA smart plug lets you change a schedule from your phone and add sunset-based routines, which a dial cannot do. It depends on your Wi-Fi and the app, and a cloud service outage can affect it. It sits at the highest price tier here. Compared with the mechanical timers, it is far more flexible but also more complicated. It is the most flexible option here.\n\nSet it up on 2.4 GHz Wi-Fi and name each plug by room. Name each plug by room so voice commands work reliably, and keep a plain timer on a lamp you rely on if the Wi-Fi is flaky. Check that the app updates before you depend on it.",
+   "bestFor": "Homes that want phone and voice control of lamps.",
+   "pros": [
+    "App control lets you change schedules from anywhere",
+    "Alexa and Google voice control are supported",
+    "Wi-Fi or Bluetooth connection options",
+    "Scheduling supports changing routines"
+   ],
+   "cons": [
+    "Highest price tier among the seven timers",
+    "Depends on Wi-Fi and a maker app"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B0D7ZWGXGP?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415vGdkEL8L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Mechanical, digital or smart",
+   "explanation": "Mechanical dials like the BN-LINK U47 are the cheapest and repeat one 24-hour schedule. Digital timers like the BN-LINK 7-day and DEWENWILS add multiple programs and days. Smart plugs like the GHome add app and voice control but depend on Wi-Fi. Many households use a mix of both."
+  },
+  {
+   "criterion": "Plug type",
+   "explanation": "A three-prong timer fits grounded lamps, and a two-prong timer fits older lamps. The BN-LINK 2-prong model is for older devices. Check the plug on your lamp first, since a mismatch means returning the timer. Lamp cord blades should match the timer's blades."
+  },
+  {
+   "criterion": "Programs and intervals",
+   "explanation": "Mechanical timers use 30 minute steps. The BN-LINK 7-day offers eight programs with individual days, and the DEWENWILS three. A random mode varies times for a vacation look. Choose based on how varied your schedule is. Random modes work best on digital timers."
+  },
+  {
+   "criterion": "Load rating",
+   "explanation": "Standard lamp timers are rated at about 15 amps and 1875 watts resistive. The DEWENWILS lists 125V 15A and the BN-LINK slim lists 1875 W. A lamp uses far less, but heaters and large motors need a rated timer. Heaters and big appliances should use a rated outlet, not a lamp timer."
+  },
+  {
+   "criterion": "Backup and outage behavior",
+   "explanation": "The DEWENWILS keeps settings up to three months and the BN-LINK slim has a battery. Mechanical dials stop in a power cut and fall behind. Digital timers without backup need a reset. A battery backup is a good feature for a bedroom lamp."
+  },
+  {
+   "criterion": "Size and outlet blocking",
+   "explanation": "A bulky timer blocks the neighboring socket on a duplex outlet. The DEWENWILS is described as slim, while the GE mechanical timer is larger. Check your outlet space. A short extension cord can free a blocked socket."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Interval",
+   "meaning": "The smallest step you can schedule. Mechanical dials use 30 minutes, digital models can go to 1 minute.",
+   "watchFor": "The BN-LINK U47 and GE use 30 minutes. A shorter interval allows finer control."
+  },
+  {
+   "spec": "Grounded outlet",
+   "meaning": "A three-prong outlet that accepts modern three-prong plugs.",
+   "watchFor": "The BN-LINK 7-day and GE have grounded outlets, while the 2-prong model does not. A modern lamp usually has a three-prong plug."
+  },
+  {
+   "spec": "1875 W rating",
+   "meaning": "The maximum resistive load for a 15 A, 125 V timer.",
+   "watchFor": "The BN-LINK slim lists 1875 W, so check the rating of other models. Check the rating label on the timer body."
+  },
+  {
+   "spec": "Vacation random mode",
+   "meaning": "A setting that varies the on and off times a little each day to look occupied.",
+   "watchFor": "The BN-LINK 7-day has it, while mechanical dials do not. A random mode cannot match a real person."
+  },
+  {
+   "spec": "Battery backup",
+   "meaning": "A small battery that keeps settings during an outage.",
+   "watchFor": "The DEWENWILS states three months, while the slim BN-LINK has a built-in battery. A backup does not last forever."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Schedule flexibility",
+   "description": "We evaluated programs, intervals and day options, including the BN-LINK 7-day's eight programs and the mechanical 30 minute steps. We favored flexibility where needed. We noted fixed daily repeats. We did not assume a feature that a listing did not state."
+  },
+  {
+   "title": "Plug and fit",
+   "description": "We compared plug types and body size, from two-prong to grounded dual outlets. The DEWENWILS slim body stood out. We noted outlet blocking."
+  },
+  {
+   "title": "Load and safety",
+   "description": "We read stated ratings, including 125V 15A and 1875 W. We noted that lamps use much less. We flagged heavy loads. We did not assume ratings where a listing gave none."
+  },
+  {
+   "title": "Backup and noise",
+   "description": "We looked at battery backup and dial ticking. Digital models with backup scored higher for bedrooms. Dials scored lower for noise."
+  },
+  {
+   "title": "Value and ownership",
+   "description": "We used each product's relative price tier only to order the field. Setup time and replacement were weighed alongside. All scores are editorial assessments, not measurements. Where a listing was silent on a detail, we said so rather than guessing."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Schedule",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Same lamp schedule daily",
+      "BN-LINK U47",
+      "Simple mechanical"
+     ],
+     [
+      "Weekday and weekend",
+      "BN-LINK 7-day",
+      "Eight programs"
+     ],
+     [
+      "Bedside with few programs",
+      "DEWENWILS",
+      "Slim digital"
+     ],
+     [
+      "Phone and voice",
+      "GHome smart plug",
+      "App and voice"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "BN-LINK 2-prong",
+      "Cheapest two-pack"
+     ],
+     [
+      "Lower mid",
+      "BN-LINK U47",
+      "Three-prong mechanical"
+     ],
+     [
+      "Mid",
+      "BN-LINK 7-day or slim digital",
+      "Programmable digital timers"
+     ],
+     [
+      "Highest tier",
+      "GE dual outlet or GHome",
+      "Two-pack dual outlets or smart plug"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Mechanical vs Digital",
+   "cards": [
+    {
+     "label": "Mechanical",
+     "text": "The BN-LINK U47, GE and 2-prong models are cheap, battery-free and simple. They repeat one schedule and tick audibly."
+    },
+    {
+     "label": "Digital",
+     "text": "The BN-LINK 7-day, DEWENWILS and slim BN-LINK offer programs and backups. They need a minute of setup."
+    }
+   ],
+   "note": "Choose mechanical for a simple lamp and digital for changing routines. If you are unsure, start with a mechanical timer and upgrade if you need more."
+  },
+  {
+   "subheading": "By Plug",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Modern lamp",
+      "BN-LINK U47",
+      "Three-prong grounded"
+     ],
+     [
+      "Older lamp",
+      "BN-LINK 2-prong",
+      "Two-prong"
+     ],
+     [
+      "Two lamps",
+      "GE or BN-LINK 7-day",
+      "Dual outlets"
+     ],
+     [
+      "Crowded outlet",
+      "DEWENWILS",
+      "Slim body"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Vacation Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A random mode, multiple programs and a way to hold settings through a power cut."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The BN-LINK 7-day has random mode and the DEWENWILS holds settings. Both options keep a schedule running while you are away."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want varied schedules, a vacation mode or phone control. A digital unit also lets you test a schedule before you leave."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need a lamp on in the evening, where a mechanical timer is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Reset the time after a power cut",
+   "interval": "After each outage",
+   "why": "Dials and some digital timers lose time. Rotate or reset to the current time. Mark the correct time on a calendar reminder."
+  },
+  {
+   "task": "Check the plug seating",
+   "interval": "Every six months",
+   "why": "Loose plugs heat up. Push them fully into the outlet. Loose plugs can also cause flicker."
+  },
+  {
+   "task": "Check the load",
+   "interval": "At install",
+   "why": "Do not exceed the rated wattage. Lamps are fine, but heaters are not."
+  },
+  {
+   "task": "Test the schedule",
+   "interval": "After setup",
+   "why": "A wrong AM or PM is the most common error. Watch the first on and off."
+  },
+  {
+   "task": "Replace the backup battery",
+   "interval": "As the maker advises",
+   "why": "Backup batteries fade. Replace them to keep settings."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which lamp timer is best for bedrooms?",
+   "a": "A quiet digital timer like the DEWENWILS or the slim BN-LINK. Mechanical dials tick. Dials tick audibly in a quiet room. A quiet digital model also avoids the faint clicking that wakes light sleepers."
+  },
+  {
+   "q": "Can I use a timer with LED bulbs?",
+   "a": "Yes, and LEDs draw very little. Check the timer's minimum load if it flickers. A minimum load note on the timer is worth reading."
+  },
+  {
+   "q": "What is the maximum load?",
+   "a": "Most are rated about 15 amps and 1875 watts. A lamp is well below that. Check the rating label on the timer body."
+  },
+  {
+   "q": "Do I need a two-prong or three-prong timer?",
+   "a": "Match the plug on your lamp. Two-prong lamps need a two-prong timer. A two-prong plug will not fit a grounded outlet. Check the plug on the lamp cord before ordering, since a three-prong timer will not fit a two-prong lamp."
+  },
+  {
+   "q": "What happens in a power cut?",
+   "a": "Mechanical dials fall behind. Digital models with backup hold settings for months. A backup battery is useful in a storm-prone area. Resetting takes a minute, so write the steps on a sticky note."
+  },
+  {
+   "q": "Is a smart plug better?",
+   "a": "It is more flexible but depends on Wi-Fi and an app. A simple timer is more reliable. A cloud outage can disable a smart plug."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31V1SqmHhmL._SL500_.jpg"
+}

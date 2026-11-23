@@ -1,0 +1,16 @@
+# board-game-storage cluster (cases, bags, shelves for games and puzzles)
+- Many modern game boxes are roughly square, about 11 to 12 in a side, but sizes vary widely; measure your tallest and widest box before buying cases.
+- Clear cases are used to slim down a collection by moving boards, cards and tokens out of oversize boxes; the original box is often kept flat for the rulebook.
+- Discarding original boxes loses art, rules reference and some resale value; collectors usually keep them.
+- A4 and letter size cases (about 12 to 13 in outside) fit many boards folded flat but not large map boards.
+- Case depth matters: 1.5 to 2 in suits cards and tokens; 3 in holds more pieces and small boxes.
+- Latches and handles: snap latches keep lids on when carried; cheap latches can crack with repeated use.
+- Clear PET and polypropylene plastics resist yellowing differently; PET is generally clearer and stiffer; polypropylene is flexible and can warp when hot.
+- Zippered mesh pouches suit puzzle pieces and card sets; mesh lets you see contents but does not protect from crushing.
+- Stackable cases need flat lids or interlocking feet; check stack stability when loaded.
+- Labels on the spine or lid save time; paper label slots or a marker on tape works.
+- Shelf space: store boxes flat in stacks of three to five to avoid crushing the bottom box.
+- Moisture and heat warp cardboard; avoid attics, basements and sunny windows.
+- Bags and small zip pouches keep tokens sorted by color and type for faster setup.
+- Cases do not fix a missing piece; check the count once before sealing.
+- Plastic labeled BPA free is a maker claim; look for plain material names like PET or polypropylene.
