@@ -30,3 +30,11 @@
 - Picks split into best overall, best value cordless, pet hair, car and premium categories.
 - Several guides are dated 2022 to 2023, so current model coverage is thin.
 - Gap: peak Pa claims on cheap units versus air watts, wall mount charging, and dust cup size honesty.
+
+## best-leather-conditioners-for-sofas
+- Guides name Leather Honey, Bickmore, Furniture Clinic, Lexol and Chemical Guys; advice is to use oil-based conditioners without waxes or silicones, avoid mink oil, add UV protection for sunny rooms and check the product suits finished upholstery leather.
+- Gap: pigmented versus aniline leather tolerance, patch testing, and that faux leather needs no conditioner.
+
+## best-fabric-shavers
+- Guides name Conair, AlwaysLux, Steamery and Electrolux; electric shavers with adjustable height suit thick fabrics and manual ones give control on delicate items.
+- Gap: upholstery-specific use (couch, blankets), blade guard and cut depth, battery runtime and fabric damage risk.

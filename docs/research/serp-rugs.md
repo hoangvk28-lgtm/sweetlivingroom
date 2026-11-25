@@ -158,3 +158,37 @@
 - Sizing advice stresses measuring the room because mats look smaller or larger than in photos.
 - Several lists are dated or use UK pricing; living room fit and cleaning are discussed less than safety.
 - Gap: slip on hard floors, how foam thickness compresses with weight, and washing a one-piece foam mat versus a cover.
+
+## best-area-rugs-under-100
+- Roundups mostly show 5x7 or 5x8 rugs at this cap and note larger sizes cost more; machine-washable brands appear often.
+- Pile height, pad need and style (shag, Berber, patchwork) lead the advice.
+- Gap: that an 8x10 at this cap is a different build, home washer limits, and backing that cracks in dryers.
+
+## best-area-rugs-under-200
+- Lists at this cap emphasise looks-expensive picks and larger sizes, often 6x9 or 8x10, with wool-look and washable options.
+- Gap: how much of the extra budget goes to size versus thickness, and what laundromat-only washing means in practice.
+
+## best-4x6-area-rugs
+- Results are mostly retailer pages; one buying guide names a shag pick, notes washable 4x6 options from Ruggable and Birch Lane, and recommends a non-slip pad.
+- Gap: where a 4x6 actually fits, true size versus nominal, pile and backing, and washing limits at this size.
+
+## best-12x15-area-rugs
+- Results are retailer listings; buying guides say a 12x15 anchors a king bed with nightstands and a large dining table, and advise synthetic performance rugs for spills and dark colors to hide dirt.
+- Gap: that washable 12x15 rugs rarely fit a home washer, laundromat limits, thin build and flatness out of the box.
+
+## best-scandinavian-rugs
+- Guides name flatweave and Rya pile rugs as natural Scandinavian fits and suggest ivory, warm grey, slate and muted blue with low contrast; picks span Nourison and washable arch rugs.
+- Most lists are retailer or affiliate content.
+- Gap: that Scandinavian is a style label on many budget rugs, wool flatweave versus polyester, and wash limits.
+
+## best-southwestern-rugs
+- Guides describe repeated geometric motifs, stepped patterns and stripes in sand, terracotta, goldenrod, denim and teal; kilim and vintage sources are offered for authenticity, and 8x10 or larger suits living rooms.
+- Gap: cabin and western looks versus real tribal weaving, washable backing and fade, and honest labelling of style versus origin.
+
+## best-oversized-area-rugs
+- Sources define oversized as 10x14 or larger or relative to the room, suggest 10x14 minimum for great rooms and two 9x12 rugs for long spaces.
+- Gap: delivery weight and folds, washing impossibility, and flat floor ripples at 12x18.
+
+## best-stain-resistant-rugs
+- Retailer results say polypropylene is stain resistant and durable, polyester is a budget fiber for moderate traffic, and viscose is very absorbent; washable rugs ease cleanup for pets and kids.
+- Gap: stain resistant versus stain proof, washing limits at large sizes, and what treatments wear off.

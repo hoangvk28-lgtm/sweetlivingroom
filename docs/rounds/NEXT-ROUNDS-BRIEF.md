@@ -81,3 +81,35 @@ best-accent-chairs-for-small-spaces.
    3,000 to 3,800 word window. Writers aim just over the floor (3,001 to 3,094) and land
    first time; the coordinator aimed near 3,800 and needed nine `finish.mjs` runs.
    Keep the writer-agent split.
+
+## RESUME 2026-11-25 (round 7, 59 best guides) - built and committed locally, NOT pushed
+
+- Rounds 1 to 6 published through 2d0520e. Round 7 is committed locally only.
+- Theme (user instruction): competitive niche long-tails plus price-intent keywords.
+  18 `-under-N` budget guides and 41 qualifier niches (materials, styles, sizes).
+  User explicitly chose numeric caps in slug and title over "budget/cheap" wording;
+  `selfcheck.mjs` already allowed exactly the slug's cap and nothing else, so there is
+  no conflict with CLAUDE.md section 3.
+- Topics: `scripts/clone/list-r7.tsv` / `.txt` (60). Stage A DONE for all, do not rerun.
+- Dropped before writing after eyeballing lineups: best-camelback-sofas (1 to 2 real
+  camelback items, the rest sleepers and house paint), best-apartment-size-sofas
+  (generic small sectionals, overlaps the published small-space guides). Both `skip`.
+  Replaced by best-fluted-coffee-tables and best-arched-bookshelves, both clean.
+- Near-dup check dropped best-curtain-liners (only 2 items in Stage A) and
+  best-furniture-sliders (already a `skip` row); replaced by best-stain-resistant-rugs
+  and best-low-profile-tv-stands.
+- Writer: ONE Sonnet agent over all 60 in a continuous run, about 937k agent tokens.
+- Skipped by the writer: best-led-light-bars (keyword resolves to truck light bars),
+  reason in `scripts/clone/work/skips-r7.txt`, row set to `skip`.
+- Two coordinator fix rounds sent back to the same agent (cheap, it kept its context):
+  10 specs failed `audit-guides.mjs` on "intro has spec numbers" (the audit allows at
+  most ONE spec figure in introParagraphs; selfcheck does not check this, so writers
+  keep hitting it). Worth adding to the brief. Also de-overlapped
+  best-accent-chairs-under-200, which shared 3 of 5 picks with best-accent-chairs.
+- Gates all green: 59/59 `finish.mjs` ok/built/audit ok, `lineup-overlap.mjs` shows no
+  round-7 pair at or above 0.5, `npx tsc --noEmit` 0 errors, `npm run lint` 0 errors
+  (4 pre-existing warnings), `npx next build` Compiled successfully + Finished
+  TypeScript, 571 static pages, 1617 files in out/, asset 404 check clean, no dashes,
+  no brackets, and the only dollar figures in round-7 guides are the slugs' own caps.
+- Registry, files and data/guides.ts all agree: 532 guides.
+- Remaining: push on the user's explicit approval only.

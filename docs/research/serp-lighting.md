@@ -191,3 +191,32 @@
 - Standard lamp timers carry roughly a 15 amp, 1875 watt resistive rating; a bedside-friendly silent switch is a common pick criterion.
 - Most pages are affiliate listicles; two-prong versus three-prong plug type and load limits are barely covered.
 - Gap: LED dimmable loads and minimum wattage, vacation randomization, and what happens after a power outage.
+
+## best-floor-lamps-under-100
+- Roundups at this cap lean on style (midcentury, tripod, arc, brass) and name tripod and LED picks; many cite review counts.
+- LED versus bulb-replaceable and reading versus ambient use are the main splits.
+- Gap: lumen and Kelvin numbers, base weight and tip risk, and sealed LED driver failure.
+
+## best-table-lamps-under-50
+- Roundups at this cap name mushroom, cordless, tripod and ceramic styles and emphasise looking expensive.
+- Touch dimming, USB ports and bulb-included status are the practical splits; rechargeable cordless lamps appear often.
+- Gap: bulb size versus shade, touch sensor behavior, USB output limits and lamp height for a nightstand.
+
+## best-smart-floor-lamps
+- Roundups (many brand or affiliate) pick Govee models as overall and budget picks and also name Dyson and Neewer; advice is to check voice-assistant and app compatibility first and to look for more than 1,500 lumens for large rooms.
+- Gap: Matter support, what RGBIC means, kelvin range, and app dependence.
+
+## best-smart-ceiling-fans
+- Roundups name the Dreo with lights as a top overall pick for 12 speeds and the app, Haiku as a premium pick and Hunter for HomeKit support; many are affiliate lists across 2022 to 2026.
+- Gap: CFM figures as maker claims, ceiling height and flush versus downrod, motor noise and electrical box rating.
+
+## best-led-light-bars
+- Results are vehicle and off-road light bar reviews; the keyword does not map to a living room product, so the topic was skipped.
+
+## best-ceiling-fan-light-kits
+- Guides (dated) pick brand-matched kits, stress that kits are not universally compatible between fan brands, and mention Energy Star kits and wet-location ratings for patios.
+- Gap: fitter size and bulb base, wattage cap, pull chain versus remote and honest compatibility checks.
+
+## best-dusk-to-dawn-bulbs
+- Roundups pick Torchstar, Sunco and GE bulbs, advise a photocell sensor, an IP rating and a suitable color temperature; bug-light amber variants appear.
+- Gap: sensor placement near other lights, enclosed fixture limits, dimmer incompatibility and sensor failure.

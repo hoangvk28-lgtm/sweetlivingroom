@@ -93,3 +93,18 @@
 - Retail pages dominate results; independent comparisons are sparse.
 - Guides lean on style first, dimensions second.
 - Gap: ottoman height versus seat height, honest chair footprint with the ottoman out, and whether the ottoman is movable.
+
+## best-accent-chairs-under-200
+- Roundups split picks by style (mid-century, barrel, swivel, PU leather) and warn that some listings sell a pair, so check what the price covers.
+- Comfort, lumbar pillows and small-space fit lead the advice; many pages quote ratings and sale prices.
+- Gap: seat height and depth numbers, frame wording, and PU peeling in year three.
+
+## best-accent-chairs-under-300
+- Guides at this cap lean on small-space and designer-look framing, with chenille, boucle and linen fabrics.
+- Spring and foam construction is rarely explained.
+- Gap: what the extra budget buys over the lower cap (pocket coils, solid frame, size) and pair-versus-single listing traps.
+
+## best-high-back-accent-chairs
+- Roundups tie high backs to comfort, advising deeper seats, proper arms and neck support; named picks span wingbacks and mid-century shapes.
+- Seat depth, arm height and back support are the buying checks; Houzz-style listings dominate results.
+- Gap: back height versus seat dimensions, wing shape and head support, and boucle and sherpa fabric care.

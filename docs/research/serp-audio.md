@@ -64,3 +64,8 @@
 - Advice: check mount weight rating against speaker weight and size, since side clamps are sized by width; mount to studs or masonry for heavy speakers.
 - Several lists are dated (2021).
 - Gap we cover: thread types for rears, clamp marks on veneers and wall limits.
+
+## best-soundbars-under-200
+- Review sites lead with dialogue clarity, subwoofer inclusion and HDMI eARC; most picks overlap across outlets.
+- Atmos at this cap is called rare or virtualized; compact versus with-sub is the main split, and some outlets cite lab testing.
+- Gap: honest framing of virtual Atmos, TV port requirements, soundbar height versus the TV stand and peak-watt marketing.

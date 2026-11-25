@@ -61,3 +61,29 @@
 - Soundproofing advice: seal gaps first, then add mass and absorption; curtains alone block modest sound.
 - Many lists are affiliate driven and dated.
 - Gap we cover: honest limits, felt liner mass, overlap and heavy rod hardware.
+
+## best-curtains-under-50
+- Roundups across retailers show many pairs under this cap at standard lengths; cafe and sheer panels are common budget picks.
+- Quality guides stress length, panel width and lining; many pages are retailer category listings.
+- Gap: panel width versus window width, single-panel versus pair listings, and 100 percent blackout claims versus top and side light gaps.
+
+## best-extra-long-curtains
+- A recent roundup picks 120 in blackout panels and a 108 in linen-look set; sources note 120 in lengths exist but are uncommon and 144 in or more is sold for two-story rooms.
+- Many results are about shower curtains, a keyword trap; gap: measuring rod to floor, heading choice for tall windows and panel weight on rods.
+
+## best-96-inch-curtains
+- Results are retailer listings; Best Home Fashion, NICETOWN and Curtainking appear as best sellers, and one listing advises measuring from the rod or track, not the window.
+- Gap: where 96 in is the right length (rod height versus ceiling), linen blend wrinkling and blackout claims.
+
+## best-tension-curtain-rods
+- Guides pick tension rods for no-drill hanging, advise at least 1 in diameter for blackout or heavy drapes and a strong spring; many picks are shower rods.
+- Gap: weight limits, window frame fit and slip, and why tension rods suit light curtains best.
+
+## best-bay-window-curtain-rods
+- BestReviews picks a double bay rod and says bay rods cost more, are fussier to hang and benefit from hinge care or plastic track; alternatives are straight rods per window section.
+- Guides stress that brackets must carry drapery weight and to measure the bay's number of sides.
+- Gap: bracket count, swivel connector wobble, load limits and honest 3-sided only labelling.
+
+## best-double-curtain-rods
+- Roundups name the Umbra Twilight as a top double rod, but note missing mounting parts and flimsiness with heavy curtains; metal rods offer the best quality.
+- Gap: projection for layering, rod thickness (0.6 versus 0.8 mm), wrap-around versus flat rods and light leaks.

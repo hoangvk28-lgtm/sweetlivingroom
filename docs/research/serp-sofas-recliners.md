@@ -91,3 +91,77 @@
 - Buyer tips repeat: match step height to the couch, check the weight rating, and look for a non-slip base and a removable washable cover.
 - Weight limits in listings range from small-dog ratings to large-dog ratings; folding models can wobble.
 - Gap: honest seat-height measuring, foam compression under a heavy dog, and whether a ramp or steps suits older joints.
+
+## best-sofas-under-500
+- Top lists stress that a true sofa at this cap is hard to find; they split picks into loveseats, sleepers and small sectionals.
+- Frame material (solid or metal over composite) and fabric lead the buying advice; sale-price caveats are common.
+- Several lists mix retailer sale prices, so honest cap wording is a gap.
+- Gap: delivery path and foam softening in year two.
+
+## best-sofas-under-1000
+- Roundups split by style (tailored, boucle, modular) and note solid wood frames and no-sag springs as the upgrade over cheaper sofas.
+- Many mix in sleepers and sectionals; size for small spaces is a recurring angle.
+- Gap: what the extra budget concretely buys over the lower cap and listing-spec traps on frame wording.
+
+## best-sectionals-under-1000
+- Guides split picks into modular, reversible-chaise and U-shaped options and cite how many seats the price allows.
+- Dimensions and fabric quality vary widely; buyers are told to check measurements first.
+- Gap: L versus U floor footprint, seat depth figures that actually mean chaise length, left or right chaise lock-in.
+
+## best-recliners-under-300
+- Guides recommend manual mechanisms, steel frames and microfiber or faux leather at this price; power models often lack USB.
+- Weight limits (around 264 to 300 lb) and small-space or RV fit lead the comparisons.
+- Gap: massage and heat reality on budget chairs and swivel-rocker base wear.
+
+## best-recliners-under-500
+- Roundups lean on PU leather and velvet options and flag PU wear at stress points after a few years; manual push-back models dominate the cheap end.
+- Compact width (around 24 to 30 in), recline positions and swivel/rocker bases are the common comparison points.
+- Many pages quote ratings and sale prices, which is risky; power lift models often land just over the cap.
+- Gap: what the upper band of this cap buys (swivel and glider hardware, USB, extra massage points) over the lower cap.
+
+## best-sleeper-sofas-under-1000
+- Roundups mix pull-out sleepers, futons and convertible sofas; guides name one budget pick per type and warn about thin mattresses.
+- Mattress thickness, bed size and under-seat storage that fits bedding are the standout criteria; weight and size of the sofa get flagged.
+- Gap: open-length clearance, bar-through-the-back risk, and whether queen is a true mattress size.
+
+## best-linen-sofas
+- Top guides separate true linen from linen-look polyester and linen blends and tell buyers to check fabric content first.
+- Picks split by cloud style, slipcovered, family-friendly classic and value; many are high-end and cite lab-style testing.
+- Gap: honest creasing and staining tradeoffs, removable-cover washing limits and what a budget linen-look sofa really is.
+
+## best-performance-fabric-sofas
+- Results are mostly retailer guides that define performance fabric (stain-resistant, durable weaves) and name olefin, textured weave and treated chenille types.
+- Rub count (durability rating) is cited as the way to compare fabrics; independent testing is thin and brand lists carry commercial bias.
+- Gap: what the marketing term does and does not promise, how to ask for rub counts and swatches, and cover washing limits.
+
+## best-corduroy-sofas
+- Guides cover jumbo cord, vintage and modular styles, and split picks by budget, narrow rooms and large sectionals.
+- Some pages discuss whether corduroy is durable; many are retailer-linked and cite price tiers.
+- Gap: wale width, crushing and flattening at arms and seat edges, pet claw behavior and cleaning limits.
+
+## best-track-arm-sofas
+- Guides define track arms as straight, square arms and say they save space and support pillows; picks span budget (Serta Palisades) to premium custom.
+- Budget versus mid-century versus tailored premium are the main splits; sources conflict on listed dimensions.
+- Gap: arm width versus seat width, attached versus loose cushions, and checking listing dimensions across variants.
+
+## best-tufted-sofas
+- Results are shopping pages and listicles; Chesterfield, channel-tufted, tuxedo and mid-century styles are the main categories, in velvet or leather.
+- Few pages explain how tufting wears; gap: button loosening, crumb traps, leather grades and what a tufted back does to seat comfort.
+
+## best-deep-seat-sofas
+- Roundups define deep as roughly 30 in or more against a normal 20 to 25 in and name premium brands; budget cloud sectionals appear at the low end.
+- Gap: that deep seats shrink shorter sitters' support, overall footprint versus rug coverage, and what seat depth figures really measure.
+
+## best-l-shaped-sectionals
+- Guides split small (under about 100 in), medium and large (over 109 in) L-shapes and name cloud sectionals as value picks; many pages are affiliate-driven.
+- Gap: chaise side lock-in, boxed delivery, and corner floor footprint.
+
+## best-reversible-sectionals
+- Guides say reversible sectionals are cheaper, less flexible cousins of modular sofas and that reversibility is a chaise-attachment feature, not a durability tradeoff.
+- Picks split into overall, budget, storage, sleeper and modular; many pages are affiliate-driven.
+- Gap: whether the ottoman or chaise really moves, connector quality and the storage lid and hinge.
+
+## best-small-recliners
+- Guides point to compact PU leather push-backs, wall huggers and swivel gliders; one cites 20 to 22 in internal seat width and warns small chairs may not suit tall or large users.
+- Standard recliners run 35 to 42 in wide and need 12 to 18 in of wall clearance, so wall-hugger and swivel types are the space savers.
+- Gap: extended length versus width, footrest clearance, weight rating and glider versus swivel wear.
