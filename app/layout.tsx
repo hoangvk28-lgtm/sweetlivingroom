@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { Fraunces, Inter } from "next/font/google";
+import localFont from "next/font/local";
 import Script from "next/script";
 import "./globals.css";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/seo";
 import { ScrollToTop } from "@/components/ScrollToTop";
 
-const fraunces = Fraunces({ variable: "--font-fraunces", subsets: ["latin"], display: "swap" });
-const inter = Inter({ variable: "--font-inter", subsets: ["latin"], weight: ["400", "500", "600", "700"], display: "swap" });
+const fraunces = localFont({ src: "./fonts/fraunces-variable.woff2", variable: "--font-fraunces", weight: "100 900", display: "swap" });
+const inter = localFont({ src: "./fonts/inter-variable.woff2", variable: "--font-inter", weight: "100 900", display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
