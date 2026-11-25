@@ -113,3 +113,51 @@ best-accent-chairs-for-small-spaces.
   no brackets, and the only dollar figures in round-7 guides are the slugs' own caps.
 - Registry, files and data/guides.ts all agree: 532 guides.
 - Remaining: push on the user's explicit approval only.
+
+## RESUME 2026-11-25 (round 8, 20 of 60 done) - committed locally, NOT pushed
+
+Round 7 (59 guides) is pushed as 4e9712c and pinged to IndexNow. Round 8 was cut to
+20 guides because the session neared its limit; the user will run the remaining 40 on
+a new account.
+
+### Done (20, lines 1 to 20 of scripts/clone/list-r8-A.txt)
+best-sectionals-under-500, best-loveseats-under-300, best-accent-chairs-under-100,
+best-ottomans-under-100, best-side-tables-under-100, best-coffee-tables-under-100,
+best-tv-stands-under-100, best-area-rugs-under-50, best-curtains-under-100,
+best-wall-art-under-50, best-floor-lamps-under-50, best-soundbars-under-100,
+best-projectors-under-500, best-tvs-under-500, best-massage-chairs-under-1000,
+best-electric-fireplaces-under-300, best-low-profile-sofas,
+best-english-roll-arm-sofas (only 4 products, all that exist on topic),
+best-down-filled-sofas, best-sofas-with-storage.
+All registered in both registries (552 guides). Gates green: audit ok on all 20,
+tsc 0 errors, lint 0 errors (4 pre-existing warnings), build Compiled successfully +
+Finished TypeScript, 1657 files in out/, asset 404 check clean, no dashes, no brackets,
+only the slugs' own caps as dollar figures, lineup-overlap has no round-8 pair at 0.5.
+
+### Remaining (40) - STAGE A IS ALREADY DONE, DO NOT RERUN IT
+`scripts/clone/list-r8-B.txt` holds all 40 in order. Every one has a
+`scripts/clone/work/<slug>.compact.json`. The `source-index.json` rows are already
+`inprogress`. Running Stage A again would waste Amazon API calls and change nothing.
+
+Unfinished slugs:
+  for s in $(cat scripts/clone/list-r8-B.txt); do [ -f data/guides/$s.ts ] || echo $s; done
+
+### Findings from round 8 worth carrying forward
+
+1. **A cap number that doubles as a spec number poisons Stage A.** Dropped before
+   writing: best-recliners-under-1000 (Amazon returned 1000 lb lazy susans and 1000 N
+   actuators, 4 items, no chairs) and best-bookshelves-under-200 ("200 lbs per shelf"
+   kits, 3 items under cap, plus a book). Check a cap against common load ratings
+   before adding it. best-hooked-rugs was dropped too: all 2x3 accent mats.
+   Replacements with clean lineups: best-faux-fur-throw-blankets, best-velvet-ottomans,
+   best-rotating-bookshelves (all three are in list-r8-B.txt).
+2. **One WebSearch per cluster instead of per slug cost nothing in quality.** The
+   writer did ZERO new searches for these 20, reusing docs/research/serp-*.md from
+   rounds 3 to 7, and every guide passed audit. Round 7 spent 60 searches on this.
+   Cost: round 7 about 16k agent tokens per guide, round 8 about 16k with no searches.
+3. **Put the intro rule in the writer prompt.** Round 7 lost 10 coordinator fix cycles
+   to `audit-guides.mjs` rejecting intros with more than one spec figure, a model code
+   or a brand name; `selfcheck.mjs` does not check this. Round 8's prompt stated the
+   rule and had zero intro failures. Better still: add the check to selfcheck.mjs.
+4. **Having the writer run `finish.mjs` itself, not just selfcheck**, removed the
+   coordinator's rework loop entirely.
