@@ -1,0 +1,21 @@
+# cleaning cluster (fabric protector sprays, wood furniture polish and related care products)
+- Fabric protectors do not make fabric stain proof; they make liquids bead for a short time so you can blot before it soaks in.
+- Always check the furniture cleaning code: W water based cleaner, S solvent only, WS either, X vacuum only; a protector should suit the code.
+- Test on a hidden spot and wait until dry (often a few hours) to check for darkening, stiffness or water rings.
+- Apply in light, even passes from a hand's length away; two light coats beat one soaked coat; let each coat dry per the label.
+- Cure time before sitting is usually several hours to a day; ventilate the room during and after spraying.
+- Protectors wear off with use, cleaning and sun; reapply on a schedule suggested by the maker, commonly every few months to a year for sofas.
+- Fluorochemical protectors have been linked to PFAS concerns; some brands now advertise PFAS free formulas using silicone or polymer based repellents; read the label rather than assuming.
+- Aerosol cans suit small jobs and spot treatment; pump bottles and larger refills suit whole sofas and are less wasteful of propellant.
+- Do not use on leather, suede or silk unless the product says so; these need dedicated leather or suede protectors.
+- Pretreat clean fabric only; spraying over dirt locks the dirt in.
+- Fabric protectors can slightly change the feel or sheen on some velvets and chenilles; velvet is the most likely to show marks.
+- Wood furniture polish types: wax (paste, builds a hard layer), oil (feeds dry wood, can attract dust), silicone spray (adds shine, can build up and make later refinishing harder), and cream polishes (cleaning plus light conditioning).
+- Match polish to finish: modern lacquer and polyurethane finishes need only gentle cleaning and light polish; oiled and waxed pieces need oil or wax.
+- Do not use polish on unfinished or raw wood; use an oil or wax made for that purpose.
+- Dust first with a dry microfibre cloth; polishing over grit scratches the finish.
+- Apply a thin film and buff along the grain with a clean cloth; heavy application leaves a sticky film and fingerprints.
+- Polish buildup causes cloudiness over years; wipe occasionally with a barely damp cloth or a mild soap to reset.
+- Avoid spraying polish directly on wood near edges and hardware; spray the cloth instead.
+- Test any polish on a hidden area first, especially on antiques and painted or veneered pieces.
+- Heat rings and water rings need different fixes from polish; polish does not repair deep scratches.

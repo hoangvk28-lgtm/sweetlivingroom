@@ -1,0 +1,5 @@
+Round 8 part B (40 slugs) - skip review 2026-11-25
+No slug skipped. Every slug in scripts/clone/list-r8-B.txt has at least 5 distinct
+real on-topic products in its .compact.json (lowest: best-10x14-area-rugs, 5 items,
+all genuine 10x14 rugs). Only noise seen: best-sleeper-sofa-mattresses includes one
+sofa-bed support board (writer should skip it, 6 real mattresses remain).

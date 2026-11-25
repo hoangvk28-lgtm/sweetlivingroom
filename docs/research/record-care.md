@@ -1,0 +1,17 @@
+# record-care cluster (vinyl record cleaning kits, fluids, washers, ultrasonic machines)
+- Dry carbon fibre or velvet brushes lift loose surface dust; they do not remove oils, fingerprints or mould release residue from the groove.
+- A velvet pad works best on a freshly pulled record and a cleaning brush used wet with fluid; replace or wash the pad when it holds visible lint.
+- Cleaning fluids split into alcohol free and alcohol based; heavy isopropyl alcohol can dry or harm some old shellac and delicate pressings, so check the maker's guidance.
+- Distilled or deionised water avoids mineral spots; tap water can leave residue in grooves.
+- Always wipe in the direction of the groove, with the record on a clean flat surface or a spinning platter, and never press hard.
+- Spin washers (basin with rollers and brushes) clean both sides at once using a fluid bath; they need drying on a rack and a fresh fluid change after many records.
+- Label protection matters: wetting a paper label causes swelling and mould; look for a clamp, cover or rollers that keep labels dry.
+- Ultrasonic machines use high frequency vibration in a tank (commonly 40 kHz) to loosen debris from grooves; the rotating holder, temperature and water quality matter, and records must never be heated.
+- Large ultrasonic tanks designed for jewellery are not made for records; check that the holder protects labels and that the tank is deep enough.
+- Stylus cleaning is separate from record cleaning: a brush and stylus gel or liquid, brushed front to back, not side to side.
+- A dirty stylus accumulates debris that can scratch records; clean it before each session or every few plays.
+- Anti static brushes reduce dust attraction but do not remove static permanently; humidity affects static.
+- Store records upright in clean inner sleeves; paper sleeves shed fibre, poly lined sleeves reduce abrasion.
+- Used records often carry decades of dirt; a wet clean before the first play removes most surface noise that is dirt, not damage.
+- Cleaning cannot repair scratches or worn grooves; pops that remain after cleaning are likely physical damage.
+- Kits bundled with a brush, a fluid and a stylus cleaner are the entry point; machines are for collectors with hundreds of records.

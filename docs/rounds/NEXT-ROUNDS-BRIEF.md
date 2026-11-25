@@ -114,6 +114,38 @@ best-accent-chairs-for-small-spaces.
 - Registry, files and data/guides.ts all agree: 532 guides.
 - Remaining: push on the user's explicit approval only.
 
+## RESUME 2026-11-25b (round 8, 54 of 60 done) - pushed
+
+Round 8 part B: 34 of the 40 slugs in `scripts/clone/list-r8-B.txt` are written,
+registered and pushed together with the earlier 20 (commit 75e8581, which had never
+reached origin). Total guides in both registries: 586.
+
+Gates at push time: tsc 0 errors, lint 0 errors (4 pre-existing warnings), build
+Compiled successfully + Finished TypeScript, 1776 pages under out/guide, asset 404
+check clean, no em/en dashes and no dollar figures in any of the 34 new guide files.
+
+### Remaining 6 (Stage A already done, do NOT rerun it)
+best-fabric-protector-sprays, best-wood-furniture-polish, best-sleeper-sofa-mattresses,
+best-faux-fur-throw-blankets, best-velvet-ottomans, best-rotating-bookshelves
+
+Each already has `scripts/clone/work/<slug>.compact.json` with 7 to 14 real on-topic
+items, and its `source-index.json` row is `inprogress`. Never rerun next-batch.mjs or
+compact.mjs for them. Leave the sofa-bed "support board" item out of the
+best-sleeper-sofa-mattresses lineup, it is the only off-topic entry in the set.
+
+List unfinished slugs:
+  for s in $(cat scripts/clone/list-r8-B.txt); do [ -f data/guides/$s.ts ] || echo $s; done
+
+New research files written this round and reusable: `docs/research/cleaning.md`
+(covers the two polish/protector slugs) and `docs/research/record-care.md`.
+So the 6 leftovers need ZERO new web searches.
+
+### Confirmed again this round
+One Sonnet writer, one continuous run, reusing docs/research/serp-*.md instead of
+searching per slug: 34 guides, 2 new cluster research files, zero audit failures and
+zero coordinator fix cycles. The intro rule (max one spec number with a unit, no
+model/bulb codes, no brand names in introParagraphs) belongs in the writer prompt.
+
 ## RESUME 2026-11-25 (round 8, 20 of 60 done) - committed locally, NOT pushed
 
 Round 7 (59 guides) is pushed as 4e9712c and pinged to IndexNow. Round 8 was cut to
