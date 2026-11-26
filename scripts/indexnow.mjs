@@ -3,7 +3,10 @@
 //        node scripts/indexnow.mjs --diff <base-ref>      (new/changed guides between base-ref and HEAD)
 // Key file: public/<INDEXNOW_KEY>.txt must be live on the site before pinging.
 import { execSync } from "child_process";
-const KEY = process.env.INDEXNOW_KEY || "d4d21af91d9048bd900e17e51b51947c";
+// Must match the live key file: public/<KEY>.txt, whose contents are the key
+// itself. A mismatch makes Bing answer 202 and then silently drop every URL,
+// because the key is validated after the request is queued, not before.
+const KEY = process.env.INDEXNOW_KEY || "8a4fd6f1e4d5430d993830f686daf640";
 const HOST = "www.sweetlivingroom.com";
 let args = process.argv.slice(2);
 if (args[0] === "--diff") {
