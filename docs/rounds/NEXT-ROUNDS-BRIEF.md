@@ -193,3 +193,35 @@ Unfinished slugs:
    rule and had zero intro failures. Better still: add the check to selfcheck.mjs.
 4. **Having the writer run `finish.mjs` itself, not just selfcheck**, removed the
    coordinator's rework loop entirely.
+
+## RESUME 2026-11-26 (round 9, 78 of 78 done) - committed locally, NOT pushed
+
+Commit 807fd51. 72 new topics plus the 6 leftovers from round 8. Both registries
+now hold 664 guides. One Sonnet writer, one continuous run, zero new web searches
+(reused docs/research/serp-*.md), zero skipped slugs, one coordinator fix cycle
+(best-sherpa-blankets lineup overlapped best-throw-blankets at 0.50).
+
+Gates at commit time: tsc 0 errors, lint 0 errors (4 pre-existing warnings), build
+Compiled successfully + Finished TypeScript, 2010 pages under out/guide, asset 404
+check clean, no em/en dashes, no dollar figures, no \x08 in the 78 new guide files.
+lineup-overlap: 4 pairs at or above 0.5, all pre-existing, none from round 9.
+
+### Still to do
+- Push 807fd51 after the user approves, then ping IndexNow (scripts/indexnow.mjs).
+- best-sherpa-blankets ships with 4 products: the compact pool had only colour and
+  size variants of one Bedsure line beyond the overlapping ASINs.
+- best-sleeper-sofa-mattresses ships with 6 products (the "support board" item was
+  dropped as off topic).
+
+### Findings worth carrying forward
+1. **Check the lineup, not just the slug, for thin pools.** Eyeballing titles after
+   compact dropped 8 of the 80 round-9 candidates before any writing: 4 had fewer
+   than 5 items, and 4 returned the wrong product entirely (best-shelf-dividers
+   returned closet organizers, best-under-sofa-storage returned under-bed bins,
+   best-wall-washer-lights returned stage lights, best-chair-pads returned office
+   seat cushions). Those 8 are marked skip in source-index.json.
+2. Colour and size modifiers on a saturated head term (area rugs, coffee tables,
+   side tables, pendant lights) are the cheapest remaining long-tail supply: all
+   trip neardup as NEAR against the parent slug, which is expected and fine.
+3. Round 9 cost about 200k agent tokens for 78 guides with zero web searches, in
+   line with round 8.
