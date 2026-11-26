@@ -220,3 +220,35 @@
 ## best-dusk-to-dawn-bulbs
 - Roundups pick Torchstar, Sunco and GE bulbs, advise a photocell sensor, an IP rating and a suitable color temperature; bug-light amber variants appear.
 - Gap: sensor placement near other lights, enclosed fixture limits, dimmer incompatibility and sensor failure.
+
+## best-budget-arc-lamps
+- Roundups name SUNMORY and Nintiue as budget picks; lead with base weight, bulb included and dimming.
+- They split picks by reach over sofa vs dining table; many note short cords on cheap arcs.
+- Most skip tip risk and cord-run advice; we add base placement within 12 to 18 in of the seat and pet/kid tipping.
+- We add lumens-not-watts, remote vs rotary dimmer tradeoff and dimmable-bulb match.
+
+## best-budget-smart-bulbs
+- Roundups name Wyze, Sengled, TP-Link Tapo and Yeelight; they split by ecosystem (Alexa, Google, HomeKit) and hub vs Wi-Fi.
+- Many lists are dated 2022 to 2023; Matter support is the new axis.
+- We add lumens by lamp shade, enclosed fixture, wall switch rule and the router crowding trap.
+- We add colour modes being dimmer than white and Alexa-only lock-in.
+
+## best-budget-ceiling-lights
+- Roundups lead with flush mount LED panels; Taloya recurs as a bang-for-buck pick; many guides split by ceiling height.
+- They cover colour temperature presets and room-size lumen guidance; few cover dimmer compatibility.
+- We add lumens per square foot, edge-lit sealed LED tradeoff and semi flush clearance.
+- We add check of box depth and old wiring, hire electrician if unsure.
+
+## best-budget-wall-sconces
+- Roundups pick a plug-in or hardwired single (Globe Electric, Design House) as value; many add budget sets under a cap.
+- They split by room (bedroom, hallway, bath) and hardwired vs plug-in vs battery for renters.
+- Few state mounting height or lumens; we add 60 in centre height, spacing and lumen guidance.
+- We add battery recharge reality, magnet mount limits and the bulb-not-included trap.
+
+## best-floor-lamps-under-200
+- Roundups (PureWow, HGTV, Domino) list under-200 floor lamps by type (tripod, arc, task, torchiere) and style.
+- We add lumens per room need, tri-colour bulbs, narrow base tipping and remote loss.
+
+## best-table-lamps-under-100 and best-chandeliers-under-300
+- Roundups (Domino, Bobby Berk, Good Housekeeping, Dwell) list table lamps under 100 by style; chandelier roundups (Bob Vila, HGTV) favour dining room crystal and drum shapes under 300.
+- We add lamp scale for sofa vs nightstand, stepless vs touch dimming, ceiling box weight rating, drop height and bulb-included caveats; chandelier search was dominated by bulbs so we kept fixtures only.

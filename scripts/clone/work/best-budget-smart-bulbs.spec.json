@@ -1,0 +1,540 @@
+{
+ "guideSlug": "best-budget-smart-bulbs",
+ "categorySlug": "lighting",
+ "mainKeyword": "cheap smart bulb",
+ "guideTitle": "Best Budget Smart Bulbs (2026)",
+ "metaTitle": "Best Budget Smart Bulbs (2026)",
+ "metaDescription": "Budget smart bulbs for the living room, compared on voice assistant support, Matter, lumens and app quirks, with plain notes on what cheap bulbs give up.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/412ikeSQq-L._SL500_.jpg",
+ "expertTake": "The Govee 1000 lumen two-pack is the best overall pick because it is brighter than a standard 60 watt equivalent and lists Matter support. The Govee 800 lumen bulb is the best value for a first smart lamp. Skip colour-changing bulbs altogether if you only want dimmable white light, because a plain tunable white bulb is simpler and often brighter.",
+ "introParagraphs": [
+  "A smart bulb is the cheapest way to add voice control, scheduling and colour to a lamp. The catch is that cheap bulbs differ less in light than in software: which voice assistants they support, whether they need a vendor app, and whether they keep working when the vendor server is down.",
+  "This guide looks at the lower half of the price range and is plain about the tradeoffs. Some bulbs only talk to one ecosystem, brightness is lower in saturated colours, and most need the wall switch left on. Choose for the assistant you already own and the lamp the bulb will live in."
+ ],
+ "products": [
+  {
+   "id": "B0C3TV6Q63",
+   "badge": "Best Overall",
+   "name": "Govee 1000 Lumen RGBWW A19 Smart Bulbs, 2 Pack, Matter",
+   "specs": [
+    "1000 lumens",
+    "Matter support",
+    "2 pack"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "Over 1000 lumens, 75 W equivalent"
+    },
+    {
+     "label": "Base",
+     "value": "E26"
+    },
+    {
+     "label": "Colour",
+     "value": "16 million colours, RGBWW"
+    },
+    {
+     "label": "Scene modes",
+     "value": "Up to 54 in app"
+    },
+    {
+     "label": "Protocol",
+     "value": "Wi-Fi with Matter support"
+    }
+   ],
+   "description": "This is the brightest bulb in the group, listed at over 1000 lumens and positioned as a 75 watt equivalent. That extra output matters in a living room, where a 60 watt equivalent bulb often feels dim in a shaded lamp. It supports 16 million colours and 1 to 100 percent dimming, with up to 54 scene modes in the Govee app, and the listing mentions Matter support, which lets it work across voice assistants.\n\nThe compromise is that colour-changing bulbs lose brightness when they show saturated colours, so the 1000 lumens applies to white light. Compared with the 800 lumen Govee bulb, you gain brightness and a two-pack, but you give up nothing in features. The Govee Home app is required for scenes, and scene modes can feel gimmicky for people who just want a good warm white.\n\nBefore you buy, check that your lamp can handle a 75 watt equivalent bulb in an enclosed fixture, since enclosures shorten LED life. Leave the wall switch on, and avoid pairing the bulbs with a wall dimmer. Set the bulbs to a warm white default so they do not return to a bright colour after a power cut. Keep the bulb out of fully enclosed glass shades where heat builds up, and give the app a few minutes after a power cut to reconnect.",
+   "bestFor": "Living room lamps that need bright light plus colour and voice control.",
+   "pros": [
+    "Over 1000 lumens makes it brighter than a typical 60 watt equivalent",
+    "Matter support allows use across several voice assistants",
+    "Two-pack covers a pair of lamps for less than two singles",
+    "Dimming from 1 to 100 percent suits movie nights"
+   ],
+   "cons": [
+    "Saturated colours are much dimmer than white light",
+    "Scenes and music sync need the vendor app on your phone"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0C3TV6Q63?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412ikeSQq-L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09B7QNYHR",
+   "badge": "Best Value",
+   "name": "Govee A19 Smart Light Bulb, 800 Lumen, E26, Matter",
+   "specs": [
+    "800 lumens",
+    "Matter support",
+    "54 scenes"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "800 lumens"
+    },
+    {
+     "label": "Base",
+     "value": "E26"
+    },
+    {
+     "label": "Colour",
+     "value": "16 million colours"
+    },
+    {
+     "label": "Scene modes",
+     "value": "54 presets"
+    },
+    {
+     "label": "Extras",
+     "value": "Music sync via phone mic"
+    }
+   ],
+   "description": "This bulb is the straightforward entry to the Govee ecosystem, with 800 lumens, an E26 base and the same 16 million colours as its brighter sibling. The listing says it works with Alexa and Google Assistant and mentions Matter, so it should not trap you in a single voice platform. The 54 preset scenes and music sync, which uses your phone's microphone, are fun in a party setup.\n\nThe tradeoff is brightness, since 800 lumens matches a standard 60 watt bulb and not the 1000 lumen two-pack. Compared with the Lightinginside, you get a stated Matter mention and more scenes. Music sync depends on your phone staying near the room, which is a limitation if you want it to run on its own.\n\nIn use, expect to spend a few minutes pairing over 2.4 GHz Wi-Fi. If you have many bulbs, a crowded router can lag, so consider a hub-based system for a whole house. A single bulb in a table lamp is the best use of this model. If you own an Echo, group the bulb into a room so a single voice command covers every lamp at once.",
+   "bestFor": "A first smart lamp with voice control and colour.",
+   "pros": [
+    "Works with both Alexa and Google Assistant, per the listing",
+    "Matter mention gives you more flexibility than a single-assistant bulb",
+    "54 preset scenes cover movie, reading and party moods",
+    "Standard E26 base fits ordinary table and floor lamps"
+   ],
+   "cons": [
+    "800 lumens is average, not bright, in a shaded lamp",
+    "Music sync relies on your phone's microphone"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B09B7QNYHR?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41f72Gn9vKL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07ZWSZ431",
+   "badge": "Best Multi-Pack",
+   "name": "Feit Electric A19 RGBW Smart Bulbs, 3 Pack, Wi-Fi 2.4 GHz",
+   "specs": [
+    "3 pack",
+    "RGBW colour",
+    "60 W equivalent"
+   ],
+   "specList": [
+    {
+     "label": "Pack size",
+     "value": "3 bulbs"
+    },
+    {
+     "label": "Equivalent",
+     "value": "60 W"
+    },
+    {
+     "label": "Colour",
+     "value": "RGBW, 16 million colours"
+    },
+    {
+     "label": "Connectivity",
+     "value": "2.4 GHz Wi-Fi, no hub"
+    },
+    {
+     "label": "Voice",
+     "value": "Alexa and Google Assistant"
+    }
+   ],
+   "description": "This three-pack gives you one bulb per lamp for a typical living room: a floor lamp, a table lamp and a side lamp. It supports over 16 million colours plus tunable white, connects directly to your 2.4 GHz Wi-Fi network without a hub, and works with Alexa and Google Assistant. The 60 watt equivalent output suits ambient lighting.\n\nThe weakness is that Wi-Fi-only bulbs can strain a busy router, because each one is a separate device on your network. Compared with the Govee 800 lumen bulb, this one has no mention of Matter, so it relies on the vendor app and the two assistants. The multi-pack is the real selling point: a lower cost per bulb than buying singles.\n\nSet up each bulb one at a time and name it by room. Keep spare bulbs in the box until you know which lamps they suit. If your lamps have dimmer switches, set the dimmer to full, since a wall dimmer can cause flicker with smart bulbs. Name each bulb after the lamp it sits in, since three bulbs labelled with default names are hard to tell apart in an app.",
+   "bestFor": "Setting up three lamps at once at a lower cost per bulb.",
+   "pros": [
+    "Three bulbs cover most living room lamps in one purchase",
+    "No hub needed, since it connects over 2.4 GHz Wi-Fi",
+    "Works with both Alexa and Google Assistant",
+    "Tunable white as well as colour for evening warmth"
+   ],
+   "cons": [
+    "No mention of Matter, so ecosystem flexibility is lower",
+    "Each bulb is a separate Wi-Fi device on your router"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07ZWSZ431?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ThlqtOYUL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CCY9GVWS",
+   "badge": "Best Multi-Pack",
+   "name": "Lightinginside Smart Light Bulbs 6 Pack, Wi-Fi and BLE, CRI over 90, RGBCW colour, no hub",
+   "specs": [
+    "6 pack",
+    "CRI over 90",
+    "Wi-Fi and BLE"
+   ],
+   "specList": [
+    {
+     "label": "Pack",
+     "value": "6 bulbs"
+    },
+    {
+     "label": "Equivalent",
+     "value": "60 W RGBCW"
+    },
+    {
+     "label": "Colour quality",
+     "value": "CRI over 90"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wi-Fi and BLE dual-channel chip, no hub"
+    },
+    {
+     "label": "Voice",
+     "value": "Alexa and Google Home through the SmartLife app"
+    }
+   ],
+   "description": "This is a six pack of colour-changing bulbs with a CRI over 90, a dual-channel Bluetooth and Wi-Fi chip and control through the free SmartLife app, with Alexa and Google Home support. A CRI over 90 means colours and skin tones look natural, which many cheap bulbs do not state. The listing says setup is up to three times faster than the earlier generation and that you can control the bulbs locally over Bluetooth or remotely over Wi-Fi.\n\nThe tradeoff is that six bulbs is a large outlay, and the compact data gives no lumen figure beyond the 60 watt equivalent label. Compared with the Feit three-pack, it gives twice as many bulbs but less brand recognition. Six Wi-Fi bulbs also put more devices on your router than most homes need for one room.\n\nPair one bulb at a time and name it by lamp. Keep spare bulbs for the rest of the house. Leave the wall switch on and avoid wall dimmers.",
+   "bestFor": "A shopper who wants to fit out several rooms with one purchase and wants a stated colour rendering figure.",
+   "pros": [
+    "CRI over 90 is stated, which most cheap bulbs omit",
+    "Six bulbs cover a living room and more",
+    "Bluetooth and Wi-Fi give local and remote control",
+    "Works with Alexa and Google Home through the app"
+   ],
+   "cons": [
+    "Six bulbs is a large outlay for a first try",
+    "Compact data gives no lumen figure beyond a 60 W equivalent"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CCY9GVWS?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51qbm+XH9eL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B18YYJZK",
+   "badge": "Cheapest Pick",
+   "name": "Globe Electric 50589 Colour-Changing A19 Smart Bulb, 800 lumens, Alexa",
+   "specs": [
+    "800 lumens",
+    "2.4 GHz Wi-Fi",
+    "Alexa only"
+   ],
+   "specList": [
+    {
+     "label": "Equivalent",
+     "value": "60 W"
+    },
+    {
+     "label": "Brightness",
+     "value": "800 lumens"
+    },
+    {
+     "label": "Connectivity",
+     "value": "2.4 GHz Wi-Fi"
+    },
+    {
+     "label": "Voice",
+     "value": "Alexa"
+    },
+    {
+     "label": "Cost position",
+     "value": "Cheapest here"
+    }
+   ],
+   "description": "This is the lowest-cost bulb in the group, a colour-changing A19 with 800 lumens and a 60 watt equivalent output. It connects over 2.4 GHz Wi-Fi, and the listing says you control it by voice with Alexa, not Google Assistant, Apple HomeKit or SmartThings. If you already have an Echo, it is a very cheap way to get a smart lamp.\n\nThe compromise is flexibility. The bulb is tied to Alexa, and the vendor ecosystem is narrower than Govee's. Compared with the Lightinginside bulbs, it offers fewer features in a more established lighting brand's body. Do not expect scenes or music sync on the scale of Govee.\n\nAs with all cheap Wi-Fi bulbs, setup depends on a good 2.4 GHz signal. Keep the bulb near the router during pairing, then move it. A budget bulb makes sense in a lamp you rarely change, where the bulb can sit for years. If pairing fails twice, power cycle the bulb and move your phone close to it before trying again.",
+   "bestFor": "The lowest-cost way to try a smart bulb in an Alexa home.",
+   "pros": [
+    "Lowest cost in this group, a good low-risk first bulb",
+    "800 lumens matches a 60 watt bulb for everyday lighting",
+    "Colour-changing, so it works for mood lighting as well as white",
+    "Connects over 2.4 GHz Wi-Fi without needing a hub"
+   ],
+   "cons": [
+    "Tied to Alexa, with no Google or Apple support per the listing",
+    "Narrower app features than Govee or Kasa"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0B18YYJZK?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31OWdq0HsRL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Voice assistant and Matter support",
+   "explanation": "Some cheap bulbs work with Alexa only, such as the Globe bulb, and others work with Alexa and Google, such as the Feit. Matter, listed on the Govee bulbs, is designed to work across ecosystems. Buy for the assistant you have now and the one you might have in three years. A quick test is to ask what happens if the vendor shuts down a service: Matter and Alexa-native bulbs are the likelier to keep basic control."
+  },
+  {
+   "criterion": "Lumens, not watts",
+   "explanation": "A 60 watt equivalent is about 800 lumens, and a 75 watt equivalent is over 1000, as with the Govee two-pack. Shaded lamps absorb a lot of light, so a bright bulb makes a difference. Colour-changing bulbs are dimmer when showing saturated colours. Count lamps first, then bulbs, because a single three-way fixture may need three bulbs and a bigger bill."
+  },
+  {
+   "criterion": "Wi-Fi versus hub systems",
+   "explanation": "Wi-Fi bulbs like the Feit three-pack need no hub but each one joins your router. A handful is fine; twenty can cause lag. If you plan to light a whole house, consider a hub-based system instead of cheap Wi-Fi bulbs. Run a router check on the 2.4 GHz band before buying a multi-pack, since dual-band routers often hide it behind a shared name."
+  },
+  {
+   "criterion": "App dependence",
+   "explanation": "Many bulbs need a vendor app, such as Govee Home, for scenes and music sync. If the vendor server fails, local control may too. Prefer bulbs that work through Alexa or Matter if you want fewer dependencies. Write down your phone and assistant models, so you can check compatibility on the listing before you order."
+  },
+  {
+   "criterion": "Colour versus tunable white",
+   "explanation": "Colour bulbs are fun but dimmer in saturated colours. If you only want warm and cool white, a tunable white bulb is simpler. The Feit offers both RGB and tunable white, and the Govee two-pack covers a wide white range. Test a warm white default scene on day one, so a power cut does not leave the bulb on bright blue."
+  },
+  {
+   "criterion": "The wall switch problem",
+   "explanation": "A smart bulb only works when the wall switch stays on. Switch off the lamp at the wall and the bulb disappears from your app. Tape the switch on or use a switch guard, and never pair smart bulbs with a wall dimmer."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Lumens",
+   "meaning": "Total light output. 800 lumens equals a 60 watt bulb and 1000 lumens a 75 watt bulb.",
+   "watchFor": "The Govee two-pack lists over 1000 lumens, while the Globe and Govee single list 800."
+  },
+  {
+   "spec": "Matter",
+   "meaning": "An industry standard for smart home devices that lets them work across ecosystems. It reduces lock-in but not every feature is supported.",
+   "watchFor": "Both Govee bulbs mention Matter, while the Globe bulb is Alexa only and the Lightinginside works through the SmartLife app."
+  },
+  {
+   "spec": "2.4 GHz Wi-Fi",
+   "meaning": "The band most smart bulbs use. It travels further than 5 GHz but is more crowded.",
+   "watchFor": "Bulbs like the Feit three-pack and Globe bulb need a 2.4 GHz network, so check your router before pairing."
+  },
+  {
+   "spec": "RGBW or RGBWW",
+   "meaning": "Red, green, blue plus white or warm white LEDs. The white chips give a cleaner white than mixing colours.",
+   "watchFor": "The Govee two-pack is RGBWW, which should give a warmer white than a plain RGB bulb."
+  },
+  {
+   "spec": "E26 base",
+   "meaning": "The standard US screw base. It fits most lamps.",
+   "watchFor": "Check whether your lamp is enclosed, since enclosed fixtures shorten the life of LED bulbs."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Ecosystem fit",
+   "description": "We evaluated each bulb on which voice assistants it supports and whether it mentions Matter. The two Govee bulbs rank highest for flexibility, and the Globe bulb is the most limited. We worked from published specifications. Each listing was read for what it does not say as much as what it does."
+  },
+  {
+   "title": "Brightness",
+   "description": "We compared stated lumens and equivalents. The Govee two-pack at over 1000 lumens leads, and the rest sit at 800 lumens. We treated colour modes as dimmer than white. Where a listing was silent on a spec, we treated it as unknown rather than assuming the best."
+  },
+  {
+   "title": "Setup and app",
+   "description": "We looked at how each bulb is set up and whether it needs a vendor app. The Lightinginside bulbs use the SmartLife app, while Govee needs its own app for scenes. Owner feedback patterns point to pairing as the most common frustration."
+  },
+  {
+   "title": "Pack size and value",
+   "description": "We looked at whether a bulb is sold singly or in a pack. The Feit three-pack and Govee two-pack give a lower per-bulb cost for several lamps. The Globe bulb is the cheapest single bulb."
+  },
+  {
+   "title": "Honest limits",
+   "description": "None of these bulbs replaces a proper lighting design. Colour modes are dim, the wall switch must stay on, and cheap Wi-Fi bulbs can strain a router. We say so in each description."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Voice Assistant",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Alexa and Google, several lamps",
+      "Lightinginside six pack",
+      "SmartLife app, no hub"
+     ],
+     [
+      "Alexa and Google",
+      "Feit three-pack",
+      "Works with both without a hub"
+     ],
+     [
+      "Might switch ecosystems",
+      "Govee 800 lumen",
+      "Matter mention gives flexibility"
+     ],
+     [
+      "Alexa and the lowest cost",
+      "Globe Electric",
+      "Cheapest in the group"
+     ],
+     [
+      "Brightest bulb",
+      "Govee two-pack",
+      "Over 1000 lumens"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest single bulb",
+      "Globe Electric",
+      "Cheapest here"
+     ],
+     [
+      "Several rooms",
+      "Lightinginside six pack",
+      "Six bulbs in one purchase"
+     ],
+     [
+      "Several lamps",
+      "Feit three-pack",
+      "Lower cost per bulb"
+     ],
+     [
+      "Better ecosystem",
+      "Govee 800 lumen",
+      "A bit more for Matter and scenes"
+     ],
+     [
+      "Brighter for a bit more",
+      "Govee two-pack",
+      "1000 lumens and a pair"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Colour vs White",
+   "cards": [
+    {
+     "label": "Colour bulbs, like Govee",
+     "text": "They add mood and party lighting, but saturated colours are dimmer and the app is required for scenes."
+    },
+    {
+     "label": "White-focused use",
+     "text": "If you only want warm and cool white, a colour bulb is overkill, but the RGBWW chip in the Govee two-pack still gives a decent white."
+    }
+   ],
+   "note": "Choose colour if you will use scenes; choose a tunable white bulb if you will not."
+  },
+  {
+   "subheading": "By Lamp Type",
+   "table": {
+    "headers": [
+     "Lamp",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Shaded table lamp",
+      "Govee two-pack",
+      "Brighter bulb compensates for the shade"
+     ],
+     [
+      "Open floor lamp",
+      "Govee 800 lumen",
+      "800 lumens is enough with no shade"
+     ],
+     [
+      "Bedroom lamp",
+      "Feit three-pack",
+      "Schedules and dimming in the app"
+     ],
+     [
+      "Three lamps in one room",
+      "Feit three-pack",
+      "A bulb for each lamp"
+     ],
+     [
+      "Behind the TV",
+      "Globe Electric",
+      "Low cost for a mood light"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Living Room Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "At least 800 lumens, a warm 2700K to 3000K white, and a bulb that fits your lamp's shade and enclosure."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Govee two-pack covers brightness and colour, while the Feit three-pack covers a whole room of lamps."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a hub-based system, higher colour accuracy or reliable local control that works without the cloud."
+    },
+    {
+     "label": "Save if",
+     "text": "You only have one or two lamps and use an assistant you already own. A cheap Wi-Fi bulb is fine."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Leave the wall switch on",
+   "interval": "Always",
+   "why": "A smart bulb only responds when it has power. Tape the wall switch or fit a cover."
+  },
+  {
+   "task": "Update the app",
+   "interval": "Every few months",
+   "why": "Vendor apps ship fixes for connectivity. An out-of-date app can drop the bulb from your network."
+  },
+  {
+   "task": "Check Wi-Fi signal",
+   "interval": "After changing routers",
+   "why": "A new router often needs the bulbs to be paired again. Keep the 2.4 GHz band on."
+  },
+  {
+   "task": "Wipe dust from the bulb",
+   "interval": "Twice a year",
+   "why": "Dust dulls the output. Switch off and let the bulb cool first."
+  },
+  {
+   "task": "Replace if flickering",
+   "interval": "As needed",
+   "why": "Flicker usually means a dimmer clash or a failing driver. Remove any wall dimmer first."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do smart bulbs need a hub?",
+   "a": "Not the Wi-Fi ones in this guide. They connect directly to your 2.4 GHz network, though a large number of bulbs can crowd your router. Pair one bulb first as a trial before buying more."
+  },
+  {
+   "q": "Will smart bulbs work with a dimmer switch?",
+   "a": "Usually not well. Leave a wall dimmer at full brightness and dim from the app, or flicker and buzzing can result. Use a dimmable ceiling or lamp circuit only if the vendor says it is compatible."
+  },
+  {
+   "q": "What does Matter change?",
+   "a": "It lets one device work with several ecosystems. Support varies, so check that your assistant supports Matter before relying on it. Check the vendor privacy settings before you enable the microphone for music sync."
+  },
+  {
+   "q": "Are colour bulbs as bright as white ones?",
+   "a": "No. Saturated colours use fewer white chips, so output drops. For reading, use white mode."
+  },
+  {
+   "q": "Do smart bulbs use power when off?",
+   "a": "Yes, a small standby draw to stay connected. It is usually a fraction of a watt."
+  },
+  {
+   "q": "How long do smart bulbs last?",
+   "a": "LED bulbs list long lives, but electronics can fail earlier, especially in enclosed fixtures. Avoid fully enclosed shades if you can."
+  }
+ ],
+ "relatedGuides": []
+}

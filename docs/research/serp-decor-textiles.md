@@ -33,3 +33,8 @@
 - Running cost is modest, about 50 to 200 W.
 - Budget picks sit under about 50 dollars in lists; splurge picks are dual control.
 - Gap we cover: certification marks vs maker test claims, throw vs bed size and never folding while on.
+
+## best-budget-throw-pillows
+- Roundups name H&M, Target Opalhouse and Utopia Bedding; many advise buying cheap covers and plush inserts separately.
+- They split by cover fabric and style; few explain insert sizing or fill weight.
+- We add the insert one to two inches bigger than the cover rule, fill weight as a fullness proxy, and polyester flattening honesty.

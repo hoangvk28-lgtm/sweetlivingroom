@@ -1,0 +1,636 @@
+{
+ "guideSlug": "best-humidifiers-under-100",
+ "categorySlug": "air-comfort",
+ "mainKeyword": "humidifier under 100",
+ "guideTitle": "Best Humidifiers Under $100 (2026)",
+ "metaTitle": "Best Humidifiers Under $100 (2026)",
+ "metaDescription": "Cool mist humidifiers under $100 compared on tank size, runtime, humidistat control, noise and cleaning, with plain notes on humidity levels and white dust.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41PNMs35w1L._SL500_.jpg",
+ "expertTake": "The BREEZOME 6L humidifier is the best overall pick because it lists a humidistat, a 60 hour runtime and a 25 decibel noise claim. The Honovos 8L is the best value for a big tank with a humidistat. Skip humidifiers without a humidistat if you tend to forget them, because uncontrolled output pushes humidity past the level where mould and dust mites thrive.",
+ "introParagraphs": [
+  "A humidifier adds moisture to dry winter air, and at the budget end almost every model is an ultrasonic cool mist unit. The things that matter are tank size, runtime, a humidistat that stops the machine at a set humidity, noise and how easy the tank is to clean. A humidifier you dislike cleaning becomes a mould source.",
+  "The cap reflects listing prices on the day we updated the guide, and prices move often. We left out essential oil diffusers and oils that appeared in the search, since a 100 millilitre diffuser is not a room humidifier. We make no medical claims and have not handled any of these units, so our judgments rest on specifications and patterns in owner feedback, including white dust, leaks and tank cleaning."
+ ],
+ "products": [
+  {
+   "id": "B0BHL1C969",
+   "badge": "Best Overall",
+   "name": "BREEZOME 6L Humidifier, smart humidistat, 60 hour runtime, 25 dB quiet, essential oil tray",
+   "specs": [
+    "6 L tank",
+    "Humidistat",
+    "25 dB"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "6 L"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 60 hours"
+    },
+    {
+     "label": "Control",
+     "value": "Smart humidistat"
+    },
+    {
+     "label": "Noise",
+     "value": "25 dB claimed"
+    },
+    {
+     "label": "Cost position",
+     "value": "Sixth of 15"
+    }
+   ],
+   "description": "This humidifier lists a 6 litre tank, a runtime of up to 60 hours, a smart humidistat that holds a target humidity, a 25 decibel noise claim and an essential oil tray. The humidistat is the key feature: it senses the room's humidity and cuts the mist when it reaches your set level. A 6 litre tank suits a bedroom or a small living room.\n\nThe tradeoff is that ultrasonic mist can leave white mineral dust if you use hard tap water, and the runtime is at low output. Compared with the Honovos, it has a smaller tank but a quieter claim. It also appears in our general living room humidifier guide.\n\nUse distilled or demineralised water if you see white dust. Clean the tank every few days and descale weekly. Place it on a hard, waterproof surface a few feet off the floor.",
+   "bestFor": "A bedroom or small living room that needs a controlled, quiet humidifier.",
+   "pros": [
+    "Humidistat holds a set humidity level",
+    "Up to 60 hour runtime on a 6 litre tank",
+    "25 dB noise claim",
+    "Essential oil tray for scent"
+   ],
+   "cons": [
+    "Ultrasonic mist can leave white dust with hard water",
+    "Also appears in our general living room humidifier guide"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0BHL1C969?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PNMs35w1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HFHSHYB8",
+   "badge": "Best Value",
+   "name": "Honovos 8L 2.1 Gallon Top Fill Cool Mist Humidifier, humidistat, 3 speeds, 48 hour runtime",
+   "specs": [
+    "8 L tank",
+    "Humidistat",
+    "48 h runtime"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "8 L (2.1 gal), top fill"
+    },
+    {
+     "label": "Control",
+     "value": "Humidistat, 3 speeds"
+    },
+    {
+     "label": "Runtime",
+     "value": "48 hours"
+    },
+    {
+     "label": "Mist",
+     "value": "Cool"
+    },
+    {
+     "label": "Cost position",
+     "value": "Ninth of 15"
+    }
+   ],
+   "description": "This is a large 8 litre top fill humidifier with a humidistat, three mist speeds and a runtime of 48 hours. Top fill means you pour water in from the top, with no tank to flip, which makes filling and cleaning easier. An 8 litre tank suits a large bedroom or an open living room.\n\nThe compromise is size: a big tank is heavy to carry when full, and a 48 hour runtime is shorter than the BREEZOME's 60. Compared with the Lacidoll, which is also 8 litres, the Honovos lists a humidistat plainly. Large tanks also mean more water that can stagnate if you skip cleaning.\n\nFill with distilled water if your tap is hard. Clean the tank every few days. Keep the humidifier off a carpet and away from wood furniture.",
+   "bestFor": "A larger room that needs a big, top-fill humidifier with a humidistat.",
+   "pros": [
+    "8 litre top-fill tank is easy to refill and clean",
+    "Humidistat sets the target humidity",
+    "Three speeds",
+    "48 hour runtime"
+   ],
+   "cons": [
+    "Heavy when full",
+    "Large tank can stagnate if not cleaned"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0HFHSHYB8?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21-W9tyf5lL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CX8V4G15",
+   "badge": "Largest Coverage Claim",
+   "name": "Lacidoll 8L Large Humidifier for Bedroom, 800 sq ft claim, 48 hour runtime, top fill cool mist",
+   "specs": [
+    "8 L tank",
+    "800 sq ft claim",
+    "48 h runtime"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "8 L, top fill"
+    },
+    {
+     "label": "Coverage",
+     "value": "800 sq ft claimed"
+    },
+    {
+     "label": "Runtime",
+     "value": "48 hours"
+    },
+    {
+     "label": "Mist",
+     "value": "Cool"
+    },
+    {
+     "label": "Cost position",
+     "value": "Eighth of 15"
+    }
+   ],
+   "description": "This is an 8 litre cool mist humidifier with a top fill tank, a stated runtime of 48 hours and an 800 square foot coverage claim. The black finish suits modern rooms, and the top fill design makes cleaning easy. It is also in our general living room humidifier guide.\n\nThe tradeoff is that coverage claims on humidifiers are optimistic, since output is a few hundred millilitres an hour, and the compact data does not list a humidistat. Compared with the Honovos, it lists a bigger coverage claim and fewer controls. Check the full listing for a humidistat.\n\nUse a hygrometer to read the humidity and keep it between 30 and 50 percent. Clean the tank often. Turn the unit off if windows fog.",
+   "bestFor": "A large room where a big tank and a coverage claim attract you.",
+   "pros": [
+    "8 litre top-fill tank",
+    "48 hour runtime",
+    "Black finish suits modern rooms",
+    "Large coverage claim"
+   ],
+   "cons": [
+    "Compact data does not list a humidistat",
+    "Coverage claim is optimistic"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0CX8V4G15?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41JbkBGb-2L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B077Z2QCS5",
+   "badge": "Best Quiet Claim",
+   "name": "Everlasting Comfort 6L Large Humidifier for Bedroom, 28 dB cool mist, top fill, auto shut off",
+   "specs": [
+    "6 L tank",
+    "28 dB",
+    "Auto shut off"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "6 L, top fill"
+    },
+    {
+     "label": "Noise",
+     "value": "28 dB claimed"
+    },
+    {
+     "label": "Safety",
+     "value": "Auto shut off when empty"
+    },
+    {
+     "label": "Mist",
+     "value": "Ultrasonic cool"
+    },
+    {
+     "label": "Cost position",
+     "value": "Seventh of 15"
+    }
+   ],
+   "description": "This is a 6 litre ultrasonic top fill humidifier with a 28 decibel noise claim and an automatic shut off when the tank is empty. Auto shut off protects the ultrasonic plate from running dry. The top fill design makes it easy to refill.\n\nThe compromise is that the compact data lists no humidistat, so you need a separate hygrometer. Compared with the BREEZOME, it has a slightly louder claim and fewer controls. Without a humidistat, output continues until the tank is empty.\n\nBuy a small hygrometer and check the reading. Use distilled water. Clean and dry the tank on a schedule.",
+   "bestFor": "A bedroom where a quiet unit is the priority and you will watch the humidity yourself.",
+   "pros": [
+    "28 dB noise claim",
+    "Auto shut off when the tank is empty",
+    "6 litre top-fill tank",
+    "Ultrasonic cool mist"
+   ],
+   "cons": [
+    "No humidistat in the compact data",
+    "You need a hygrometer to avoid over-humidifying"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B077Z2QCS5?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41eU18HxDaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C9HBKQ5D",
+   "badge": "Best Known Brand",
+   "name": "Levoit Humidifier for Bedroom, top-fill ultrasonic cool mist, easy to fill and clean, quiet operation",
+   "specs": [
+    "Top fill",
+    "Ultrasonic",
+    "Quiet"
+   ],
+   "specList": [
+    {
+     "label": "Fill",
+     "value": "Top fill"
+    },
+    {
+     "label": "Mist",
+     "value": "Ultrasonic cool"
+    },
+    {
+     "label": "Brand",
+     "value": "Levoit"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Easy to fill and clean"
+    },
+    {
+     "label": "Cost position",
+     "value": "Fifth of 15"
+    }
+   ],
+   "description": "This is a top-fill ultrasonic cool mist humidifier from Levoit, described as easy to fill and clean with quiet operation. The compact data gives no tank size or runtime, so check the full listing. A well-known brand usually means clearer instructions and replaceable parts.\n\nThe tradeoff is that the compact data is short on specifications, so the claims are general. Compared with the BREEZOME, it lists fewer controls. Levoit's wider humidifier range includes smarter models, which sit above this cap.\n\nCheck the tank size and humidistat in the full listing before you buy. Clean the tank often. Use a hygrometer.",
+   "bestFor": "A shopper who wants a familiar brand with easy cleaning.",
+   "pros": [
+    "Top fill makes refilling easy",
+    "Easy-to-clean design is described",
+    "Known brand with parts and support",
+    "Fifth cheapest of fifteen"
+   ],
+   "cons": [
+    "Compact data gives no tank size or runtime",
+    "No humidistat listed in the compact data"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0C9HBKQ5D?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Lnkkbyb8L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01M7Q4858",
+   "badge": "Best Established Unit",
+   "name": "Pure Guardian Ultrasonic Cool Mist Humidifier, 100 hour run time, 1.5 gallon tank, 440 sq ft",
+   "specs": [
+    "1.5 gal tank",
+    "100 h runtime",
+    "440 sq ft"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "1.5 gal"
+    },
+    {
+     "label": "Runtime",
+     "value": "100 hours"
+    },
+    {
+     "label": "Coverage",
+     "value": "440 sq ft"
+    },
+    {
+     "label": "Mist",
+     "value": "Ultrasonic cool"
+    },
+    {
+     "label": "Cost position",
+     "value": "Tenth of 15"
+    }
+   ],
+   "description": "This is a long-standing humidifier model with a 1.5 gallon tank, a 100 hour runtime and a 440 square foot coverage claim, in ultrasonic cool mist. A 100 hour runtime comes from a low output setting and a modest tank, so it will not saturate a large room. It is the most established model in the group.\n\nThe tradeoff is that 440 square feet is a more modest claim than the 800 square foot models, which is more realistic. Compared with the larger units, it is smaller and simpler. The compact data gives no humidistat.\n\nUse distilled water and clean weekly. Place it on a hard surface. Check the humidity with a hygrometer.",
+   "bestFor": "A medium bedroom where a modest, long-running unit is enough.",
+   "pros": [
+    "100 hour runtime is stated",
+    "440 sq ft claim is more realistic than larger ones",
+    "Established model",
+    "1.5 gallon tank"
+   ],
+   "cons": [
+    "No humidistat in the compact data",
+    "Smaller output than the 8 litre units"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B01M7Q4858?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21LeoGZh5sL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0957LJ8H9",
+   "badge": "Lowest Cost",
+   "name": "Valuta 4L Cool Mist Humidifier, top fill, oil diffuser, quiet ultrasonic for bedroom",
+   "specs": [
+    "4 L tank",
+    "Top fill",
+    "Oil diffuser"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "4 L, top fill"
+    },
+    {
+     "label": "Mist",
+     "value": "Ultrasonic cool"
+    },
+    {
+     "label": "Extra",
+     "value": "Essential oil diffuser"
+    },
+    {
+     "label": "Noise",
+     "value": "Described as quiet"
+    },
+    {
+     "label": "Cost position",
+     "value": "Second cheapest of 15"
+    }
+   ],
+   "description": "This is a 4 litre top fill ultrasonic humidifier with an essential oil diffuser function, described as quiet. It is the second cheapest in the data and the smallest tank of the real humidifiers. A 4 litre tank suits a small bedroom or an office.\n\nThe compromise is capacity: a 4 litre tank runs a day or two at most, and the compact data gives no humidistat or runtime. Compared with the BREEZOME, it is smaller and simpler. For a small room it is enough.\n\nFill with distilled water and clean often. Use a hygrometer. Keep it away from walls.",
+   "bestFor": "A small bedroom or office on a very low budget.",
+   "pros": [
+    "4 litre top-fill tank",
+    "Oil diffuser function",
+    "Described as quiet",
+    "Second cheapest of fifteen"
+   ],
+   "cons": [
+    "Small tank runs a day or two",
+    "No humidistat or runtime in the compact data"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B0957LJ8H9?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Ti+fGW6PL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "What the cap buys",
+   "explanation": "At this cap you can buy a 4 to 8 litre tank, a top-fill design, auto shut off and sometimes a humidistat. The BREEZOME and Honovos list humidistats, and the Pure Guardian lists a 100 hour runtime. Smart app control sits above this cap. Check whether the water tank can be washed in a sink, since a tank with a narrow neck is almost impossible to scrub and tends to grow film. Check the instructions for the maximum humidity the maker recommends, and keep a note of the target, because it is easy to forget and let the unit run on."
+  },
+  {
+   "criterion": "Humidistat",
+   "explanation": "A humidistat stops the humidifier when the room reaches a target humidity. Without one, output continues until the tank is empty, which can push humidity past 50 percent. Aim for 30 to 50 percent, and use a hygrometer to check. Plan where the humidifier will stand: the mist should have an open space in front of it, and furniture, curtains and electronics should be a few feet away."
+  },
+  {
+   "criterion": "Tank size and runtime",
+   "explanation": "A 4 litre tank suits a small room, 6 litres a bedroom and 8 litres a larger room. Runtime figures assume the lowest setting. A bigger tank means fewer refills but more weight. If your tap water is hard, factor in the cost of distilled water or a demineralisation cartridge, since a unit that uses a gallon a day goes through a lot."
+  },
+  {
+   "criterion": "Ultrasonic mist and white dust",
+   "explanation": "Ultrasonic units can spread mineral dust from hard water as a fine white film. Distilled or demineralised water avoids it. Evaporative units use a wick and self-limit, but they cost more to run. Think about a hygrometer, which costs little and tells you the real humidity, since the humidifier's own readout can be off by several points."
+  },
+  {
+   "criterion": "Cleaning and mould",
+   "explanation": "A tank that is hard to clean grows film and mould. Top-fill tanks with a wide opening are easiest. Empty and dry the tank each day when practical, and descale weekly."
+  },
+  {
+   "criterion": "Placement and safety",
+   "explanation": "Place it on a hard, waterproof surface a few feet off the floor, away from walls and electronics. Never on carpet. Cool mist is safer than warm mist around children and pets."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Humidistat",
+   "meaning": "A sensor that switches the humidifier off when the room reaches a set humidity. A humidistat reads humidity near the unit, which is usually higher than in the rest of the room, so set the target a few points lower than you want.",
+   "watchFor": "The BREEZOME and Honovos list humidistats."
+  },
+  {
+   "spec": "Ultrasonic",
+   "meaning": "A technology that vibrates a plate to create a fine cool mist. It is quiet but can leave white dust. Ultrasonic units are very quiet because there is no fan, and the hiss you hear is mostly water.",
+   "watchFor": "All of these use ultrasonic cool mist."
+  },
+  {
+   "spec": "Top fill",
+   "meaning": "A tank you fill from the top without removing it. It makes refilling easy. A wide opening makes the tank easy to fill and clean, and it is the single best design feature for long-term use.",
+   "watchFor": "The Honovos, Lacidoll, Everlasting Comfort, Levoit and Valuta list top fill."
+  },
+  {
+   "spec": "Runtime",
+   "meaning": "How long a full tank lasts at the lowest setting. Long runtime numbers assume the lowest mist setting, and a full-power setting can empty the tank in a day.",
+   "watchFor": "The Pure Guardian lists 100 hours, BREEZOME 60 and Honovos 48."
+  },
+  {
+   "spec": "Coverage claim",
+   "meaning": "The room size a maker says the humidifier can handle. It is optimistic. A coverage figure assumes a well-sealed room, and a house with leaky windows loses much of the moisture.",
+   "watchFor": "The Lacidoll lists 800 sq ft and Pure Guardian 440."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Control and safety",
+   "description": "We evaluated each humidifier on the controls and safety features stated in its listing. The BREEZOME and Honovos list humidistats. We have not handled any of these units. We looked for any mention of cleaning in each listing, since a humidifier that hides its difficulty is the one that ends up in a closet. We read each listing for a mention of a night light or display, since a bright display can be as disturbing as noise in a dark bedroom."
+  },
+  {
+   "title": "Tank and cleaning",
+   "description": "We compared tank size and fill design. Top-fill tanks rank higher. Owner feedback patterns often mention leaks and film. We treated every coverage claim as optimistic and focused on tank size and control."
+  },
+  {
+   "title": "Noise and runtime",
+   "description": "We considered stated noise and runtime. We make no medical claims. We do not publish ratings or review counts. We kept oil diffusers and essential oils out of the lineup, since they are not room humidifiers."
+  },
+  {
+   "title": "Distinct from our general guide",
+   "description": "We kept the lineup distinct from our general living room humidifier guide, with two carry-overs. We left out oil diffusers and oils."
+  },
+  {
+   "title": "Honest limits",
+   "description": "Coverage claims are optimistic, and a humidifier needs regular cleaning. We say so."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room",
+   "table": {
+    "headers": [
+     "Room",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small room",
+      "Valuta 4L",
+      "Smallest tank"
+     ],
+     [
+      "Bedroom",
+      "BREEZOME 6L",
+      "Humidistat and quiet"
+     ],
+     [
+      "Large bedroom",
+      "Honovos 8L",
+      "Big top-fill tank"
+     ],
+     [
+      "Open living room",
+      "Lacidoll 8L",
+      "800 sq ft claim"
+     ],
+     [
+      "Medium room",
+      "Pure Guardian",
+      "100 hour runtime"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Valuta",
+      "Second cheapest of 15"
+     ],
+     [
+      "Low cost",
+      "Levoit",
+      "Fifth cheapest"
+     ],
+     [
+      "Lower-middle",
+      "BREEZOME",
+      "Sixth cheapest"
+     ],
+     [
+      "Middle",
+      "Everlasting Comfort or Lacidoll",
+      "Seventh and eighth"
+     ],
+     [
+      "Upper",
+      "Honovos or Pure Guardian",
+      "Ninth and tenth"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "With vs Without a Humidistat",
+   "cards": [
+    {
+     "label": "With, like BREEZOME",
+     "text": "Holds a target humidity and cuts off. Costs slightly more."
+    },
+    {
+     "label": "Without, like Everlasting Comfort",
+     "text": "Simple and cheaper. Needs a hygrometer and watching."
+    }
+   ],
+   "note": "Choose a humidistat if you are forgetful."
+  },
+  {
+   "subheading": "By Feature",
+   "table": {
+    "headers": [
+     "Feature",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Humidistat",
+      "BREEZOME or Honovos",
+      "Holds a set level"
+     ],
+     [
+      "Longest runtime",
+      "Pure Guardian",
+      "100 hours"
+     ],
+     [
+      "Quietest claim",
+      "BREEZOME",
+      "25 dB"
+     ],
+     [
+      "Largest tank",
+      "Honovos or Lacidoll",
+      "8 litres"
+     ],
+     [
+      "Brand",
+      "Levoit",
+      "Known name"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Living Room Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A humidistat, a tank of 6 litres or more, a hard surface and a clean routine."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The BREEZOME and Honovos are the best fit for a living room."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want smart control, a warm mist option, an evaporative design or a very large coverage."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a small room. A basic ultrasonic unit is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Empty and rinse the tank",
+   "interval": "Every 1 to 3 days",
+   "why": "Stale water grows film and mould. Use a soft brush on the ultrasonic plate, as the maker advises, and avoid scratching it. Wipe the exterior with a damp cloth so dust does not build up and stick to the damp surface."
+  },
+  {
+   "task": "Descale with vinegar",
+   "interval": "Weekly",
+   "why": "Minerals build up on the plate. Store the humidifier fully dry in the off season to prevent a musty smell next winter."
+  },
+  {
+   "task": "Wipe the base",
+   "interval": "Weekly",
+   "why": "Moisture collects in the base."
+  },
+  {
+   "task": "Check the humidity",
+   "interval": "Daily in use",
+   "why": "A hygrometer keeps levels between 30 and 50 percent."
+  },
+  {
+   "task": "Replace filters or wicks",
+   "interval": "As directed",
+   "why": "Some units use cartridges that lose effect."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What humidity should I aim for?",
+   "a": "About 30 to 50 percent. Above 50 percent can encourage mould and dust mites. Keep the humidifier on a waterproof tray if it sits on wood, since a little condensation can mark the finish. If you notice a musty smell, empty the tank, clean it fully and let it dry before using it again."
+  },
+  {
+   "q": "Why is there white dust?",
+   "a": "Minerals from hard water. Distilled water avoids it. If the room windows fog, turn the humidifier down or off, since that is a sign humidity is too high. Place the humidifier on the same side of the room as the vent that is driest, to help moisture spread."
+  },
+  {
+   "q": "Do I need a humidistat?",
+   "a": "It is the best way to avoid over-humidifying without watching the unit. Never add chemicals or medicines to the tank unless the maker allows them."
+  },
+  {
+   "q": "How often do I clean it?",
+   "a": "Rinse every day or two and descale weekly."
+  },
+  {
+   "q": "Do prices change?",
+   "a": "Yes. The cap reflects listing prices when we updated the guide, and prices move often."
+  },
+  {
+   "q": "Can I use essential oils in the tank?",
+   "a": "Only if the maker allows it. Many advise using the oil tray instead."
+  }
+ ],
+ "relatedGuides": []
+}

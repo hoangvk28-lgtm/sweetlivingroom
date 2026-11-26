@@ -1,0 +1,588 @@
+{
+ "guideSlug": "best-projectors-under-1000",
+ "categorySlug": "audio-video",
+ "mainKeyword": "projector under 1000",
+ "guideTitle": "Best Projectors Under $1000 (2026)",
+ "metaTitle": "Best Projectors Under $1000 (2026)",
+ "metaDescription": "Projectors under $1000 compared on lamp or laser, brightness, throw distance, gaming latency and 4K type, and what the upper band buys over cheap models.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31NwM20d1aL._SL500_.jpg",
+ "expertTake": "The ViewSonic LS740HD is the best overall pick because it combines 5,500 lumens with a laser source and optical zoom, the brightness that a lit living room needs. The Optoma HD146X is the best value for a dedicated home theater. Skip an ultra short throw projector if you have no wall space for a screen, because the picture needs a flat, clean surface just inches away.",
+ "introParagraphs": [
+  "Under this cap, a projector stops being a toy and becomes a real home theater option. The upper end of the range buys what cheap models lack: a brightness that survives some room light, a lens with optical zoom, a laser or lamp with a long stated life and low input lag for gaming.",
+  "The cap reflects listing prices on the day we updated the guide, and prices move often. We kept the lineup distinct from our under 500 guide by favouring named brands, laser or lamp sources and stated brightness. We have not handled any of these projectors, so our judgments rest on specifications and patterns in owner feedback. Brightness numbers are the manufacturers' own, and rooms vary."
+ ],
+ "products": [
+  {
+   "id": "B0CDG3JKQP",
+   "badge": "Best Overall",
+   "name": "ViewSonic LS740HD 1080P Laser Projector, 5500 lumens, 1.3x optical zoom, 30 to 300 inch picture",
+   "specs": [
+    "5500 ANSI",
+    "Laser",
+    "1.3x zoom"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "5,500 ANSI lumens"
+    },
+    {
+     "label": "Resolution",
+     "value": "Full HD 1920x1080"
+    },
+    {
+     "label": "Source",
+     "value": "Laser"
+    },
+    {
+     "label": "Lens",
+     "value": "1.3x optical zoom, 30 to 300 in picture"
+    },
+    {
+     "label": "Setup",
+     "value": "Keystone and corner adjustment"
+    }
+   ],
+   "description": "This projector lists 5,500 ANSI lumens from a laser light source, Full HD resolution, a 1.3x optical zoom lens, keystone and corner adjustment and a picture from 30 to 300 inches. At 5,500 lumens it is bright enough for a living room with the lights on, which is far beyond the 200 to 1,500 claimed lumens of the cheaper models. The listing also mentions a golf mode for simulators.\n\nThe tradeoff is that it is a big, commercial-feeling projector with fan noise and a bulkier body, and it is Full HD, not 4K. Compared with the Epson, it trades portability and a smart system for sheer brightness. A laser source holds its brightness longer than a lamp, but it is not a smart TV replacement without a streaming stick.\n\nPlan a ceiling or shelf mount at the right distance and connect a streaming stick. Set the zoom and keystone once and mark the position. Keep the vents clear and dust the filter if one is fitted.",
+   "bestFor": "A living room with ambient light that needs real brightness.",
+   "pros": [
+    "5,500 ANSI lumens from a laser source is bright enough for lit rooms",
+    "1.3x optical zoom adjusts the picture without moving the projector",
+    "Picture from 30 to 300 inches",
+    "Keystone and corner adjustment ease placement"
+   ],
+   "cons": [
+    "Bulky body and audible fan noise",
+    "Full HD, not 4K, and no smart system built in"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CDG3JKQP?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31NwM20d1aL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0842QPR1Z",
+   "badge": "Best Value",
+   "name": "Optoma HD146X 1080P Full HD Home Theater Projector, vibrant colour",
+   "specs": [
+    "1080P",
+    "Home theater",
+    "Established brand"
+   ],
+   "specList": [
+    {
+     "label": "Resolution",
+     "value": "Full HD 1920x1080"
+    },
+    {
+     "label": "Type",
+     "value": "Home theater projector"
+    },
+    {
+     "label": "Brand",
+     "value": "Optoma"
+    },
+    {
+     "label": "Colour",
+     "value": "Described as vibrant"
+    },
+    {
+     "label": "Cost position",
+     "value": "Thirteenth of 16"
+    }
+   ],
+   "description": "This is a dedicated 1080P home theater projector from a long-established projector maker. The compact data gives few specifications, but the model is known as a lamp-based Full HD unit for a dark room with a screen. It is the kind of projector people build a home theater around.\n\nThe tradeoff is that the compact data does not give lumens, throw ratio or lamp life, so check the full listing before you buy. Compared with the ViewSonic, the Optoma is dimmer and lamp-based, and a lamp needs eventual replacement. Established brands offer parts and support.\n\nUse it in a darkened room with a screen. Plan a lamp replacement in a few years. Keep the vents clear.",
+   "bestFor": "A dedicated, darkened home theater room with a proper screen.",
+   "pros": [
+    "Dedicated 1080P home theater design from an established brand",
+    "Described as vibrant for colour",
+    "Lamp parts and support are widely available",
+    "Thirteenth of sixteen in cost position"
+   ],
+   "cons": [
+    "Compact data gives no lumens, throw ratio or lamp life",
+    "Lamp will need replacement over time"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0842QPR1Z?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CMLolz7QL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FNGV6YFH",
+   "badge": "Best Lifestyle Projector",
+   "name": "Epson Lifestudio Flex Plus 4K PRO-UHD Portable Projector, 1000 lumens, Bose sound",
+   "specs": [
+    "4K PRO-UHD",
+    "1000 lumens",
+    "Bose sound"
+   ],
+   "specList": [
+    {
+     "label": "Resolution",
+     "value": "4K PRO-UHD"
+    },
+    {
+     "label": "Brightness",
+     "value": "1,000 lumens color and white (IDMS rated)"
+    },
+    {
+     "label": "Audio",
+     "value": "Integrated stereo by Bose"
+    },
+    {
+     "label": "Type",
+     "value": "Portable lifestyle projector"
+    },
+    {
+     "label": "Cost position",
+     "value": "Fourteenth of 16"
+    }
+   ],
+   "description": "This is a portable lifestyle projector with 4K PRO-UHD, which uses pixel shifting to produce a 4K-like picture from a lower-resolution chip, rated at 1,000 lumens of colour and white brightness under the IDMS standard. An integrated stereo system by Bose gives it better sound than most projectors, and the Epson Projection Studio app lets you create and share content. It is designed to be carried and used in several rooms.\n\nThe tradeoff is that 1,000 lumens is modest, so it needs a dim room, and pixel shifting is not true native 4K. Compared with the ViewSonic, it is far less bright, but it is portable, has built-in sound and a stated IDMS rating. The IDMS standard is a more reliable measure than a bare number.\n\nPlace it on a table or a stand and use a dim room. Use the app to set up scenes. Keep the vents clear.",
+   "bestFor": "A portable, good-sounding projector for a bedroom or living room in the evening.",
+   "pros": [
+    "4K PRO-UHD with IDMS-rated 1,000 lumens",
+    "Integrated stereo sound by Bose",
+    "Portable lifestyle design with a companion app",
+    "Brand with a long projector record"
+   ],
+   "cons": [
+    "1,000 lumens needs a dim room",
+    "Pixel shifting is not true native 4K"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FNGV6YFH?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31cDyumFN7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F54PGWR5",
+   "badge": "Best for Gaming",
+   "name": "Philips GamePix 900 4K Projector, 3840 x 2160, 6 ms latency, 240 Hz, 1000 lumens, 3 gaming presets",
+   "specs": [
+    "6 ms latency",
+    "240 Hz",
+    "3 game presets"
+   ],
+   "specList": [
+    {
+     "label": "Resolution",
+     "value": "3840 x 2160"
+    },
+    {
+     "label": "Latency",
+     "value": "6 ms"
+    },
+    {
+     "label": "Refresh",
+     "value": "240 Hz"
+    },
+    {
+     "label": "Presets",
+     "value": "Action, Adventure and a third gaming mode"
+    },
+    {
+     "label": "Weight",
+     "value": "2 kg, portable"
+    }
+   ],
+   "description": "This projector is aimed at gamers, with a listed 3840 by 2160 resolution, 6 millisecond latency, a 240 Hz refresh rate and three dedicated gaming presets, in a body of about 2 kilograms. Low input lag matters for games because a laggy projector makes a console feel slow. The listing says brightness is 1,000, but the unit is not given in the compact data.\n\nThe compromise is that the brightness unit is unclear, and a 240 Hz refresh rate usually applies at a lower resolution. Compared with the Epson, it is the lower latency pick, but the compact data does not state sound. The listing's gaming claims should be checked with your console's output.\n\nConnect your console by HDMI and enable game mode. Use a dark room for the best contrast. Test the lag during the return window.",
+   "bestFor": "Console gaming on a big screen in a dark room.",
+   "pros": [
+    "6 millisecond latency is stated",
+    "240 Hz refresh rate is listed",
+    "Three gaming presets simplify setup",
+    "About 2 kg, easy to move"
+   ],
+   "cons": [
+    "Brightness unit is not given in the compact data",
+    "240 Hz usually applies at a lower resolution"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0F54PGWR5?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/210OTKQUOmL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H3NHLCJ3",
+   "badge": "Best Smart Projector",
+   "name": "HAPPRUN 2500 ANSI Google TV Smart Movie Projector, 4K decoding, WiFi 6, Bluetooth 5.2, 40 to 300 inch",
+   "specs": [
+    "2500 ANSI claim",
+    "Google TV",
+    "40 to 300 in"
+   ],
+   "specList": [
+    {
+     "label": "Brightness",
+     "value": "2,500 ANSI lumens claimed"
+    },
+    {
+     "label": "System",
+     "value": "Google TV built in"
+    },
+    {
+     "label": "Decoding",
+     "value": "4K"
+    },
+    {
+     "label": "Connectivity",
+     "value": "WiFi 6, Bluetooth 5.2"
+    },
+    {
+     "label": "Picture",
+     "value": "40 to 300 in"
+    }
+   ],
+   "description": "This smart projector has Google TV built in, so you can skip the streaming stick, and it claims 2,500 ANSI lumens, 4K decoding, WiFi 6 and Bluetooth 5.2, with a picture from 40 to 300 inches. The listing says the brightness delivers vivid images even in rooms with ambient light. It is the brightest smart projector in the group by claim.\n\nThe tradeoff is credibility again: 2,500 ANSI is a high claim at this price, and we cannot verify it, so test it in your room. Compared with the ViewSonic, it is a smart system and a lower claim, with a less-established brand. Native resolution is not stated in the compact data.\n\nTest the brightness against the stated claims and your room's light. Use a screen for the best contrast. Keep the vents clear.",
+   "bestFor": "A smart, bright-claimed projector for a living room with some ambient light.",
+   "pros": [
+    "Google TV built in, no stick required",
+    "2,500 ANSI lumens claimed for lit rooms",
+    "WiFi 6 and Bluetooth 5.2",
+    "40 to 300 inch picture size range"
+   ],
+   "cons": [
+    "The brightness claim is hard to verify",
+    "Native resolution is not stated in the compact data"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H3NHLCJ3?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51PxXdLwptL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HJPZP8BQ",
+   "badge": "Best Sealed Optics",
+   "name": "XuanPad Sealed Optics 4K Outdoor Projector, Google TV, TOF auto focus, dual 68 W Dolby, under 30 dB",
+   "specs": [
+    "Sealed optics",
+    "Google TV",
+    "Under 30 dB"
+   ],
+   "specList": [
+    {
+     "label": "System",
+     "value": "Official licensed Google TV with voice"
+    },
+    {
+     "label": "Optics",
+     "value": "Sealed, dust-free"
+    },
+    {
+     "label": "HDR",
+     "value": "HDR10+"
+    },
+    {
+     "label": "Noise",
+     "value": "Under 30 dB"
+    },
+    {
+     "label": "Audio",
+     "value": "Dual 68 W Dolby"
+    }
+   ],
+   "description": "This projector uses sealed optics to keep dust away from the light path, an official Google TV licence with voice control, HDR10+ support, a quiet fan rated under 30 decibels and dual 68 watt Dolby audio speakers. Sealed optics address the black-spot problem that unsealed projectors develop over time. A quiet fan matters in a bedroom.\n\nThe tradeoff is that 4K in the title likely means 4K support, and the compact data does not give a brightness figure. Compared with the HAPPRUN, it emphasises quiet and sealed optics. Dual 68 watt speakers are loud for a projector, but sound quality varies.\n\nPlace it on a stable surface and run the auto focus. Use a dark room. Check the native resolution in the full listing.",
+   "bestFor": "A quiet bedroom or living room where dust and fan noise matter.",
+   "pros": [
+    "Sealed optics keep dust off the light path",
+    "Official Google TV licence with voice control",
+    "Fan noise is listed under 30 dB",
+    "Dual 68 W Dolby speakers"
+   ],
+   "cons": [
+    "Compact data gives no brightness figure",
+    "4K in the title likely means decoding support"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0HJPZP8BQ?tag=sweetlivingroom-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4164o6WSgxL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "What the cap buys",
+   "explanation": "At this cap you can buy real brightness, an optical zoom lens, a laser or lamp with a stated life, lower latency and a recognised brand. The ViewSonic offers 5,500 lumens, and the Philips lists 6 milliseconds. Cheaper projectors list inflated numbers without units. Plan the power and cable path before you buy, since a projector on a shelf or ceiling needs an outlet and an HDMI run, and a long HDMI cable must be rated for the resolution you want. Test any projector with a bright scene and a dark scene during the return window, because a projector that looks fine in a bright demo can lose shadow detail in a dark film."
+  },
+  {
+   "criterion": "Brightness for your room",
+   "explanation": "A dark room needs about 1,000 lumens, a room with curtains needs 2,000 to 3,000 and a lit room needs 3,000 or more. The ViewSonic suits a lit room, and the Epson suits a dim one. Treat ANSI or IDMS figures as more reliable than bare numbers. Measure the throw distance from the lens to the wall and compare it with the projector's throw ratio, which tells you how big a picture you get at that distance. Remember that screen size trades off against brightness: the same lumens spread over a larger picture look dimmer, so a 100 inch picture is a better fit than 150 inches for a modest projector."
+  },
+  {
+   "criterion": "Lamp, LED or laser",
+   "explanation": "Lamps are bright and cheap but need replacement after a few thousand hours, and laser sources, like the ViewSonic, hold brightness for far longer. LED sources are compact but dimmer. Check the stated life. Consider placement of the projector relative to seating, since a ceiling-mounted unit is out of sight but harder to reach for cleaning and for moving."
+  },
+  {
+   "criterion": "Native resolution and pixel shifting",
+   "explanation": "Native 1080P is a real Full HD chip. 4K PRO-UHD uses pixel shifting to approach 4K. 4K decoding only accepts the signal. Check which one a listing means."
+  },
+  {
+   "criterion": "Throw distance and zoom",
+   "explanation": "A throw ratio decides how far the projector must sit for a given screen size. Optical zoom, as on the ViewSonic, lets you adjust the size without moving it. Ultra short throw projectors sit inches from the wall."
+  },
+  {
+   "criterion": "Input lag and gaming",
+   "explanation": "Low latency, such as the Philips listed 6 milliseconds, makes games feel responsive. Many projectors have 30 to 50 milliseconds of lag. Use a game mode and check the figure at your resolution."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "ANSI lumens",
+   "meaning": "A standard measure of brightness across several points on the screen. A native pixel count is the thing to look for when you want a sharper picture, and everything else is a scaling trick.",
+   "watchFor": "The ViewSonic lists 5,500, and HAPPRUN lists 2,500 as a claim."
+  },
+  {
+   "spec": "IDMS",
+   "meaning": "A standard brightness test used by Epson, covering colour and white output. Standard ANSI measurement averages nine points, so it is lower than a peak number measured at the centre.",
+   "watchFor": "The Epson lists 1,000 lumens IDMS rated."
+  },
+  {
+   "spec": "Laser source",
+   "meaning": "A light source using lasers, with long life and steady brightness. A lower input lag matters more for gaming than a higher refresh figure that only works at a lower resolution.",
+   "watchFor": "The ViewSonic lists a laser source."
+  },
+  {
+   "spec": "4K PRO-UHD",
+   "meaning": "A pixel-shifting method that produces a 4K-like picture from a lower resolution chip. Pixel shifting moves the image quickly to produce more detail, and it works best on still or slow content.",
+   "watchFor": "The Epson lists 4K PRO-UHD."
+  },
+  {
+   "spec": "Input latency",
+   "meaning": "The delay between a game console's signal and the picture. Lower is better for gaming. A peak brightness figure can be misleading when the projector dims in its eco mode, which is often the default.",
+   "watchFor": "The Philips lists 6 milliseconds."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Brightness and source",
+   "description": "We evaluated each projector on the brightness and light source stated in its listing. The ViewSonic and Epson state units, and the HAPPRUN claims 2,500 ANSI. We have not handled any of these projectors. We read each listing for the brightness unit, since a number without a unit tells you almost nothing. We also considered the lifespan of each light source as listed, since a projector that dims quickly is a recurring cost."
+  },
+  {
+   "title": "Resolution honesty",
+   "description": "We compared native resolution with pixel shifting and decoding. We say plainly where a listing's 4K means support. Owner feedback patterns often mention soft pictures and dim rooms. We separated projectors built for home theater from portable lifestyle models, since the right choice depends on the room. Where a listing was silent on throw ratio, we treated placement as an open question and flagged it."
+  },
+  {
+   "title": "Features and sound",
+   "description": "We considered smart systems, lenses, sound and noise. The Epson has Bose sound and the XuanPad lists quiet fans."
+  },
+  {
+   "title": "Distinct from our 500 guide",
+   "description": "We avoided repeating our under 500 projector lineup. We favoured named brands and stated units. We do not publish ratings or review counts."
+  },
+  {
+   "title": "Honest limits",
+   "description": "Brightness claims vary and rooms differ. We say so."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room Light",
+   "table": {
+    "headers": [
+     "Room",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lit living room",
+      "ViewSonic LS740HD",
+      "5,500 ANSI laser"
+     ],
+     [
+      "Curtains",
+      "HAPPRUN 2500",
+      "Claimed 2,500 ANSI"
+     ],
+     [
+      "Dim room",
+      "Epson Flex Plus",
+      "1,000 IDMS lumens"
+     ],
+     [
+      "Dark theater",
+      "Optoma HD146X",
+      "Dedicated home theater"
+     ],
+     [
+      "Bedroom",
+      "XuanPad",
+      "Under 30 dB"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower end",
+      "XuanPad",
+      "Eleventh of 16"
+     ],
+     [
+      "Lower-middle",
+      "Philips GamePix",
+      "Twelfth of 16"
+     ],
+     [
+      "Middle",
+      "Optoma",
+      "Thirteenth of 16"
+     ],
+     [
+      "Upper-middle",
+      "Epson",
+      "Fourteenth of 16"
+     ],
+     [
+      "Upper",
+      "ViewSonic",
+      "Sixteenth of 16"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Laser vs Lamp vs LED",
+   "cards": [
+    {
+     "label": "Laser, like ViewSonic",
+     "text": "Bright and long-lived, with steady output. Higher cost and fan noise."
+    },
+    {
+     "label": "Lamp or LED, like Optoma and Epson",
+     "text": "Lamps are cheap but need replacing. LEDs are compact but dimmer."
+    }
+   ],
+   "note": "Choose laser for a bright room and a lamp or LED for a dark one."
+  },
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Use",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Movies",
+      "Optoma",
+      "Home theater"
+     ],
+     [
+      "Gaming",
+      "Philips GamePix 900",
+      "6 ms latency"
+     ],
+     [
+      "Portable",
+      "Epson",
+      "Bose sound"
+     ],
+     [
+      "Smart streaming",
+      "HAPPRUN",
+      "Google TV"
+     ],
+     [
+      "Big picture",
+      "ViewSonic",
+      "30 to 300 inches"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Living Room Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Brightness matched to your room light, a lens that suits your throw distance and a screen or a plain light wall."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ViewSonic is the best fit for a lit living room, and the Epson suits a dim one."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want native 4K, high dynamic range, lens shift or an ultra short throw with a screen."
+    },
+    {
+     "label": "Save if",
+     "text": "You mainly watch in a dark room. A good 1080P projector is plenty."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the lens",
+   "interval": "Monthly",
+   "why": "Dust softens the picture. Let the projector cool before you move it or switch off the power, since cutting power too early can shorten lamp life. Avoid blocking the exhaust side with curtains or a wall, since heat needs a clear path out. Note the date of each lamp change so you know when the next one is due."
+  },
+  {
+   "task": "Clean or replace the filter",
+   "interval": "Every 3 months",
+   "why": "Dust causes overheating."
+  },
+  {
+   "task": "Track lamp hours",
+   "interval": "Quarterly",
+   "why": "Lamps dim and fail after a few thousand hours."
+  },
+  {
+   "task": "Check the mount",
+   "interval": "Twice a year",
+   "why": "Ceiling mounts loosen."
+  },
+  {
+   "task": "Update the firmware",
+   "interval": "Every few months",
+   "why": "Updates fix apps and Wi-Fi."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How bright should a projector be?",
+   "a": "About 1,000 lumens for a dark room and 3,000 or more for a lit room. Use a streaming stick on any projector if built-in apps are limited, and keep the stick powered from the projector's USB port only if the manual allows it. If the image looks soft, check the focus first, and then check the lens for fingerprints before blaming the projector. Plan to keep the projector at least a foot from walls and curtains so air can circulate."
+  },
+  {
+   "q": "Is a laser projector worth it?",
+   "a": "For a bright room and long life, yes. For a dark room, a lamp is fine. Mount the projector level when you can, since heavy keystone correction softens the image."
+  },
+  {
+   "q": "Do I need a screen?",
+   "a": "A screen improves contrast and colour, though a flat light wall works."
+  },
+  {
+   "q": "What is input lag?",
+   "a": "The delay between the console and the picture. Lower is better for games."
+  },
+  {
+   "q": "Do prices change?",
+   "a": "Yes. The cap reflects listing prices when we updated the guide, and prices move often."
+  },
+  {
+   "q": "Can a projector replace a TV?",
+   "a": "In a dark room, yes. In a lit room, only a bright projector can come close."
+  }
+ ],
+ "relatedGuides": []
+}

@@ -69,3 +69,15 @@
 - Review sites lead with dialogue clarity, subwoofer inclusion and HDMI eARC; most picks overlap across outlets.
 - Atmos at this cap is called rare or virtualized; compact versus with-sub is the main split, and some outlets cite lab testing.
 - Gap: honest framing of virtual Atmos, TV port requirements, soundbar height versus the TV stand and peak-watt marketing.
+
+## best-soundbars-under-300
+- Roundups (RTINGS, PopSci, Rolling Stone) name Samsung HW-B750D, Sonos Ray, JBL Bar 2.0 and Vizio 5.1 as sub-300 picks; they split by subwoofer, surround and smart features.
+- We add centre channel for dialogue, virtual surround honesty, peak watts as a marketing number and placement for the subwoofer.
+
+## best-soundbars-under-500
+- Roundups lean on Atmos bars with wireless subs; Atmos height needs up-firing speakers and a flat ceiling.
+- We add ceiling height caveat, subwoofer size vs small rooms, eARC check and voice assistant mic note.
+
+## best-projectors-under-200 and best-projectors-under-1000
+- PopSci names DBPOWER and Kodak at under 200 and warns not to expect top performance; RTINGS, Engadget list BenQ and XGIMI under 1000; guides say about 1,000 lumens for ambient light.
+- We add native vs 4K support, ANSI vs ISO and verification of brightness claims, laser vs lamp life, and gaming latency.

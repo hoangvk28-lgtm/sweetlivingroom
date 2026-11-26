@@ -108,3 +108,7 @@
 - Roundups tie high backs to comfort, advising deeper seats, proper arms and neck support; named picks span wingbacks and mid-century shapes.
 - Seat depth, arm height and back support are the buying checks; Houzz-style listings dominate results.
 - Gap: back height versus seat dimensions, wing shape and head support, and boucle and sherpa fabric care.
+
+## best-accent-chairs-under-500
+- Roundups show editor lists of minimalist, small-space and swivel chairs; Emily Henderson notes cheaper chairs repeat the same silhouettes.
+- We add pocket coils vs foam, stated seat dimensions, pair vs single and swivel base wear.

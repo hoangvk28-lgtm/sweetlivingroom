@@ -25,3 +25,7 @@
 - Accuracy over time is questioned by some sources; treat secondhand claims with care.
 - Picks split by allergies, comprehensive and portable options.
 - Gap we cover: NDIR vs estimated CO2, index values for VOC, and not replacing CO alarms.
+
+## best-space-heaters-under-100, best-tower-fans-under-100, best-humidifiers-under-100 and best-air-purifiers-under-200
+- Roundups (Consumer Reports, Wirecutter-style, CNN, Tom's Guide) say most good space heaters cost 100 or less, name Lasko, Vornado and Dreo; tower fans name Dreo, Lasko, Honeywell and Vornado; humidifiers name Levoit and Dreo and advise distilled water; purifiers name Levoit Core and Vital models and match CADR to room.
+- We add 1,500 W circuit and no extension cords, tip-over and overheat protection, DC vs AC motor noise, humidistat and hygrometer, CADR vs coverage and air changes per hour.

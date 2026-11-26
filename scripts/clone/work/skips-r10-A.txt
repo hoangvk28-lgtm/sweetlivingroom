@@ -1,0 +1,5 @@
+No slugs skipped in round 10 list A (50 of 50 reached audit ok).
+Notes:
+- best-lift-top-coffee-tables-under-300 shares 3 products (Yaheetech, HAPPYMONT, Decofy) with existing best-lift-top-coffee-tables.
+- best-swivel-chairs-under-300 has only 4 products (all swivel barrel chairs with uc true that exist); CANMOV and Bonzy Home also appear in existing swivel guides.
+- best-sideboards-under-500 carries IFGET and RoyalCraft from existing best-sideboards.

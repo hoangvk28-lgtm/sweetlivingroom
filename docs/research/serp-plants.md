@@ -41,3 +41,13 @@
 - One tester compared several trees and singled out realism and price tiers.
 - Tip: keep leaves dust free for shine.
 - Gap we cover: planter height vs tree height, trunk count and leaf count detail.
+
+## best-budget-faux-plants
+- Roundups lead with small potted picks and cheap two-packs; advice is to fluff, give each plant room and avoid glossy leaves.
+- They split by room and plant type (pothos, eucalyptus, trees); few address pot tipping or sun fading.
+- We add scale vs room, matte finish, museum putty for light pots and basket covers.
+
+## best-budget-planters
+- Roundups name Bloem Saturn and IKEA basics as budget picks and favour terracotta for houseplants; many say drainage is advised for beginners.
+- They split by size, material and indoor vs outdoor; few cover self-watering overwatering or pot-too-big risks.
+- We add one to two inch rule, saucer and felt pads, reservoir cleaning and pebble ballast.

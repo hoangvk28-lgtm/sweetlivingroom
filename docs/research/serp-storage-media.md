@@ -168,3 +168,27 @@
 - Picks split by industrial, sliding barn door, fluted and mid century styles, plus a rolling stand.
 - Retail reviews mention some stands failing to hold 65 in TV weight.
 - Gap we cover: tops narrower than the panel, sofa eye level math and stated vs missing load figures.
+
+## best-budget-cable-management
+- Top lists lead with reusable ties as the budget pick, then adhesive clips, then under-desk trays and sleeve kits.
+- They split by use: desk, TV wall, under-desk power strip; few cover sofa-side charging corners.
+- Common caveats: adhesive single use, hook-and-loop wears with re-use, trays flex when overloaded.
+- We add surface prep for adhesive, sleeve width vs cord count, and the point that kits hold but do not hide.
+
+## best-budget-record-storage
+- Roundups split by collection size and by crate/box vs shelf vs turntable-stand combo; Kallax cubes and milk crates recur as cheap options.
+- Wire magazine holders are named as the cheapest display option; stackable bins as big-collection pick.
+- Few explain lean and warp or heat; we add support along full height, divider use, floor and damp warnings.
+- We add honest capacity (thick sleeves, gatefolds) and display vs archive split.
+
+## best-cube-storage-under-100
+- Roundups (Scary Mommy, Yahoo) name HOMIDEC as budget, Amazon Basics wire grid as cult pick and Way Basics with a door; plastic is cheapest.
+- We add bin size 10.5 in 11 in cube, back panel rigidity, anchoring and solid vs composite wood.
+
+## best-sideboards-under-500
+- Roundups name Walker Edison Sasha, IFGET value pick, COLAMY fluted and HOSTACK budget; solid wood under 500 is rare, engineered wood common.
+- We add height by use (coffee bar vs media), depth and walkway, modular vs single, anti-tip and baked paint.
+
+## best-bar-carts-under-150
+- Roundups (Domino, House Digest, Reviewed) list carts under 100, 150 and 200; they split by finish (gold, rustic wood, glass) and capacity.
+- We add shelf gap for tall bottles, brakes, glass rattle and narrow-cart tipping.

@@ -192,3 +192,13 @@
 ## best-stain-resistant-rugs
 - Retailer results say polypropylene is stain resistant and durable, polyester is a budget fiber for moderate traffic, and viscose is very absorbent; washable rugs ease cleanup for pets and kids.
 - Gap: stain resistant versus stain proof, washing limits at large sizes, and what treatments wear off.
+
+## best-budget-washable-rugs
+- Roundups name polyester as the budget material and OLANLY as a value pick; they flag wool as not machine safe.
+- They split by size (small ones fit home machines), pet and kid use, and pad advice.
+- Few cover backing cracking in dryers or flat-feel tradeoff; we add both, plus nominal size honesty.
+- We add pile height vs cleaning and the replaceable-layer expectation.
+
+## best-area-rugs-under-300
+- Roundups (Apartment Therapy, Emily Henderson, Refinery29) list rugs under 300 and washable options (Revival, Ruggable, Joss and Main); smaller synthetic rugs are the cheapest.
+- We add commercial-machine washing honesty at 8x10, pile height vs traffic, backing vs pad and shedding.

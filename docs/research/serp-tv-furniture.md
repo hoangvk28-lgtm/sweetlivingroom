@@ -88,3 +88,44 @@
 ## best-arched-bookshelves
 - Guides note most arched bookshelves are MDF or particleboard with a laminate finish, vary by style from farmhouse to industrial, and some include anti-tip kits and reinforced frames.
 - Gap: per-shelf load, arch top versus usable top shelf height, wall anchoring and doors versus open shelves.
+
+## best-budget-laptop-tables
+- Roundups name VASAGLE side tables, Mind Reader lap desks and bamboo bed trays; they split bed, sofa and desk setups.
+- Common drawbacks: rickety legs on cheap trays; few mention height and tilt posture.
+- We add forearm level and eye level screen rule, legged table vs cushion lap desk, and heat shield vs real cooling.
+
+## best-coffee-tables-under-300
+- Roundups (HGTV, Hunker, Bobby Berk) list sub-300 tables by style (mango wood round, reeded storage, modern); sweet spot said to be 100 to 300.
+- We add table-to-sofa proportion (about two thirds), height within 1 to 2 inches of seat, solid wood vs MDF and shelf clutter.
+
+## best-lift-top-coffee-tables-under-300
+- Roundups (Real Homes, House Digest, Dupe) cover lift tops with drawers, small-space picks and spring-assist; tips: lift adds 4 to 8 inches, locked load 40 to 100 lb.
+- We add pinch and wobble honesty, raised-top rating vs total rating and gas spring ageing.
+
+## best-nesting-tables-under-150
+- Roundups (BestReviews, Domino, Apartment Therapy) list IKEA, BHG and Costway sets; most say good sets sit under 120 to 150.
+- We add stated sizes, tripod vs four legs on carpet, nesting tolerance scratching and set of 2 vs 3.
+
+## best-console-tables-under-100
+- Roundups (HGTV, Domino, Apartment Therapy) split by storage and style; under-100 results are mostly retailer collections (Tribesigns) with little storage.
+- We add depth vs walkway, height against the sofa back, outlets and anti-tip, and honesty about engineered wood.
+
+## best-ottomans-under-200
+- Roundups (HGTV, Apartment Therapy, BestReviews) favour tufted and storage ottomans, mostly under 150; few explain fill types.
+- We add foam vs beads, footrest height rule, spot-clean-only covers and the poufs-not-storage honesty.
+
+## best-tv-stands-under-300
+- Roundups (BestReviews, ZDNET, Apartment Therapy Walmart and Amazon lists) name mid-century and farmhouse stands, mid-range 150 to 299 as best value; advise checking weight limit and max TV size.
+- We add TV foot width and depth, top rating, built-in outlet surge caveat, fluting dust.
+
+## best-media-consoles-under-500
+- Search for media consoles under 500 returns mostly retailer pages and electronics; furniture guides treat console and TV stand as the same, so we separate by width, depth and hardware.
+- We add TV foot width vs top, soft-close and tambour wear, LED strips as a failure point and airflow for gear.
+
+## best-tv-wall-mounts-under-50
+- Roundups (Tom's Guide, Bob Vila, PopSci) name Perlesmith, Amazon Basics, Best Buy Essentials and onn. as budget mounts; sub-50 mounts are mostly fixed or tilting; check VESA, size and weight rating.
+- We add UL listing, stud need, leverage of full motion arms and port access before hanging.
+
+## best-tvs-under-1000
+- Roundups (Tom's Guide, PopSci, RTINGS, Reviewed) favour Hisense U8, TCL QM6K and Samsung Q70 picks; HDR is the big differentiator under 1000.
+- We add mini LED and zone bloom, native vs processed refresh, HDR formats and platform ads, 65 inch focus.

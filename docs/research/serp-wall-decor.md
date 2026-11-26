@@ -60,3 +60,7 @@
 - LED neon is pitched as durable and energy efficient; styling advice is to echo the sign's color in pillows and accessories.
 - Most pages are shopping roundups with inconsistent dates and unverified test claims.
 - Gap: USB adapter not included, dimmer wire length, size in inches, and the cords and hooks you need to mount it.
+
+## best-wall-mirrors-under-100
+- Roundups (Bravo, HGTV, Hunker, Apartment Therapy) list mirrors under 100 including floor mirrors; arched and statement frames are common.
+- We add glass vs acrylic distortion, shatterproof treatment, weight and fixings, and adhesive limits.

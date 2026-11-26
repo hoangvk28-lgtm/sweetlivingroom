@@ -165,3 +165,48 @@
 - Guides point to compact PU leather push-backs, wall huggers and swivel gliders; one cites 20 to 22 in internal seat width and warns small chairs may not suit tall or large users.
 - Standard recliners run 35 to 42 in wide and need 12 to 18 in of wall clearance, so wall-hugger and swivel types are the space savers.
 - Gap: extended length versus width, footrest clearance, weight rating and glider versus swivel wear.
+
+## best-sectionals-under-2000
+- Roundups mix editor-tested direct-to-consumer brands (Article, Burrow, West Elm) in the 800 to 1,500 range with Amazon cloud sectionals; split by shape (L, U, modular) and fabric (leather, chenille).
+- They stress modular delivery and washable covers; few cover sleeper clearance or foam compression.
+- We add what the upper budget band buys (function), seat depth vs cloud softness, pull-out clearance and storage hinge load.
+
+## best-sofas-under-2000
+- Roundups mix editor-tested direct-to-consumer sofas (Article, Burrow, Crate and Barrel) with retailer pages; split by size, small space and style.
+- We add width and walkway rule, framed vs boneless, faux leather flaking honesty and seat depth guidance.
+
+## best-loveseats-under-500
+- Roundups lean on retailer lists (Wayfair, Walmart, IKEA); tips: solid wood or metal frames over MDF, check dimensions for small rooms.
+- We add seat width vs overall width, spring packs, moving-part wear and plain vs feature-rich tradeoff.
+
+## best-futons-under-300
+- Roundups name Novogratz, DHP, Serta and Kodiak models; split by comfort, budget and style; mention hidden storage and wood frames.
+- We add bed length honesty (not a queen), clearance behind a folding frame, firm seam and topper advice, boneless vs frame.
+
+## best-swivel-chairs-under-300
+- Roundups (PureWow, AOL) list swivel barrel chairs under 300 and separate office swivel chairs; editors favour simple barrel shapes for small rooms.
+- We add clearance circle, swivel base squeak, seat width vs overall width and the short-lineup honesty.
+
+## best-rocking-chairs-under-200
+- Roundups name Wayfair rockers, Storkcraft gliders and outdoor acacia pairs; BestReviews warns cheap rockers can be flimsy.
+- We add glider vs rocker clearance, swivel noise, nursery fabric care and weight rating assumptions.
+
+## best-chaise-lounges-under-300
+- Roundups are mostly outdoor chaises; BestReviews says the 200 to 300 band gets larger, plusher indoor and outdoor pieces.
+- We keep to indoor chaises and add length, arm side, storage lid load, velvet and tufting care.
+
+## best-papasan-chairs-under-200
+- Roundups are mostly retailer pages (Walmart, Target) plus Real Homes naming OSP as top; papasans under 200 are Better Homes and Gardens style wicker chairs and rocking variants.
+- We add bowl width and floor circle, cushion thickness and fill compression, swivel bearing wear and the hard-to-exit caveat.
+
+## best-recliners-under-200
+- Budget guides say under-200 recliners are manual push-back or rocker chairs; Homall PU recliner and a power Amada appear as picks; USB ports are a rare feature.
+- We add steel skeleton and stated cycle tests, extras adding failure points, clearance behind and footprint reclined.
+
+## best-massage-chairs-under-500
+- Roundups note that under 500 you mostly find pads, cushions and compact recliners, with true chairs starting far higher.
+- We add fixed rollers vs moving track, title vs body contradictions in listings, fit and height ranges, and zero gravity as a marketing label.
+
+## best-electric-fireplaces-under-500
+- Roundups name PuraFlame, RICHFLAME, R.W. Flame and Duraflame 3D; fan-forced suits about 400 sq ft and infrared larger rooms per experts.
+- We add flame vs heat separation, recessed install effort, 1500 W supplemental heat honesty and plug-in safety.
