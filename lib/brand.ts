@@ -14,6 +14,10 @@ export const SOCIAL_LINKS: { platform: string; url: string }[] = [];
 // TODO: confirm the real Associates tag for sweetlivingroom.com before launch.
 export const AMAZON_ASSOCIATE_TAG = "sweetlivingroom-20";
 
+// Microsoft Clarity project id, provided by the user 2026-11-27.
+// NEXT_PUBLIC_CLARITY_ID overrides it at build time if ever needed.
+export const CLARITY_PROJECT_ID = "zjz4nfw62e";
+
 export const AUDIENCE_DESCRIPTION =
   "Homeowners, renters and first-time furnishers who want to know how a piece will fit, feel and wear before it arrives.";
 
