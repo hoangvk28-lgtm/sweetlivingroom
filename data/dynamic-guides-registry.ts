@@ -733,6 +733,8 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-chandeliers-under-300": () => import("./guides/best-chandeliers-under-300"),
   "best-area-rugs-under-300": () => import("./guides/best-area-rugs-under-300"),
   "best-wall-mirrors-under-100": () => import("./guides/best-wall-mirrors-under-100"),
+  "best-wall-art-under-100": () => import("./guides/best-wall-art-under-100"),
+  "best-throw-blankets-under-50": () => import("./guides/best-throw-blankets-under-50"),
 };
 
 export const dynamicGuideSlugs = Object.keys(dynamicGuideLoaders);

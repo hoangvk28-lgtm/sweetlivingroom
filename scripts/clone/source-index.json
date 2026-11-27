@@ -4822,5 +4822,39 @@
   "title": "",
   "asins": [],
   "status": "inprogress"
+ },
+ {
+  "slug": "best-wall-art-under-100",
+  "category": "decor-textiles",
+  "mainKeyword": "wall art under 100",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-curtains-under-200",
+  "category": "decor-textiles",
+  "mainKeyword": "curtains under 200",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "no on-topic curtain panels in candidates (rods, shower/closet curtains, string lights)"
+ },
+ {
+  "slug": "best-throw-blankets-under-50",
+  "category": "decor-textiles",
+  "mainKeyword": "throw blanket under 50",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-throw-blankets-under-100",
+  "category": "decor-textiles",
+  "mainKeyword": "throw blanket under 100",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "lineup duplicates best-throw-blankets-under-50"
  }
 ]
