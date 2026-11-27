@@ -11,7 +11,7 @@ export const SITE_DESCRIPTION =
 export const CONTACT_EMAIL = "hello@sweetlivingroom.com";
 export const SOCIAL_LINKS: { platform: string; url: string }[] = [];
 
-// TODO: confirm the real Associates tag for sweetlivingroom.com before launch.
+// Confirmed by the user 2026-11-20, reconfirmed 2026-11-27.
 export const AMAZON_ASSOCIATE_TAG = "sweetlivingroom-20";
 
 // Microsoft Clarity project id, provided by the user 2026-11-27.
