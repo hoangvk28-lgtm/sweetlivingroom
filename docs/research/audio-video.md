@@ -17,3 +17,19 @@
 - Hearing support: volume boost and dialogue enhancement help; headphones do not replace hearing evaluation.
 - Media storage towers: capacity numbers are for slim cases; Blu-ray and thick cases hold fewer; weight load limits; tipping when loaded on one side; revolving towers need a clear 360 swing; metal towers vs particleboard.
 - Wall shelves under a TV: check VESA compatibility; weight rating (6.6 to 22 lb); depth must clear the TV; vents; stud anchoring for wall-mounted shelves; cable box heat.
+## karaoke machines (added)
+- Wattage on cheap karaoke boxes is usually peak (PMPO or max) power; RMS continuous power is the honest number and is often a fraction of the headline; compare drivers (woofer size) instead.
+- Karaoke "machine" can mean only a speaker plus two mics with no songs; check whether it includes a screen, a song library or a subscription.
+- Bundled song subscriptions (for example a 6 month trial) end; check what the library costs after the trial and whether a phone app is needed.
+- Lyrics on screen: many speakers show lyrics only on a phone, tablet or TV via an app; a built in screen is a convenience but is small.
+- Wireless microphone latency (the delay between voice and speaker) varies; vendors quote about 25 ms for ordinary wireless mics; delay above that sounds like echo to a singer; wired or low latency mics help.
+- Bluetooth audio adds its own lag to music, not a problem for audio alone but breaks lip sync with a video; use HDMI, optical or aux for TV lyrics.
+- Rechargeable mics need charging; battery life claims ("up to 20 hours") are maker figures; mic batteries are often the first thing to fail.
+- Inputs: aux, USB, TF card, optical or HDMI on some; a guitar or wired mic input is useful for parties.
+- Echo and reverb controls, pitch correction (autotune) and voice changers are gimmick or helpful by taste; do not call them lab results.
+- TWS pairing lets two identical speakers play in stereo; only identical models pair.
+- Placement: speakers near the singer cause feedback; mics should face away from speakers; keep a few metres of distance; neighbours and noise rules apply.
+- Party use with kids: volume and hearing; volume caps are not standard on these.
+- LED lights are cosmetic and drain the battery faster.
+- Portable karaoke speakers are not a replacement for a full PA at big parties; read the coverage honestly for a living room (about 10 to 20 people).
+- Return policies matter for electronics with mic pairing issues.

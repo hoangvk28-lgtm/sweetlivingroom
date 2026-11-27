@@ -17,3 +17,10 @@
 - Some cheaper models are described as night lights with a small bowl fixed to the top.
 - Buying advice mentions soy or beeswax melts over paraffin.
 - Gap we cover: bulb vs PTC safety, dish diameter and the cleaning chore.
+
+## best-incense-holders
+- Guides lead with matching holder to incense type (stick, cone, coil) and with tray length for sticks.
+- Advice: heat safe materials (ceramic, metal, stone), stable base, tile or mat underneath; wood needs an insert.
+- Messiest types named: open boat trays; bowl and enclosed ash catchers are suggested for drafts.
+- Little independent testing; most guidance is from sellers.
+- Gap we cover: upside down glass catcher design, clip opening range, ventilation honesty, wood scorch and honest cleaning.

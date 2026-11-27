@@ -2509,7 +2509,8 @@
   "mainKeyword": "rug for dog owners",
   "title": "",
   "asins": [],
-  "status": "inprogress"
+  "status": "skip",
+  "note": "candidates are dog-themed doormats, not durable rugs for dog owners"
  },
  {
   "slug": "best-recliners-for-tall-people",
@@ -4856,5 +4857,284 @@
   "asins": [],
   "status": "skip",
   "note": "lineup duplicates best-throw-blankets-under-50"
+ },
+ {
+  "slug": "best-sofa-slipcovers",
+  "category": "sofas-seating",
+  "mainKeyword": "sofa slipcover",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "0 items survived the junk filter"
+ },
+ {
+  "slug": "best-recliner-slipcovers",
+  "category": "sofas-seating",
+  "mainKeyword": "recliner slipcover",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "0 items survived the junk filter"
+ },
+ {
+  "slug": "best-bar-stools",
+  "category": "sofas-seating",
+  "mainKeyword": "bar stool",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-foot-massagers",
+  "category": "sofas-seating",
+  "mainKeyword": "foot massager",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-cd-storage-racks",
+  "category": "storage-media",
+  "mainKeyword": "cd storage rack",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-small-desks-for-living-rooms",
+  "category": "storage-media",
+  "mainKeyword": "small desk for living room",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-star-projectors",
+  "category": "lighting",
+  "mainKeyword": "star projector",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-smart-light-strips",
+  "category": "lighting",
+  "mainKeyword": "smart light strip",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-cafe-curtains",
+  "category": "decor-textiles",
+  "mainKeyword": "cafe curtains",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-window-seat-cushions",
+  "category": "decor-textiles",
+  "mainKeyword": "window seat cushion",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-incense-holders",
+  "category": "decor-styling",
+  "mainKeyword": "incense holder",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-radiator-covers",
+  "category": "decor-styling",
+  "mainKeyword": "radiator cover",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "only 1 on-topic item"
+ },
+ {
+  "slug": "best-fireplace-mantel-shelves",
+  "category": "decor-styling",
+  "mainKeyword": "fireplace mantel shelf",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-dog-beds-that-look-like-furniture",
+  "category": "decor-styling",
+  "mainKeyword": "dog bed furniture",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "0 items survived the junk filter"
+ },
+ {
+  "slug": "best-baby-gates-for-living-rooms",
+  "category": "decor-styling",
+  "mainKeyword": "baby gate",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-furniture-corner-guards",
+  "category": "decor-styling",
+  "mainKeyword": "furniture corner guard",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-furniture-risers",
+  "category": "decor-styling",
+  "mainKeyword": "furniture riser",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "only 2 on-topic items"
+ },
+ {
+  "slug": "best-ceiling-medallions",
+  "category": "decor-styling",
+  "mainKeyword": "ceiling medallion",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-fish-tanks-for-living-rooms",
+  "category": "decor-styling",
+  "mainKeyword": "fish tank aquarium",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-smart-displays",
+  "category": "electronics",
+  "mainKeyword": "smart display",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-wifi-extenders",
+  "category": "electronics",
+  "mainKeyword": "wifi extender",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-karaoke-machines",
+  "category": "electronics",
+  "mainKeyword": "karaoke machine",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-indoor-security-cameras",
+  "category": "electronics",
+  "mainKeyword": "indoor security camera",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-cd-players",
+  "category": "electronics",
+  "mainKeyword": "cd player",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-evaporative-coolers",
+  "category": "electronics",
+  "mainKeyword": "evaporative cooler",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-portable-air-conditioners",
+  "category": "electronics",
+  "mainKeyword": "portable air conditioner",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-wall-mounted-fans",
+  "category": "electronics",
+  "mainKeyword": "wall mounted fan",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-tv-stands-with-mounts",
+  "category": "storage-media",
+  "mainKeyword": "tv stand with mount",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-ceiling-fan-remotes",
+  "category": "lighting",
+  "mainKeyword": "ceiling fan remote",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "candidate pool is mostly whole ceiling fans, too few remote kits"
+ },
+ {
+  "slug": "best-decorative-switch-plates",
+  "category": "lighting",
+  "mainKeyword": "decorative switch plate",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-umbrella-stands",
+  "category": "decor-styling",
+  "mainKeyword": "umbrella stand",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "note": "candidates are outdoor patio umbrella bases, not indoor umbrella stands"
+ },
+ {
+  "slug": "best-self-watering-planters",
+  "category": "decor-styling",
+  "mainKeyword": "self watering planter indoor",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-window-insulation-kits",
+  "category": "decor-textiles",
+  "mainKeyword": "window insulation kit",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-boot-trays",
+  "category": "decor-styling",
+  "mainKeyword": "boot tray",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
  }
 ]

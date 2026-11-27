@@ -1,0 +1,17 @@
+# security cameras cluster (indoor cameras, smart home video)
+- Storage is the main decision: cloud (remote access, usually a paid plan), microSD in the camera (own card, limited capacity and write cycles, keeps recording if Wi-Fi drops), or a home base or NVR.
+- Many features sit behind a subscription: recorded history, person alerts, longer clip length; read the plan page before buying.
+- Resolution: 1080p, 2K and 4K; higher resolution needs more bandwidth and storage; 4K helps with zoom and detail but night footage is often the limit.
+- Field of view in degrees; pan and tilt models cover a room from one spot but only watch one angle at a time; fixed cameras see one view all the time.
+- Night vision: infrared black and white is standard; colour night vision needs a little ambient light or a built in light.
+- Motion detection: simple pixel motion triggers on shadows and pets; on device AI can tell person, pet, baby cry; accuracy varies and is a maker claim.
+- Wi-Fi: most cheap cameras need 2.4 GHz; dual band models also use 5 GHz; weak Wi-Fi gives dropped feeds; check the signal where you mount it.
+- Power: most indoor cameras are plug in; no battery backup, so a power cut ends recording unless there is a card and a backup supply.
+- Privacy controls: privacy zones, schedules, a shutter or a clear camera off mode; two step verification on the account; unique passwords.
+- Place the camera where it covers entry points and main rooms, high and out of reach; avoid windows with glare and bright backlight.
+- Legal: never film neighbours or public areas; tell guests and household workers; recording audio has extra rules in some places; do not use in bathrooms or bedrooms of others.
+- Two way talk and sirens depend on the app; talk delay is noticeable; sirens can disturb neighbours.
+- Smart home links (Alexa, Google, HomeKit, Matter) vary by brand; do not assume support.
+- Cameras need firmware updates; unsupported old models are a security risk.
+- Pet and baby use is common; a camera is not a medical monitor.
+- Cable runs: a long USB cable run needs tidy cable cover; do not hide cables behind insulation.

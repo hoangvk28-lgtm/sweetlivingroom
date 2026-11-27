@@ -11,3 +11,15 @@
 - Flatweave good for pets; loop pile snags claws.
 - Curled corners need rug tape; boxed rugs need 24 to 72 hours to relax.
 - Listing mistakes: color shifts between photo and room; nominal sizes; check actual dimensions and pile height.
+## high traffic additions
+- High traffic means dense, tight construction and low to medium pile; high pile and shag show wear and crush fast.
+- Fibre ranking for wear: nylon and polypropylene are the toughest and most stain resistant; wool resists compression and can last years; polyester is softer and cheaper but mats sooner; cotton flatweave wears flat and frays at edges.
+- Most washable rugs are thin printed polyester on a rubber or TPR backing; they clean easily but the pile is short, the print can fade at walkways and the backing can crack or lift over time.
+- Washable rugs of 8x10 will not fit a home washer; makers recommend a commercial laundromat for 6x9 and larger; folded wet rugs take long to dry.
+- Patterned and mid tone designs hide dirt and wear lines better than solid black or cream.
+- Vacuum with the beater bar raised or off on low pile synthetics; rotate the rug every few months to spread wear; use a pad to slow wear underneath.
+- Rubber or TPR backing can stain or mark some hard floors if left damp; air gap and cleaning help; PVC can discolour finishes.
+- Entryways and hallways need a rug that grips and that dirt can be shaken or washed from; 3x5 door rugs take the worst of it.
+- Crease recovery on boxed rugs takes hours to days; roll backwards or let it rest flat.
+- Furniture legs dent pile; felt glides or cups spread the load.
+- Spot clean spills fast; blot, do not rub; follow the care tag.

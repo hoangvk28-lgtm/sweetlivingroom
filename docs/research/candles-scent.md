@@ -14,3 +14,17 @@
 - Essential oils can bother pets and children; keep diffusers out of reach; ventilate; avoid prolonged use in small closed rooms.
 - Diffuser tank size and run time: 100 to 300 ml tanks run roughly 4 to 12 hours; auto shutoff matters for safety.
 - Never add oils to a humidifier unless the maker says it is safe.
+## incense holders (added)
+- Holders are built around stick, cone or coil incense; a stick holder's narrow catch does not hold cone ash.
+- Boat or tray holders: tray should run 3 to 5 cm longer than the stick; a steep insertion angle needs a wider bowl catcher.
+- Open boat trays are the messiest; bowls, enclosed or high walled catchers contain ash blown by drafts.
+- Upside down or hanging style holders clamp a stick vertically with a metal clip so ash falls into a glass cylinder; check the clip opening range (about 1 to 5 mm on one) against stick thickness.
+- Wood needs a metal, glass or ceramic insert or finish; bare wood scorches; use a tile, stone coaster or silicone mat under any burner.
+- Ceramic, metal, stone and glass stay heat safe; glazed surfaces resist resin residue.
+- Stability: a light base tips when a stick leans; weighted bases help.
+- Burn away from curtains, drafts and shelves; never leave incense unattended; extinguish in sand or ash.
+- Ventilate: incense smoke adds particles to the room; open a window; avoid small closed rooms; pets and asthma households should take care.
+- Backflow cones need a dedicated burner with a central channel; stick holders are not backflow burners.
+- Do not cover a lit holder with a glass cover unless the maker says it is safe, heat and smoke build up.
+- Brass and zinc alloy burners get hot, handle with care; clean ash after it cools; wipe resin with a soft cloth and a little rubbing alcohol on non wood.
+- Ash catchers with detachable trays empty easily; sand beds or ash bowls take loose cones.

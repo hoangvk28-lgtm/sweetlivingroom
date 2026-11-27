@@ -1,0 +1,19 @@
+# window insulation cluster (shrink film kits, reusable film, draft sealing)
+- Shrink film kits stick clear plastic to the window frame with double sided tape, then a hair dryer tightens it wrinkle free; it traps a layer of still air.
+- Benefit is largest on single pane and leaky windows; on modern sealed double pane windows the gain is smaller.
+- Treated windows usually cannot be opened for the season; plan which windows you need for ventilation.
+- Clean and dry the frame or trim first; tape sticks poorly to dust, grease and cold damp surfaces; apply on a mild day if possible.
+- Leave a few inches of film overhang on each side; cut after shrinking, not before, and cut the film larger than the frame.
+- Use a hair dryer on a medium setting held several inches away; a heat gun is too hot and overheating makes weak spots or holes.
+- Do not touch hot plastic with the dryer; keep it moving; wrinkles tighten over a few seconds.
+- Max strength or heavy duty films are thicker and puncture resistant, advertised as about twice standard; helpful with pets and kids.
+- Roll format needs no pre measuring: unroll, cut to size; pre cut sheet kits are quicker for standard windows.
+- Window counts are quoted for standard 3 ft by 5 ft windows; large windows use more film; patio door kits are 84 in by 110 or 120 in.
+- Tape residue: warm with a hair dryer, peel slowly at a low angle, rub leftovers with rubbing alcohol; test a solvent on paint first; cold or sun makes adhesive gummy.
+- Tape can lift paint or finish on trim; test on a hidden spot and use painter tape underneath on delicate trim.
+- Reusable adhesive strap or magnetic kits hold a thicker flexible film that can be folded and reused; they are not shrink film so they do not tighten.
+- Film does not replace caulk and weatherstripping; seal air leaks first then add film.
+- Condensation between film and window can signal a leak; film reduces some frost on the glass.
+- Wind can pull film from the frame if the tape was applied badly.
+- Remove film at end of season; film is single use; recycle where accepted.
+- Do not use on windows with a fire escape or egress function you must open.

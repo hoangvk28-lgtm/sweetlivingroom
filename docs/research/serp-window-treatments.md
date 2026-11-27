@@ -87,3 +87,27 @@
 ## best-double-curtain-rods
 - Roundups name the Umbra Twilight as a top double rod, but note missing mounting parts and flimsiness with heavy curtains; metal rods offer the best quality.
 - Gap: projection for layering, rod thickness (0.6 versus 0.8 mm), wrap-around versus flat rods and light leaks.
+
+## best-grommet-curtains
+- Roundups lead with blackout vs sheer, with NICETOWN style triple weave blackout panels named most often; several concede some "100% blackout" claims are doubtful.
+- Buying tips: match grommet inner diameter to the rod, panel width 2 to 3 times the window.
+- Picks split by use (living room, bedroom, light blocking, budget); many mix linen look, velvet and sheer.
+- Gap we cover: grommet ring size vs rod and finial, stack depth, header light leak, rings wearing coating.
+
+## best-cafe-curtains
+- Guides cover style and trend (kitchen, bath, bedroom, French bistro) more than product tests; lengths 24 to 36 in at half window height.
+- Advice: natural or washable light fabrics, weave that blurs outlines while letting daylight in, pair with a valance.
+- Budget framing is common; picks are affiliate driven and vary by site.
+- Gap we cover: mounting height vs sightline, tier vs single panel, rod pocket vs grommet header, privacy at night.
+
+## best-window-seat-cushions
+- Roundups lead with exact fit and shape options (curved and trapezoid bays), custom size, foam support and a non slip base.
+- Picks split by straight benches vs angled bays and by pet nooks.
+- Fabric durability in direct sun is a lead criterion; custom cushions cost more and fit nonstandard seats.
+- Gap we cover: templating each side, density vs firmness numbers, clearance for crank handles, shipping compression and returns on custom cuts.
+
+## best-window-insulation-kits
+- Roundups name Duck Brand Max Strength most often (thicker film), with 3M and Frost King as alternatives; some lists test, many are affiliate driven.
+- Common criteria: film thickness, window count and size, tape type, clarity after shrinking, ease of removal.
+- Formats split into rolls (cut to size), pre cut sheets and reusable adhesive strap film; patio door sizes are listed separately.
+- Gap we cover: tape residue on trim, windows you cannot open, large windows needing more film, honest limits on modern double pane glass and heat dryer technique.

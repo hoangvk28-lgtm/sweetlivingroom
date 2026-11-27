@@ -17,3 +17,42 @@
 - Heater types: ceramic fan heaters warm fast; oil-filled radiators stay warm quietly; infrared heats people, not air.
 - Tower fans: CFM and speed settings; oscillation; noise in dB; remote and timer; tower fans move less air than box fans at the same size.
 - A fan cools people by moving air; it does not lower room temperature; turn off when you leave the room.
+## evaporative coolers (added)
+- Evaporative (swamp) coolers cool by evaporating water into moving air; they work well in dry air and badly in humid air; sources disagree on the cutoff (about 50 to 60 percent relative humidity and below is the common range; indoors it is lower).
+- They add moisture; indoors they need cross ventilation (a window or door open a little) or the room turns clammy.
+- They are not air conditioners and do not dehumidify; temperature drop is a few degrees to about 10 F at best in dry air and varies.
+- CFM is airflow, not cooling; coverage square footage claims assume open, ventilated space and are best case; high ceilings need more.
+- Ice packs or ice boxes give a short extra chill; they melt in a few hours.
+- Water tank size sets run time: a 5 L tank runs a few hours; 8 gallon (about 30 L) runs much longer; large units may connect a hose.
+- Cooling pads (honeycomb or cellulose) need rinsing and replacing; mineral buildup from hard water reduces cooling.
+- Drain and clean the tank regularly (weekly in use); run fan only to dry the pads before storage; stagnant water grows slime and odour.
+- Many models are 3 in 1: cooler, fan, humidifier; that is marketing: a cooler humidifies by design.
+- Large wheeled coolers are outdoor or garage units; they are loud and bulky for a living room.
+- Ultrasonic misting fans add fine mist; can leave white dust with hard water; use distilled water if the maker says so.
+- Casters, handles and tank access matter; units are heavy when full.
+- Do not run over electrical outlets with spilled water; keep away from wet floors and children.
+## portable air conditioners (added)
+- Portable ACs list BTU in two ways: an older ASHRAE or nominal figure and the DOE SACC (seasonally adjusted cooling capacity), which is lower (often roughly 60 to 70 percent of the ASHRAE number); size by SACC when listed.
+- Size beyond floor area: ceiling height, sun exposure, kitchen heat, occupants and windows change the load; add capacity for sunny rooms.
+- Single hose units draw room air to cool the condenser and exhaust it, creating negative pressure that pulls warm air in from gaps; dual hose units draw outside air and are more efficient.
+- The exhaust hose must vent out a window; a window kit is needed; the hose should be short and straight; long hoses lose capacity; hoses radiate heat.
+- Most portables drain condensate; some self evaporate in dry air but humid rooms need a drain hose or periodic bucket emptying.
+- Noise is high for a compressor in the room; dB ratings from makers are not equal; inverter units are quieter and cycle less.
+- Heat only mode and dehumidify mode vary by model; check the description.
+- Cost to run is higher than a window unit of the same BTU; an EER or CEER number helps compare.
+- Weight is about 50 to 80 lb; casters help but stairs are hard; they need an outlet and a window.
+- Cleaning: wash the air filter every 2 weeks in use; drain and dry the tank at season end.
+- A portable unit needs about 12 to 20 inches of clearance from walls and curtains for intake.
+## wall mounted fans (added)
+- Wall fans fix to a wall bracket or plate and aim air into a room; they save floor space; most have oscillation.
+- Mounting height: guides vary from about 5 or 6 feet to 7 to 8 feet or 1 to 3 feet below the ceiling; follow the manual; keep blades out of reach of children and away from walls and corners.
+- Screw into studs or masonry anchors; drywall anchors alone are risky for a heavy fan with oscillation vibration.
+- Size 10 to 20 in or more; bigger blades move more air at lower speed; CFM and number of speeds matter.
+- Remote controls and timers are common; a pull cord or knob is a backup; a remote with a 16 foot range is typical.
+- Some models cannot turn oscillation off or lock; read the manual.
+- Cord length: the cord is short; plan an outlet nearby; do not run extension cords permanently; a cord cover keeps it neat.
+- Metal grilles protect hands; check UL or ETL listing on the plug and the fan.
+- Indoor outdoor rated (IPX4 type) fans suit a covered porch or garage; indoor only fans are not weatherproof.
+- Dust builds on blades and grille; clean monthly; oil the motor only if the maker says so.
+- A fan cools people by moving air; it does not lower room temperature.
+- Vibration and noise come from loose brackets; tighten screws.

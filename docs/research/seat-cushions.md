@@ -1,0 +1,19 @@
+# seat cushions cluster (window seat, bench and bay cushions)
+- Bay window seats are rarely rectangular; template the real shape on cardboard, trace each angled side separately; one side can differ by about 0.5 in.
+- Measure with the old cushion removed; compressed old foam reads 1 to 2 in short.
+- Use a rigid tape, measure width at front and back, depth at both ends and at the middle, and note corners.
+- Density (foam mass in the core) is not firmness; vendors quote density in lb per cubic foot or in D numbers like 50D or 70D; compare only within one system.
+- High density foam suits daily seats; low density compresses within months and leaves a sagging seat.
+- Typical thickness 2 to 4 in; 1 to 3 in for decorative pads, 4 to 6 in for daily lounging; thick foam can block low windows and crank handles.
+- Memory foam top layers feel softer but warm up and can feel slow to spring back; high resilience foam springs back faster.
+- Non slip bottoms (PVC dots or rubber) stop slide on painted wood; a cushion on a smooth, deep seat will creep without them.
+- Ties or anchors help on a narrow bench; a cushion that overhangs the edge will roll the front.
+- Fabric: chenille and velvet are soft but show pet hair and crush; polyolefin and solution dyed olefin resist fading and moisture; linen blend wrinkles.
+- Sun fades fabric on a window seat; UV resistant covers hold colour longer than dyed cotton.
+- Removable zipped covers wash; fixed covers need spot cleaning.
+- Cats scratch loops and tufts; tight weaves and fleece are less snag prone than loop pile.
+- Vacuum compressed shipping foam takes 24 to 72 hours to reach full loft once unpacked.
+- Custom sized cushions are made to order and are generally not returnable once cut; check the shape template carefully.
+- Tufting and buttons add comfort lines but trap crumbs; piping adds shape.
+- Indoor/outdoor labelled cushions are made for splashes, not for being left outside through a season.
+- Cushions sag first in the spot where people sit most; rotate and flip if the cushion is reversible.

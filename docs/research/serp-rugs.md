@@ -202,3 +202,9 @@
 ## best-area-rugs-under-300
 - Roundups (Apartment Therapy, Emily Henderson, Refinery29) list rugs under 300 and washable options (Revival, Ruggable, Joss and Main); smaller synthetic rugs are the cheapest.
 - We add commercial-machine washing honesty at 8x10, pile height vs traffic, backing vs pad and shedding.
+
+## best-rugs-for-high-traffic-areas
+- Guides lead with fibre (nylon, polypropylene, wool; polyester softer but less durable) and tight low to medium pile; avoid shag.
+- Entry and hall picks are indoor outdoor or polypropylene rugs; pattern hides dirt; vacuum more often and use a pad.
+- Retail pages dominate; few independent rankings agree.
+- Gap we cover: honest limits of thin washable polyester in true heavy traffic, backing wear, size vs washer, rotation, pad and floor protection.

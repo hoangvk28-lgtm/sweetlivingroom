@@ -81,3 +81,9 @@
 ## best-projectors-under-200 and best-projectors-under-1000
 - PopSci names DBPOWER and Kodak at under 200 and warns not to expect top performance; RTINGS, Engadget list BenQ and XGIMI under 1000; guides say about 1,000 lumens for ambient light.
 - We add native vs 4K support, ANSI vs ISO and verification of brightness claims, laser vs lamp life, and gaming latency.
+
+## best-karaoke-machines
+- Roundups split by portable party, all in one with screen, PA style and kids models; picks vary by site and many are dated.
+- Advice: two wireless microphones, input for phone or USB, two speakers for audio quality; RMS power over peak wattage.
+- Traps named: lyrics not shown over Bluetooth, no songs included, subscription trials, vague battery claims, mic latency.
+- Gap we cover: honest wattage reading, lip sync via wired TV links, subscription after trial, living room volume and neighbours, mic battery upkeep.
